@@ -1,0 +1,32 @@
+{
+ "regime": "v2.5-2026-06-15",
+ "timestamp": "2026-09-18T08:05:11+00:00",
+ "equity": {
+  "current": 1556.53,
+  "peak": 2003.05,
+  "drawdown_from_peak": 0.2229,
+  "circuit_breaker_active": true,
+  "circuit_breaker_threshold_pct": 20.0
+ },
+ "open_positions": [],
+ "n_open": 0,
+ "closed_last_12h": [],
+ "n_closed_12h": 0,
+ "stats_current_regime": {
+  "n_total": 13,
+  "n_no": 6,
+  "n_yes": 7,
+  "win_rate": 0.462,
+  "pnl_total": -378.93,
+  "avg_no": -77.11,
+  "avg_yes": 11.96
+ },
+ "log_signals_12h": {
+  "cluster_narrativa_skip": 0,
+  "anticlust_skip": 0,
+  "t2_skip": 0,
+  "circuit_breaker_fires": 43,
+  "portfolio_aperta_events": 0
+ },
+ "generated_at": "2026-09-18T08:05:10.914279+00:00"
+}
