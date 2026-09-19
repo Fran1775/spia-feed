@@ -1,18 +1,6 @@
 {
- "generated_at": "2026-09-19T18:17:02.093159+00:00",
+ "generated_at": "2026-09-19T18:32:02.016097+00:00",
  "snapshots": [
-  {
-   "ts": "2026-09-19T13:30:02+00:00",
-   "yes": 0.275,
-   "no": 0.725,
-   "vol24h": 0.0,
-   "vol_total": 736.9838380000002,
-   "liquidity": 138.1508,
-   "spread": 0.15,
-   "one_day_change": -0.075,
-   "closed": false,
-   "active": true
-  },
   {
    "ts": "2026-09-19T13:45:01+00:00",
    "yes": 0.275,
@@ -236,6 +224,18 @@
    "vol24h": 0.0,
    "vol_total": 736.9838380000002,
    "liquidity": 133.6872,
+   "spread": 0.15,
+   "one_day_change": -0.075,
+   "closed": false,
+   "active": true
+  },
+  {
+   "ts": "2026-09-19T18:30:02+00:00",
+   "yes": 0.275,
+   "no": 0.725,
+   "vol24h": 0.0,
+   "vol_total": 736.9838380000002,
+   "liquidity": 130.2872,
    "spread": 0.15,
    "one_day_change": -0.075,
    "closed": false,
