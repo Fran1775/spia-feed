@@ -1,6 +1,6 @@
 {
  "regime": "v2.5-2026-06-15",
- "timestamp": "2026-09-22T02:02:02+00:00",
+ "timestamp": "2026-09-22T02:17:02+00:00",
  "equity": {
   "current": 1556.53,
   "peak": 2003.05,
@@ -28,5 +28,5 @@
   "circuit_breaker_fires": 36,
   "portfolio_aperta_events": 0
  },
- "generated_at": "2026-09-22T02:02:01.879210+00:00"
+ "generated_at": "2026-09-22T02:17:02.100780+00:00"
 }
