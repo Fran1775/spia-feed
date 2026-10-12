@@ -1,18 +1,6 @@
 {
- "generated_at": "2026-10-12T10:02:02.024009+00:00",
+ "generated_at": "2026-10-12T10:17:01.931039+00:00",
  "snapshots": [
-  {
-   "ts": "2026-10-12T03:45:02+00:00",
-   "yes": 0.465,
-   "no": 0.535,
-   "vol24h": 0.0,
-   "vol_total": 736.9838380000002,
-   "liquidity": 80.4904,
-   "spread": 0.53,
-   "one_day_change": 0.0,
-   "closed": false,
-   "active": true
-  },
   {
    "ts": "2026-10-12T04:00:02+00:00",
    "yes": 0.465,
@@ -228,10 +216,21 @@
    "one_day_change": -0.005,
    "closed": false,
    "active": true
+  },
+  {
+   "ts": "2026-10-12T10:15:02+00:00",
+   "yes": 0.28,
+   "no": 0.72,
+   "vol24h": 0.0,
+   "vol_total": 736.9838380000002,
+   "liquidity": 90.596,
+   "spread": 0.16,
+   "one_day_change": -0.185,
+   "closed": false,
+   "active": true
   }
  ],
  "alerts": [
-  "2026-08-06T01:15:01+00:00 PRICE_MOVE YES 0.245 -> 0.325 (delta +0.080) vol24h=2.64",
   "2026-08-07T02:15:01+00:00 PRICE_MOVE YES 0.315 -> 0.260 (delta -0.055) vol24h=0.00",
   "2026-08-08T01:00:01+00:00 PRICE_MOVE YES 0.265 -> 0.325 (delta +0.060) vol24h=0.00",
   "2026-08-08T03:00:02+00:00 PRICE_MOVE YES 0.305 -> 0.335 (delta +0.030) vol24h=0.00",
@@ -260,7 +259,8 @@
   "2026-09-19T23:15:01+00:00 PRICE_MOVE YES 0.275 -> 0.350 (delta +0.075) vol24h=0.00",
   "2026-09-20T17:30:01+00:00 PRICE_MOVE YES 0.350 -> 0.470 (delta +0.120) vol24h=0.00",
   "2026-10-01T22:15:02+00:00 PRICE_MOVE YES 0.465 -> 0.315 (delta -0.150) vol24h=0.00",
-  "2026-10-01T23:15:02+00:00 PRICE_MOVE YES 0.315 -> 0.465 (delta +0.150) vol24h=0.00"
+  "2026-10-01T23:15:02+00:00 PRICE_MOVE YES 0.315 -> 0.465 (delta +0.150) vol24h=0.00",
+  "2026-10-12T10:15:02+00:00 PRICE_MOVE YES 0.460 -> 0.280 (delta -0.180) vol24h=0.00"
  ],
  "count": 19
 }
