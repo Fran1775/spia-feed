@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T11:32:02.265147+00:00",
+ "generated_at": "2026-10-14T11:47:02.024155+00:00",
  "snapshots": [
   {
    "ts": "2026-10-14T07:00:01+00:00",
@@ -228,6 +228,18 @@
    "one_day_change": -0.005,
    "closed": false,
    "active": true
+  },
+  {
+   "ts": "2026-10-14T11:45:02+00:00",
+   "yes": 0.455,
+   "no": 0.545,
+   "vol24h": 0.0,
+   "vol_total": 736.9838380000002,
+   "liquidity": 54.6163,
+   "spread": 0.51,
+   "one_day_change": -0.005,
+   "closed": false,
+   "active": true
   }
  ],
  "alerts": [
@@ -262,5 +274,5 @@
   "2026-10-12T10:15:02+00:00 PRICE_MOVE YES 0.460 -> 0.280 (delta -0.180) vol24h=0.00",
   "2026-10-13T10:15:02+00:00 PRICE_MOVE YES 0.280 -> 0.460 (delta +0.180) vol24h=0.00"
  ],
- "count": 19
+ "count": 20
 }
