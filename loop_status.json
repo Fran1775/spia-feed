@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T23:07:01",
+ "generated_at": "2026-11-19T23:37:02",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 3,
+   "chiusi": 4,
    "aperti": 15,
-   "pnl": 0.39,
-   "rend_medio_pct": 0.64,
-   "t": 0.02,
-   "rend40_pct": 0.64,
-   "t40": 0.02
+   "pnl": 1.89,
+   "rend_medio_pct": 2.36,
+   "t": 0.08,
+   "rend40_pct": 2.36,
+   "t40": 0.08
   },
   {
    "id": "84fb9952fb",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Champaign: Jordan Lee vs Andres Martin",
+   "side": "Y",
+   "entry_price": 0.64,
+   "importo": 20.0,
+   "opened": "2026-11-19T23:35:36"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will the price of Bitcoin be above $62,000 on November 20?",
@@ -137,14 +145,6 @@
    "market_nome": "Will WTI Crude Oil (WTI) hit (LOW) $80 in November?",
    "side": "Y",
    "entry_price": 0.59,
-   "importo": 20.0,
-   "opened": "2026-11-19T21:13:01"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "M25 Lajeado: Ryo Tabata vs Mateus Alves",
-   "side": "N",
-   "entry_price": 0.93,
    "importo": 20.0,
    "opened": "2026-11-19T21:13:01"
   },
@@ -414,6 +414,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "M25 Lajeado: Ryo Tabata vs Mateus Alves",
+   "side": "N",
+   "entry_price": 0.93,
+   "exit_price": 1.0,
+   "pnl": 1.5054,
+   "closed": "2026-11-19T23:35:36",
+   "motivo": "risoluzione"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Metz: Pierre-Hugues Herbert vs Zsombor Piros",
