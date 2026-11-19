@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T21:07:01",
+ "generated_at": "2026-11-19T21:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,9 +14,9 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 0,
-   "aperti": 11,
-   "pnl": 0,
+   "chiusi": 1,
+   "aperti": 12,
+   "pnl": 1.48,
    "rend_medio_pct": 0.0,
    "t": 0.0,
    "rend40_pct": 0.0,
@@ -35,9 +35,9 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 0,
+   "chiusi": 1,
    "aperti": 15,
-   "pnl": 0,
+   "pnl": 13.47,
    "rend_medio_pct": 0.0,
    "t": 0.0,
    "rend40_pct": 0.0,
@@ -74,9 +74,9 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 0,
+   "chiusi": 1,
    "aperti": 15,
-   "pnl": 0,
+   "pnl": 13.47,
    "rend_medio_pct": 0.0,
    "t": 0.0,
    "rend40_pct": 0.0,
@@ -84,6 +84,38 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 20?",
+   "side": "Y",
+   "entry_price": 0.941,
+   "importo": 20.0,
+   "opened": "2026-11-19T21:30:31"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will WTI Crude Oil (WTI) hit (LOW) $80 in November?",
+   "side": "Y",
+   "entry_price": 0.59,
+   "importo": 20.0,
+   "opened": "2026-11-19T21:13:01"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "M25 Lajeado: Ryo Tabata vs Mateus Alves",
+   "side": "N",
+   "entry_price": 0.93,
+   "importo": 20.0,
+   "opened": "2026-11-19T21:13:01"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the highest temperature in Shenzhen be 19°C on November 20?",
+   "side": "Y",
+   "entry_price": 0.95,
+   "importo": 20.0,
+   "opened": "2026-11-19T21:13:01"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Dota 2: CyberHero vs Froglings (BO3) - DreamLeague Division 2 Playoffs",
@@ -222,14 +254,6 @@
   },
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: PuckChamp vs potn9ki (BO3) - European Pro League Group B",
-   "side": "Y",
-   "entry_price": 0.93,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:47:44"
-  },
-  {
-   "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Ethereum be above $1,700 on November 20?",
    "side": "Y",
    "entry_price": 0.848,
@@ -267,22 +291,6 @@
    "entry_price": 0.941,
    "importo": 20.0,
    "opened": "2026-11-19T20:47:44"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?",
-   "side": "Y",
-   "entry_price": 0.597,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:43:17"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?",
-   "side": "Y",
-   "entry_price": 0.597,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:43:17"
   },
   {
    "rule_id": "2a906fe26e",
@@ -413,5 +421,36 @@
    "opened": "2026-11-19T20:43:17"
   }
  ],
- "ultime_chiuse": []
+ "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?",
+   "side": "Y",
+   "entry_price": 0.597,
+   "exit_price": 0.999,
+   "pnl": 13.4673,
+   "closed": "2026-11-19T21:13:01",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?",
+   "side": "Y",
+   "entry_price": 0.597,
+   "exit_price": 0.999,
+   "pnl": 13.4673,
+   "closed": "2026-11-19T21:13:01",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: PuckChamp vs potn9ki (BO3) - European Pro League Group B",
+   "side": "Y",
+   "entry_price": 0.93,
+   "exit_price": 0.999,
+   "pnl": 1.4839,
+   "closed": "2026-11-19T21:13:01",
+   "motivo": "prezzo a fine corsa"
+  }
+ ]
 }
