@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T20:44:33",
+ "generated_at": "2026-11-19T21:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 0,
-   "aperti": 4,
+   "aperti": 11,
    "pnl": 0,
    "rend_medio_pct": 0.0,
    "t": 0.0,
@@ -36,7 +36,7 @@
     "pmin": 0.2
    },
    "chiusi": 0,
-   "aperti": 5,
+   "aperti": 15,
    "pnl": 0,
    "rend_medio_pct": 0.0,
    "t": 0.0,
@@ -75,7 +75,7 @@
     "exit_h": 24
    },
    "chiusi": 0,
-   "aperti": 9,
+   "aperti": 15,
    "pnl": 0,
    "rend_medio_pct": 0.0,
    "t": 0.0,
@@ -84,6 +84,190 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: CyberHero vs Froglings (BO3) - DreamLeague Division 2 Playoffs",
+   "side": "Y",
+   "entry_price": 0.81,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: CyberHero vs Froglings (BO3) - DreamLeague Division 2 Playoffs",
+   "side": "Y",
+   "entry_price": 0.81,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Metz: Pierre-Hugues Herbert vs Zsombor Piros",
+   "side": "Y",
+   "entry_price": 0.75,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Metz: Pierre-Hugues Herbert vs Zsombor Piros",
+   "side": "N",
+   "entry_price": 0.26,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post 360-379 tweets from November 13 to November 20, 2026?",
+   "side": "Y",
+   "entry_price": 0.489,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Elon Musk post 360-379 tweets from November 13 to November 20, 2026?",
+   "side": "Y",
+   "entry_price": 0.489,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 26?",
+   "side": "Y",
+   "entry_price": 0.65,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 26?",
+   "side": "Y",
+   "entry_price": 0.65,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 24?",
+   "side": "Y",
+   "entry_price": 0.34,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 24?",
+   "side": "Y",
+   "entry_price": 0.34,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Denmark be 2nd in the World Happiness Report 2027?",
+   "side": "Y",
+   "entry_price": 0.56,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Denmark be 2nd in the World Happiness Report 2027?",
+   "side": "Y",
+   "entry_price": 0.56,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 28?",
+   "side": "Y",
+   "entry_price": 0.77,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will WTI Crude Oil (WTI) hit (LOW) $80 in November?",
+   "side": "N",
+   "entry_price": 0.43,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will SE Palmeiras win on 2026-11-21?",
+   "side": "N",
+   "entry_price": 0.77,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will FC Barcelona win on 2026-11-22?",
+   "side": "Y",
+   "entry_price": 0.82,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 21?",
+   "side": "Y",
+   "entry_price": 0.831,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: PuckChamp vs potn9ki (BO3) - European Pro League Group B",
+   "side": "Y",
+   "entry_price": 0.93,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Ethereum be above $1,700 on November 20?",
+   "side": "Y",
+   "entry_price": 0.848,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Anthropic's valuation hit (HIGH) $1.575T by November 30?",
+   "side": "N",
+   "entry_price": 0.82,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will xQc finish GTA VI by November 22?",
+   "side": "Y",
+   "entry_price": 0.81,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Take-Two report less than 9 million GTA VI units sold before 2027?",
+   "side": "N",
+   "entry_price": 0.7,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 21?",
+   "side": "Y",
+   "entry_price": 0.941,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:47:44"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?",
