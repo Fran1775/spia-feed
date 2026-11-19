@@ -1,0 +1,1493 @@
+{
+ "generated_at": "2026-11-19T20:44:35",
+ "regole": [
+  {
+   "id": "2a906fe26e",
+   "nome": "Favorito a scadenza breve",
+   "stato": "prova",
+   "importo": 20.0,
+   "origine": "iniziale",
+   "params": {
+    "dir": "YES",
+    "exit_h": null,
+    "ggmax": 3,
+    "pmax": 0.95,
+    "pmin": 0.8
+   },
+   "chiusi": 0,
+   "aperti": 4,
+   "pnl": 0,
+   "rend_medio_pct": 0.0,
+   "t": 0.0,
+   "rend40_pct": 0.0,
+   "t40": 0.0
+  },
+  {
+   "id": "924891e0f0",
+   "nome": "Momentum 1g seguito",
+   "stato": "prova",
+   "importo": 20.0,
+   "origine": "iniziale",
+   "params": {
+    "dir": "FOLLOW",
+    "exit_h": 24,
+    "mom": 10,
+    "pmax": 0.8,
+    "pmin": 0.2
+   },
+   "chiusi": 0,
+   "aperti": 5,
+   "pnl": 0,
+   "rend_medio_pct": 0.0,
+   "t": 0.0,
+   "rend40_pct": 0.0,
+   "t40": 0.0
+  },
+  {
+   "id": "84fb9952fb",
+   "nome": "Liquidita' raddoppiata, compra YES",
+   "stato": "prova",
+   "importo": 20.0,
+   "origine": "iniziale",
+   "params": {
+    "dir": "YES",
+    "exit_h": 72,
+    "liq_mult": 2,
+    "pmax": 0.9,
+    "pmin": 0.1
+   },
+   "chiusi": 0,
+   "aperti": 0,
+   "pnl": 0,
+   "rend_medio_pct": 0.0,
+   "t": 0.0,
+   "rend40_pct": 0.0,
+   "t40": 0.0
+  },
+  {
+   "id": "a042d572b3",
+   "nome": "Controllo casuale",
+   "stato": "prova",
+   "importo": 20.0,
+   "origine": "iniziale",
+   "params": {
+    "dir": "RANDOM",
+    "exit_h": 24
+   },
+   "chiusi": 0,
+   "aperti": 9,
+   "pnl": 0,
+   "rend_medio_pct": 0.0,
+   "t": 0.0,
+   "rend40_pct": 0.0,
+   "t40": 0.0
+  }
+ ],
+ "azioni": [],
+ "nuove": [],
+ "backtest": [
+  {
+   "id": "eb41608017",
+   "nome": "p0.70-0.95 scad<=1g YES ris",
+   "params": {
+    "pmin": 0.7,
+    "pmax": 0.95,
+    "ggmax": 1,
+    "dir": "YES",
+    "exit_h": null
+   },
+   "train": [
+    1776,
+    0.023236318130401078,
+    1.9950402746198006
+   ],
+   "test": [
+    801,
+    0.019968567176895786,
+    1.144981414685899
+   ],
+   "passa": false
+  },
+  {
+   "id": "3cb5b867fb",
+   "nome": "p0.70-0.95 scad<=3g YES ris",
+   "params": {
+    "pmin": 0.7,
+    "pmax": 0.95,
+    "ggmax": 3,
+    "dir": "YES",
+    "exit_h": null
+   },
+   "train": [
+    1815,
+    0.023745381184329235,
+    2.066489924471117
+   ],
+   "test": [
+    828,
+    0.014241344515184414,
+    0.8277973009498883
+   ],
+   "passa": false
+  },
+  {
+   "id": "9f8721c494",
+   "nome": "p0.70-0.95 scad<=7g YES ris",
+   "params": {
+    "pmin": 0.7,
+    "pmax": 0.95,
+    "ggmax": 7,
+    "dir": "YES",
+    "exit_h": null
+   },
+   "train": [
+    4448,
+    0.018524285076963583,
+    2.520607523213911
+   ],
+   "test": [
+    1678,
+    0.009452078704433117,
+    0.7756706038985798
+   ],
+   "passa": false
+  },
+  {
+   "id": "eeadf7d07e",
+   "nome": "p0.70-0.95 YES ris",
+   "params": {
+    "pmin": 0.7,
+    "pmax": 0.95,
+    "dir": "YES",
+    "exit_h": null
+   },
+   "train": [
+    4715,
+    0.015651173811979047,
+    2.1874461790559407
+   ],
+   "test": [
+    1756,
+    0.011029466372831488,
+    0.9270675251537366
+   ],
+   "passa": false
+  },
+  {
+   "id": "4eac1828cb",
+   "nome": "p0.80-0.95 scad<=1g YES ris",
+   "params": {
+    "pmin": 0.8,
+    "pmax": 0.95,
+    "ggmax": 1,
+    "dir": "YES",
+    "exit_h": null
+   },
+   "train": [
+    1372,
+    0.01696189859953989,
+    1.6689046316149951
+   ],
+   "test": [
+    617,
+    0.026132018481455934,
+    1.7961498548380186
+   ],
+   "passa": false
+  },
+  {
+   "id": "2a906fe26e",
+   "nome": "p0.80-0.95 scad<=3g YES ris",
+   "params": {
+    "pmin": 0.8,
+    "pmax": 0.95,
+    "ggmax": 3,
+    "dir": "YES",
+    "exit_h": null
+   },
+   "train": [
+    1404,
+    0.01776448135875367,
+    1.7771017653246028
+   ],
+   "test": [
+    643,
+    0.019661393644652244,
+    1.3539194814184314
+   ],
+   "passa": false
+  },
+  {
+   "id": "a48eaf06d5",
+   "nome": "p0.80-0.95 scad<=7g YES ris",
+   "params": {
+    "pmin": 0.8,
+    "pmax": 0.95,
+    "ggmax": 7,
+    "dir": "YES",
+    "exit_h": null
+   },
+   "train": [
+    3483,
+    0.009447471010372768,
+    1.4572607788561327
+   ],
+   "test": [
+    1283,
+    0.00593386567217945,
+    0.544952789718912
+   ],
+   "passa": false
+  },
+  {
+   "id": "f361d52517",
+   "nome": "p0.80-0.95 YES ris",
+   "params": {
+    "pmin": 0.8,
+    "pmax": 0.95,
+    "dir": "YES",
+    "exit_h": null
+   },
+   "train": [
+    3714,
+    0.00804564501362077,
+    1.2757741697544622
+   ],
+   "test": [
+    1357,
+    0.004177674207573429,
+    0.3919834007333898
+   ],
+   "passa": false
+  },
+  {
+   "id": "5db1e9cdb0",
+   "nome": "p0.90-0.95 scad<=1g YES ris",
+   "params": {
+    "pmin": 0.9,
+    "pmax": 0.95,
+    "ggmax": 1,
+    "dir": "YES",
+    "exit_h": null
+   },
+   "train": [
+    830,
+    0.011846028600689751,
+    1.2986008190797536
+   ],
+   "test": [
+    396,
+    0.015815096683055797,
+    1.241667484446963
+   ],
+   "passa": false
+  },
+  {
+   "id": "d4139caef3",
+   "nome": "p0.90-0.95 scad<=3g YES ris",
+   "params": {
+    "pmin": 0.9,
+    "pmax": 0.95,
+    "ggmax": 3,
+    "dir": "YES",
+    "exit_h": null
+   },
+   "train": [
+    857,
+    0.012555810501398526,
+    1.4072986400083987
+   ],
+   "test": [
+    415,
+    0.013311200894748878,
+    1.0520806181851152
+   ],
+   "passa": false
+  },
+  {
+   "id": "1c98a94bab",
+   "nome": "p0.90-0.95 scad<=7g YES ris",
+   "params": {
+    "pmin": 0.9,
+    "pmax": 0.95,
+    "ggmax": 7,
+    "dir": "YES",
+    "exit_h": null
+   },
+   "train": [
+    2047,
+    0.00797737283952901,
+    1.3302008737876825
+   ],
+   "test": [
+    766,
+    -0.0013288100134810409,
+    -0.12816357584810792
+   ],
+   "passa": false
+  },
+  {
+   "id": "05aae94fec",
+   "nome": "p0.90-0.95 YES ris",
+   "params": {
+    "pmin": 0.9,
+    "pmax": 0.95,
+    "dir": "YES",
+    "exit_h": null
+   },
+   "train": [
+    2231,
+    0.0069350974371654266,
+    1.1966840389611706
+   ],
+   "test": [
+    826,
+    -0.002936949429540973,
+    -0.29098501874175425
+   ],
+   "passa": false
+  },
+  {
+   "id": "6951aef9bc",
+   "nome": "p0.05-0.20 scad<=1g NO ris",
+   "params": {
+    "pmin": 0.05,
+    "pmax": 0.2,
+    "ggmax": 1,
+    "dir": "NO",
+    "exit_h": null
+   },
+   "train": [
+    1454,
+    0.008400254428558634,
+    0.8802803693023294
+   ],
+   "test": [
+    618,
+    0.006341783616208665,
+    0.4422416841851845
+   ],
+   "passa": false
+  },
+  {
+   "id": "9cc191e494",
+   "nome": "p0.05-0.20 scad<=3g NO ris",
+   "params": {
+    "pmin": 0.05,
+    "pmax": 0.2,
+    "ggmax": 3,
+    "dir": "NO",
+    "exit_h": null
+   },
+   "train": [
+    1580,
+    0.006776657994226314,
+    0.7369759170356431
+   ],
+   "test": [
+    661,
+    0.0046572474658535985,
+    0.3353962230579828
+   ],
+   "passa": false
+  },
+  {
+   "id": "5a02d411a4",
+   "nome": "p0.05-0.20 scad<=7g NO ris",
+   "params": {
+    "pmin": 0.05,
+    "pmax": 0.2,
+    "ggmax": 7,
+    "dir": "NO",
+    "exit_h": null
+   },
+   "train": [
+    3628,
+    -0.014654752268114078,
+    -2.24393216475367
+   ],
+   "test": [
+    1229,
+    -0.007431507683412576,
+    -0.6888775185646632
+   ],
+   "passa": false
+  },
+  {
+   "id": "f52177278b",
+   "nome": "p0.05-0.20 NO ris",
+   "params": {
+    "pmin": 0.05,
+    "pmax": 0.2,
+    "dir": "NO",
+    "exit_h": null
+   },
+   "train": [
+    4052,
+    -0.013448330910193793,
+    -2.1856748011779876
+   ],
+   "test": [
+    1322,
+    -0.008854975385622252,
+    -0.8537120013734251
+   ],
+   "passa": false
+  },
+  {
+   "id": "2c56fb895c",
+   "nome": "p0.05-0.30 scad<=1g NO ris",
+   "params": {
+    "pmin": 0.05,
+    "pmax": 0.3,
+    "ggmax": 1,
+    "dir": "NO",
+    "exit_h": null
+   },
+   "train": [
+    1822,
+    0.011963319197513816,
+    1.1075602618086162
+   ],
+   "test": [
+    774,
+    -0.006776039694207938,
+    -0.39847076118066543
+   ],
+   "passa": false
+  },
+  {
+   "id": "6329455f0a",
+   "nome": "p0.05-0.30 scad<=3g NO ris",
+   "params": {
+    "pmin": 0.05,
+    "pmax": 0.3,
+    "ggmax": 3,
+    "dir": "NO",
+    "exit_h": null
+   },
+   "train": [
+    1945,
+    0.014041726184493824,
+    1.357192232602282
+   ],
+   "test": [
+    819,
+    -0.006679102962445328,
+    -0.4068699043246492
+   ],
+   "passa": false
+  },
+  {
+   "id": "e9f628d38c",
+   "nome": "p0.05-0.30 scad<=7g NO ris",
+   "params": {
+    "pmin": 0.05,
+    "pmax": 0.3,
+    "ggmax": 7,
+    "dir": "NO",
+    "exit_h": null
+   },
+   "train": [
+    4533,
+    -0.009160237181536843,
+    -1.27048707540539
+   ],
+   "test": [
+    1530,
+    -0.022598189259269888,
+    -1.8089920437701725
+   ],
+   "passa": false
+  },
+  {
+   "id": "7e7f69370d",
+   "nome": "p0.05-0.30 NO ris",
+   "params": {
+    "pmin": 0.05,
+    "pmax": 0.3,
+    "dir": "NO",
+    "exit_h": null
+   },
+   "train": [
+    4999,
+    -0.009257517288022666,
+    -1.3573304460846067
+   ],
+   "test": [
+    1622,
+    -0.022749325618266925,
+    -1.883710509563942
+   ],
+   "passa": false
+  },
+  {
+   "id": "0a78a48386",
+   "nome": "p0.20-0.80 mom>=5 FOLLOW 24h",
+   "params": {
+    "pmin": 0.2,
+    "pmax": 0.8,
+    "mom": 5,
+    "dir": "FOLLOW",
+    "exit_h": 24
+   },
+   "train": [
+    5391,
+    -0.007159799257330927,
+    -0.6091298747728011
+   ],
+   "test": [
+    1550,
+    -0.028379809628540892,
+    -1.2547082329133235
+   ],
+   "passa": false
+  },
+  {
+   "id": "d347579344",
+   "nome": "p0.20-0.80 mom>=5 FOLLOW 72h",
+   "params": {
+    "pmin": 0.2,
+    "pmax": 0.8,
+    "mom": 5,
+    "dir": "FOLLOW",
+    "exit_h": 72
+   },
+   "train": [
+    5391,
+    -0.002068926498636598,
+    -0.16866223022183527
+   ],
+   "test": [
+    1550,
+    -0.037815810776563034,
+    -1.63063178225071
+   ],
+   "passa": false
+  },
+  {
+   "id": "e7769ba80f",
+   "nome": "p0.20-0.80 mom>=5 FOLLOW ris",
+   "params": {
+    "pmin": 0.2,
+    "pmax": 0.8,
+    "mom": 5,
+    "dir": "FOLLOW",
+    "exit_h": null
+   },
+   "train": [
+    5391,
+    -0.00862557591085463,
+    -0.6626323361451026
+   ],
+   "test": [
+    1550,
+    -0.019469444533266808,
+    -0.7917270269864352
+   ],
+   "passa": false
+  },
+  {
+   "id": "78302ead69",
+   "nome": "p0.20-0.80 mom>=5 FADE 24h",
+   "params": {
+    "pmin": 0.2,
+    "pmax": 0.8,
+    "mom": 5,
+    "dir": "FADE",
+    "exit_h": 24
+   },
+   "train": [
+    5376,
+    -0.02753605488332295,
+    -1.6253206150162027
+   ],
+   "test": [
+    1548,
+    -0.03444745291842257,
+    -1.1118504273563368
+   ],
+   "passa": false
+  },
+  {
+   "id": "8abf1b74cb",
+   "nome": "p0.20-0.80 mom>=5 FADE 72h",
+   "params": {
+    "pmin": 0.2,
+    "pmax": 0.8,
+    "mom": 5,
+    "dir": "FADE",
+    "exit_h": 72
+   },
+   "train": [
+    5376,
+    -0.03213331981929365,
+    -1.8725336584552457
+   ],
+   "test": [
+    1548,
+    -0.024145664842430643,
+    -0.7673687057825621
+   ],
+   "passa": false
+  },
+  {
+   "id": "fbc7ef37dc",
+   "nome": "p0.20-0.80 mom>=5 FADE ris",
+   "params": {
+    "pmin": 0.2,
+    "pmax": 0.8,
+    "mom": 5,
+    "dir": "FADE",
+    "exit_h": null
+   },
+   "train": [
+    5376,
+    -0.026886782585350447,
+    -1.5316440510136993
+   ],
+   "test": [
+    1548,
+    -0.03322728729352612,
+    -1.0283316954179744
+   ],
+   "passa": false
+  },
+  {
+   "id": "924891e0f0",
+   "nome": "p0.20-0.80 mom>=10 FOLLOW 24h",
+   "params": {
+    "pmin": 0.2,
+    "pmax": 0.8,
+    "mom": 10,
+    "dir": "FOLLOW",
+    "exit_h": 24
+   },
+   "train": [
+    4764,
+    0.011630588864179872,
+    1.0078857773223235
+   ],
+   "test": [
+    1397,
+    0.007232132258303749,
+    0.3242689214420072
+   ],
+   "passa": false
+  },
+  {
+   "id": "3b3d926bc0",
+   "nome": "p0.20-0.80 mom>=10 FOLLOW 72h",
+   "params": {
+    "pmin": 0.2,
+    "pmax": 0.8,
+    "mom": 10,
+    "dir": "FOLLOW",
+    "exit_h": 72
+   },
+   "train": [
+    4764,
+    0.014463016951802429,
+    1.1972049259064288
+   ],
+   "test": [
+    1397,
+    -0.002531428701568937,
+    -0.11101292073647413
+   ],
+   "passa": false
+  },
+  {
+   "id": "fd4e845757",
+   "nome": "p0.20-0.80 mom>=10 FOLLOW ris",
+   "params": {
+    "pmin": 0.2,
+    "pmax": 0.8,
+    "mom": 10,
+    "dir": "FOLLOW",
+    "exit_h": null
+   },
+   "train": [
+    4764,
+    0.004491828751044371,
+    0.351064481739297
+   ],
+   "test": [
+    1397,
+    -0.00015901703570647745,
+    -0.006687591344554131
+   ],
+   "passa": false
+  },
+  {
+   "id": "37499386a3",
+   "nome": "p0.20-0.80 mom>=10 FADE 24h",
+   "params": {
+    "pmin": 0.2,
+    "pmax": 0.8,
+    "mom": 10,
+    "dir": "FADE",
+    "exit_h": 24
+   },
+   "train": [
+    4749,
+    -0.05861714657094858,
+    -3.055775565976596
+   ],
+   "test": [
+    1393,
+    -0.07913735027675328,
+    -2.276151031160185
+   ],
+   "passa": false
+  },
+  {
+   "id": "d287dbaeff",
+   "nome": "p0.20-0.80 mom>=10 FADE 72h",
+   "params": {
+    "pmin": 0.2,
+    "pmax": 0.8,
+    "mom": 10,
+    "dir": "FADE",
+    "exit_h": 72
+   },
+   "train": [
+    4749,
+    -0.06352993445570956,
+    -3.279962313295081
+   ],
+   "test": [
+    1393,
+    -0.06712630490135807,
+    -1.9039328492394554
+   ],
+   "passa": false
+  },
+  {
+   "id": "c8ecf3d32a",
+   "nome": "p0.20-0.80 mom>=10 FADE ris",
+   "params": {
+    "pmin": 0.2,
+    "pmax": 0.8,
+    "mom": 10,
+    "dir": "FADE",
+    "exit_h": null
+   },
+   "train": [
+    4749,
+    -0.053624931562832955,
+    -2.71099359026193
+   ],
+   "test": [
+    1393,
+    -0.06440194896118755,
+    -1.7841929617726935
+   ],
+   "passa": false
+  },
+  {
+   "id": "c4cdb312b1",
+   "nome": "p0.20-0.80 mom>=20 FOLLOW 24h",
+   "params": {
+    "pmin": 0.2,
+    "pmax": 0.8,
+    "mom": 20,
+    "dir": "FOLLOW",
+    "exit_h": 24
+   },
+   "train": [
+    3375,
+    0.03423485479731929,
+    2.8355990974299017
+   ],
+   "test": [
+    970,
+    -0.007227772765346256,
+    -0.3029042458268772
+   ],
+   "passa": false
+  },
+  {
+   "id": "96811d443f",
+   "nome": "p0.20-0.80 mom>=20 FOLLOW 72h",
+   "params": {
+    "pmin": 0.2,
+    "pmax": 0.8,
+    "mom": 20,
+    "dir": "FOLLOW",
+    "exit_h": 72
+   },
+   "train": [
+    3375,
+    0.03838801532181487,
+    3.0376177500136947
+   ],
+   "test": [
+    970,
+    -0.013727834148873371,
+    -0.5666344436402463
+   ],
+   "passa": false
+  },
+  {
+   "id": "d3de059f5c",
+   "nome": "p0.20-0.80 mom>=20 FOLLOW ris",
+   "params": {
+    "pmin": 0.2,
+    "pmax": 0.8,
+    "mom": 20,
+    "dir": "FOLLOW",
+    "exit_h": null
+   },
+   "train": [
+    3375,
+    0.030020045732894796,
+    2.265979091138921
+   ],
+   "test": [
+    970,
+    -0.005004603876649109,
+    -0.20041071493999774
+   ],
+   "passa": false
+  },
+  {
+   "id": "54be1f4be1",
+   "nome": "p0.20-0.80 mom>=20 FADE 24h",
+   "params": {
+    "pmin": 0.2,
+    "pmax": 0.8,
+    "mom": 20,
+    "dir": "FADE",
+    "exit_h": 24
+   },
+   "train": [
+    3355,
+    -0.11402180010885964,
+    -4.710044608892136
+   ],
+   "test": [
+    966,
+    -0.04119076105237621,
+    -0.8667387169899089
+   ],
+   "passa": false
+  },
+  {
+   "id": "6b3d2cb6aa",
+   "nome": "p0.20-0.80 mom>=20 FADE 72h",
+   "params": {
+    "pmin": 0.2,
+    "pmax": 0.8,
+    "mom": 20,
+    "dir": "FADE",
+    "exit_h": 72
+   },
+   "train": [
+    3355,
+    -0.11811255743418801,
+    -4.82432985737188
+   ],
+   "test": [
+    966,
+    -0.03042928762502958,
+    -0.6336534258291813
+   ],
+   "passa": false
+  },
+  {
+   "id": "87486e3053",
+   "nome": "p0.20-0.80 mom>=20 FADE ris",
+   "params": {
+    "pmin": 0.2,
+    "pmax": 0.8,
+    "mom": 20,
+    "dir": "FADE",
+    "exit_h": null
+   },
+   "train": [
+    3355,
+    -0.10529842748713523,
+    -4.208431670627746
+   ],
+   "test": [
+    966,
+    -0.041045053976306686,
+    -0.8482495019304652
+   ],
+   "passa": false
+  },
+  {
+   "id": "eccf333693",
+   "nome": "p0.10-0.90 vol3x FOLLOW 24h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "vol_mult": 3,
+    "dir": "FOLLOW",
+    "exit_h": 24
+   },
+   "train": [
+    1449,
+    -0.013752766362393464,
+    -0.5638075783794174
+   ],
+   "test": [
+    397,
+    0.002080374230568073,
+    0.04750441599161857
+   ],
+   "passa": false
+  },
+  {
+   "id": "fad693c104",
+   "nome": "p0.10-0.90 vol3x FOLLOW ris",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "vol_mult": 3,
+    "dir": "FOLLOW",
+    "exit_h": null
+   },
+   "train": [
+    1449,
+    -0.019441086745753462,
+    -0.7328972747050336
+   ],
+   "test": [
+    397,
+    -0.005462558660737693,
+    -0.12221677614198388
+   ],
+   "passa": false
+  },
+  {
+   "id": "ee9ca2573b",
+   "nome": "p0.10-0.90 vol3x FADE 24h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "vol_mult": 3,
+    "dir": "FADE",
+    "exit_h": 24
+   },
+   "train": [
+    1445,
+    -0.017012144408266906,
+    -0.4533360309153709
+   ],
+   "test": [
+    397,
+    0.0066187253964217615,
+    0.0822227425344431
+   ],
+   "passa": false
+  },
+  {
+   "id": "5729c4904b",
+   "nome": "p0.10-0.90 vol3x FADE ris",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "vol_mult": 3,
+    "dir": "FADE",
+    "exit_h": null
+   },
+   "train": [
+    1445,
+    -0.026143910794130615,
+    -0.6873628476747632
+   ],
+   "test": [
+    397,
+    2.164696672776556e-05,
+    0.0002652843088018714
+   ],
+   "passa": false
+  },
+  {
+   "id": "175032f4e8",
+   "nome": "p0.10-0.90 vol5x FOLLOW 24h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "vol_mult": 5,
+    "dir": "FOLLOW",
+    "exit_h": 24
+   },
+   "train": [
+    534,
+    -0.0275967840026493,
+    -0.6824520510320642
+   ],
+   "test": [
+    145,
+    -0.12850357310069435,
+    -1.9257222713743811
+   ],
+   "passa": false
+  },
+  {
+   "id": "46a7006a52",
+   "nome": "p0.10-0.90 vol5x FOLLOW ris",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "vol_mult": 5,
+    "dir": "FOLLOW",
+    "exit_h": null
+   },
+   "train": [
+    534,
+    -0.019803687167174847,
+    -0.44407791297811644
+   ],
+   "test": [
+    145,
+    -0.157009922110213,
+    -2.296839709053218
+   ],
+   "passa": false
+  },
+  {
+   "id": "48011388e4",
+   "nome": "p0.10-0.90 vol5x FADE 24h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "vol_mult": 5,
+    "dir": "FADE",
+    "exit_h": 24
+   },
+   "train": [
+    534,
+    0.0698783393560066,
+    1.0789033567133275
+   ],
+   "test": [
+    145,
+    0.025967891384470244,
+    0.2204377268208746
+   ],
+   "passa": false
+  },
+  {
+   "id": "d3bec8050e",
+   "nome": "p0.10-0.90 vol5x FADE ris",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "vol_mult": 5,
+    "dir": "FADE",
+    "exit_h": null
+   },
+   "train": [
+    534,
+    0.06841804775427365,
+    1.0385800033152561
+   ],
+   "test": [
+    145,
+    0.060211637352598525,
+    0.49042941164698145
+   ],
+   "passa": false
+  },
+  {
+   "id": "9a0304ecd6",
+   "nome": "p0.10-0.90 liq1.5x YES 24h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "liq_mult": 1.5,
+    "dir": "YES",
+    "exit_h": 24
+   },
+   "train": [
+    0,
+    0.0,
+    0.0
+   ],
+   "test": [
+    0,
+    0.0,
+    0.0
+   ],
+   "passa": false
+  },
+  {
+   "id": "6bed474399",
+   "nome": "p0.10-0.90 liq1.5x YES 72h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "liq_mult": 1.5,
+    "dir": "YES",
+    "exit_h": 72
+   },
+   "train": [
+    0,
+    0.0,
+    0.0
+   ],
+   "test": [
+    0,
+    0.0,
+    0.0
+   ],
+   "passa": false
+  },
+  {
+   "id": "04225829fc",
+   "nome": "p0.10-0.90 liq1.5x NO 24h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "liq_mult": 1.5,
+    "dir": "NO",
+    "exit_h": 24
+   },
+   "train": [
+    0,
+    0.0,
+    0.0
+   ],
+   "test": [
+    0,
+    0.0,
+    0.0
+   ],
+   "passa": false
+  },
+  {
+   "id": "2ea65a82a7",
+   "nome": "p0.10-0.90 liq1.5x NO 72h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "liq_mult": 1.5,
+    "dir": "NO",
+    "exit_h": 72
+   },
+   "train": [
+    0,
+    0.0,
+    0.0
+   ],
+   "test": [
+    0,
+    0.0,
+    0.0
+   ],
+   "passa": false
+  },
+  {
+   "id": "b3040dc25d",
+   "nome": "p0.10-0.90 liq1.5x FOLLOW 24h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "liq_mult": 1.5,
+    "dir": "FOLLOW",
+    "exit_h": 24
+   },
+   "train": [
+    0,
+    0.0,
+    0.0
+   ],
+   "test": [
+    0,
+    0.0,
+    0.0
+   ],
+   "passa": false
+  },
+  {
+   "id": "aa02ba1317",
+   "nome": "p0.10-0.90 liq1.5x FOLLOW 72h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "liq_mult": 1.5,
+    "dir": "FOLLOW",
+    "exit_h": 72
+   },
+   "train": [
+    0,
+    0.0,
+    0.0
+   ],
+   "test": [
+    0,
+    0.0,
+    0.0
+   ],
+   "passa": false
+  },
+  {
+   "id": "cf8f2fabb6",
+   "nome": "p0.10-0.90 liq2x YES 24h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "liq_mult": 2,
+    "dir": "YES",
+    "exit_h": 24
+   },
+   "train": [
+    0,
+    0.0,
+    0.0
+   ],
+   "test": [
+    0,
+    0.0,
+    0.0
+   ],
+   "passa": false
+  },
+  {
+   "id": "84fb9952fb",
+   "nome": "p0.10-0.90 liq2x YES 72h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "liq_mult": 2,
+    "dir": "YES",
+    "exit_h": 72
+   },
+   "train": [
+    0,
+    0.0,
+    0.0
+   ],
+   "test": [
+    0,
+    0.0,
+    0.0
+   ],
+   "passa": false
+  },
+  {
+   "id": "0d02b72fe4",
+   "nome": "p0.10-0.90 liq2x NO 24h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "liq_mult": 2,
+    "dir": "NO",
+    "exit_h": 24
+   },
+   "train": [
+    0,
+    0.0,
+    0.0
+   ],
+   "test": [
+    0,
+    0.0,
+    0.0
+   ],
+   "passa": false
+  },
+  {
+   "id": "2aacb7cab3",
+   "nome": "p0.10-0.90 liq2x NO 72h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "liq_mult": 2,
+    "dir": "NO",
+    "exit_h": 72
+   },
+   "train": [
+    0,
+    0.0,
+    0.0
+   ],
+   "test": [
+    0,
+    0.0,
+    0.0
+   ],
+   "passa": false
+  },
+  {
+   "id": "85b8ece52c",
+   "nome": "p0.10-0.90 liq2x FOLLOW 24h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "liq_mult": 2,
+    "dir": "FOLLOW",
+    "exit_h": 24
+   },
+   "train": [
+    0,
+    0.0,
+    0.0
+   ],
+   "test": [
+    0,
+    0.0,
+    0.0
+   ],
+   "passa": false
+  },
+  {
+   "id": "2fd5772770",
+   "nome": "p0.10-0.90 liq2x FOLLOW 72h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "liq_mult": 2,
+    "dir": "FOLLOW",
+    "exit_h": 72
+   },
+   "train": [
+    0,
+    0.0,
+    0.0
+   ],
+   "test": [
+    0,
+    0.0,
+    0.0
+   ],
+   "passa": false
+  },
+  {
+   "id": "7bdffb18c0",
+   "nome": "p0.10-0.90 liq3x YES 24h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "liq_mult": 3,
+    "dir": "YES",
+    "exit_h": 24
+   },
+   "train": [
+    0,
+    0.0,
+    0.0
+   ],
+   "test": [
+    0,
+    0.0,
+    0.0
+   ],
+   "passa": false
+  },
+  {
+   "id": "e3b990d587",
+   "nome": "p0.10-0.90 liq3x YES 72h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "liq_mult": 3,
+    "dir": "YES",
+    "exit_h": 72
+   },
+   "train": [
+    0,
+    0.0,
+    0.0
+   ],
+   "test": [
+    0,
+    0.0,
+    0.0
+   ],
+   "passa": false
+  },
+  {
+   "id": "abca368b8a",
+   "nome": "p0.10-0.90 liq3x NO 24h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "liq_mult": 3,
+    "dir": "NO",
+    "exit_h": 24
+   },
+   "train": [
+    0,
+    0.0,
+    0.0
+   ],
+   "test": [
+    0,
+    0.0,
+    0.0
+   ],
+   "passa": false
+  },
+  {
+   "id": "6b3602af7f",
+   "nome": "p0.10-0.90 liq3x NO 72h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "liq_mult": 3,
+    "dir": "NO",
+    "exit_h": 72
+   },
+   "train": [
+    0,
+    0.0,
+    0.0
+   ],
+   "test": [
+    0,
+    0.0,
+    0.0
+   ],
+   "passa": false
+  },
+  {
+   "id": "830b8a7d9a",
+   "nome": "p0.10-0.90 liq3x FOLLOW 24h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "liq_mult": 3,
+    "dir": "FOLLOW",
+    "exit_h": 24
+   },
+   "train": [
+    0,
+    0.0,
+    0.0
+   ],
+   "test": [
+    0,
+    0.0,
+    0.0
+   ],
+   "passa": false
+  },
+  {
+   "id": "98aa587c67",
+   "nome": "p0.10-0.90 liq3x FOLLOW 72h",
+   "params": {
+    "pmin": 0.1,
+    "pmax": 0.9,
+    "liq_mult": 3,
+    "dir": "FOLLOW",
+    "exit_h": 72
+   },
+   "train": [
+    0,
+    0.0,
+    0.0
+   ],
+   "test": [
+    0,
+    0.0,
+    0.0
+   ],
+   "passa": false
+  }
+ ]
+}
