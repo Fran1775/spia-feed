@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T22:07:01",
+ "generated_at": "2026-11-19T22:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 2,
+   "chiusi": 3,
    "aperti": 15,
-   "pnl": -6.25,
-   "rend_medio_pct": -15.64,
-   "t": -0.27,
-   "rend40_pct": -15.64,
-   "t40": -0.27
+   "pnl": 0.39,
+   "rend_medio_pct": 0.64,
+   "t": 0.02,
+   "rend40_pct": 0.64,
+   "t40": 0.02
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 3,
+   "chiusi": 4,
    "aperti": 15,
-   "pnl": -1.59,
-   "rend_medio_pct": -2.65,
-   "t": -0.07,
-   "rend40_pct": -2.65,
-   "t40": -0.07
+   "pnl": -20.82,
+   "rend_medio_pct": -26.02,
+   "t": -0.71,
+   "rend40_pct": -26.02,
+   "t40": -0.71
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be above $62,000 on November 20?",
+   "side": "N",
+   "entry_price": 0.522,
+   "importo": 20.0,
+   "opened": "2026-11-19T22:21:59"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be above $62,000 on November 20?",
+   "side": "N",
+   "entry_price": 0.522,
+   "importo": 20.0,
+   "opened": "2026-11-19T22:21:59"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will the price of Bitcoin be above $58,000 on November 20?",
@@ -139,22 +155,6 @@
    "entry_price": 0.95,
    "importo": 20.0,
    "opened": "2026-11-19T21:13:01"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Metz: Pierre-Hugues Herbert vs Zsombor Piros",
-   "side": "Y",
-   "entry_price": 0.75,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:47:44"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Metz: Pierre-Hugues Herbert vs Zsombor Piros",
-   "side": "N",
-   "entry_price": 0.26,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:47:44"
   },
   {
    "rule_id": "924891e0f0",
@@ -414,6 +414,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Metz: Pierre-Hugues Herbert vs Zsombor Piros",
+   "side": "Y",
+   "entry_price": 0.75,
+   "exit_price": 0.999,
+   "pnl": 6.64,
+   "closed": "2026-11-19T22:21:58",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Metz: Pierre-Hugues Herbert vs Zsombor Piros",
+   "side": "N",
+   "entry_price": 0.26,
+   "exit_price": 0.01,
+   "pnl": -19.2308,
+   "closed": "2026-11-19T22:21:58",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Champaign: Harry Wendelken vs Geoffrey Blancaneaux",
