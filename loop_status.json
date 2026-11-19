@@ -1,0 +1,233 @@
+{
+ "generated_at": "2026-11-19T20:44:33",
+ "regole": [
+  {
+   "id": "2a906fe26e",
+   "nome": "Favorito a scadenza breve",
+   "stato": "prova",
+   "importo": 20.0,
+   "origine": "iniziale",
+   "params": {
+    "dir": "YES",
+    "exit_h": null,
+    "ggmax": 3,
+    "pmax": 0.95,
+    "pmin": 0.8
+   },
+   "chiusi": 0,
+   "aperti": 4,
+   "pnl": 0,
+   "rend_medio_pct": 0.0,
+   "t": 0.0,
+   "rend40_pct": 0.0,
+   "t40": 0.0
+  },
+  {
+   "id": "924891e0f0",
+   "nome": "Momentum 1g seguito",
+   "stato": "prova",
+   "importo": 20.0,
+   "origine": "iniziale",
+   "params": {
+    "dir": "FOLLOW",
+    "exit_h": 24,
+    "mom": 10,
+    "pmax": 0.8,
+    "pmin": 0.2
+   },
+   "chiusi": 0,
+   "aperti": 5,
+   "pnl": 0,
+   "rend_medio_pct": 0.0,
+   "t": 0.0,
+   "rend40_pct": 0.0,
+   "t40": 0.0
+  },
+  {
+   "id": "84fb9952fb",
+   "nome": "Liquidita' raddoppiata, compra YES",
+   "stato": "prova",
+   "importo": 20.0,
+   "origine": "iniziale",
+   "params": {
+    "dir": "YES",
+    "exit_h": 72,
+    "liq_mult": 2,
+    "pmax": 0.9,
+    "pmin": 0.1
+   },
+   "chiusi": 0,
+   "aperti": 0,
+   "pnl": 0,
+   "rend_medio_pct": 0.0,
+   "t": 0.0,
+   "rend40_pct": 0.0,
+   "t40": 0.0
+  },
+  {
+   "id": "a042d572b3",
+   "nome": "Controllo casuale",
+   "stato": "prova",
+   "importo": 20.0,
+   "origine": "iniziale",
+   "params": {
+    "dir": "RANDOM",
+    "exit_h": 24
+   },
+   "chiusi": 0,
+   "aperti": 9,
+   "pnl": 0,
+   "rend_medio_pct": 0.0,
+   "t": 0.0,
+   "rend40_pct": 0.0,
+   "t40": 0.0
+  }
+ ],
+ "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?",
+   "side": "Y",
+   "entry_price": 0.597,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:43:17"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?",
+   "side": "Y",
+   "entry_price": 0.597,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:43:17"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Israel x Iran ceasefire continues through November 22?",
+   "side": "Y",
+   "entry_price": 0.95,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:43:17"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Israel x Iran ceasefire continues through November 22?",
+   "side": "Y",
+   "entry_price": 0.95,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:43:17"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Champaign: Harry Wendelken vs Geoffrey Blancaneaux",
+   "side": "N",
+   "entry_price": 0.72,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:43:17"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Champaign: Harry Wendelken vs Geoffrey Blancaneaux",
+   "side": "N",
+   "entry_price": 0.72,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:43:17"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Carlos Alcaraz win the 2026 Nitto ATP Finals?",
+   "side": "N",
+   "entry_price": 0.52,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:43:17"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Carlos Alcaraz win the 2026 Nitto ATP Finals?",
+   "side": "Y",
+   "entry_price": 0.49,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:43:17"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Trail Blazers vs. Bucks",
+   "side": "Y",
+   "entry_price": 0.82,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:43:17"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Trail Blazers vs. Bucks",
+   "side": "N",
+   "entry_price": 0.19,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:43:17"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post 380-399 tweets from November 13 to November 20, 2026?",
+   "side": "Y",
+   "entry_price": 0.233,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:43:17"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Elon Musk post 380-399 tweets from November 13 to November 20, 2026?",
+   "side": "Y",
+   "entry_price": 0.233,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:43:17"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 20?",
+   "side": "Y",
+   "entry_price": 0.85,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:43:17"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 20?",
+   "side": "N",
+   "entry_price": 0.152,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:43:17"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will CR Flamengo win on 2026-11-21?",
+   "side": "Y",
+   "entry_price": 0.51,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:43:17"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will CR Flamengo win on 2026-11-21?",
+   "side": "N",
+   "entry_price": 0.5,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:43:17"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will IShowSpeed finish GTA VI by November 22?",
+   "side": "Y",
+   "entry_price": 0.905,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:43:17"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will IShowSpeed finish GTA VI by November 22?",
+   "side": "N",
+   "entry_price": 0.106,
+   "importo": 20.0,
+   "opened": "2026-11-19T20:43:17"
+  }
+ ],
+ "ultime_chiuse": []
+}
