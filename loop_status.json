@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T22:07:01",
+ "generated_at": "2026-11-20T22:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 39,
+   "chiusi": 40,
    "aperti": 15,
-   "pnl": 7.8,
-   "rend_medio_pct": 1.0,
-   "t": 0.16,
-   "rend40_pct": 1.0,
-   "t40": 0.16
+   "pnl": -12.2,
+   "rend_medio_pct": -1.52,
+   "t": -0.23,
+   "rend40_pct": -1.52,
+   "t40": -0.23
   },
   {
    "id": "924891e0f0",
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 37,
+   "chiusi": 38,
    "aperti": 15,
-   "pnl": 2.26,
-   "rend_medio_pct": 0.31,
-   "t": 0.01,
-   "rend40_pct": 0.31,
-   "t40": 0.01
+   "pnl": -17.74,
+   "rend_medio_pct": -2.33,
+   "t": -0.08,
+   "rend40_pct": -2.33,
+   "t40": -0.08
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
+   "side": "Y",
+   "entry_price": 0.52,
+   "importo": 20.0,
+   "opened": "2026-11-20T22:21:48"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Ethereum be above $1,500 on November 21?",
+   "side": "Y",
+   "entry_price": 0.975,
+   "importo": 20.0,
+   "opened": "2026-11-20T22:21:48"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $56,000 on November 23?",
@@ -131,14 +147,6 @@
    "entry_price": 0.52,
    "importo": 20.0,
    "opened": "2026-11-20T21:30:57"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Champaign: Gavin Young vs Bor Artnak",
-   "side": "Y",
-   "entry_price": 0.24,
-   "importo": 20.0,
-   "opened": "2026-11-20T21:13:50"
   },
   {
    "rule_id": "a042d572b3",
@@ -358,14 +366,6 @@
   },
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Inner Circle vs CyberHero - Game 4 Winner",
-   "side": "Y",
-   "entry_price": 0.8,
-   "importo": 20.0,
-   "opened": "2026-11-20T18:24:20"
-  },
-  {
-   "rule_id": "2a906fe26e",
    "market_nome": "Dota 2: Inner Circle vs CyberHero (BO5) - DreamLeague Division 2 Playoffs",
    "side": "Y",
    "entry_price": 0.84,
@@ -510,6 +510,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Champaign: Gavin Young vs Bor Artnak",
+   "side": "Y",
+   "entry_price": 0.24,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-20T22:21:48",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Inner Circle vs CyberHero - Game 4 Winner",
+   "side": "Y",
+   "entry_price": 0.8,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-20T22:21:47",
+   "motivo": "risoluzione"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs",
@@ -887,26 +907,6 @@
    "entry_price": 0.92,
    "exit_price": 0.999,
    "pnl": 1.7174,
-   "closed": "2026-11-20T18:24:20",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Game Handicap: PARI (-1.5) vs LEGION (+1.5)",
-   "side": "Y",
-   "entry_price": 0.85,
-   "exit_price": 0.999,
-   "pnl": 3.5059,
-   "closed": "2026-11-20T18:24:20",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: PARIVISION vs LEGION - Game 2 Winner",
-   "side": "Y",
-   "entry_price": 0.9,
-   "exit_price": 0.999,
-   "pnl": 2.2,
    "closed": "2026-11-20T18:24:20",
    "motivo": "prezzo a fine corsa"
   }
