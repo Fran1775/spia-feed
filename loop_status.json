@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T13:37:01",
+ "generated_at": "2026-11-20T14:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 10,
-   "aperti": 15,
-   "pnl": 0.82,
-   "rend_medio_pct": 0.41,
-   "t": 0.04,
-   "rend40_pct": 0.41,
-   "t40": 0.04
+   "chiusi": 12,
+   "aperti": 13,
+   "pnl": -18.12,
+   "rend_medio_pct": -7.55,
+   "t": -0.63,
+   "rend40_pct": -7.55,
+   "t40": -0.63
   },
   {
    "id": "924891e0f0",
@@ -74,16 +74,24 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 8,
+   "chiusi": 9,
    "aperti": 15,
-   "pnl": -69.26,
-   "rend_medio_pct": -43.29,
-   "t": -1.79,
-   "rend40_pct": -43.29,
-   "t40": -1.79
+   "pnl": -68.17,
+   "rend_medio_pct": -37.87,
+   "t": -1.71,
+   "rend40_pct": -37.87,
+   "t40": -1.71
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: Natus Vincere vs OG - Game 1 Winner",
+   "side": "N",
+   "entry_price": 0.41,
+   "importo": 20.0,
+   "opened": "2026-11-20T14:02:50"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Flavio Cobolli",
@@ -131,14 +139,6 @@
    "entry_price": 0.1,
    "importo": 20.0,
    "opened": "2026-11-20T10:46:04"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: PRIVATE vs ENJOY (BO3) - GLuck Yungstar Wildcard LAN Playoffs",
-   "side": "Y",
-   "entry_price": 0.84,
-   "importo": 20.0,
-   "opened": "2026-11-20T09:30:18"
   },
   {
    "rule_id": "2a906fe26e",
@@ -197,14 +197,6 @@
    "opened": "2026-11-19T22:21:59"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 20?",
-   "side": "Y",
-   "entry_price": 0.94,
-   "importo": 20.0,
-   "opened": "2026-11-19T22:05:40"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "Will Bitcoin dip to $60,000 November 16-22?",
    "side": "Y",
@@ -219,14 +211,6 @@
    "entry_price": 0.44,
    "importo": 20.0,
    "opened": "2026-11-19T22:05:40"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 20?",
-   "side": "Y",
-   "entry_price": 0.941,
-   "importo": 20.0,
-   "opened": "2026-11-19T21:30:31"
   },
   {
    "rule_id": "a042d572b3",
@@ -446,6 +430,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: PRIVATE vs ENJOY (BO3) - GLuck Yungstar Wildcard LAN Playoffs",
+   "side": "Y",
+   "entry_price": 0.84,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-20T14:02:50",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 20?",
+   "side": "Y",
+   "entry_price": 0.941,
+   "exit_price": 0.991,
+   "pnl": 1.0627,
+   "closed": "2026-11-20T14:02:49",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 20?",
+   "side": "Y",
+   "entry_price": 0.94,
+   "exit_price": 0.991,
+   "pnl": 1.0851,
+   "closed": "2026-11-20T14:02:49",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will IShowSpeed finish GTA VI by November 21, 11:59 AM ET?",
