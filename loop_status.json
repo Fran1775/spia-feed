@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T19:07:01",
+ "generated_at": "2026-11-20T19:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 31,
-   "aperti": 15,
-   "pnl": -6.73,
-   "rend_medio_pct": -1.09,
-   "t": -0.16,
-   "rend40_pct": -1.09,
-   "t40": -0.16
+   "chiusi": 34,
+   "aperti": 12,
+   "pnl": 11.31,
+   "rend_medio_pct": 1.66,
+   "t": 0.26,
+   "rend40_pct": 1.66,
+   "t40": 0.26
   },
   {
    "id": "924891e0f0",
@@ -74,47 +74,23 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 25,
+   "chiusi": 26,
    "aperti": 15,
-   "pnl": -120.77,
-   "rend_medio_pct": -24.15,
-   "t": -0.91,
-   "rend40_pct": -24.15,
-   "t40": -0.91
+   "pnl": -111.78,
+   "rend_medio_pct": -21.5,
+   "t": -0.83,
+   "rend40_pct": -21.5,
+   "t40": -0.83
   }
  ],
  "aperte": [
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Bitcoin dip to $58,000 on November 20?",
-   "side": "Y",
-   "entry_price": 0.69,
-   "importo": 20.0,
-   "opened": "2026-11-20T18:58:20"
-  },
-  {
    "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin dip to $58,000 on November 20?",
+   "market_nome": "Counter-Strike: WBT vs Phantom (BO3) - NODWIN Clutch Series Playoffs",
    "side": "Y",
-   "entry_price": 0.69,
+   "entry_price": 0.22,
    "importo": 20.0,
-   "opened": "2026-11-20T18:58:20"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Ethereum dip to $1,600 November 16-22?",
-   "side": "Y",
-   "entry_price": 0.81,
-   "importo": 20.0,
-   "opened": "2026-11-20T18:58:20"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Bitcoin dip to $58,000 November 16-22?",
-   "side": "Y",
-   "entry_price": 0.82,
-   "importo": 20.0,
-   "opened": "2026-11-20T18:58:20"
+   "opened": "2026-11-20T19:32:20"
   },
   {
    "rule_id": "2a906fe26e",
@@ -446,6 +422,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Bitcoin dip to $58,000 on November 20?",
+   "side": "Y",
+   "entry_price": 0.69,
+   "exit_price": 1.0,
+   "pnl": 8.9855,
+   "closed": "2026-11-20T19:32:20",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin dip to $58,000 on November 20?",
+   "side": "Y",
+   "entry_price": 0.69,
+   "exit_price": 1.0,
+   "pnl": 8.9855,
+   "closed": "2026-11-20T19:32:20",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Ethereum dip to $1,600 November 16-22?",
+   "side": "Y",
+   "entry_price": 0.81,
+   "exit_price": 1.0,
+   "pnl": 4.6914,
+   "closed": "2026-11-20T19:32:20",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Bitcoin dip to $58,000 November 16-22?",
+   "side": "Y",
+   "entry_price": 0.82,
+   "exit_price": 0.999,
+   "pnl": 4.3658,
+   "closed": "2026-11-20T19:32:20",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Dota 2: Team Liquid vs DO KONCA (BO3) - BLAST Slam Group C",
@@ -804,46 +820,6 @@
    "exit_price": 0.942,
    "pnl": 0.2581,
    "closed": "2026-11-20T14:38:33",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Luminosity vs BIG - Map 2 Winner",
-   "side": "Y",
-   "entry_price": 0.92,
-   "exit_price": 0.99,
-   "pnl": 1.5217,
-   "closed": "2026-11-20T14:38:33",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Flavio Cobolli",
-   "side": "Y",
-   "entry_price": 0.9,
-   "exit_price": 0.999,
-   "pnl": 2.2,
-   "closed": "2026-11-20T14:20:42",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Flavio Cobolli",
-   "side": "Y",
-   "entry_price": 0.9,
-   "exit_price": 0.999,
-   "pnl": 2.2,
-   "closed": "2026-11-20T14:20:42",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: Natus Vincere vs OG - Game 1 Winner",
-   "side": "N",
-   "entry_price": 0.41,
-   "exit_price": 0.01,
-   "pnl": -19.5122,
-   "closed": "2026-11-20T14:20:42",
    "motivo": "prezzo a fine corsa"
   }
  ]
