@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T01:37:01",
+ "generated_at": "2026-11-20T02:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 2,
+   "chiusi": 3,
    "aperti": 11,
-   "pnl": 6.15,
-   "rend_medio_pct": 15.38,
-   "t": 2.73,
-   "rend40_pct": 15.38,
-   "t40": 2.73
+   "pnl": 6.85,
+   "rend_medio_pct": 11.41,
+   "t": 2.3,
+   "rend40_pct": 11.41,
+   "t40": 2.3
   },
   {
    "id": "924891e0f0",
@@ -85,6 +85,14 @@
  ],
  "aperte": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Real Madrid CF win on 2026-11-21?",
+   "side": "Y",
+   "entry_price": 0.85,
+   "importo": 20.0,
+   "opened": "2026-11-20T02:04:44"
+  },
+  {
    "rule_id": "924891e0f0",
    "market_nome": "Will Anthropic's valuation hit (HIGH) $1.75T by December 31?",
    "side": "N",
@@ -145,14 +153,6 @@
    "market_nome": "Will WTI Crude Oil (WTI) hit (LOW) $80 in November?",
    "side": "Y",
    "entry_price": 0.59,
-   "importo": 20.0,
-   "opened": "2026-11-19T21:13:01"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the highest temperature in Shenzhen be 19°C on November 20?",
-   "side": "Y",
-   "entry_price": 0.95,
    "importo": 20.0,
    "opened": "2026-11-19T21:13:01"
   },
@@ -414,6 +414,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the highest temperature in Shenzhen be 19°C on November 20?",
+   "side": "Y",
+   "entry_price": 0.95,
+   "exit_price": 0.983,
+   "pnl": 0.6947,
+   "closed": "2026-11-20T01:46:12",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Champaign: Jordan Lee vs Andres Martin",
