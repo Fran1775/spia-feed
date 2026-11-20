@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T15:07:01",
+ "generated_at": "2026-11-20T15:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 16,
-   "aperti": 12,
+   "aperti": 13,
    "pnl": -9.05,
    "rend_medio_pct": -2.83,
    "t": -0.3,
@@ -74,23 +74,31 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 12,
+   "chiusi": 13,
    "aperti": 15,
-   "pnl": -104.8,
-   "rend_medio_pct": -43.66,
-   "t": -2.38,
-   "rend40_pct": -43.66,
-   "t40": -2.38
+   "pnl": -124.32,
+   "rend_medio_pct": -47.82,
+   "t": -2.75,
+   "rend40_pct": -47.82,
+   "t40": -2.75
   }
  ],
  "aperte": [
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: Natus Vincere vs OG - Game 2 Winner",
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: GamerLegion vs Xtreme Gaming - Game 2 Winner",
    "side": "Y",
-   "entry_price": 0.42,
+   "entry_price": 0.94,
    "importo": 20.0,
-   "opened": "2026-11-20T14:56:08"
+   "opened": "2026-11-20T15:31:17"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: GamerLegion vs Xtreme Gaming - Game 2 Winner",
+   "side": "N",
+   "entry_price": 0.07,
+   "importo": 20.0,
+   "opened": "2026-11-20T15:31:17"
   },
   {
    "rule_id": "2a906fe26e",
@@ -422,6 +430,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: Natus Vincere vs OG - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.42,
+   "exit_price": 0.01,
+   "pnl": -19.5238,
+   "closed": "2026-11-20T15:31:17",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Metz: Soon-Woo Kwon vs Dino Prizmic",
