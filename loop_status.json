@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T20:37:01",
+ "generated_at": "2026-11-20T21:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 35,
-   "aperti": 14,
+   "aperti": 15,
    "pnl": 16.95,
    "rend_medio_pct": 2.42,
    "t": 0.38,
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 12,
+   "chiusi": 22,
    "aperti": 15,
-   "pnl": -23.75,
-   "rend_medio_pct": -9.9,
-   "t": -0.45,
-   "rend40_pct": -9.9,
-   "t40": -0.45
+   "pnl": -24.46,
+   "rend_medio_pct": -5.56,
+   "t": -0.46,
+   "rend40_pct": -5.56,
+   "t40": -0.46
   },
   {
    "id": "84fb9952fb",
@@ -57,7 +57,7 @@
     "pmin": 0.1
    },
    "chiusi": 0,
-   "aperti": 0,
+   "aperti": 7,
    "pnl": 0,
    "rend_medio_pct": 0.0,
    "t": 0.0,
@@ -74,16 +74,208 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 26,
+   "chiusi": 32,
    "aperti": 15,
-   "pnl": -111.78,
-   "rend_medio_pct": -21.5,
-   "t": -0.83,
-   "rend40_pct": -21.5,
-   "t40": -0.83
+   "pnl": -118.49,
+   "rend_medio_pct": -18.51,
+   "t": -0.88,
+   "rend40_pct": -18.51,
+   "t40": -0.88
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Anthropic's valuation hit (LOW) $800B by December 31?",
+   "side": "Y",
+   "entry_price": 0.327,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:57:05"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 21?",
+   "side": "N",
+   "entry_price": 0.855,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:57:05"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 22?",
+   "side": "N",
+   "entry_price": 0.415,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:57:05"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "ATP World Tour Finals, Ivan Lendl Group: Daniil Medvedev vs Frances Tiafoe",
+   "side": "N",
+   "entry_price": 0.09,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:57:04"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs",
+   "side": "Y",
+   "entry_price": 0.83,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:57:04"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs",
+   "side": "N",
+   "entry_price": 0.19,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:57:04"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Counter-Strike: Sinners vs Metizport - Map 1 Winner",
+   "side": "N",
+   "entry_price": 0.15,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:57:04"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Montevideo: Oriol Roca Batalla vs Thiago Seyboth Wild",
+   "side": "N",
+   "entry_price": 0.673,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:57:04"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Montevideo: Oriol Roca Batalla vs Thiago Seyboth Wild",
+   "side": "N",
+   "entry_price": 0.673,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:57:04"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin dip to $55,000 in November?",
+   "side": "Y",
+   "entry_price": 0.576,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:57:04"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin dip to $55,000 in November?",
+   "side": "N",
+   "entry_price": 0.447,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:57:04"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin reach $65,000 in November?",
+   "side": "N",
+   "entry_price": 0.81,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:57:04"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin reach $65,000 in November?",
+   "side": "N",
+   "entry_price": 0.81,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:57:04"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 21?",
+   "side": "N",
+   "entry_price": 0.452,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:57:04"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
+   "side": "Y",
+   "entry_price": 0.705,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:57:04"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Valorant: FlyQuest vs Masterclass (BO3) - VCT Americas Kickoff: North America Swiss Stage",
+   "side": "Y",
+   "entry_price": 0.5,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:57:04"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin dip to $54,000 November 16-22?",
+   "side": "Y",
+   "entry_price": 0.2,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:57:04"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Jensen Huang rejoin NVIDIA by December 31, 2027?",
+   "side": "Y",
+   "entry_price": 0.31,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:40:18"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Spread: Lions (-6.5)",
+   "side": "Y",
+   "entry_price": 0.45,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:40:18"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 28?",
+   "side": "Y",
+   "entry_price": 0.84,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:40:18"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Aston Villa FC win on 2026-11-21?",
+   "side": "Y",
+   "entry_price": 0.56,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:40:18"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "UFC Fight Night: Jared Cannonier vs. Ikram Aliskerov (Middleweight, Main Card)",
+   "side": "Y",
+   "entry_price": 0.27,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:40:18"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Spread: Lions (-7.5)",
+   "side": "Y",
+   "entry_price": 0.4,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:40:18"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "UFC Fight Night: Jirí Procházka vs. Navajo Stirling (Light Heavyweight, Main Card)",
+   "side": "Y",
+   "entry_price": 0.39,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:40:18"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "ATP World Tour Finals, Ivan Lendl Group: Daniil Medvedev vs Frances Tiafoe",
@@ -269,78 +461,6 @@
    "opened": "2026-11-19T21:13:01"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 26?",
-   "side": "Y",
-   "entry_price": 0.65,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:47:44"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 26?",
-   "side": "Y",
-   "entry_price": 0.65,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:47:44"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 24?",
-   "side": "Y",
-   "entry_price": 0.34,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:47:44"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 24?",
-   "side": "Y",
-   "entry_price": 0.34,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:47:44"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Denmark be 2nd in the World Happiness Report 2027?",
-   "side": "Y",
-   "entry_price": 0.56,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:47:44"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Denmark be 2nd in the World Happiness Report 2027?",
-   "side": "Y",
-   "entry_price": 0.56,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:47:44"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 28?",
-   "side": "Y",
-   "entry_price": 0.77,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:47:44"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will WTI Crude Oil (WTI) hit (LOW) $80 in November?",
-   "side": "N",
-   "entry_price": 0.43,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:47:44"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will SE Palmeiras win on 2026-11-21?",
-   "side": "N",
-   "entry_price": 0.77,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:47:44"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will FC Barcelona win on 2026-11-22?",
    "side": "Y",
@@ -357,26 +477,10 @@
    "opened": "2026-11-19T20:47:44"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Anthropic's valuation hit (HIGH) $1.575T by November 30?",
-   "side": "N",
-   "entry_price": 0.82,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:47:44"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will xQc finish GTA VI by November 22?",
    "side": "Y",
    "entry_price": 0.81,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:47:44"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Take-Two report less than 9 million GTA VI units sold before 2027?",
-   "side": "N",
-   "entry_price": 0.7,
    "importo": 20.0,
    "opened": "2026-11-19T20:47:44"
   },
@@ -395,49 +499,169 @@
    "entry_price": 0.95,
    "importo": 20.0,
    "opened": "2026-11-19T20:43:17"
+  }
+ ],
+ "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will SE Palmeiras win on 2026-11-21?",
+   "side": "N",
+   "entry_price": 0.77,
+   "exit_price": 0.77,
+   "pnl": 0.0,
+   "closed": "2026-11-20T20:57:04",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Anthropic's valuation hit (HIGH) $1.575T by November 30?",
+   "side": "N",
+   "entry_price": 0.82,
+   "exit_price": 0.89,
+   "pnl": 1.7073,
+   "closed": "2026-11-20T20:57:04",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Take-Two report less than 9 million GTA VI units sold before 2027?",
+   "side": "N",
+   "entry_price": 0.7,
+   "exit_price": 0.7,
+   "pnl": 0.0,
+   "closed": "2026-11-20T20:57:04",
+   "motivo": "uscita a tempo 24h"
   },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Israel x Iran ceasefire continues through November 22?",
    "side": "Y",
    "entry_price": 0.95,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:43:17"
+   "exit_price": 0.91,
+   "pnl": -0.8421,
+   "closed": "2026-11-20T20:57:03",
+   "motivo": "uscita a tempo 24h"
   },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will Carlos Alcaraz win the 2026 Nitto ATP Finals?",
    "side": "N",
    "entry_price": 0.52,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:43:17"
+   "exit_price": 0.49,
+   "pnl": -1.1539,
+   "closed": "2026-11-20T20:57:03",
+   "motivo": "uscita a tempo 24h"
   },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Carlos Alcaraz win the 2026 Nitto ATP Finals?",
    "side": "Y",
    "entry_price": 0.49,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:43:17"
+   "exit_price": 0.5,
+   "pnl": 0.4081,
+   "closed": "2026-11-20T20:57:03",
+   "motivo": "uscita a tempo 24h"
   },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will CR Flamengo win on 2026-11-21?",
    "side": "Y",
    "entry_price": 0.51,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:43:17"
+   "exit_price": 0.52,
+   "pnl": 0.3922,
+   "closed": "2026-11-20T20:57:03",
+   "motivo": "uscita a tempo 24h"
   },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will CR Flamengo win on 2026-11-21?",
    "side": "N",
    "entry_price": 0.5,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:43:17"
-  }
- ],
- "ultime_chiuse": [
+   "exit_price": 0.47,
+   "pnl": -1.2,
+   "closed": "2026-11-20T20:57:03",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 26?",
+   "side": "Y",
+   "entry_price": 0.65,
+   "exit_price": 0.6,
+   "pnl": -1.5385,
+   "closed": "2026-11-20T20:57:03",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 26?",
+   "side": "Y",
+   "entry_price": 0.65,
+   "exit_price": 0.6,
+   "pnl": -1.5385,
+   "closed": "2026-11-20T20:57:03",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 24?",
+   "side": "Y",
+   "entry_price": 0.34,
+   "exit_price": 0.28,
+   "pnl": -3.5294,
+   "closed": "2026-11-20T20:57:03",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 24?",
+   "side": "Y",
+   "entry_price": 0.34,
+   "exit_price": 0.28,
+   "pnl": -3.5294,
+   "closed": "2026-11-20T20:57:03",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Denmark be 2nd in the World Happiness Report 2027?",
+   "side": "Y",
+   "entry_price": 0.56,
+   "exit_price": 0.56,
+   "pnl": 0.0,
+   "closed": "2026-11-20T20:57:03",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Denmark be 2nd in the World Happiness Report 2027?",
+   "side": "Y",
+   "entry_price": 0.56,
+   "exit_price": 0.56,
+   "pnl": 0.0,
+   "closed": "2026-11-20T20:57:03",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 28?",
+   "side": "Y",
+   "entry_price": 0.77,
+   "exit_price": 0.83,
+   "pnl": 1.5584,
+   "closed": "2026-11-20T20:57:03",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will WTI Crude Oil (WTI) hit (LOW) $80 in November?",
+   "side": "N",
+   "entry_price": 0.43,
+   "exit_price": 0.47,
+   "pnl": 1.8605,
+   "closed": "2026-11-20T20:57:03",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Bitcoin Up or Down - November 20, 2:00PM-3:00PM ET",
@@ -676,166 +900,6 @@
    "exit_price": 0.999,
    "pnl": 4.3658,
    "closed": "2026-11-20T16:58:22",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 20?",
-   "side": "Y",
-   "entry_price": 0.85,
-   "exit_price": 0.006,
-   "pnl": -19.8588,
-   "closed": "2026-11-20T16:58:21",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 20?",
-   "side": "N",
-   "entry_price": 0.152,
-   "exit_price": 0.992,
-   "pnl": 110.5263,
-   "closed": "2026-11-20T16:58:21",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Ethereum be above $1,700 on November 20?",
-   "side": "Y",
-   "entry_price": 0.848,
-   "exit_price": 0.002,
-   "pnl": -19.9528,
-   "closed": "2026-11-20T16:41:25",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A",
-   "side": "Y",
-   "entry_price": 0.86,
-   "exit_price": 0.999,
-   "pnl": 3.2325,
-   "closed": "2026-11-20T16:41:25",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A",
-   "side": "N",
-   "entry_price": 0.15,
-   "exit_price": 0.01,
-   "pnl": -18.6667,
-   "closed": "2026-11-20T16:41:25",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A",
-   "side": "N",
-   "entry_price": 0.4,
-   "exit_price": 0.01,
-   "pnl": -19.5,
-   "closed": "2026-11-20T16:41:25",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin dip to $60,000 November 16-22?",
-   "side": "Y",
-   "entry_price": 0.57,
-   "exit_price": 0.999,
-   "pnl": 15.0526,
-   "closed": "2026-11-20T15:48:38",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin dip to $60,000 November 16-22?",
-   "side": "N",
-   "entry_price": 0.44,
-   "exit_price": 0.01,
-   "pnl": -19.5455,
-   "closed": "2026-11-20T15:48:38",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $62,000 on November 20?",
-   "side": "N",
-   "entry_price": 0.522,
-   "exit_price": 0.988,
-   "pnl": 17.8544,
-   "closed": "2026-11-20T15:48:38",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $62,000 on November 20?",
-   "side": "N",
-   "entry_price": 0.522,
-   "exit_price": 0.988,
-   "pnl": 17.8544,
-   "closed": "2026-11-20T15:48:38",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: GamerLegion vs Xtreme Gaming (BO3) - BLAST Slam Group B",
-   "side": "Y",
-   "entry_price": 0.8,
-   "exit_price": 0.999,
-   "pnl": 4.975,
-   "closed": "2026-11-20T15:48:38",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: GamerLegion vs Xtreme Gaming - Game 2 Winner",
-   "side": "Y",
-   "entry_price": 0.94,
-   "exit_price": 0.999,
-   "pnl": 1.2553,
-   "closed": "2026-11-20T15:48:38",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: GamerLegion vs Xtreme Gaming - Game 2 Winner",
-   "side": "N",
-   "entry_price": 0.07,
-   "exit_price": 0.01,
-   "pnl": -17.1429,
-   "closed": "2026-11-20T15:48:38",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: Natus Vincere vs OG - Game 2 Winner",
-   "side": "Y",
-   "entry_price": 0.42,
-   "exit_price": 0.01,
-   "pnl": -19.5238,
-   "closed": "2026-11-20T15:31:17",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Metz: Soon-Woo Kwon vs Dino Prizmic",
-   "side": "N",
-   "entry_price": 0.29,
-   "exit_price": 0.01,
-   "pnl": -19.3103,
-   "closed": "2026-11-20T14:56:08",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will IShowSpeed finish GTA VI by November 20?",
-   "side": "Y",
-   "entry_price": 0.79,
-   "exit_price": 0.991,
-   "pnl": 5.0887,
-   "closed": "2026-11-20T14:38:33",
    "motivo": "prezzo a fine corsa"
   }
  ]
