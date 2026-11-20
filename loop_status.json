@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T18:07:01",
+ "generated_at": "2026-11-20T18:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 25,
+   "chiusi": 28,
    "aperti": 13,
-   "pnl": -24.98,
-   "rend_medio_pct": -5.0,
-   "t": -0.6,
-   "rend40_pct": -5.0,
-   "t40": -0.6
+   "pnl": -17.55,
+   "rend_medio_pct": -3.13,
+   "t": -0.41,
+   "rend40_pct": -3.13,
+   "t40": -0.41
   },
   {
    "id": "924891e0f0",
@@ -74,23 +74,47 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 21,
+   "chiusi": 22,
    "aperti": 15,
-   "pnl": -63.01,
-   "rend_medio_pct": -15.0,
-   "t": -0.48,
-   "rend40_pct": -15.0,
-   "t40": -0.48
+   "pnl": -82.74,
+   "rend_medio_pct": -18.8,
+   "t": -0.63,
+   "rend40_pct": -18.8,
+   "t40": -0.63
   }
  ],
  "aperte": [
   {
    "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: PARIVISION vs LEGION - Game 2 Winner",
+   "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 2 Winner",
    "side": "N",
-   "entry_price": 0.73,
+   "entry_price": 0.55,
    "importo": 20.0,
-   "opened": "2026-11-20T17:50:21"
+   "opened": "2026-11-20T18:24:20"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Envy vs Nexus (BO3) - RUSH Brno Playoffs",
+   "side": "Y",
+   "entry_price": 0.87,
+   "importo": 20.0,
+   "opened": "2026-11-20T18:24:20"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Inner Circle vs CyberHero - Game 4 Winner",
+   "side": "Y",
+   "entry_price": 0.8,
+   "importo": 20.0,
+   "opened": "2026-11-20T18:24:20"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Inner Circle vs CyberHero (BO5) - DreamLeague Division 2 Playoffs",
+   "side": "Y",
+   "entry_price": 0.84,
+   "importo": 20.0,
+   "opened": "2026-11-20T18:24:20"
   },
   {
    "rule_id": "2a906fe26e",
@@ -101,26 +125,10 @@
    "opened": "2026-11-20T17:32:47"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: PARIVISION vs LEGION - Game 2 Winner",
-   "side": "Y",
-   "entry_price": 0.9,
-   "importo": 20.0,
-   "opened": "2026-11-20T17:32:47"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "AI bubble burst in 2026?",
    "side": "Y",
    "entry_price": 0.29,
-   "importo": 20.0,
-   "opened": "2026-11-20T17:15:17"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Game Handicap: PARI (-1.5) vs LEGION (+1.5)",
-   "side": "Y",
-   "entry_price": 0.85,
    "importo": 20.0,
    "opened": "2026-11-20T17:15:17"
   },
@@ -139,14 +147,6 @@
    "entry_price": 0.733,
    "importo": 20.0,
    "opened": "2026-11-20T16:58:22"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: PARIVISION vs LEGION (BO3) - BLAST Slam Group C",
-   "side": "Y",
-   "entry_price": 0.92,
-   "importo": 20.0,
-   "opened": "2026-11-20T16:41:26"
   },
   {
    "rule_id": "924891e0f0",
@@ -430,6 +430,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: PARIVISION vs LEGION (BO3) - BLAST Slam Group C",
+   "side": "Y",
+   "entry_price": 0.92,
+   "exit_price": 0.999,
+   "pnl": 1.7174,
+   "closed": "2026-11-20T18:24:20",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Game Handicap: PARI (-1.5) vs LEGION (+1.5)",
+   "side": "Y",
+   "entry_price": 0.85,
+   "exit_price": 0.999,
+   "pnl": 3.5059,
+   "closed": "2026-11-20T18:24:20",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: PARIVISION vs LEGION - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.9,
+   "exit_price": 0.999,
+   "pnl": 2.2,
+   "closed": "2026-11-20T18:24:20",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: PARIVISION vs LEGION - Game 2 Winner",
+   "side": "N",
+   "entry_price": 0.73,
+   "exit_price": 0.01,
+   "pnl": -19.726,
+   "closed": "2026-11-20T18:24:20",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 1 Winner",
@@ -788,46 +828,6 @@
    "exit_price": 0.999,
    "pnl": 8.1408,
    "closed": "2026-11-20T13:27:09",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Elon Musk post 380-399 tweets from November 13 to November 20, 2026?",
-   "side": "Y",
-   "entry_price": 0.233,
-   "exit_price": 0.01,
-   "pnl": -19.1416,
-   "closed": "2026-11-20T12:34:35",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Elon Musk post 380-399 tweets from November 13 to November 20, 2026?",
-   "side": "Y",
-   "entry_price": 0.233,
-   "exit_price": 0.01,
-   "pnl": -19.1416,
-   "closed": "2026-11-20T12:34:35",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will IShowSpeed finish GTA VI by November 22?",
-   "side": "Y",
-   "entry_price": 0.905,
-   "exit_price": 0.984,
-   "pnl": 1.7458,
-   "closed": "2026-11-20T10:46:04",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will IShowSpeed finish GTA VI by November 22?",
-   "side": "N",
-   "entry_price": 0.106,
-   "exit_price": 0.008,
-   "pnl": -18.4906,
-   "closed": "2026-11-20T10:46:04",
    "motivo": "prezzo a fine corsa"
   }
  ]
