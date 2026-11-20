@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T03:37:01",
+ "generated_at": "2026-11-20T04:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 3,
-   "aperti": 12,
-   "pnl": 6.85,
-   "rend_medio_pct": 11.41,
-   "t": 2.3,
-   "rend40_pct": 11.41,
-   "t40": 2.3
+   "chiusi": 5,
+   "aperti": 11,
+   "pnl": 13.92,
+   "rend_medio_pct": 13.92,
+   "t": 4.0,
+   "rend40_pct": 13.92,
+   "t40": 4.0
   },
   {
    "id": "924891e0f0",
@@ -74,23 +74,31 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 4,
+   "chiusi": 5,
    "aperti": 15,
-   "pnl": -20.82,
-   "rend_medio_pct": -26.02,
-   "t": -0.71,
-   "rend40_pct": -26.02,
-   "t40": -0.71
+   "pnl": -39.77,
+   "rend_medio_pct": -39.77,
+   "t": -1.25,
+   "rend40_pct": -39.77,
+   "t40": -1.25
   }
  ],
  "aperte": [
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: regain vs Milk (BO3) - CROSSFIRE Playoffs",
+   "market_nome": "Bitcoin Up or Down - November 19, 10:45PM-11:00PM ET",
    "side": "Y",
-   "entry_price": 0.88,
+   "entry_price": 0.83,
    "importo": 20.0,
-   "opened": "2026-11-20T03:18:59"
+   "opened": "2026-11-20T03:56:15"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Anthropic's valuation hit (HIGH) $1.75T by December 31?",
+   "side": "N",
+   "entry_price": 0.7,
+   "importo": 20.0,
+   "opened": "2026-11-20T03:37:28"
   },
   {
    "rule_id": "2a906fe26e",
@@ -341,22 +349,6 @@
    "opened": "2026-11-19T20:43:17"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Trail Blazers vs. Bucks",
-   "side": "Y",
-   "entry_price": 0.82,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:43:17"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Trail Blazers vs. Bucks",
-   "side": "N",
-   "entry_price": 0.19,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:43:17"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "Will Elon Musk post 380-399 tweets from November 13 to November 20, 2026?",
    "side": "Y",
@@ -422,6 +414,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Trail Blazers vs. Bucks",
+   "side": "Y",
+   "entry_price": 0.82,
+   "exit_price": 0.999,
+   "pnl": 4.3658,
+   "closed": "2026-11-20T03:37:28",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Trail Blazers vs. Bucks",
+   "side": "N",
+   "entry_price": 0.19,
+   "exit_price": 0.01,
+   "pnl": -18.9474,
+   "closed": "2026-11-20T03:37:28",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: regain vs Milk (BO3) - CROSSFIRE Playoffs",
+   "side": "Y",
+   "entry_price": 0.88,
+   "exit_price": 0.999,
+   "pnl": 2.7046,
+   "closed": "2026-11-20T03:37:28",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the highest temperature in Shenzhen be 19°C on November 20?",
