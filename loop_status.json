@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T19:37:01",
+ "generated_at": "2026-11-20T20:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 34,
-   "aperti": 12,
-   "pnl": 11.31,
-   "rend_medio_pct": 1.66,
-   "t": 0.26,
-   "rend40_pct": 1.66,
-   "t40": 0.26
+   "chiusi": 35,
+   "aperti": 13,
+   "pnl": 16.95,
+   "rend_medio_pct": 2.42,
+   "t": 0.38,
+   "rend40_pct": 2.42,
+   "t40": 0.38
   },
   {
    "id": "924891e0f0",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $56,000 on November 22?",
+   "side": "Y",
+   "entry_price": 0.859,
+   "importo": 20.0,
+   "opened": "2026-11-20T19:49:19"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Counter-Strike: WBT vs Phantom (BO3) - NODWIN Clutch Series Playoffs",
@@ -422,6 +430,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 20, 2:00PM-3:00PM ET",
+   "side": "Y",
+   "entry_price": 0.78,
+   "exit_price": 1.0,
+   "pnl": 5.641,
+   "closed": "2026-11-20T20:06:21",
+   "motivo": "risoluzione"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Bitcoin dip to $58,000 on November 20?",
@@ -809,16 +827,6 @@
    "entry_price": 0.79,
    "exit_price": 0.991,
    "pnl": 5.0887,
-   "closed": "2026-11-20T14:38:33",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: CyberHero vs angry birds (BO5) - Asgard Championship Playoffs",
-   "side": "Y",
-   "entry_price": 0.93,
-   "exit_price": 0.942,
-   "pnl": 0.2581,
    "closed": "2026-11-20T14:38:33",
    "motivo": "prezzo a fine corsa"
   }
