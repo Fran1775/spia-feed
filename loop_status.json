@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T05:07:01",
+ "generated_at": "2026-11-20T05:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 6,
-   "aperti": 10,
+   "aperti": 12,
    "pnl": 18.01,
    "rend_medio_pct": 15.01,
    "t": 4.89,
@@ -84,6 +84,22 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will FC Bayern München win on 2026-11-20?",
+   "side": "Y",
+   "entry_price": 0.92,
+   "importo": 20.0,
+   "opened": "2026-11-20T05:28:17"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will IShowSpeed finish GTA VI by November 20?",
+   "side": "Y",
+   "entry_price": 0.79,
+   "importo": 20.0,
+   "opened": "2026-11-20T05:28:17"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Anthropic's valuation hit (HIGH) $1.75T by December 31?",
