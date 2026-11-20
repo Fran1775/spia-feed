@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T20:07:01",
+ "generated_at": "2026-11-20T20:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 35,
-   "aperti": 13,
+   "aperti": 14,
    "pnl": 16.95,
    "rend_medio_pct": 2.42,
    "t": 0.38,
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "ATP World Tour Finals, Ivan Lendl Group: Daniil Medvedev vs Frances Tiafoe",
+   "side": "Y",
+   "entry_price": 0.87,
+   "importo": 20.0,
+   "opened": "2026-11-20T20:23:07"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $56,000 on November 22?",
