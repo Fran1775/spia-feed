@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T18:37:01",
+ "generated_at": "2026-11-20T19:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 28,
-   "aperti": 13,
-   "pnl": -17.55,
-   "rend_medio_pct": -3.13,
-   "t": -0.41,
-   "rend40_pct": -3.13,
-   "t40": -0.41
+   "chiusi": 31,
+   "aperti": 15,
+   "pnl": -6.73,
+   "rend_medio_pct": -1.09,
+   "t": -0.16,
+   "rend40_pct": -1.09,
+   "t40": -0.16
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 11,
+   "chiusi": 12,
    "aperti": 15,
-   "pnl": -4.08,
-   "rend_medio_pct": -1.85,
-   "t": -0.08,
-   "rend40_pct": -1.85,
-   "t40": -0.08
+   "pnl": -23.75,
+   "rend_medio_pct": -9.9,
+   "t": -0.45,
+   "rend40_pct": -9.9,
+   "t40": -0.45
   },
   {
    "id": "84fb9952fb",
@@ -74,31 +74,71 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 22,
+   "chiusi": 25,
    "aperti": 15,
-   "pnl": -82.74,
-   "rend_medio_pct": -18.8,
-   "t": -0.63,
-   "rend40_pct": -18.8,
-   "t40": -0.63
+   "pnl": -120.77,
+   "rend_medio_pct": -24.15,
+   "t": -0.91,
+   "rend40_pct": -24.15,
+   "t40": -0.91
   }
  ],
  "aperte": [
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 2 Winner",
-   "side": "N",
-   "entry_price": 0.55,
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Bitcoin dip to $58,000 on November 20?",
+   "side": "Y",
+   "entry_price": 0.69,
    "importo": 20.0,
-   "opened": "2026-11-20T18:24:20"
+   "opened": "2026-11-20T18:58:20"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin dip to $58,000 on November 20?",
+   "side": "Y",
+   "entry_price": 0.69,
+   "importo": 20.0,
+   "opened": "2026-11-20T18:58:20"
   },
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Envy vs Nexus (BO3) - RUSH Brno Playoffs",
+   "market_nome": "Will Ethereum dip to $1,600 November 16-22?",
+   "side": "Y",
+   "entry_price": 0.81,
+   "importo": 20.0,
+   "opened": "2026-11-20T18:58:20"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Bitcoin dip to $58,000 November 16-22?",
+   "side": "Y",
+   "entry_price": 0.82,
+   "importo": 20.0,
+   "opened": "2026-11-20T18:58:20"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Valorant: Shopify Rebellion Black vs Xora Esports (BO3) - VCT Americas Kickoff: North America Swiss Stage",
    "side": "Y",
    "entry_price": 0.87,
    "importo": 20.0,
-   "opened": "2026-11-20T18:24:20"
+   "opened": "2026-11-20T18:58:20"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin dip to $50,000 in November?",
+   "side": "N",
+   "entry_price": 0.833,
+   "importo": 20.0,
+   "opened": "2026-11-20T18:58:19"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin dip to $56,000 November 16-22?",
+   "side": "Y",
+   "entry_price": 0.304,
+   "importo": 20.0,
+   "opened": "2026-11-20T18:41:24"
   },
   {
    "rule_id": "2a906fe26e",
@@ -117,14 +157,6 @@
    "opened": "2026-11-20T18:24:20"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Team Liquid vs DO KONCA (BO3) - BLAST Slam Group C",
-   "side": "Y",
-   "entry_price": 0.84,
-   "importo": 20.0,
-   "opened": "2026-11-20T17:32:47"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "AI bubble burst in 2026?",
    "side": "Y",
@@ -134,27 +166,11 @@
   },
   {
    "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: Envy vs Nexus (BO3) - RUSH Brno Playoffs",
-   "side": "N",
-   "entry_price": 0.57,
-   "importo": 20.0,
-   "opened": "2026-11-20T16:58:22"
-  },
-  {
-   "rule_id": "a042d572b3",
    "market_nome": "AI bubble burst in 2026?",
    "side": "N",
    "entry_price": 0.733,
    "importo": 20.0,
    "opened": "2026-11-20T16:58:22"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Counter-Strike: Envy vs Nexus (BO3) - RUSH Brno Playoffs",
-   "side": "N",
-   "entry_price": 0.62,
-   "importo": 20.0,
-   "opened": "2026-11-20T16:41:25"
   },
   {
    "rule_id": "2a906fe26e",
@@ -430,6 +446,76 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Team Liquid vs DO KONCA (BO3) - BLAST Slam Group C",
+   "side": "Y",
+   "entry_price": 0.84,
+   "exit_price": 0.999,
+   "pnl": 3.7857,
+   "closed": "2026-11-20T18:58:19",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 2 Winner",
+   "side": "N",
+   "entry_price": 0.55,
+   "exit_price": 0.01,
+   "pnl": -19.6364,
+   "closed": "2026-11-20T18:58:19",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.83,
+   "exit_price": 0.999,
+   "pnl": 4.0723,
+   "closed": "2026-11-20T18:58:19",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: Team Liquid vs DO KONCA (BO3) - BLAST Slam Group C",
+   "side": "Y",
+   "entry_price": 0.94,
+   "exit_price": 0.999,
+   "pnl": 1.2553,
+   "closed": "2026-11-20T18:58:19",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Counter-Strike: Envy vs Nexus (BO3) - RUSH Brno Playoffs",
+   "side": "N",
+   "entry_price": 0.62,
+   "exit_price": 0.01,
+   "pnl": -19.6774,
+   "closed": "2026-11-20T18:41:24",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Counter-Strike: Envy vs Nexus (BO3) - RUSH Brno Playoffs",
+   "side": "N",
+   "entry_price": 0.57,
+   "exit_price": 0.01,
+   "pnl": -19.6491,
+   "closed": "2026-11-20T18:41:24",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Envy vs Nexus (BO3) - RUSH Brno Playoffs",
+   "side": "Y",
+   "entry_price": 0.87,
+   "exit_price": 0.999,
+   "pnl": 2.9655,
+   "closed": "2026-11-20T18:41:24",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Dota 2: PARIVISION vs LEGION (BO3) - BLAST Slam Group C",
@@ -758,76 +844,6 @@
    "exit_price": 0.01,
    "pnl": -19.5122,
    "closed": "2026-11-20T14:20:42",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: PRIVATE vs ENJOY (BO3) - GLuck Yungstar Wildcard LAN Playoffs",
-   "side": "Y",
-   "entry_price": 0.84,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-20T14:02:50",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 20?",
-   "side": "Y",
-   "entry_price": 0.941,
-   "exit_price": 0.991,
-   "pnl": 1.0627,
-   "closed": "2026-11-20T14:02:49",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 20?",
-   "side": "Y",
-   "entry_price": 0.94,
-   "exit_price": 0.991,
-   "pnl": 1.0851,
-   "closed": "2026-11-20T14:02:49",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will IShowSpeed finish GTA VI by November 21, 11:59 AM ET?",
-   "side": "Y",
-   "entry_price": 0.94,
-   "exit_price": 0.923,
-   "pnl": -0.3617,
-   "closed": "2026-11-20T13:27:09",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Team Spirit vs Team Nemesis (BO3) - BLAST Slam Group B",
-   "side": "Y",
-   "entry_price": 0.93,
-   "exit_price": 0.01,
-   "pnl": -19.7849,
-   "closed": "2026-11-20T13:27:09",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Helsinki: Nicolai Budkov Kjaer vs Laslo Djere",
-   "side": "N",
-   "entry_price": 0.71,
-   "exit_price": 0.999,
-   "pnl": 8.1408,
-   "closed": "2026-11-20T13:27:09",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Helsinki: Nicolai Budkov Kjaer vs Laslo Djere",
-   "side": "N",
-   "entry_price": 0.71,
-   "exit_price": 0.999,
-   "pnl": 8.1408,
-   "closed": "2026-11-20T13:27:09",
    "motivo": "prezzo a fine corsa"
   }
  ]
