@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T21:37:01",
+ "generated_at": "2026-11-20T22:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 37,
-   "aperti": 14,
-   "pnl": 0.14,
-   "rend_medio_pct": 0.02,
-   "t": 0.0,
-   "rend40_pct": 0.02,
-   "t40": 0.0
+   "chiusi": 39,
+   "aperti": 15,
+   "pnl": 7.8,
+   "rend_medio_pct": 1.0,
+   "t": 0.16,
+   "rend40_pct": 1.0,
+   "t40": 0.16
   },
   {
    "id": "924891e0f0",
@@ -57,7 +57,7 @@
     "pmin": 0.1
    },
    "chiusi": 0,
-   "aperti": 7,
+   "aperti": 8,
    "pnl": 0,
    "rend_medio_pct": 0.0,
    "t": 0.0,
@@ -74,29 +74,61 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 36,
+   "chiusi": 37,
    "aperti": 15,
-   "pnl": 22.16,
-   "rend_medio_pct": 3.08,
-   "t": 0.1,
-   "rend40_pct": 3.08,
-   "t40": 0.1
+   "pnl": 2.26,
+   "rend_medio_pct": 0.31,
+   "t": 0.01,
+   "rend40_pct": 0.31,
+   "t40": 0.01
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $56,000 on November 23?",
+   "side": "Y",
+   "entry_price": 0.863,
+   "importo": 20.0,
+   "opened": "2026-11-20T22:04:50"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Valorant: Cloud9 vs counterfeit (BO3) - VCT Americas Kickoff: North America Swiss Stage",
+   "side": "Y",
+   "entry_price": 0.82,
+   "importo": 20.0,
+   "opened": "2026-11-20T22:04:50"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin dip to $57,500 in November?",
+   "side": "Y",
+   "entry_price": 0.768,
+   "importo": 20.0,
+   "opened": "2026-11-20T22:04:49"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Carlos Alcaraz win the 2026 Nitto ATP Finals?",
+   "side": "Y",
+   "entry_price": 0.51,
+   "importo": 20.0,
+   "opened": "2026-11-20T22:04:49"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the lowest temperature in Hong Kong be 15°C on November 21?",
+   "side": "Y",
+   "entry_price": 0.96,
+   "importo": 20.0,
+   "opened": "2026-11-20T21:47:50"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Valorant: FlyQuest vs Masterclass (BO3) - VCT Americas Kickoff: North America Swiss Stage",
    "side": "N",
    "entry_price": 0.52,
-   "importo": 20.0,
-   "opened": "2026-11-20T21:30:57"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Sinners vs Metizport - Map 2 Winner",
-   "side": "Y",
-   "entry_price": 0.84,
    "importo": 20.0,
    "opened": "2026-11-20T21:30:57"
   },
@@ -147,22 +179,6 @@
    "entry_price": 0.415,
    "importo": 20.0,
    "opened": "2026-11-20T20:57:05"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs",
-   "side": "Y",
-   "entry_price": 0.83,
-   "importo": 20.0,
-   "opened": "2026-11-20T20:57:04"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs",
-   "side": "N",
-   "entry_price": 0.19,
-   "importo": 20.0,
-   "opened": "2026-11-20T20:57:04"
   },
   {
    "rule_id": "924891e0f0",
@@ -494,6 +510,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs",
+   "side": "Y",
+   "entry_price": 0.83,
+   "exit_price": 0.997,
+   "pnl": 4.0241,
+   "closed": "2026-11-20T22:04:49",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs",
+   "side": "N",
+   "entry_price": 0.19,
+   "exit_price": 0.001,
+   "pnl": -19.8947,
+   "closed": "2026-11-20T22:04:49",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Sinners vs Metizport - Map 2 Winner",
+   "side": "Y",
+   "entry_price": 0.84,
+   "exit_price": 0.993,
+   "pnl": 3.6428,
+   "closed": "2026-11-20T22:04:49",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will FC Bayern München win on 2026-11-20?",
@@ -862,36 +908,6 @@
    "exit_price": 0.999,
    "pnl": 2.2,
    "closed": "2026-11-20T18:24:20",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: PARIVISION vs LEGION - Game 2 Winner",
-   "side": "N",
-   "entry_price": 0.73,
-   "exit_price": 0.01,
-   "pnl": -19.726,
-   "closed": "2026-11-20T18:24:20",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 1 Winner",
-   "side": "Y",
-   "entry_price": 0.85,
-   "exit_price": 0.999,
-   "pnl": 3.5059,
-   "closed": "2026-11-20T17:50:21",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 1 Winner",
-   "side": "Y",
-   "entry_price": 0.85,
-   "exit_price": 0.999,
-   "pnl": 3.5059,
-   "closed": "2026-11-20T17:50:21",
    "motivo": "prezzo a fine corsa"
   }
  ]
