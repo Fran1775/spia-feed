@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T23:07:01",
+ "generated_at": "2026-11-20T23:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 22,
+   "chiusi": 23,
    "aperti": 15,
-   "pnl": -24.46,
-   "rend_medio_pct": -5.56,
-   "t": -0.46,
-   "rend40_pct": -5.56,
-   "t40": -0.46
+   "pnl": -14.74,
+   "rend_medio_pct": -3.2,
+   "t": -0.27,
+   "rend40_pct": -3.2,
+   "t40": -0.27
   },
   {
    "id": "84fb9952fb",
@@ -57,7 +57,7 @@
     "pmin": 0.1
    },
    "chiusi": 0,
-   "aperti": 9,
+   "aperti": 11,
    "pnl": 0,
    "rend_medio_pct": 0.0,
    "t": 0.0,
@@ -74,16 +74,48 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 39,
+   "chiusi": 40,
    "aperti": 15,
-   "pnl": -37.74,
-   "rend_medio_pct": -4.84,
-   "t": -0.16,
-   "rend40_pct": -4.84,
-   "t40": -0.16
+   "pnl": -28.02,
+   "rend_medio_pct": -3.5,
+   "t": -0.12,
+   "rend40_pct": -3.5,
+   "t40": -0.12
   }
  ],
  "aperte": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Rockets vs. Nuggets",
+   "side": "Y",
+   "entry_price": 0.47,
+   "importo": 20.0,
+   "opened": "2026-11-20T23:30:25"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Howard Lutnick out as Secretary of Commerce by December 31?",
+   "side": "Y",
+   "entry_price": 0.24,
+   "importo": 20.0,
+   "opened": "2026-11-20T23:30:25"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Champaign: Lui Maxted vs Shunsuke Mitsui",
+   "side": "N",
+   "entry_price": 0.81,
+   "importo": 20.0,
+   "opened": "2026-11-20T23:13:03"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "UFC Fight Night: Jirí Procházka vs. Navajo Stirling (Light Heavyweight, Main Card)",
+   "side": "Y",
+   "entry_price": 0.38,
+   "importo": 20.0,
+   "opened": "2026-11-20T23:13:03"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Jaguars vs. Giants: O/U 46.5",
@@ -203,22 +235,6 @@
    "entry_price": 0.415,
    "importo": 20.0,
    "opened": "2026-11-20T20:57:05"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Montevideo: Oriol Roca Batalla vs Thiago Seyboth Wild",
-   "side": "N",
-   "entry_price": 0.673,
-   "importo": 20.0,
-   "opened": "2026-11-20T20:57:04"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Montevideo: Oriol Roca Batalla vs Thiago Seyboth Wild",
-   "side": "N",
-   "entry_price": 0.673,
-   "importo": 20.0,
-   "opened": "2026-11-20T20:57:04"
   },
   {
    "rule_id": "924891e0f0",
@@ -518,6 +534,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Montevideo: Oriol Roca Batalla vs Thiago Seyboth Wild",
+   "side": "N",
+   "entry_price": 0.673,
+   "exit_price": 1.0,
+   "pnl": 9.7177,
+   "closed": "2026-11-20T23:13:03",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Montevideo: Oriol Roca Batalla vs Thiago Seyboth Wild",
+   "side": "N",
+   "entry_price": 0.673,
+   "exit_price": 1.0,
+   "pnl": 9.7177,
+   "closed": "2026-11-20T23:13:03",
+   "motivo": "risoluzione"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Counter-Strike: WBT vs Phantom (BO3) - NODWIN Clutch Series Playoffs",
@@ -895,26 +931,6 @@
    "entry_price": 0.62,
    "exit_price": 0.01,
    "pnl": -19.6774,
-   "closed": "2026-11-20T18:41:24",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: Envy vs Nexus (BO3) - RUSH Brno Playoffs",
-   "side": "N",
-   "entry_price": 0.57,
-   "exit_price": 0.01,
-   "pnl": -19.6491,
-   "closed": "2026-11-20T18:41:24",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Envy vs Nexus (BO3) - RUSH Brno Playoffs",
-   "side": "Y",
-   "entry_price": 0.87,
-   "exit_price": 0.999,
-   "pnl": 2.9655,
    "closed": "2026-11-20T18:41:24",
    "motivo": "prezzo a fine corsa"
   }
