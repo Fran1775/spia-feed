@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T14:37:01",
+ "generated_at": "2026-11-20T15:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 13,
-   "aperti": 14,
-   "pnl": -15.92,
-   "rend_medio_pct": -6.12,
-   "t": -0.55,
-   "rend40_pct": -6.12,
-   "t40": -0.55
+   "chiusi": 16,
+   "aperti": 12,
+   "pnl": -9.05,
+   "rend_medio_pct": -2.83,
+   "t": -0.3,
+   "rend40_pct": -2.83,
+   "t40": -0.3
   },
   {
    "id": "924891e0f0",
@@ -74,23 +74,31 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 11,
+   "chiusi": 12,
    "aperti": 15,
-   "pnl": -85.48,
-   "rend_medio_pct": -38.86,
-   "t": -2.0,
-   "rend40_pct": -38.86,
-   "t40": -2.0
+   "pnl": -104.8,
+   "rend_medio_pct": -43.66,
+   "t": -2.38,
+   "rend40_pct": -43.66,
+   "t40": -2.38
   }
  ],
  "aperte": [
   {
    "rule_id": "a042d572b3",
-   "market_nome": "Metz: Soon-Woo Kwon vs Dino Prizmic",
-   "side": "N",
-   "entry_price": 0.29,
+   "market_nome": "Dota 2: Natus Vincere vs OG - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.42,
    "importo": 20.0,
-   "opened": "2026-11-20T14:20:42"
+   "opened": "2026-11-20T14:56:08"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: GamerLegion vs Xtreme Gaming (BO3) - BLAST Slam Group B",
+   "side": "Y",
+   "entry_price": 0.8,
+   "importo": 20.0,
+   "opened": "2026-11-20T14:56:08"
   },
   {
    "rule_id": "2a906fe26e",
@@ -105,14 +113,6 @@
    "market_nome": "Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A",
    "side": "N",
    "entry_price": 0.15,
-   "importo": 20.0,
-   "opened": "2026-11-20T14:20:42"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Luminosity vs BIG - Map 2 Winner",
-   "side": "Y",
-   "entry_price": 0.92,
    "importo": 20.0,
    "opened": "2026-11-20T14:20:42"
   },
@@ -133,14 +133,6 @@
    "opened": "2026-11-20T13:27:09"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: CyberHero vs angry birds (BO5) - Asgard Championship Playoffs",
-   "side": "Y",
-   "entry_price": 0.93,
-   "importo": 20.0,
-   "opened": "2026-11-20T10:46:05"
-  },
-  {
    "rule_id": "a042d572b3",
    "market_nome": "Will FC Bayern München win on 2026-11-20?",
    "side": "N",
@@ -153,14 +145,6 @@
    "market_nome": "Will FC Bayern München win on 2026-11-20?",
    "side": "Y",
    "entry_price": 0.92,
-   "importo": 20.0,
-   "opened": "2026-11-20T05:28:17"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will IShowSpeed finish GTA VI by November 20?",
-   "side": "Y",
-   "entry_price": 0.79,
    "importo": 20.0,
    "opened": "2026-11-20T05:28:17"
   },
@@ -438,6 +422,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Metz: Soon-Woo Kwon vs Dino Prizmic",
+   "side": "N",
+   "entry_price": 0.29,
+   "exit_price": 0.01,
+   "pnl": -19.3103,
+   "closed": "2026-11-20T14:56:08",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will IShowSpeed finish GTA VI by November 20?",
+   "side": "Y",
+   "entry_price": 0.79,
+   "exit_price": 0.991,
+   "pnl": 5.0887,
+   "closed": "2026-11-20T14:38:33",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: CyberHero vs angry birds (BO5) - Asgard Championship Playoffs",
+   "side": "Y",
+   "entry_price": 0.93,
+   "exit_price": 0.942,
+   "pnl": 0.2581,
+   "closed": "2026-11-20T14:38:33",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Luminosity vs BIG - Map 2 Winner",
+   "side": "Y",
+   "entry_price": 0.92,
+   "exit_price": 0.99,
+   "pnl": 1.5217,
+   "closed": "2026-11-20T14:38:33",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Flavio Cobolli",
