@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T10:37:01",
+ "generated_at": "2026-11-20T11:07:02",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 6,
+   "chiusi": 8,
    "aperti": 15,
-   "pnl": 18.01,
-   "rend_medio_pct": 15.01,
-   "t": 4.89,
-   "rend40_pct": 15.01,
-   "t40": 4.89
+   "pnl": 20.96,
+   "rend_medio_pct": 13.1,
+   "t": 5.06,
+   "rend40_pct": 13.1,
+   "t40": 5.06
   },
   {
    "id": "924891e0f0",
@@ -74,16 +74,40 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 5,
+   "chiusi": 6,
    "aperti": 15,
-   "pnl": -39.77,
-   "rend_medio_pct": -39.77,
-   "t": -1.25,
-   "rend40_pct": -39.77,
-   "t40": -1.25
+   "pnl": -58.26,
+   "rend_medio_pct": -48.55,
+   "t": -1.76,
+   "rend40_pct": -48.55,
+   "t40": -1.76
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Team Spirit vs Team Nemesis (BO3) - BLAST Slam Group B",
+   "side": "Y",
+   "entry_price": 0.93,
+   "importo": 20.0,
+   "opened": "2026-11-20T10:46:05"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: CyberHero vs angry birds (BO5) - Asgard Championship Playoffs",
+   "side": "Y",
+   "entry_price": 0.93,
+   "importo": 20.0,
+   "opened": "2026-11-20T10:46:05"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will FC Bayern München win on 2026-11-20?",
+   "side": "N",
+   "entry_price": 0.1,
+   "importo": 20.0,
+   "opened": "2026-11-20T10:46:04"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Counter-Strike: PRIVATE vs ENJOY (BO3) - GLuck Yungstar Wildcard LAN Playoffs",
@@ -99,14 +123,6 @@
    "entry_price": 0.94,
    "importo": 20.0,
    "opened": "2026-11-20T08:33:13"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will IShowSpeed finish GTA VI by November 21?",
-   "side": "Y",
-   "entry_price": 0.929,
-   "importo": 20.0,
-   "opened": "2026-11-20T07:56:02"
   },
   {
    "rule_id": "2a906fe26e",
@@ -427,25 +443,39 @@
    "entry_price": 0.5,
    "importo": 20.0,
    "opened": "2026-11-19T20:43:17"
-  },
+  }
+ ],
+ "ultime_chiuse": [
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will IShowSpeed finish GTA VI by November 22?",
    "side": "Y",
    "entry_price": 0.905,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:43:17"
+   "exit_price": 0.984,
+   "pnl": 1.7458,
+   "closed": "2026-11-20T10:46:04",
+   "motivo": "prezzo a fine corsa"
   },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will IShowSpeed finish GTA VI by November 22?",
    "side": "N",
    "entry_price": 0.106,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:43:17"
-  }
- ],
- "ultime_chiuse": [
+   "exit_price": 0.008,
+   "pnl": -18.4906,
+   "closed": "2026-11-20T10:46:04",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will IShowSpeed finish GTA VI by November 21?",
+   "side": "Y",
+   "entry_price": 0.929,
+   "exit_price": 0.985,
+   "pnl": 1.2056,
+   "closed": "2026-11-20T10:46:04",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Bitcoin Up or Down - November 19, 10:45PM-11:00PM ET",
