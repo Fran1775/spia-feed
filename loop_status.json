@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T17:07:01",
+ "generated_at": "2026-11-20T17:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 22,
-   "aperti": 12,
-   "pnl": -37.44,
-   "rend_medio_pct": -8.51,
-   "t": -0.92,
-   "rend40_pct": -8.51,
-   "t40": -0.92
+   "chiusi": 24,
+   "aperti": 14,
+   "pnl": -28.48,
+   "rend_medio_pct": -5.93,
+   "t": -0.68,
+   "rend40_pct": -5.93,
+   "t40": -0.68
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 10,
+   "chiusi": 11,
    "aperti": 15,
-   "pnl": 15.52,
-   "rend_medio_pct": 7.76,
-   "t": 0.34,
-   "rend40_pct": 7.76,
-   "t40": 0.34
+   "pnl": -4.08,
+   "rend_medio_pct": -1.85,
+   "t": -0.08,
+   "rend40_pct": -1.85,
+   "t40": -0.08
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,64 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 19,
+   "chiusi": 20,
    "aperti": 15,
-   "pnl": -46.93,
-   "rend_medio_pct": -12.35,
-   "t": -0.36,
-   "rend40_pct": -12.35,
-   "t40": -0.36
+   "pnl": -66.52,
+   "rend_medio_pct": -16.63,
+   "t": -0.51,
+   "rend40_pct": -16.63,
+   "t40": -0.51
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Team Liquid vs DO KONCA (BO3) - BLAST Slam Group C",
+   "side": "Y",
+   "entry_price": 0.84,
+   "importo": 20.0,
+   "opened": "2026-11-20T17:32:47"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: PARIVISION vs LEGION - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.9,
+   "importo": 20.0,
+   "opened": "2026-11-20T17:32:47"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 1 Winner",
+   "side": "Y",
+   "entry_price": 0.85,
+   "importo": 20.0,
+   "opened": "2026-11-20T17:15:17"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 1 Winner",
+   "side": "Y",
+   "entry_price": 0.85,
+   "importo": 20.0,
+   "opened": "2026-11-20T17:15:17"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "AI bubble burst in 2026?",
+   "side": "Y",
+   "entry_price": 0.29,
+   "importo": 20.0,
+   "opened": "2026-11-20T17:15:17"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Game Handicap: PARI (-1.5) vs LEGION (+1.5)",
+   "side": "Y",
+   "entry_price": 0.85,
+   "importo": 20.0,
+   "opened": "2026-11-20T17:15:17"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Counter-Strike: Envy vs Nexus (BO3) - RUSH Brno Playoffs",
@@ -158,14 +206,6 @@
   },
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: FORZE Reload vs BakS eSports (BO3) - GLuck Yungstar Wildcard LAN Playoffs",
-   "side": "Y",
-   "entry_price": 0.8,
-   "importo": 20.0,
-   "opened": "2026-11-20T15:48:38"
-  },
-  {
-   "rule_id": "2a906fe26e",
    "market_nome": "Will \"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office be at least 105m?",
    "side": "Y",
    "entry_price": 0.922,
@@ -177,14 +217,6 @@
    "market_nome": "Will Bitcoin dip to $55,000 by December 31, 2026?",
    "side": "Y",
    "entry_price": 0.47,
-   "importo": 20.0,
-   "opened": "2026-11-20T13:27:09"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Elon Musk post 340-359 tweets from November 13 to November 20, 2026?",
-   "side": "Y",
-   "entry_price": 0.833,
    "importo": 20.0,
    "opened": "2026-11-20T13:27:09"
   },
@@ -235,22 +267,6 @@
    "entry_price": 0.59,
    "importo": 20.0,
    "opened": "2026-11-19T21:13:01"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Elon Musk post 360-379 tweets from November 13 to November 20, 2026?",
-   "side": "Y",
-   "entry_price": 0.489,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:47:44"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Elon Musk post 360-379 tweets from November 13 to November 20, 2026?",
-   "side": "Y",
-   "entry_price": 0.489,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:47:44"
   },
   {
    "rule_id": "924891e0f0",
@@ -422,6 +438,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Elon Musk post 340-359 tweets from November 13 to November 20, 2026?",
+   "side": "Y",
+   "entry_price": 0.833,
+   "exit_price": 0.999,
+   "pnl": 3.9856,
+   "closed": "2026-11-20T17:15:17",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: FORZE Reload vs BakS eSports (BO3) - GLuck Yungstar Wildcard LAN Playoffs",
+   "side": "Y",
+   "entry_price": 0.8,
+   "exit_price": 0.999,
+   "pnl": 4.975,
+   "closed": "2026-11-20T17:15:17",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post 360-379 tweets from November 13 to November 20, 2026?",
+   "side": "Y",
+   "entry_price": 0.489,
+   "exit_price": 0.01,
+   "pnl": -19.591,
+   "closed": "2026-11-20T17:15:16",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Elon Musk post 360-379 tweets from November 13 to November 20, 2026?",
+   "side": "Y",
+   "entry_price": 0.489,
+   "exit_price": 0.01,
+   "pnl": -19.591,
+   "closed": "2026-11-20T17:15:16",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Dota 2: PARIVISION vs LEGION - Game 1 Winner",
@@ -781,46 +837,6 @@
    "pnl": 4.0964,
    "closed": "2026-11-20T04:14:49",
    "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Trail Blazers vs. Bucks",
-   "side": "Y",
-   "entry_price": 0.82,
-   "exit_price": 0.999,
-   "pnl": 4.3658,
-   "closed": "2026-11-20T03:37:28",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Trail Blazers vs. Bucks",
-   "side": "N",
-   "entry_price": 0.19,
-   "exit_price": 0.01,
-   "pnl": -18.9474,
-   "closed": "2026-11-20T03:37:28",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: regain vs Milk (BO3) - CROSSFIRE Playoffs",
-   "side": "Y",
-   "entry_price": 0.88,
-   "exit_price": 0.999,
-   "pnl": 2.7046,
-   "closed": "2026-11-20T03:37:28",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the highest temperature in Shenzhen be 19°C on November 20?",
-   "side": "Y",
-   "entry_price": 0.95,
-   "exit_price": 0.983,
-   "pnl": 0.6947,
-   "closed": "2026-11-20T01:46:12",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
