@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T14:07:01",
+ "generated_at": "2026-11-20T14:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 12,
-   "aperti": 13,
-   "pnl": -18.12,
-   "rend_medio_pct": -7.55,
-   "t": -0.63,
-   "rend40_pct": -7.55,
-   "t40": -0.63
+   "chiusi": 13,
+   "aperti": 14,
+   "pnl": -15.92,
+   "rend_medio_pct": -6.12,
+   "t": -0.55,
+   "rend40_pct": -6.12,
+   "t40": -0.55
   },
   {
    "id": "924891e0f0",
@@ -74,39 +74,47 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 9,
+   "chiusi": 11,
    "aperti": 15,
-   "pnl": -68.17,
-   "rend_medio_pct": -37.87,
-   "t": -1.71,
-   "rend40_pct": -37.87,
-   "t40": -1.71
+   "pnl": -85.48,
+   "rend_medio_pct": -38.86,
+   "t": -2.0,
+   "rend40_pct": -38.86,
+   "t40": -2.0
   }
  ],
  "aperte": [
   {
    "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: Natus Vincere vs OG - Game 1 Winner",
+   "market_nome": "Metz: Soon-Woo Kwon vs Dino Prizmic",
    "side": "N",
-   "entry_price": 0.41,
+   "entry_price": 0.29,
    "importo": 20.0,
-   "opened": "2026-11-20T14:02:50"
+   "opened": "2026-11-20T14:20:42"
   },
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Flavio Cobolli",
+   "market_nome": "Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A",
    "side": "Y",
-   "entry_price": 0.9,
+   "entry_price": 0.86,
    "importo": 20.0,
-   "opened": "2026-11-20T13:27:09"
+   "opened": "2026-11-20T14:20:42"
   },
   {
    "rule_id": "a042d572b3",
-   "market_nome": "ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Flavio Cobolli",
-   "side": "Y",
-   "entry_price": 0.9,
+   "market_nome": "Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A",
+   "side": "N",
+   "entry_price": 0.15,
    "importo": 20.0,
-   "opened": "2026-11-20T13:27:09"
+   "opened": "2026-11-20T14:20:42"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Luminosity vs BIG - Map 2 Winner",
+   "side": "Y",
+   "entry_price": 0.92,
+   "importo": 20.0,
+   "opened": "2026-11-20T14:20:42"
   },
   {
    "rule_id": "924891e0f0",
@@ -430,6 +438,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Flavio Cobolli",
+   "side": "Y",
+   "entry_price": 0.9,
+   "exit_price": 0.999,
+   "pnl": 2.2,
+   "closed": "2026-11-20T14:20:42",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Flavio Cobolli",
+   "side": "Y",
+   "entry_price": 0.9,
+   "exit_price": 0.999,
+   "pnl": 2.2,
+   "closed": "2026-11-20T14:20:42",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: Natus Vincere vs OG - Game 1 Winner",
+   "side": "N",
+   "entry_price": 0.41,
+   "exit_price": 0.01,
+   "pnl": -19.5122,
+   "closed": "2026-11-20T14:20:42",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Counter-Strike: PRIVATE vs ENJOY (BO3) - GLuck Yungstar Wildcard LAN Playoffs",
