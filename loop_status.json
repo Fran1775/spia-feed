@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T22:37:01",
+ "generated_at": "2026-11-20T23:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -57,7 +57,7 @@
     "pmin": 0.1
    },
    "chiusi": 0,
-   "aperti": 8,
+   "aperti": 9,
    "pnl": 0,
    "rend_medio_pct": 0.0,
    "t": 0.0,
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 38,
+   "chiusi": 39,
    "aperti": 15,
-   "pnl": -17.74,
-   "rend_medio_pct": -2.33,
-   "t": -0.08,
-   "rend40_pct": -2.33,
-   "t40": -0.08
+   "pnl": -37.74,
+   "rend_medio_pct": -4.84,
+   "t": -0.16,
+   "rend40_pct": -4.84,
+   "t40": -0.16
   }
  ],
  "aperte": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Jaguars vs. Giants: O/U 46.5",
+   "side": "Y",
+   "entry_price": 0.5,
+   "importo": 20.0,
+   "opened": "2026-11-20T22:56:07"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Champaign: Lui Maxted vs Shunsuke Mitsui",
+   "side": "N",
+   "entry_price": 0.76,
+   "importo": 20.0,
+   "opened": "2026-11-20T22:56:06"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
@@ -333,14 +349,6 @@
    "opened": "2026-11-20T19:49:19"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: WBT vs Phantom (BO3) - NODWIN Clutch Series Playoffs",
-   "side": "Y",
-   "entry_price": 0.22,
-   "importo": 20.0,
-   "opened": "2026-11-20T19:32:20"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Valorant: Shopify Rebellion Black vs Xora Esports (BO3) - VCT Americas Kickoff: North America Swiss Stage",
    "side": "Y",
@@ -510,6 +518,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Counter-Strike: WBT vs Phantom (BO3) - NODWIN Clutch Series Playoffs",
+   "side": "Y",
+   "entry_price": 0.22,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-20T22:56:06",
+   "motivo": "risoluzione"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Champaign: Gavin Young vs Bor Artnak",
@@ -898,16 +916,6 @@
    "exit_price": 0.999,
    "pnl": 2.9655,
    "closed": "2026-11-20T18:41:24",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: PARIVISION vs LEGION (BO3) - BLAST Slam Group C",
-   "side": "Y",
-   "entry_price": 0.92,
-   "exit_price": 0.999,
-   "pnl": 1.7174,
-   "closed": "2026-11-20T18:24:20",
    "motivo": "prezzo a fine corsa"
   }
  ]
