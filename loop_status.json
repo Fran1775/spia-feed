@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T12:07:01",
+ "generated_at": "2026-11-20T12:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 5,
+   "chiusi": 6,
    "aperti": 15,
-   "pnl": 13.11,
-   "rend_medio_pct": 13.11,
-   "t": 0.49,
-   "rend40_pct": 13.11,
-   "t40": 0.49
+   "pnl": -6.03,
+   "rend_medio_pct": -5.03,
+   "t": -0.18,
+   "rend40_pct": -5.03,
+   "t40": -0.18
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 6,
+   "chiusi": 7,
    "aperti": 15,
-   "pnl": -58.26,
-   "rend_medio_pct": -48.55,
-   "t": -1.76,
-   "rend40_pct": -48.55,
-   "t40": -1.76
+   "pnl": -77.4,
+   "rend_medio_pct": -55.28,
+   "t": -2.26,
+   "rend40_pct": -55.28,
+   "t40": -2.26
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Helsinki: Nicolai Budkov Kjaer vs Laslo Djere",
+   "side": "N",
+   "entry_price": 0.71,
+   "importo": 20.0,
+   "opened": "2026-11-20T12:34:36"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Helsinki: Nicolai Budkov Kjaer vs Laslo Djere",
+   "side": "N",
+   "entry_price": 0.71,
+   "importo": 20.0,
+   "opened": "2026-11-20T12:34:36"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Dota 2: Team Spirit vs Team Nemesis (BO3) - BLAST Slam Group B",
@@ -397,22 +413,6 @@
    "opened": "2026-11-19T20:43:17"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Elon Musk post 380-399 tweets from November 13 to November 20, 2026?",
-   "side": "Y",
-   "entry_price": 0.233,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:43:17"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Elon Musk post 380-399 tweets from November 13 to November 20, 2026?",
-   "side": "Y",
-   "entry_price": 0.233,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:43:17"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $60,000 on November 20?",
    "side": "Y",
@@ -446,6 +446,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post 380-399 tweets from November 13 to November 20, 2026?",
+   "side": "Y",
+   "entry_price": 0.233,
+   "exit_price": 0.01,
+   "pnl": -19.1416,
+   "closed": "2026-11-20T12:34:35",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Elon Musk post 380-399 tweets from November 13 to November 20, 2026?",
+   "side": "Y",
+   "entry_price": 0.233,
+   "exit_price": 0.01,
+   "pnl": -19.1416,
+   "closed": "2026-11-20T12:34:35",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will IShowSpeed finish GTA VI by November 22?",
