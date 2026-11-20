@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T03:07:01",
+ "generated_at": "2026-11-20T03:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 3,
-   "aperti": 11,
+   "aperti": 12,
    "pnl": 6.85,
    "rend_medio_pct": 11.41,
    "t": 2.3,
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: regain vs Milk (BO3) - CROSSFIRE Playoffs",
+   "side": "Y",
+   "entry_price": 0.88,
+   "importo": 20.0,
+   "opened": "2026-11-20T03:18:59"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Real Madrid CF win on 2026-11-21?",
