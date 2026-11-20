@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T16:07:01",
+ "generated_at": "2026-11-20T16:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 18,
-   "aperti": 14,
+   "aperti": 15,
    "pnl": -2.82,
    "rend_medio_pct": -0.78,
    "t": -0.09,
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: PARIVISION vs LEGION - Game 1 Winner",
+   "side": "Y",
+   "entry_price": 0.91,
+   "importo": 20.0,
+   "opened": "2026-11-20T16:23:31"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $56,000 on November 21?",
