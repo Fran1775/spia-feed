@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T08:07:01",
+ "generated_at": "2026-11-20T08:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 6,
-   "aperti": 13,
+   "aperti": 14,
    "pnl": 18.01,
    "rend_medio_pct": 15.01,
    "t": 4.89,
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will IShowSpeed finish GTA VI by November 21, 11:59 AM ET?",
+   "side": "Y",
+   "entry_price": 0.94,
+   "importo": 20.0,
+   "opened": "2026-11-20T08:33:13"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will IShowSpeed finish GTA VI by November 21?",
