@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T17:37:01",
+ "generated_at": "2026-11-20T18:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 24,
-   "aperti": 14,
-   "pnl": -28.48,
-   "rend_medio_pct": -5.93,
-   "t": -0.68,
-   "rend40_pct": -5.93,
-   "t40": -0.68
+   "chiusi": 25,
+   "aperti": 13,
+   "pnl": -24.98,
+   "rend_medio_pct": -5.0,
+   "t": -0.6,
+   "rend40_pct": -5.0,
+   "t40": -0.6
   },
   {
    "id": "924891e0f0",
@@ -74,16 +74,24 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 20,
+   "chiusi": 21,
    "aperti": 15,
-   "pnl": -66.52,
-   "rend_medio_pct": -16.63,
-   "t": -0.51,
-   "rend40_pct": -16.63,
-   "t40": -0.51
+   "pnl": -63.01,
+   "rend_medio_pct": -15.0,
+   "t": -0.48,
+   "rend40_pct": -15.0,
+   "t40": -0.48
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: PARIVISION vs LEGION - Game 2 Winner",
+   "side": "N",
+   "entry_price": 0.73,
+   "importo": 20.0,
+   "opened": "2026-11-20T17:50:21"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Dota 2: Team Liquid vs DO KONCA (BO3) - BLAST Slam Group C",
@@ -99,22 +107,6 @@
    "entry_price": 0.9,
    "importo": 20.0,
    "opened": "2026-11-20T17:32:47"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 1 Winner",
-   "side": "Y",
-   "entry_price": 0.85,
-   "importo": 20.0,
-   "opened": "2026-11-20T17:15:17"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 1 Winner",
-   "side": "Y",
-   "entry_price": 0.85,
-   "importo": 20.0,
-   "opened": "2026-11-20T17:15:17"
   },
   {
    "rule_id": "924891e0f0",
@@ -438,6 +430,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 1 Winner",
+   "side": "Y",
+   "entry_price": 0.85,
+   "exit_price": 0.999,
+   "pnl": 3.5059,
+   "closed": "2026-11-20T17:50:21",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 1 Winner",
+   "side": "Y",
+   "entry_price": 0.85,
+   "exit_price": 0.999,
+   "pnl": 3.5059,
+   "closed": "2026-11-20T17:50:21",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Elon Musk post 340-359 tweets from November 13 to November 20, 2026?",
@@ -817,26 +829,6 @@
    "pnl": -18.4906,
    "closed": "2026-11-20T10:46:04",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will IShowSpeed finish GTA VI by November 21?",
-   "side": "Y",
-   "entry_price": 0.929,
-   "exit_price": 0.985,
-   "pnl": 1.2056,
-   "closed": "2026-11-20T10:46:04",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 19, 10:45PM-11:00PM ET",
-   "side": "Y",
-   "entry_price": 0.83,
-   "exit_price": 1.0,
-   "pnl": 4.0964,
-   "closed": "2026-11-20T04:14:49",
-   "motivo": "risoluzione"
   }
  ]
 }
