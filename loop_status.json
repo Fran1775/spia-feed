@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T00:07:01",
+ "generated_at": "2026-11-20T00:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 4,
+   "chiusi": 5,
    "aperti": 15,
-   "pnl": 1.89,
-   "rend_medio_pct": 2.36,
-   "t": 0.08,
-   "rend40_pct": 2.36,
-   "t40": 0.08
+   "pnl": 13.11,
+   "rend_medio_pct": 13.11,
+   "t": 0.49,
+   "rend40_pct": 13.11,
+   "t40": 0.49
   },
   {
    "id": "84fb9952fb",
@@ -86,11 +86,11 @@
  "aperte": [
   {
    "rule_id": "924891e0f0",
-   "market_nome": "Champaign: Jordan Lee vs Andres Martin",
-   "side": "Y",
-   "entry_price": 0.64,
+   "market_nome": "Will Anthropic's valuation hit (HIGH) $1.75T by December 31?",
+   "side": "N",
+   "entry_price": 0.71,
    "importo": 20.0,
-   "opened": "2026-11-19T23:35:36"
+   "opened": "2026-11-20T00:30:35"
   },
   {
    "rule_id": "924891e0f0",
@@ -414,6 +414,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Champaign: Jordan Lee vs Andres Martin",
+   "side": "Y",
+   "entry_price": 0.64,
+   "exit_price": 0.999,
+   "pnl": 11.2188,
+   "closed": "2026-11-20T00:30:35",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "M25 Lajeado: Ryo Tabata vs Mateus Alves",
