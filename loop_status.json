@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T18:37:01",
+ "generated_at": "2026-11-21T19:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 65,
-   "aperti": 14,
-   "pnl": -43.56,
-   "rend_medio_pct": -3.35,
-   "t": -0.64,
-   "rend40_pct": -2.32,
-   "t40": -0.35
+   "chiusi": 67,
+   "aperti": 15,
+   "pnl": -41.64,
+   "rend_medio_pct": -3.11,
+   "t": -0.62,
+   "rend40_pct": -2.74,
+   "t40": -0.41
   },
   {
    "id": "924891e0f0",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 5,
+   "chiusi": 6,
    "aperti": 15,
-   "pnl": 30.13,
-   "rend_medio_pct": 30.13,
-   "t": 0.54,
-   "rend40_pct": 30.13,
-   "t40": 0.54
+   "pnl": 10.87,
+   "rend_medio_pct": 9.06,
+   "t": 0.18,
+   "rend40_pct": 9.06,
+   "t40": 0.18
   },
   {
    "id": "a042d572b3",
@@ -74,31 +74,55 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 57,
+   "chiusi": 60,
    "aperti": 15,
-   "pnl": -7.13,
-   "rend_medio_pct": -0.63,
-   "t": -0.03,
-   "rend40_pct": 19.34,
-   "t40": 0.65
+   "pnl": 0.47,
+   "rend_medio_pct": 0.04,
+   "t": 0.0,
+   "rend40_pct": 8.37,
+   "t40": 0.32
   }
  ],
  "aperte": [
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: PlayTime vs OG - Game 2 Winner",
+   "market_nome": "RKS Radomiak Radom vs. Wisla Krakow: O/U 0.5",
    "side": "Y",
-   "entry_price": 0.95,
+   "entry_price": 0.938,
    "importo": 20.0,
-   "opened": "2026-11-21T18:26:54"
+   "opened": "2026-11-21T19:00:24"
   },
   {
    "rule_id": "a042d572b3",
-   "market_nome": "UFC Fight Night: Jared Cannonier vs. Ikram Aliskerov (Middleweight, Main Card)",
+   "market_nome": "UFC Fight Night: Brian Ortega vs. Dan Hooker (Lightweight, Main Card)",
    "side": "N",
-   "entry_price": 0.78,
+   "entry_price": 0.65,
    "importo": 20.0,
-   "opened": "2026-11-21T18:10:12"
+   "opened": "2026-11-21T19:00:23"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin dip to $52,500 in November?",
+   "side": "N",
+   "entry_price": 0.8,
+   "importo": 20.0,
+   "opened": "2026-11-21T19:00:23"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "UFC Fight Night: Brian Ortega vs. Dan Hooker (Lightweight, Main Card)",
+   "side": "Y",
+   "entry_price": 0.35,
+   "importo": 20.0,
+   "opened": "2026-11-21T18:43:25"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 23?",
+   "side": "Y",
+   "entry_price": 0.802,
+   "importo": 20.0,
+   "opened": "2026-11-21T18:43:25"
   },
   {
    "rule_id": "924891e0f0",
@@ -486,14 +510,6 @@
   },
   {
    "rule_id": "84fb9952fb",
-   "market_nome": "UFC Fight Night: Jared Cannonier vs. Ikram Aliskerov (Middleweight, Main Card)",
-   "side": "Y",
-   "entry_price": 0.27,
-   "importo": 20.0,
-   "opened": "2026-11-20T20:40:18"
-  },
-  {
-   "rule_id": "84fb9952fb",
    "market_nome": "Spread: Lions (-7.5)",
    "side": "Y",
    "entry_price": 0.4,
@@ -515,14 +531,6 @@
    "entry_price": 0.859,
    "importo": 20.0,
    "opened": "2026-11-20T19:49:19"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin dip to $50,000 in November?",
-   "side": "N",
-   "entry_price": 0.833,
-   "importo": 20.0,
-   "opened": "2026-11-20T18:58:19"
   },
   {
    "rule_id": "2a906fe26e",
@@ -558,6 +566,66 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner",
+   "side": "Y",
+   "entry_price": 0.95,
+   "exit_price": 0.992,
+   "pnl": 0.8842,
+   "closed": "2026-11-21T19:00:23",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner",
+   "side": "Y",
+   "entry_price": 0.95,
+   "exit_price": 0.992,
+   "pnl": 0.8842,
+   "closed": "2026-11-21T19:00:23",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin dip to $50,000 in November?",
+   "side": "N",
+   "entry_price": 0.833,
+   "exit_price": 0.879,
+   "pnl": 1.1044,
+   "closed": "2026-11-21T19:00:22",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "UFC Fight Night: Jared Cannonier vs. Ikram Aliskerov (Middleweight, Main Card)",
+   "side": "N",
+   "entry_price": 0.78,
+   "exit_price": 0.999,
+   "pnl": 5.6154,
+   "closed": "2026-11-21T18:43:25",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: PlayTime vs OG - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.95,
+   "exit_price": 0.999,
+   "pnl": 1.0315,
+   "closed": "2026-11-21T18:43:25",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "UFC Fight Night: Jared Cannonier vs. Ikram Aliskerov (Middleweight, Main Card)",
+   "side": "Y",
+   "entry_price": 0.27,
+   "exit_price": 0.01,
+   "pnl": -19.2593,
+   "closed": "2026-11-21T18:43:24",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $54,000 on November 22?",
@@ -896,66 +964,6 @@
    "exit_price": 0.986,
    "pnl": 0.2256,
    "closed": "2026-11-21T10:18:00",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will \"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office be at least 105m?",
-   "side": "Y",
-   "entry_price": 0.922,
-   "exit_price": 0.987,
-   "pnl": 1.41,
-   "closed": "2026-11-21T09:27:26",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 28?",
-   "side": "Y",
-   "entry_price": 0.84,
-   "exit_price": 0.99,
-   "pnl": 3.5714,
-   "closed": "2026-11-21T09:27:26",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 21, 1:15AM-1:30AM ET",
-   "side": "Y",
-   "entry_price": 0.94,
-   "exit_price": 1.0,
-   "pnl": 1.2766,
-   "closed": "2026-11-21T06:41:35",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Rockets vs. Nuggets",
-   "side": "Y",
-   "entry_price": 0.47,
-   "exit_price": 0.01,
-   "pnl": -19.5745,
-   "closed": "2026-11-21T05:49:26",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Rockets vs. Nuggets",
-   "side": "Y",
-   "entry_price": 0.47,
-   "exit_price": 0.01,
-   "pnl": -19.5745,
-   "closed": "2026-11-21T05:49:26",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Spread: Suns (-4.5)",
-   "side": "Y",
-   "entry_price": 0.52,
-   "exit_price": 0.999,
-   "pnl": 18.423,
-   "closed": "2026-11-21T05:14:33",
    "motivo": "prezzo a fine corsa"
   }
  ]
