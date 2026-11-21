@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T14:37:01",
+ "generated_at": "2026-11-21T15:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 55,
+   "chiusi": 56,
    "aperti": 15,
-   "pnl": -49.34,
-   "rend_medio_pct": -4.49,
-   "t": -0.78,
-   "rend40_pct": -4.85,
-   "t40": -0.69
+   "pnl": -46.37,
+   "rend_medio_pct": -4.14,
+   "t": -0.73,
+   "rend40_pct": -4.67,
+   "t40": -0.66
   },
   {
    "id": "924891e0f0",
@@ -85,6 +85,14 @@
  ],
  "aperte": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down on November 21?",
+   "side": "Y",
+   "entry_price": 0.84,
+   "importo": 20.0,
+   "opened": "2026-11-21T14:44:31"
+  },
+  {
    "rule_id": "924891e0f0",
    "market_nome": "ATP World Tour Finals, Final Stage: Carlos Alcaraz vs Ben Shelton",
    "side": "Y",
@@ -115,14 +123,6 @@
    "entry_price": 0.948,
    "importo": 20.0,
    "opened": "2026-11-21T13:20:22"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Aurora vs Astra Invicta (BO3) - BLAST Slam Group D",
-   "side": "Y",
-   "entry_price": 0.87,
-   "importo": 20.0,
-   "opened": "2026-11-21T12:30:47"
   },
   {
    "rule_id": "2a906fe26e",
@@ -567,6 +567,16 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Aurora vs Astra Invicta (BO3) - BLAST Slam Group D",
+   "side": "Y",
+   "entry_price": 0.87,
+   "exit_price": 0.999,
+   "pnl": 2.9655,
+   "closed": "2026-11-21T14:44:31",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "924891e0f0",
    "market_nome": "Will Bitcoin dip to $55,000 by December 31, 2026?",
    "side": "Y",
@@ -954,16 +964,6 @@
    "exit_price": 0.0,
    "pnl": -20.0,
    "closed": "2026-11-20T22:21:48",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Inner Circle vs CyberHero - Game 4 Winner",
-   "side": "Y",
-   "entry_price": 0.8,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-20T22:21:47",
    "motivo": "risoluzione"
   }
  ]
