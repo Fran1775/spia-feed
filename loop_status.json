@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T11:37:02",
+ "generated_at": "2026-11-21T12:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 51,
+   "chiusi": 52,
    "aperti": 15,
-   "pnl": -32.39,
-   "rend_medio_pct": -3.18,
+   "pnl": -31.89,
+   "rend_medio_pct": -3.07,
    "t": -0.53,
-   "rend40_pct": -4.28,
-   "t40": -0.61
+   "rend40_pct": -1.72,
+   "t40": -0.26
   },
   {
    "id": "924891e0f0",
@@ -86,19 +86,19 @@
  "aperte": [
   {
    "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Aurora vs Astra Invicta - Game 1 Winner",
+   "side": "Y",
+   "entry_price": 0.96,
+   "importo": 20.0,
+   "opened": "2026-11-21T11:40:12"
+  },
+  {
+   "rule_id": "2a906fe26e",
    "market_nome": "Will Elon Musk post 65-89 tweets from November 19 to November 21, 2026?",
    "side": "Y",
    "entry_price": 0.95,
    "importo": 20.0,
    "opened": "2026-11-21T10:18:01"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 22?",
-   "side": "Y",
-   "entry_price": 0.96,
-   "importo": 20.0,
-   "opened": "2026-11-21T09:27:27"
   },
   {
    "rule_id": "84fb9952fb",
@@ -568,6 +568,16 @@
  "ultime_chiuse": [
   {
    "rule_id": "2a906fe26e",
+   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 22?",
+   "side": "Y",
+   "entry_price": 0.96,
+   "exit_price": 0.984,
+   "pnl": 0.5,
+   "closed": "2026-11-21T11:40:12",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Ethereum be above $1,500 on November 21?",
    "side": "Y",
    "entry_price": 0.975,
@@ -953,16 +963,6 @@
    "entry_price": 0.87,
    "exit_price": 0.999,
    "pnl": 2.9655,
-   "closed": "2026-11-20T21:13:50",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "ATP World Tour Finals, Ivan Lendl Group: Daniil Medvedev vs Frances Tiafoe",
-   "side": "N",
-   "entry_price": 0.09,
-   "exit_price": 0.01,
-   "pnl": -17.7778,
    "closed": "2026-11-20T21:13:50",
    "motivo": "prezzo a fine corsa"
   }
