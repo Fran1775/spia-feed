@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T16:37:01",
+ "generated_at": "2026-11-21T17:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 59,
+   "chiusi": 60,
    "aperti": 15,
-   "pnl": -64.62,
-   "rend_medio_pct": -5.48,
-   "t": -0.97,
-   "rend40_pct": -5.23,
-   "t40": -0.75
+   "pnl": -60.83,
+   "rend_medio_pct": -5.07,
+   "t": -0.91,
+   "rend40_pct": -5.16,
+   "t40": -0.74
   },
   {
    "id": "924891e0f0",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 3,
+   "chiusi": 5,
    "aperti": 15,
-   "pnl": 30.6,
-   "rend_medio_pct": 50.99,
-   "t": 0.64,
-   "rend40_pct": 50.99,
-   "t40": 0.64
+   "pnl": 30.13,
+   "rend_medio_pct": 30.13,
+   "t": 0.54,
+   "rend40_pct": 30.13,
+   "t40": 0.54
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,56 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 52,
+   "chiusi": 54,
    "aperti": 15,
-   "pnl": -22.72,
-   "rend_medio_pct": -2.18,
-   "t": -0.09,
-   "rend40_pct": 10.26,
-   "t40": 0.34
+   "pnl": -14.98,
+   "rend_medio_pct": -1.39,
+   "t": -0.06,
+   "rend40_pct": 16.11,
+   "t40": 0.54
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: PlayTime vs OG - Game 1 Winner",
+   "side": "N",
+   "entry_price": 0.79,
+   "importo": 20.0,
+   "opened": "2026-11-21T17:01:03"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",
+   "side": "Y",
+   "entry_price": 0.47,
+   "importo": 20.0,
+   "opened": "2026-11-21T17:01:03"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+   "side": "Y",
+   "entry_price": 0.89,
+   "importo": 20.0,
+   "opened": "2026-11-21T17:01:03"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Team Yandex vs Natus Vincere (BO3) - BLAST Slam Group A",
+   "side": "Y",
+   "entry_price": 0.93,
+   "importo": 20.0,
+   "opened": "2026-11-21T17:01:03"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",
+   "side": "Y",
+   "entry_price": 0.47,
+   "importo": 20.0,
+   "opened": "2026-11-21T16:43:55"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will AI solve the Riemann Hypothesis in 2026?",
@@ -157,22 +197,6 @@
    "opened": "2026-11-21T15:18:35"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down on November 21?",
-   "side": "Y",
-   "entry_price": 0.84,
-   "importo": 20.0,
-   "opened": "2026-11-21T14:44:31"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Chelsea FC win on 2026-11-21?",
-   "side": "N",
-   "entry_price": 0.52,
-   "importo": 20.0,
-   "opened": "2026-11-21T13:20:22"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "Will Ethereum dip to $1,500 by December 31, 2026?",
    "side": "Y",
@@ -187,14 +211,6 @@
    "entry_price": 0.948,
    "importo": 20.0,
    "opened": "2026-11-21T13:20:22"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will AFC Bournemouth win on 2026-11-21?",
-   "side": "Y",
-   "entry_price": 0.51,
-   "importo": 20.0,
-   "opened": "2026-11-21T09:27:27"
   },
   {
    "rule_id": "84fb9952fb",
@@ -462,14 +478,6 @@
   },
   {
    "rule_id": "84fb9952fb",
-   "market_nome": "Will Aston Villa FC win on 2026-11-21?",
-   "side": "Y",
-   "entry_price": 0.56,
-   "importo": 20.0,
-   "opened": "2026-11-20T20:40:18"
-  },
-  {
-   "rule_id": "84fb9952fb",
    "market_nome": "UFC Fight Night: Jared Cannonier vs. Ikram Aliskerov (Middleweight, Main Card)",
    "side": "Y",
    "entry_price": 0.27,
@@ -517,14 +525,6 @@
    "opened": "2026-11-20T17:15:17"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "AI bubble burst in 2026?",
-   "side": "N",
-   "entry_price": 0.733,
-   "importo": 20.0,
-   "opened": "2026-11-20T16:58:22"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Real Madrid CF win on 2026-11-21?",
    "side": "Y",
@@ -566,6 +566,56 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down on November 21?",
+   "side": "Y",
+   "entry_price": 0.84,
+   "exit_price": 0.999,
+   "pnl": 3.7857,
+   "closed": "2026-11-21T17:01:03",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will AFC Bournemouth win on 2026-11-21?",
+   "side": "Y",
+   "entry_price": 0.51,
+   "exit_price": 0.999,
+   "pnl": 19.1765,
+   "closed": "2026-11-21T17:01:02",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Aston Villa FC win on 2026-11-21?",
+   "side": "Y",
+   "entry_price": 0.56,
+   "exit_price": 0.01,
+   "pnl": -19.6429,
+   "closed": "2026-11-21T17:01:01",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "AI bubble burst in 2026?",
+   "side": "N",
+   "entry_price": 0.733,
+   "exit_price": 0.353,
+   "pnl": -10.3684,
+   "closed": "2026-11-21T17:01:00",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Chelsea FC win on 2026-11-21?",
+   "side": "N",
+   "entry_price": 0.52,
+   "exit_price": 0.991,
+   "pnl": 18.1153,
+   "closed": "2026-11-21T16:43:55",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the highest temperature in Hong Kong be 20°C on November 21?",
@@ -914,56 +964,6 @@
    "exit_price": 0.01,
    "pnl": -19.6154,
    "closed": "2026-11-21T03:12:56",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Pacers vs. Cavaliers: O/U 233.5",
-   "side": "N",
-   "entry_price": 0.47,
-   "exit_price": 0.01,
-   "pnl": -19.5745,
-   "closed": "2026-11-21T02:55:44",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the lowest temperature in Hong Kong be 15°C on November 21?",
-   "side": "Y",
-   "entry_price": 0.96,
-   "exit_price": 0.954,
-   "pnl": -0.125,
-   "closed": "2026-11-21T02:38:18",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Valorant: Shopify Rebellion Black vs Xora Esports (BO3) - VCT Americas Kickoff: North America Swiss Stage",
-   "side": "Y",
-   "entry_price": 0.87,
-   "exit_price": 0.991,
-   "pnl": 2.7816,
-   "closed": "2026-11-21T01:46:47",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 20, 7:45PM-8:00PM ET",
-   "side": "Y",
-   "entry_price": 0.91,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-21T01:11:49",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 20, 7:00PM-8:00PM ET",
-   "side": "Y",
-   "entry_price": 0.86,
-   "exit_price": 0.996,
-   "pnl": 3.1628,
-   "closed": "2026-11-21T00:54:23",
    "motivo": "prezzo a fine corsa"
   }
  ]
