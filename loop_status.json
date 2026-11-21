@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T18:07:01",
+ "generated_at": "2026-11-21T18:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 62,
-   "aperti": 15,
-   "pnl": -55.52,
-   "rend_medio_pct": -4.48,
-   "t": -0.83,
-   "rend40_pct": -2.26,
-   "t40": -0.34
+   "chiusi": 65,
+   "aperti": 14,
+   "pnl": -43.56,
+   "rend_medio_pct": -3.35,
+   "t": -0.64,
+   "rend40_pct": -2.32,
+   "t40": -0.35
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 36,
+   "chiusi": 37,
    "aperti": 15,
-   "pnl": 68.29,
-   "rend_medio_pct": 9.48,
-   "t": 0.78,
-   "rend40_pct": 9.48,
-   "t40": 0.78
+   "pnl": 76.43,
+   "rend_medio_pct": 10.33,
+   "t": 0.87,
+   "rend40_pct": 10.33,
+   "t40": 0.87
   },
   {
    "id": "84fb9952fb",
@@ -74,23 +74,47 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 56,
+   "chiusi": 57,
    "aperti": 15,
-   "pnl": 12.2,
-   "rend_medio_pct": 1.09,
-   "t": 0.05,
-   "rend40_pct": 19.42,
+   "pnl": -7.13,
+   "rend_medio_pct": -0.63,
+   "t": -0.03,
+   "rend40_pct": 19.34,
    "t40": 0.65
   }
  ],
  "aperte": [
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Team Yandex vs Natus Vincere - Game 2 Winner",
+   "market_nome": "Dota 2: PlayTime vs OG - Game 2 Winner",
    "side": "Y",
-   "entry_price": 0.73,
+   "entry_price": 0.95,
    "importo": 20.0,
-   "opened": "2026-11-21T17:52:43"
+   "opened": "2026-11-21T18:26:54"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "UFC Fight Night: Jared Cannonier vs. Ikram Aliskerov (Middleweight, Main Card)",
+   "side": "N",
+   "entry_price": 0.78,
+   "importo": 20.0,
+   "opened": "2026-11-21T18:10:12"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the Democratic Progressive Party (DPP) win the most head of local government elections in the 2026 Taiwan local elections?",
+   "side": "N",
+   "entry_price": 0.787,
+   "importo": 20.0,
+   "opened": "2026-11-21T18:10:12"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $54,000 on November 25?",
+   "side": "Y",
+   "entry_price": 0.93,
+   "importo": 20.0,
+   "opened": "2026-11-21T18:10:12"
   },
   {
    "rule_id": "a042d572b3",
@@ -99,22 +123,6 @@
    "entry_price": 0.89,
    "importo": 20.0,
    "opened": "2026-11-21T17:35:53"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Dota 2: Team Yandex vs Natus Vincere - Game 2 Winner",
-   "side": "Y",
-   "entry_price": 0.71,
-   "importo": 20.0,
-   "opened": "2026-11-21T17:18:54"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: Team Yandex vs Natus Vincere - Game 2 Winner",
-   "side": "N",
-   "entry_price": 0.3,
-   "importo": 20.0,
-   "opened": "2026-11-21T17:18:54"
   },
   {
    "rule_id": "924891e0f0",
@@ -145,14 +153,6 @@
    "market_nome": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
    "side": "Y",
    "entry_price": 0.89,
-   "importo": 20.0,
-   "opened": "2026-11-21T17:01:03"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Team Yandex vs Natus Vincere (BO3) - BLAST Slam Group A",
-   "side": "Y",
-   "entry_price": 0.93,
    "importo": 20.0,
    "opened": "2026-11-21T17:01:03"
   },
@@ -281,14 +281,6 @@
    "market_nome": "Will Real Madrid CF win on 2026-11-21?",
    "side": "Y",
    "entry_price": 0.85,
-   "importo": 20.0,
-   "opened": "2026-11-21T04:05:13"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $54,000 on November 22?",
-   "side": "Y",
-   "entry_price": 0.857,
    "importo": 20.0,
    "opened": "2026-11-21T04:05:13"
   },
@@ -566,6 +558,56 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $54,000 on November 22?",
+   "side": "Y",
+   "entry_price": 0.857,
+   "exit_price": 0.99,
+   "pnl": 3.1038,
+   "closed": "2026-11-21T18:10:11",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Team Yandex vs Natus Vincere (BO3) - BLAST Slam Group A",
+   "side": "Y",
+   "entry_price": 0.93,
+   "exit_price": 0.999,
+   "pnl": 1.4839,
+   "closed": "2026-11-21T18:10:11",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Dota 2: Team Yandex vs Natus Vincere - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.71,
+   "exit_price": 0.999,
+   "pnl": 8.1408,
+   "closed": "2026-11-21T18:10:11",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: Team Yandex vs Natus Vincere - Game 2 Winner",
+   "side": "N",
+   "entry_price": 0.3,
+   "exit_price": 0.01,
+   "pnl": -19.3333,
+   "closed": "2026-11-21T18:10:11",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Team Yandex vs Natus Vincere - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.73,
+   "exit_price": 0.999,
+   "pnl": 7.3699,
+   "closed": "2026-11-21T18:10:11",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Wake Forest vs. Georgia Tech",
@@ -915,56 +957,6 @@
    "pnl": 18.423,
    "closed": "2026-11-21T05:14:33",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 20, 11:30PM-11:45PM ET",
-   "side": "Y",
-   "entry_price": 0.92,
-   "exit_price": 1.0,
-   "pnl": 1.7391,
-   "closed": "2026-11-21T04:57:50",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Drummondville: James Kent Trotter vs Aidan Mayo",
-   "side": "Y",
-   "entry_price": 0.58,
-   "exit_price": 0.999,
-   "pnl": 14.4483,
-   "closed": "2026-11-21T04:40:41",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Drummondville: James Kent Trotter vs Aidan Mayo",
-   "side": "Y",
-   "entry_price": 0.61,
-   "exit_price": 0.999,
-   "pnl": 12.7541,
-   "closed": "2026-11-21T04:40:41",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin dip to $56,000 November 16-22?",
-   "side": "Y",
-   "entry_price": 0.21,
-   "exit_price": 1.0,
-   "pnl": 75.2381,
-   "closed": "2026-11-21T04:22:50",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin dip to $56,000 November 16-22?",
-   "side": "Y",
-   "entry_price": 0.304,
-   "exit_price": 1.0,
-   "pnl": 45.7895,
-   "closed": "2026-11-21T04:22:50",
-   "motivo": "risoluzione"
   }
  ]
 }
