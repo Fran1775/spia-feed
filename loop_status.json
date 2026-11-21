@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T00:37:01",
+ "generated_at": "2026-11-21T01:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 42,
-   "aperti": 14,
-   "pnl": -27.83,
-   "rend_medio_pct": -3.31,
-   "t": -0.49,
-   "rend40_pct": -4.25,
-   "t40": -0.6
+   "chiusi": 43,
+   "aperti": 15,
+   "pnl": -24.67,
+   "rend_medio_pct": -2.87,
+   "t": -0.43,
+   "rend40_pct": -3.94,
+   "t40": -0.56
   },
   {
    "id": "924891e0f0",
@@ -85,6 +85,22 @@
  ],
  "aperte": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Celtics vs. Kings",
+   "side": "Y",
+   "entry_price": 0.84,
+   "importo": 20.0,
+   "opened": "2026-11-21T00:54:24"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 20, 7:45PM-8:00PM ET",
+   "side": "Y",
+   "entry_price": 0.91,
+   "importo": 20.0,
+   "opened": "2026-11-21T00:54:23"
+  },
+  {
    "rule_id": "a042d572b3",
    "market_nome": "Rockets vs. Nuggets",
    "side": "Y",
@@ -105,14 +121,6 @@
    "market_nome": "Spread: Suns (-4.5)",
    "side": "Y",
    "entry_price": 0.52,
-   "importo": 20.0,
-   "opened": "2026-11-21T00:36:57"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 20, 7:00PM-8:00PM ET",
-   "side": "Y",
-   "entry_price": 0.86,
    "importo": 20.0,
    "opened": "2026-11-21T00:36:57"
   },
@@ -535,6 +543,16 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 20, 7:00PM-8:00PM ET",
+   "side": "Y",
+   "entry_price": 0.86,
+   "exit_price": 0.996,
+   "pnl": 3.1628,
+   "closed": "2026-11-21T00:54:23",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "924891e0f0",
    "market_nome": "Will Anthropic's valuation hit (HIGH) $1.75T by December 31?",
    "side": "N",
@@ -923,16 +941,6 @@
    "pnl": 4.6914,
    "closed": "2026-11-20T19:32:20",
    "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Bitcoin dip to $58,000 November 16-22?",
-   "side": "Y",
-   "entry_price": 0.82,
-   "exit_price": 0.999,
-   "pnl": 4.3658,
-   "closed": "2026-11-20T19:32:20",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
