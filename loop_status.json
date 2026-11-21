@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T12:07:01",
+ "generated_at": "2026-11-21T12:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 52,
+   "chiusi": 54,
    "aperti": 15,
-   "pnl": -31.89,
-   "rend_medio_pct": -3.07,
-   "t": -0.53,
-   "rend40_pct": -1.72,
-   "t40": -0.26
+   "pnl": -50.86,
+   "rend_medio_pct": -4.71,
+   "t": -0.8,
+   "rend40_pct": -5.0,
+   "t40": -0.71
   },
   {
    "id": "924891e0f0",
@@ -86,11 +86,11 @@
  "aperte": [
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Aurora vs Astra Invicta - Game 1 Winner",
+   "market_nome": "Dota 2: Aurora vs Astra Invicta (BO3) - BLAST Slam Group D",
    "side": "Y",
-   "entry_price": 0.96,
+   "entry_price": 0.87,
    "importo": 20.0,
-   "opened": "2026-11-21T11:40:12"
+   "opened": "2026-11-21T12:30:47"
   },
   {
    "rule_id": "2a906fe26e",
@@ -568,6 +568,26 @@
  "ultime_chiuse": [
   {
    "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: LGD Gaming vs 1win - Game 1 Winner",
+   "side": "Y",
+   "entry_price": 0.94,
+   "exit_price": 0.01,
+   "pnl": -19.7872,
+   "closed": "2026-11-21T12:30:47",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Aurora vs Astra Invicta - Game 1 Winner",
+   "side": "Y",
+   "entry_price": 0.96,
+   "exit_price": 0.999,
+   "pnl": 0.8125,
+   "closed": "2026-11-21T12:13:52",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
    "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 22?",
    "side": "Y",
    "entry_price": 0.96,
@@ -944,26 +964,6 @@
    "exit_price": 0.01,
    "pnl": -19.7826,
    "closed": "2026-11-20T21:30:56",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will FC Bayern München win on 2026-11-20?",
-   "side": "N",
-   "entry_price": 0.1,
-   "exit_price": 0.999,
-   "pnl": 179.8,
-   "closed": "2026-11-20T21:30:56",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "ATP World Tour Finals, Ivan Lendl Group: Daniil Medvedev vs Frances Tiafoe",
-   "side": "Y",
-   "entry_price": 0.87,
-   "exit_price": 0.999,
-   "pnl": 2.9655,
-   "closed": "2026-11-20T21:13:50",
    "motivo": "prezzo a fine corsa"
   }
  ]
