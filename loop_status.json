@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T22:07:02",
+ "generated_at": "2026-11-21T22:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,12 +14,12 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 69,
-   "aperti": 14,
-   "pnl": -57.58,
-   "rend_medio_pct": -4.17,
-   "t": -0.82,
-   "rend40_pct": -5.37,
+   "chiusi": 70,
+   "aperti": 13,
+   "pnl": -54.07,
+   "rend_medio_pct": -3.86,
+   "t": -0.77,
+   "rend40_pct": -5.41,
    "t40": -0.77
   },
   {
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 9,
+   "chiusi": 10,
    "aperti": 15,
-   "pnl": -47.62,
-   "rend_medio_pct": -26.46,
-   "t": -0.7,
-   "rend40_pct": -26.46,
-   "t40": -0.7
+   "pnl": -44.11,
+   "rend_medio_pct": -22.06,
+   "t": -0.65,
+   "rend40_pct": -22.06,
+   "t40": -0.65
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,40 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 67,
+   "chiusi": 69,
    "aperti": 15,
-   "pnl": -14.29,
-   "rend_medio_pct": -1.07,
-   "t": -0.06,
-   "rend40_pct": 12.29,
-   "t40": 0.46
+   "pnl": -35.73,
+   "rend_medio_pct": -2.59,
+   "t": -0.14,
+   "rend40_pct": 9.71,
+   "t40": 0.36
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Trail Blazers vs. Knicks",
+   "side": "Y",
+   "entry_price": 0.51,
+   "importo": 20.0,
+   "opened": "2026-11-21T22:24:47"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Spread: Chiefs (-16.5)",
+   "side": "Y",
+   "entry_price": 0.48,
+   "importo": 20.0,
+   "opened": "2026-11-21T22:08:10"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Spread: Chiefs (-16.5)",
+   "side": "N",
+   "entry_price": 0.53,
+   "importo": 20.0,
+   "opened": "2026-11-21T22:08:10"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Celtics vs. Kings: O/U 217.5",
@@ -373,14 +397,6 @@
    "opened": "2026-11-21T04:22:51"
   },
   {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will Real Madrid CF win on 2026-11-21?",
-   "side": "Y",
-   "entry_price": 0.85,
-   "importo": 20.0,
-   "opened": "2026-11-21T04:05:13"
-  },
-  {
    "rule_id": "a042d572b3",
    "market_nome": "Will Bitcoin dip to $45,000 by December 31, 2026?",
    "side": "Y",
@@ -393,14 +409,6 @@
    "market_nome": "US x Iran Effective Ceasefire by November 22?",
    "side": "Y",
    "entry_price": 0.41,
-   "importo": 20.0,
-   "opened": "2026-11-21T03:12:57"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Real Madrid CF win on 2026-11-21?",
-   "side": "N",
-   "entry_price": 0.16,
    "importo": 20.0,
    "opened": "2026-11-21T03:12:57"
   },
@@ -469,14 +477,6 @@
    "opened": "2026-11-20T22:56:07"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
-   "side": "Y",
-   "entry_price": 0.52,
-   "importo": 20.0,
-   "opened": "2026-11-20T22:21:48"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $56,000 on November 23?",
    "side": "Y",
@@ -526,14 +526,6 @@
   },
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Will Real Madrid CF win on 2026-11-21?",
-   "side": "Y",
-   "entry_price": 0.85,
-   "importo": 20.0,
-   "opened": "2026-11-20T02:04:44"
-  },
-  {
-   "rule_id": "2a906fe26e",
    "market_nome": "Will FC Barcelona win on 2026-11-22?",
    "side": "Y",
    "entry_price": 0.82,
@@ -558,6 +550,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
+   "side": "Y",
+   "entry_price": 0.52,
+   "exit_price": 0.45,
+   "pnl": -2.6923,
+   "closed": "2026-11-21T22:24:46",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Real Madrid CF win on 2026-11-21?",
+   "side": "Y",
+   "entry_price": 0.85,
+   "exit_price": 0.999,
+   "pnl": 3.5059,
+   "closed": "2026-11-21T22:08:10",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Real Madrid CF win on 2026-11-21?",
+   "side": "N",
+   "entry_price": 0.16,
+   "exit_price": 0.01,
+   "pnl": -18.75,
+   "closed": "2026-11-21T22:08:09",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Real Madrid CF win on 2026-11-21?",
+   "side": "Y",
+   "entry_price": 0.85,
+   "exit_price": 0.999,
+   "pnl": 3.5059,
+   "closed": "2026-11-21T22:08:08",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "RKS Radomiak Radom vs. Wisla Krakow: O/U 0.5",
@@ -916,46 +948,6 @@
    "exit_price": 0.999,
    "pnl": 3.7857,
    "closed": "2026-11-21T17:01:03",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will AFC Bournemouth win on 2026-11-21?",
-   "side": "Y",
-   "entry_price": 0.51,
-   "exit_price": 0.999,
-   "pnl": 19.1765,
-   "closed": "2026-11-21T17:01:02",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will Aston Villa FC win on 2026-11-21?",
-   "side": "Y",
-   "entry_price": 0.56,
-   "exit_price": 0.01,
-   "pnl": -19.6429,
-   "closed": "2026-11-21T17:01:01",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "AI bubble burst in 2026?",
-   "side": "N",
-   "entry_price": 0.733,
-   "exit_price": 0.353,
-   "pnl": -10.3684,
-   "closed": "2026-11-21T17:01:00",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Chelsea FC win on 2026-11-21?",
-   "side": "N",
-   "entry_price": 0.52,
-   "exit_price": 0.991,
-   "pnl": 18.1153,
-   "closed": "2026-11-21T16:43:55",
    "motivo": "prezzo a fine corsa"
   }
  ]
