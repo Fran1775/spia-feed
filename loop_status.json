@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T17:07:01",
+ "generated_at": "2026-11-21T17:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 60,
+   "chiusi": 61,
    "aperti": 15,
-   "pnl": -60.83,
-   "rend_medio_pct": -5.07,
-   "t": -0.91,
-   "rend40_pct": -5.16,
-   "t40": -0.74
+   "pnl": -56.79,
+   "rend_medio_pct": -4.65,
+   "t": -0.85,
+   "rend40_pct": -2.17,
+   "t40": -0.33
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 34,
+   "chiusi": 36,
    "aperti": 15,
-   "pnl": 63.44,
-   "rend_medio_pct": 9.33,
-   "t": 0.77,
-   "rend40_pct": 9.33,
-   "t40": 0.77
+   "pnl": 68.29,
+   "rend_medio_pct": 9.48,
+   "t": 0.78,
+   "rend40_pct": 9.48,
+   "t40": 0.78
   },
   {
    "id": "84fb9952fb",
@@ -74,23 +74,55 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 54,
+   "chiusi": 56,
    "aperti": 15,
-   "pnl": -14.98,
-   "rend_medio_pct": -1.39,
-   "t": -0.06,
-   "rend40_pct": 16.11,
-   "t40": 0.54
+   "pnl": 12.2,
+   "rend_medio_pct": 1.09,
+   "t": 0.05,
+   "rend40_pct": 19.42,
+   "t40": 0.65
   }
  ],
  "aperte": [
   {
    "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: PlayTime vs OG - Game 1 Winner",
-   "side": "N",
-   "entry_price": 0.79,
+   "market_nome": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+   "side": "Y",
+   "entry_price": 0.89,
    "importo": 20.0,
-   "opened": "2026-11-21T17:01:03"
+   "opened": "2026-11-21T17:35:53"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Dota 2: Team Yandex vs Natus Vincere - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.71,
+   "importo": 20.0,
+   "opened": "2026-11-21T17:18:54"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: Team Yandex vs Natus Vincere - Game 2 Winner",
+   "side": "N",
+   "entry_price": 0.3,
+   "importo": 20.0,
+   "opened": "2026-11-21T17:18:54"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin reach $67,500 in November?",
+   "side": "Y",
+   "entry_price": 0.22,
+   "importo": 20.0,
+   "opened": "2026-11-21T17:18:54"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Team Spirit vs Xtreme Gaming (BO3) - BLAST Slam Group B",
+   "side": "Y",
+   "entry_price": 0.83,
+   "importo": 20.0,
+   "opened": "2026-11-21T17:18:54"
   },
   {
    "rule_id": "84fb9952fb",
@@ -179,14 +211,6 @@
    "entry_price": 0.933,
    "importo": 20.0,
    "opened": "2026-11-21T15:18:36"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 21?",
-   "side": "Y",
-   "entry_price": 0.477,
-   "importo": 20.0,
-   "opened": "2026-11-21T15:18:35"
   },
   {
    "rule_id": "2a906fe26e",
@@ -398,14 +422,6 @@
   },
   {
    "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 21?",
-   "side": "N",
-   "entry_price": 0.855,
-   "importo": 20.0,
-   "opened": "2026-11-20T20:57:05"
-  },
-  {
-   "rule_id": "924891e0f0",
    "market_nome": "Will the price of Bitcoin be above $58,000 on November 22?",
    "side": "N",
    "entry_price": 0.415,
@@ -517,14 +533,6 @@
    "opened": "2026-11-20T18:58:19"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "AI bubble burst in 2026?",
-   "side": "Y",
-   "entry_price": 0.29,
-   "importo": 20.0,
-   "opened": "2026-11-20T17:15:17"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Real Madrid CF win on 2026-11-21?",
    "side": "Y",
@@ -537,14 +545,6 @@
    "market_nome": "Will FC Barcelona win on 2026-11-22?",
    "side": "Y",
    "entry_price": 0.82,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:47:44"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 21?",
-   "side": "Y",
-   "entry_price": 0.831,
    "importo": 20.0,
    "opened": "2026-11-19T20:47:44"
   },
@@ -566,6 +566,56 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: PlayTime vs OG - Game 1 Winner",
+   "side": "N",
+   "entry_price": 0.79,
+   "exit_price": 0.999,
+   "pnl": 5.2912,
+   "closed": "2026-11-21T17:35:53",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 21?",
+   "side": "Y",
+   "entry_price": 0.477,
+   "exit_price": 0.999,
+   "pnl": 21.8868,
+   "closed": "2026-11-21T17:18:54",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 21?",
+   "side": "N",
+   "entry_price": 0.855,
+   "exit_price": 0.01,
+   "pnl": -19.7661,
+   "closed": "2026-11-21T17:18:53",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 21?",
+   "side": "Y",
+   "entry_price": 0.831,
+   "exit_price": 0.999,
+   "pnl": 4.0433,
+   "closed": "2026-11-21T17:18:52",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "AI bubble burst in 2026?",
+   "side": "Y",
+   "entry_price": 0.29,
+   "exit_price": 0.647,
+   "pnl": 24.6207,
+   "closed": "2026-11-21T17:18:52",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Bitcoin Up or Down on November 21?",
@@ -915,56 +965,6 @@
    "pnl": 2.2857,
    "closed": "2026-11-21T03:47:52",
    "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin dip to $57,500 in November?",
-   "side": "Y",
-   "entry_price": 0.768,
-   "exit_price": 1.0,
-   "pnl": 6.0417,
-   "closed": "2026-11-21T03:47:52",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Raptors vs. Pistons",
-   "side": "Y",
-   "entry_price": 0.3,
-   "exit_price": 0.999,
-   "pnl": 46.6,
-   "closed": "2026-11-21T03:12:57",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Valorant: FlyQuest vs Masterclass (BO3) - VCT Americas Kickoff: North America Swiss Stage",
-   "side": "Y",
-   "entry_price": 0.8,
-   "exit_price": 0.999,
-   "pnl": 4.975,
-   "closed": "2026-11-21T03:12:57",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Valorant: FlyQuest vs Masterclass (BO3) - VCT Americas Kickoff: North America Swiss Stage",
-   "side": "Y",
-   "entry_price": 0.5,
-   "exit_price": 0.999,
-   "pnl": 19.96,
-   "closed": "2026-11-21T03:12:56",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Valorant: FlyQuest vs Masterclass (BO3) - VCT Americas Kickoff: North America Swiss Stage",
-   "side": "N",
-   "entry_price": 0.52,
-   "exit_price": 0.01,
-   "pnl": -19.6154,
-   "closed": "2026-11-21T03:12:56",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
