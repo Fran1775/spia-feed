@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T03:07:01",
+ "generated_at": "2026-11-21T03:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 46,
-   "aperti": 14,
-   "pnl": -42.01,
-   "rend_medio_pct": -4.57,
-   "t": -0.7,
-   "rend40_pct": -7.5,
-   "t40": -1.01
+   "chiusi": 47,
+   "aperti": 13,
+   "pnl": -37.04,
+   "rend_medio_pct": -3.94,
+   "t": -0.61,
+   "rend40_pct": -7.1,
+   "t40": -0.95
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 25,
+   "chiusi": 26,
    "aperti": 15,
-   "pnl": -8.32,
-   "rend_medio_pct": -1.66,
-   "t": -0.15,
-   "rend40_pct": -1.66,
-   "t40": -0.15
+   "pnl": 11.64,
+   "rend_medio_pct": 2.24,
+   "t": 0.2,
+   "rend40_pct": 2.24,
+   "t40": 0.2
   },
   {
    "id": "84fb9952fb",
@@ -56,9 +56,9 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 0,
-   "aperti": 14,
-   "pnl": 0,
+   "chiusi": 1,
+   "aperti": 13,
+   "pnl": 46.6,
    "rend_medio_pct": 0.0,
    "t": 0.0,
    "rend40_pct": 0.0,
@@ -74,23 +74,31 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 42,
+   "chiusi": 43,
    "aperti": 15,
-   "pnl": -41.54,
-   "rend_medio_pct": -4.95,
-   "t": -0.18,
-   "rend40_pct": -4.41,
-   "t40": -0.15
+   "pnl": -61.16,
+   "rend_medio_pct": -7.11,
+   "t": -0.26,
+   "rend40_pct": -7.45,
+   "t40": -0.26
   }
  ],
  "aperte": [
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Valorant: FlyQuest vs Masterclass (BO3) - VCT Americas Kickoff: North America Swiss Stage",
+   "rule_id": "924891e0f0",
+   "market_nome": "US x Iran Effective Ceasefire by November 22?",
    "side": "Y",
-   "entry_price": 0.8,
+   "entry_price": 0.41,
    "importo": 20.0,
-   "opened": "2026-11-21T02:55:44"
+   "opened": "2026-11-21T03:12:57"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Real Madrid CF win on 2026-11-21?",
+   "side": "N",
+   "entry_price": 0.16,
+   "importo": 20.0,
+   "opened": "2026-11-21T03:12:57"
   },
   {
    "rule_id": "a042d572b3",
@@ -155,14 +163,6 @@
    "entry_price": 0.52,
    "importo": 20.0,
    "opened": "2026-11-21T00:36:57"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Raptors vs. Pistons",
-   "side": "Y",
-   "entry_price": 0.3,
-   "importo": 20.0,
-   "opened": "2026-11-21T00:03:44"
   },
   {
    "rule_id": "84fb9952fb",
@@ -235,14 +235,6 @@
    "entry_price": 0.51,
    "importo": 20.0,
    "opened": "2026-11-20T22:04:49"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Valorant: FlyQuest vs Masterclass (BO3) - VCT Americas Kickoff: North America Swiss Stage",
-   "side": "N",
-   "entry_price": 0.52,
-   "importo": 20.0,
-   "opened": "2026-11-20T21:30:57"
   },
   {
    "rule_id": "a042d572b3",
@@ -321,14 +313,6 @@
    "market_nome": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
    "side": "Y",
    "entry_price": 0.705,
-   "importo": 20.0,
-   "opened": "2026-11-20T20:57:04"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Valorant: FlyQuest vs Masterclass (BO3) - VCT Americas Kickoff: North America Swiss Stage",
-   "side": "Y",
-   "entry_price": 0.5,
    "importo": 20.0,
    "opened": "2026-11-20T20:57:04"
   },
@@ -550,6 +534,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Raptors vs. Pistons",
+   "side": "Y",
+   "entry_price": 0.3,
+   "exit_price": 0.999,
+   "pnl": 46.6,
+   "closed": "2026-11-21T03:12:57",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Valorant: FlyQuest vs Masterclass (BO3) - VCT Americas Kickoff: North America Swiss Stage",
+   "side": "Y",
+   "entry_price": 0.8,
+   "exit_price": 0.999,
+   "pnl": 4.975,
+   "closed": "2026-11-21T03:12:57",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Valorant: FlyQuest vs Masterclass (BO3) - VCT Americas Kickoff: North America Swiss Stage",
+   "side": "Y",
+   "entry_price": 0.5,
+   "exit_price": 0.999,
+   "pnl": 19.96,
+   "closed": "2026-11-21T03:12:56",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Valorant: FlyQuest vs Masterclass (BO3) - VCT Americas Kickoff: North America Swiss Stage",
+   "side": "N",
+   "entry_price": 0.52,
+   "exit_price": 0.01,
+   "pnl": -19.6154,
+   "closed": "2026-11-21T03:12:56",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Pacers vs. Cavaliers: O/U 233.5",
@@ -907,46 +931,6 @@
    "entry_price": 0.34,
    "exit_price": 0.28,
    "pnl": -3.5294,
-   "closed": "2026-11-20T20:57:03",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Denmark be 2nd in the World Happiness Report 2027?",
-   "side": "Y",
-   "entry_price": 0.56,
-   "exit_price": 0.56,
-   "pnl": 0.0,
-   "closed": "2026-11-20T20:57:03",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Denmark be 2nd in the World Happiness Report 2027?",
-   "side": "Y",
-   "entry_price": 0.56,
-   "exit_price": 0.56,
-   "pnl": 0.0,
-   "closed": "2026-11-20T20:57:03",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 28?",
-   "side": "Y",
-   "entry_price": 0.77,
-   "exit_price": 0.83,
-   "pnl": 1.5584,
-   "closed": "2026-11-20T20:57:03",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will WTI Crude Oil (WTI) hit (LOW) $80 in November?",
-   "side": "N",
-   "entry_price": 0.43,
-   "exit_price": 0.47,
-   "pnl": 1.8605,
    "closed": "2026-11-20T20:57:03",
    "motivo": "uscita a tempo 24h"
   }
