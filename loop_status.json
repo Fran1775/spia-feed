@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T19:37:01",
+ "generated_at": "2026-11-21T20:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 67,
-   "aperti": 15,
-   "pnl": -41.64,
-   "rend_medio_pct": -3.11,
-   "t": -0.62,
-   "rend40_pct": -2.74,
-   "t40": -0.41
+   "chiusi": 68,
+   "aperti": 14,
+   "pnl": -37.79,
+   "rend_medio_pct": -2.78,
+   "t": -0.56,
+   "rend40_pct": -2.53,
+   "t40": -0.38
   },
   {
    "id": "924891e0f0",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 6,
+   "chiusi": 7,
    "aperti": 15,
-   "pnl": 10.87,
-   "rend_medio_pct": 9.06,
-   "t": 0.18,
-   "rend40_pct": 9.06,
-   "t40": 0.18
+   "pnl": -8.56,
+   "rend_medio_pct": -6.11,
+   "t": -0.13,
+   "rend40_pct": -6.11,
+   "t40": -0.13
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 60,
+   "chiusi": 61,
    "aperti": 15,
-   "pnl": 0.47,
-   "rend_medio_pct": 0.04,
-   "t": 0.0,
-   "rend40_pct": 8.37,
-   "t40": 0.32
+   "pnl": 11.21,
+   "rend_medio_pct": 0.92,
+   "t": 0.04,
+   "rend40_pct": 9.28,
+   "t40": 0.35
   }
  ],
  "aperte": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Bitcoin dip to $50,000 in November?",
+   "side": "Y",
+   "entry_price": 0.118,
+   "importo": 20.0,
+   "opened": "2026-11-21T19:51:22"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Counter-Strike: Betclic Apogee Esports vs FORZE Reload (BO3) - NODWIN Clutch Series Playoffs",
+   "side": "Y",
+   "entry_price": 0.42,
+   "importo": 20.0,
+   "opened": "2026-11-21T19:51:22"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "RKS Radomiak Radom vs. Wisla Krakow: O/U 0.5",
@@ -94,27 +110,11 @@
   },
   {
    "rule_id": "a042d572b3",
-   "market_nome": "UFC Fight Night: Brian Ortega vs. Dan Hooker (Lightweight, Main Card)",
-   "side": "N",
-   "entry_price": 0.65,
-   "importo": 20.0,
-   "opened": "2026-11-21T19:00:23"
-  },
-  {
-   "rule_id": "a042d572b3",
    "market_nome": "Will Bitcoin dip to $52,500 in November?",
    "side": "N",
    "entry_price": 0.8,
    "importo": 20.0,
    "opened": "2026-11-21T19:00:23"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "UFC Fight Night: Brian Ortega vs. Dan Hooker (Lightweight, Main Card)",
-   "side": "Y",
-   "entry_price": 0.35,
-   "importo": 20.0,
-   "opened": "2026-11-21T18:43:25"
   },
   {
    "rule_id": "2a906fe26e",
@@ -153,14 +153,6 @@
    "market_nome": "Will Bitcoin reach $67,500 in November?",
    "side": "Y",
    "entry_price": 0.22,
-   "importo": 20.0,
-   "opened": "2026-11-21T17:18:54"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Team Spirit vs Xtreme Gaming (BO3) - BLAST Slam Group B",
-   "side": "Y",
-   "entry_price": 0.83,
    "importo": 20.0,
    "opened": "2026-11-21T17:18:54"
   },
@@ -568,6 +560,36 @@
  "ultime_chiuse": [
   {
    "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Team Spirit vs Xtreme Gaming (BO3) - BLAST Slam Group B",
+   "side": "Y",
+   "entry_price": 0.83,
+   "exit_price": 0.99,
+   "pnl": 3.8554,
+   "closed": "2026-11-21T19:51:22",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "UFC Fight Night: Brian Ortega vs. Dan Hooker (Lightweight, Main Card)",
+   "side": "Y",
+   "entry_price": 0.35,
+   "exit_price": 0.01,
+   "pnl": -19.4286,
+   "closed": "2026-11-21T19:51:22",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "UFC Fight Night: Brian Ortega vs. Dan Hooker (Lightweight, Main Card)",
+   "side": "N",
+   "entry_price": 0.65,
+   "exit_price": 0.999,
+   "pnl": 10.7384,
+   "closed": "2026-11-21T19:51:22",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
    "market_nome": "Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner",
    "side": "Y",
    "entry_price": 0.95,
@@ -934,36 +956,6 @@
    "exit_price": 0.01,
    "pnl": -19.7872,
    "closed": "2026-11-21T12:30:47",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Aurora vs Astra Invicta - Game 1 Winner",
-   "side": "Y",
-   "entry_price": 0.96,
-   "exit_price": 0.999,
-   "pnl": 0.8125,
-   "closed": "2026-11-21T12:13:52",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 22?",
-   "side": "Y",
-   "entry_price": 0.96,
-   "exit_price": 0.984,
-   "pnl": 0.5,
-   "closed": "2026-11-21T11:40:12",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Ethereum be above $1,500 on November 21?",
-   "side": "Y",
-   "entry_price": 0.975,
-   "exit_price": 0.986,
-   "pnl": 0.2256,
-   "closed": "2026-11-21T10:18:00",
    "motivo": "prezzo a fine corsa"
   }
  ]
