@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T02:37:02",
+ "generated_at": "2026-11-21T03:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 45,
-   "aperti": 13,
-   "pnl": -41.89,
-   "rend_medio_pct": -4.65,
+   "chiusi": 46,
+   "aperti": 14,
+   "pnl": -42.01,
+   "rend_medio_pct": -4.57,
    "t": -0.7,
-   "rend40_pct": -6.98,
-   "t40": -0.94
+   "rend40_pct": -7.5,
+   "t40": -1.01
   },
   {
    "id": "924891e0f0",
@@ -74,16 +74,40 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 41,
+   "chiusi": 42,
    "aperti": 15,
-   "pnl": -21.97,
-   "rend_medio_pct": -2.68,
-   "t": -0.1,
-   "rend40_pct": -4.43,
+   "pnl": -41.54,
+   "rend_medio_pct": -4.95,
+   "t": -0.18,
+   "rend40_pct": -4.41,
    "t40": -0.15
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Valorant: FlyQuest vs Masterclass (BO3) - VCT Americas Kickoff: North America Swiss Stage",
+   "side": "Y",
+   "entry_price": 0.8,
+   "importo": 20.0,
+   "opened": "2026-11-21T02:55:44"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "US x Iran Effective Ceasefire by November 22?",
+   "side": "Y",
+   "entry_price": 0.41,
+   "importo": 20.0,
+   "opened": "2026-11-21T02:55:44"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $56,000 on November 24?",
+   "side": "Y",
+   "entry_price": 0.835,
+   "importo": 20.0,
+   "opened": "2026-11-21T02:38:19"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Anthropic's valuation hit (LOW) $800B by December 31?",
@@ -213,28 +237,12 @@
    "opened": "2026-11-20T22:04:49"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the lowest temperature in Hong Kong be 15°C on November 21?",
-   "side": "Y",
-   "entry_price": 0.96,
-   "importo": 20.0,
-   "opened": "2026-11-20T21:47:50"
-  },
-  {
    "rule_id": "a042d572b3",
    "market_nome": "Valorant: FlyQuest vs Masterclass (BO3) - VCT Americas Kickoff: North America Swiss Stage",
    "side": "N",
    "entry_price": 0.52,
    "importo": 20.0,
    "opened": "2026-11-20T21:30:57"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Pacers vs. Cavaliers: O/U 233.5",
-   "side": "N",
-   "entry_price": 0.47,
-   "importo": 20.0,
-   "opened": "2026-11-20T21:13:50"
   },
   {
    "rule_id": "a042d572b3",
@@ -542,6 +550,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Pacers vs. Cavaliers: O/U 233.5",
+   "side": "N",
+   "entry_price": 0.47,
+   "exit_price": 0.01,
+   "pnl": -19.5745,
+   "closed": "2026-11-21T02:55:44",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the lowest temperature in Hong Kong be 15°C on November 21?",
+   "side": "Y",
+   "entry_price": 0.96,
+   "exit_price": 0.954,
+   "pnl": -0.125,
+   "closed": "2026-11-21T02:38:18",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Valorant: Shopify Rebellion Black vs Xora Esports (BO3) - VCT Americas Kickoff: North America Swiss Stage",
@@ -921,26 +949,6 @@
    "pnl": 1.8605,
    "closed": "2026-11-20T20:57:03",
    "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 20, 2:00PM-3:00PM ET",
-   "side": "Y",
-   "entry_price": 0.78,
-   "exit_price": 1.0,
-   "pnl": 5.641,
-   "closed": "2026-11-20T20:06:21",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Bitcoin dip to $58,000 on November 20?",
-   "side": "Y",
-   "entry_price": 0.69,
-   "exit_price": 1.0,
-   "pnl": 8.9855,
-   "closed": "2026-11-20T19:32:20",
-   "motivo": "risoluzione"
   }
  ]
 }
