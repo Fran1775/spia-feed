@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T04:37:01",
+ "generated_at": "2026-11-21T05:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,12 +14,12 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 47,
+   "chiusi": 48,
    "aperti": 14,
-   "pnl": -37.04,
-   "rend_medio_pct": -3.94,
-   "t": -0.61,
-   "rend40_pct": -7.1,
+   "pnl": -35.3,
+   "rend_medio_pct": -3.68,
+   "t": -0.58,
+   "rend40_pct": -7.03,
    "t40": -0.95
   },
   {
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 27,
+   "chiusi": 28,
    "aperti": 15,
-   "pnl": 57.43,
-   "rend_medio_pct": 10.63,
-   "t": 0.78,
-   "rend40_pct": 10.63,
-   "t40": 0.78
+   "pnl": 70.18,
+   "rend_medio_pct": 12.53,
+   "t": 0.95,
+   "rend40_pct": 12.53,
+   "t40": 0.95
   },
   {
    "id": "84fb9952fb",
@@ -57,7 +57,7 @@
     "pmin": 0.1
    },
    "chiusi": 1,
-   "aperti": 14,
+   "aperti": 15,
    "pnl": 46.6,
    "rend_medio_pct": 0.0,
    "t": 0.0,
@@ -74,23 +74,39 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 46,
+   "chiusi": 47,
    "aperti": 15,
-   "pnl": 22.41,
-   "rend_medio_pct": 2.44,
-   "t": 0.09,
-   "rend40_pct": 10.08,
-   "t40": 0.34
+   "pnl": 36.86,
+   "rend_medio_pct": 3.92,
+   "t": 0.15,
+   "rend40_pct": 14.28,
+   "t40": 0.48
   }
  ],
  "aperte": [
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Drummondville: James Kent Trotter vs Aidan Mayo",
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Nvidia’s market capitalization be less than $4.00T at the end of 2026?",
    "side": "Y",
-   "entry_price": 0.61,
+   "entry_price": 0.86,
    "importo": 20.0,
-   "opened": "2026-11-21T04:22:51"
+   "opened": "2026-11-21T04:40:42"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin dip to $45,000 by December 31, 2026?",
+   "side": "Y",
+   "entry_price": 0.283,
+   "importo": 20.0,
+   "opened": "2026-11-21T04:40:41"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be above $56,000 on November 21?",
+   "side": "N",
+   "entry_price": 0.475,
+   "importo": 20.0,
+   "opened": "2026-11-21T04:40:41"
   },
   {
    "rule_id": "a042d572b3",
@@ -121,14 +137,6 @@
    "market_nome": "Will Bitcoin dip to $45,000 by December 31, 2026?",
    "side": "Y",
    "entry_price": 0.21,
-   "importo": 20.0,
-   "opened": "2026-11-21T03:47:53"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Drummondville: James Kent Trotter vs Aidan Mayo",
-   "side": "Y",
-   "entry_price": 0.58,
    "importo": 20.0,
    "opened": "2026-11-21T03:47:53"
   },
@@ -551,6 +559,36 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 20, 11:30PM-11:45PM ET",
+   "side": "Y",
+   "entry_price": 0.92,
+   "exit_price": 1.0,
+   "pnl": 1.7391,
+   "closed": "2026-11-21T04:57:50",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Drummondville: James Kent Trotter vs Aidan Mayo",
+   "side": "Y",
+   "entry_price": 0.58,
+   "exit_price": 0.999,
+   "pnl": 14.4483,
+   "closed": "2026-11-21T04:40:41",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Drummondville: James Kent Trotter vs Aidan Mayo",
+   "side": "Y",
+   "entry_price": 0.61,
+   "exit_price": 0.999,
+   "pnl": 12.7541,
+   "closed": "2026-11-21T04:40:41",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "a042d572b3",
    "market_nome": "Will Bitcoin dip to $56,000 November 16-22?",
    "side": "Y",
@@ -917,36 +955,6 @@
    "entry_price": 0.52,
    "exit_price": 0.49,
    "pnl": -1.1539,
-   "closed": "2026-11-20T20:57:03",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Carlos Alcaraz win the 2026 Nitto ATP Finals?",
-   "side": "Y",
-   "entry_price": 0.49,
-   "exit_price": 0.5,
-   "pnl": 0.4081,
-   "closed": "2026-11-20T20:57:03",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will CR Flamengo win on 2026-11-21?",
-   "side": "Y",
-   "entry_price": 0.51,
-   "exit_price": 0.52,
-   "pnl": 0.3922,
-   "closed": "2026-11-20T20:57:03",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will CR Flamengo win on 2026-11-21?",
-   "side": "N",
-   "entry_price": 0.5,
-   "exit_price": 0.47,
-   "pnl": -1.2,
    "closed": "2026-11-20T20:57:03",
    "motivo": "uscita a tempo 24h"
   }
