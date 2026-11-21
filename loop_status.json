@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T20:07:01",
+ "generated_at": "2026-11-21T20:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 68,
-   "aperti": 14,
+   "aperti": 15,
    "pnl": -37.79,
    "rend_medio_pct": -2.78,
    "t": -0.56,
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 7,
+   "chiusi": 8,
    "aperti": 15,
-   "pnl": -8.56,
-   "rend_medio_pct": -6.11,
-   "t": -0.13,
-   "rend40_pct": -6.11,
-   "t40": -0.13
+   "pnl": -28.13,
+   "rend_medio_pct": -17.58,
+   "t": -0.43,
+   "rend40_pct": -17.58,
+   "t40": -0.43
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,40 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 61,
+   "chiusi": 62,
    "aperti": 15,
-   "pnl": 11.21,
-   "rend_medio_pct": 0.92,
-   "t": 0.04,
-   "rend40_pct": 9.28,
+   "pnl": -8.36,
+   "rend_medio_pct": -0.67,
+   "t": -0.03,
+   "rend40_pct": 9.3,
    "t40": 0.35
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: Team Spirit vs Xtreme Gaming (BO3) - BLAST Slam Group B",
+   "side": "N",
+   "entry_price": 0.264,
+   "importo": 20.0,
+   "opened": "2026-11-21T20:25:11"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Buccaneers vs. Lions",
+   "side": "Y",
+   "entry_price": 0.32,
+   "importo": 20.0,
+   "opened": "2026-11-21T20:25:11"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Club Atlético de Madrid win on 2026-11-25?",
+   "side": "Y",
+   "entry_price": 0.87,
+   "importo": 20.0,
+   "opened": "2026-11-21T20:08:09"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Bitcoin dip to $50,000 in November?",
@@ -158,27 +182,11 @@
   },
   {
    "rule_id": "84fb9952fb",
-   "market_nome": "UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",
-   "side": "Y",
-   "entry_price": 0.47,
-   "importo": 20.0,
-   "opened": "2026-11-21T17:01:03"
-  },
-  {
-   "rule_id": "84fb9952fb",
    "market_nome": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
    "side": "Y",
    "entry_price": 0.89,
    "importo": 20.0,
    "opened": "2026-11-21T17:01:03"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",
-   "side": "Y",
-   "entry_price": 0.47,
-   "importo": 20.0,
-   "opened": "2026-11-21T16:43:55"
   },
   {
    "rule_id": "a042d572b3",
@@ -559,6 +567,26 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "a042d572b3",
+   "market_nome": "UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",
+   "side": "Y",
+   "entry_price": 0.47,
+   "exit_price": 0.01,
+   "pnl": -19.5745,
+   "closed": "2026-11-21T20:25:11",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",
+   "side": "Y",
+   "entry_price": 0.47,
+   "exit_price": 0.01,
+   "pnl": -19.5745,
+   "closed": "2026-11-21T20:25:11",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "2a906fe26e",
    "market_nome": "Dota 2: Team Spirit vs Xtreme Gaming (BO3) - BLAST Slam Group B",
    "side": "Y",
@@ -936,26 +964,6 @@
    "exit_price": 0.009,
    "pnl": -19.5714,
    "closed": "2026-11-21T13:20:22",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $56,000 on November 21?",
-   "side": "Y",
-   "entry_price": 0.92,
-   "exit_price": 0.99,
-   "pnl": 1.5217,
-   "closed": "2026-11-21T13:20:21",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: LGD Gaming vs 1win - Game 1 Winner",
-   "side": "Y",
-   "entry_price": 0.94,
-   "exit_price": 0.01,
-   "pnl": -19.7872,
-   "closed": "2026-11-21T12:30:47",
    "motivo": "prezzo a fine corsa"
   }
  ]
