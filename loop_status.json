@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T20:37:01",
+ "generated_at": "2026-11-21T21:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 37,
+   "chiusi": 43,
    "aperti": 15,
-   "pnl": 76.43,
-   "rend_medio_pct": 10.33,
-   "t": 0.87,
-   "rend40_pct": 10.33,
-   "t40": 0.87
+   "pnl": 23.86,
+   "rend_medio_pct": 2.77,
+   "t": 0.26,
+   "rend40_pct": 2.93,
+   "t40": 0.26
   },
   {
    "id": "84fb9952fb",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 8,
+   "chiusi": 9,
    "aperti": 15,
-   "pnl": -28.13,
-   "rend_medio_pct": -17.58,
-   "t": -0.43,
-   "rend40_pct": -17.58,
-   "t40": -0.43
+   "pnl": -47.62,
+   "rend_medio_pct": -26.46,
+   "t": -0.7,
+   "rend40_pct": -26.46,
+   "t40": -0.7
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,104 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 62,
+   "chiusi": 66,
    "aperti": 15,
-   "pnl": -8.36,
-   "rend_medio_pct": -0.67,
-   "t": -0.03,
-   "rend40_pct": 9.3,
-   "t40": 0.35
+   "pnl": -41.86,
+   "rend_medio_pct": -3.17,
+   "t": -0.17,
+   "rend40_pct": 8.74,
+   "t40": 0.33
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Celtics vs. Kings",
+   "side": "Y",
+   "entry_price": 0.83,
+   "importo": 20.0,
+   "opened": "2026-11-21T20:59:45"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin dip to $52,500 in November?",
+   "side": "N",
+   "entry_price": 0.8,
+   "importo": 20.0,
+   "opened": "2026-11-21T20:59:45"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Bitcoin dip to $52,500 in November?",
+   "side": "Y",
+   "entry_price": 0.21,
+   "importo": 20.0,
+   "opened": "2026-11-21T20:59:45"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the Democratic Progressive Party (DPP) win the most head of local government elections in the 2026 Taiwan local elections?",
+   "side": "N",
+   "entry_price": 0.77,
+   "importo": 20.0,
+   "opened": "2026-11-21T20:59:45"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "GTA VI Online released by March 31, 2027?",
+   "side": "N",
+   "entry_price": 0.76,
+   "importo": 20.0,
+   "opened": "2026-11-21T20:59:45"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "GTA VI Online released by March 31, 2027?",
+   "side": "Y",
+   "entry_price": 0.25,
+   "importo": 20.0,
+   "opened": "2026-11-21T20:59:45"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Celtics vs. Kings: O/U 217.5",
+   "side": "Y",
+   "entry_price": 0.47,
+   "importo": 20.0,
+   "opened": "2026-11-21T20:59:45"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Pelicans vs. Spurs: O/U 228.5",
+   "side": "Y",
+   "entry_price": 0.5,
+   "importo": 20.0,
+   "opened": "2026-11-21T20:59:45"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin reach $62,000 November 16-22?",
+   "side": "Y",
+   "entry_price": 0.426,
+   "importo": 20.0,
+   "opened": "2026-11-21T20:59:45"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin reach $62,500 in November?",
+   "side": "Y",
+   "entry_price": 0.71,
+   "importo": 20.0,
+   "opened": "2026-11-21T20:59:45"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin reach $67,500 in November?",
+   "side": "Y",
+   "entry_price": 0.21,
+   "importo": 20.0,
+   "opened": "2026-11-21T20:42:11"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Dota 2: Team Spirit vs Xtreme Gaming (BO3) - BLAST Slam Group B",
@@ -193,14 +281,6 @@
    "market_nome": "Will AI solve the Riemann Hypothesis in 2026?",
    "side": "N",
    "entry_price": 0.34,
-   "importo": 20.0,
-   "opened": "2026-11-21T15:51:59"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Bucks vs. 76ers",
-   "side": "Y",
-   "entry_price": 0.19,
    "importo": 20.0,
    "opened": "2026-11-21T15:51:59"
   },
@@ -389,14 +469,6 @@
    "opened": "2026-11-20T23:30:25"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "UFC Fight Night: Jirí Procházka vs. Navajo Stirling (Light Heavyweight, Main Card)",
-   "side": "Y",
-   "entry_price": 0.38,
-   "importo": 20.0,
-   "opened": "2026-11-20T23:13:03"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Jaguars vs. Giants: O/U 46.5",
    "side": "Y",
@@ -429,70 +501,6 @@
    "opened": "2026-11-20T22:04:49"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Anthropic's valuation hit (LOW) $800B by December 31?",
-   "side": "Y",
-   "entry_price": 0.327,
-   "importo": 20.0,
-   "opened": "2026-11-20T20:57:05"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 22?",
-   "side": "N",
-   "entry_price": 0.415,
-   "importo": 20.0,
-   "opened": "2026-11-20T20:57:05"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin dip to $55,000 in November?",
-   "side": "Y",
-   "entry_price": 0.576,
-   "importo": 20.0,
-   "opened": "2026-11-20T20:57:04"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin dip to $55,000 in November?",
-   "side": "N",
-   "entry_price": 0.447,
-   "importo": 20.0,
-   "opened": "2026-11-20T20:57:04"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin reach $65,000 in November?",
-   "side": "N",
-   "entry_price": 0.81,
-   "importo": 20.0,
-   "opened": "2026-11-20T20:57:04"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin reach $65,000 in November?",
-   "side": "N",
-   "entry_price": 0.81,
-   "importo": 20.0,
-   "opened": "2026-11-20T20:57:04"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
-   "side": "Y",
-   "entry_price": 0.705,
-   "importo": 20.0,
-   "opened": "2026-11-20T20:57:04"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin dip to $54,000 November 16-22?",
-   "side": "Y",
-   "entry_price": 0.2,
-   "importo": 20.0,
-   "opened": "2026-11-20T20:57:04"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Jensen Huang rejoin NVIDIA by December 31, 2027?",
    "side": "Y",
@@ -513,14 +521,6 @@
    "market_nome": "Spread: Lions (-7.5)",
    "side": "Y",
    "entry_price": 0.4,
-   "importo": 20.0,
-   "opened": "2026-11-20T20:40:18"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "UFC Fight Night: Jirí Procházka vs. Navajo Stirling (Light Heavyweight, Main Card)",
-   "side": "Y",
-   "entry_price": 0.39,
    "importo": 20.0,
    "opened": "2026-11-20T20:40:18"
   },
@@ -566,6 +566,116 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "UFC Fight Night: Jirí Procházka vs. Navajo Stirling (Light Heavyweight, Main Card)",
+   "side": "Y",
+   "entry_price": 0.39,
+   "exit_price": 0.01,
+   "pnl": -19.4872,
+   "closed": "2026-11-21T20:59:43",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin dip to $55,000 in November?",
+   "side": "Y",
+   "entry_price": 0.576,
+   "exit_price": 0.326,
+   "pnl": -8.6806,
+   "closed": "2026-11-21T20:59:43",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin dip to $55,000 in November?",
+   "side": "N",
+   "entry_price": 0.447,
+   "exit_price": 0.673,
+   "pnl": 10.1118,
+   "closed": "2026-11-21T20:59:43",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin reach $65,000 in November?",
+   "side": "N",
+   "entry_price": 0.81,
+   "exit_price": 0.6,
+   "pnl": -5.1852,
+   "closed": "2026-11-21T20:59:43",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin reach $65,000 in November?",
+   "side": "N",
+   "entry_price": 0.81,
+   "exit_price": 0.6,
+   "pnl": -5.1852,
+   "closed": "2026-11-21T20:59:43",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
+   "side": "Y",
+   "entry_price": 0.705,
+   "exit_price": 0.749,
+   "pnl": 1.2482,
+   "closed": "2026-11-21T20:59:43",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin dip to $54,000 November 16-22?",
+   "side": "Y",
+   "entry_price": 0.2,
+   "exit_price": 0.024,
+   "pnl": -17.6,
+   "closed": "2026-11-21T20:59:43",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Anthropic's valuation hit (LOW) $800B by December 31?",
+   "side": "Y",
+   "entry_price": 0.327,
+   "exit_price": 0.235,
+   "pnl": -5.6269,
+   "closed": "2026-11-21T20:59:43",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 22?",
+   "side": "N",
+   "entry_price": 0.415,
+   "exit_price": 0.068,
+   "pnl": -16.7229,
+   "closed": "2026-11-21T20:59:43",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "UFC Fight Night: Jirí Procházka vs. Navajo Stirling (Light Heavyweight, Main Card)",
+   "side": "Y",
+   "entry_price": 0.38,
+   "exit_price": 0.01,
+   "pnl": -19.4737,
+   "closed": "2026-11-21T20:59:43",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Bucks vs. 76ers",
+   "side": "Y",
+   "entry_price": 0.19,
+   "exit_price": 0.01,
+   "pnl": -18.9474,
+   "closed": "2026-11-21T20:42:11",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",
@@ -854,116 +964,6 @@
    "exit_price": 0.999,
    "pnl": 5.2912,
    "closed": "2026-11-21T15:51:59",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-   "side": "N",
-   "entry_price": 0.45,
-   "exit_price": 0.38,
-   "pnl": -3.1111,
-   "closed": "2026-11-21T15:51:57",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-   "side": "Y",
-   "entry_price": 0.32,
-   "exit_price": 0.358,
-   "pnl": 2.375,
-   "closed": "2026-11-21T15:51:57",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-   "side": "Y",
-   "entry_price": 0.32,
-   "exit_price": 0.358,
-   "pnl": 2.375,
-   "closed": "2026-11-21T15:51:57",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Elon Musk post 65-89 tweets from November 19 to November 21, 2026?",
-   "side": "Y",
-   "entry_price": 0.95,
-   "exit_price": 0.983,
-   "pnl": 0.6947,
-   "closed": "2026-11-21T15:18:35",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 21?",
-   "side": "Y",
-   "entry_price": 0.941,
-   "exit_price": 0.99,
-   "pnl": 1.0415,
-   "closed": "2026-11-21T15:18:34",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 21?",
-   "side": "N",
-   "entry_price": 0.452,
-   "exit_price": 0.008,
-   "pnl": -19.646,
-   "closed": "2026-11-21T15:18:34",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 21?",
-   "side": "N",
-   "entry_price": 0.457,
-   "exit_price": 0.008,
-   "pnl": -19.6499,
-   "closed": "2026-11-21T15:18:34",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Aurora vs Astra Invicta (BO3) - BLAST Slam Group D",
-   "side": "Y",
-   "entry_price": 0.87,
-   "exit_price": 0.999,
-   "pnl": 2.9655,
-   "closed": "2026-11-21T14:44:31",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-   "side": "Y",
-   "entry_price": 0.47,
-   "exit_price": 0.62,
-   "pnl": 6.383,
-   "closed": "2026-11-21T13:36:54",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $56,000 on November 21?",
-   "side": "N",
-   "entry_price": 0.475,
-   "exit_price": 0.009,
-   "pnl": -19.6211,
-   "closed": "2026-11-21T13:20:22",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $56,000 on November 21?",
-   "side": "N",
-   "entry_price": 0.42,
-   "exit_price": 0.009,
-   "pnl": -19.5714,
-   "closed": "2026-11-21T13:20:22",
    "motivo": "prezzo a fine corsa"
   }
  ]
