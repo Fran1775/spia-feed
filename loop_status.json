@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T03:37:01",
+ "generated_at": "2026-11-21T04:07:02",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 47,
-   "aperti": 13,
+   "aperti": 14,
    "pnl": -37.04,
    "rend_medio_pct": -3.94,
    "t": -0.61,
@@ -57,7 +57,7 @@
     "pmin": 0.1
    },
    "chiusi": 1,
-   "aperti": 13,
+   "aperti": 14,
    "pnl": 46.6,
    "rend_medio_pct": 0.0,
    "t": 0.0,
@@ -74,16 +74,48 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 43,
+   "chiusi": 45,
    "aperti": 15,
-   "pnl": -61.16,
-   "rend_medio_pct": -7.11,
-   "t": -0.26,
-   "rend40_pct": -7.45,
-   "t40": -0.26
+   "pnl": -52.83,
+   "rend_medio_pct": -5.87,
+   "t": -0.23,
+   "rend40_pct": -1.63,
+   "t40": -0.06
   }
  ],
  "aperte": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Real Madrid CF win on 2026-11-21?",
+   "side": "Y",
+   "entry_price": 0.85,
+   "importo": 20.0,
+   "opened": "2026-11-21T04:05:13"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $54,000 on November 22?",
+   "side": "Y",
+   "entry_price": 0.857,
+   "importo": 20.0,
+   "opened": "2026-11-21T04:05:13"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin dip to $45,000 by December 31, 2026?",
+   "side": "Y",
+   "entry_price": 0.21,
+   "importo": 20.0,
+   "opened": "2026-11-21T03:47:53"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Drummondville: James Kent Trotter vs Aidan Mayo",
+   "side": "Y",
+   "entry_price": 0.58,
+   "importo": 20.0,
+   "opened": "2026-11-21T03:47:53"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "US x Iran Effective Ceasefire by November 22?",
@@ -219,14 +251,6 @@
    "entry_price": 0.863,
    "importo": 20.0,
    "opened": "2026-11-20T22:04:50"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin dip to $57,500 in November?",
-   "side": "Y",
-   "entry_price": 0.768,
-   "importo": 20.0,
-   "opened": "2026-11-20T22:04:49"
   },
   {
    "rule_id": "84fb9952fb",
@@ -477,14 +501,6 @@
    "opened": "2026-11-20T13:27:09"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Anthropic's valuation hit (HIGH) $1.75T by December 31?",
-   "side": "N",
-   "entry_price": 0.7,
-   "importo": 20.0,
-   "opened": "2026-11-20T03:37:28"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Real Madrid CF win on 2026-11-21?",
    "side": "Y",
@@ -534,6 +550,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Anthropic's valuation hit (HIGH) $1.75T by December 31?",
+   "side": "N",
+   "entry_price": 0.7,
+   "exit_price": 0.78,
+   "pnl": 2.2857,
+   "closed": "2026-11-21T03:47:52",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin dip to $57,500 in November?",
+   "side": "Y",
+   "entry_price": 0.768,
+   "exit_price": 1.0,
+   "pnl": 6.0417,
+   "closed": "2026-11-21T03:47:52",
+   "motivo": "risoluzione"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Raptors vs. Pistons",
@@ -911,26 +947,6 @@
    "entry_price": 0.65,
    "exit_price": 0.6,
    "pnl": -1.5385,
-   "closed": "2026-11-20T20:57:03",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 24?",
-   "side": "Y",
-   "entry_price": 0.34,
-   "exit_price": 0.28,
-   "pnl": -3.5294,
-   "closed": "2026-11-20T20:57:03",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 24?",
-   "side": "Y",
-   "entry_price": 0.34,
-   "exit_price": 0.28,
-   "pnl": -3.5294,
    "closed": "2026-11-20T20:57:03",
    "motivo": "uscita a tempo 24h"
   }
