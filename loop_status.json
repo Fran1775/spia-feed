@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T06:37:01",
+ "generated_at": "2026-11-21T07:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 48,
-   "aperti": 15,
-   "pnl": -35.3,
-   "rend_medio_pct": -3.68,
-   "t": -0.58,
-   "rend40_pct": -7.03,
-   "t40": -0.95
+   "chiusi": 49,
+   "aperti": 14,
+   "pnl": -34.02,
+   "rend_medio_pct": -3.47,
+   "t": -0.56,
+   "rend40_pct": -6.83,
+   "t40": -0.92
   },
   {
    "id": "924891e0f0",
@@ -84,14 +84,6 @@
   }
  ],
  "aperte": [
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 21, 1:15AM-1:30AM ET",
-   "side": "Y",
-   "entry_price": 0.94,
-   "importo": 20.0,
-   "opened": "2026-11-21T06:23:47"
-  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will WTI Crude Oil (WTI) hit (LOW) $80 in November?",
@@ -567,6 +559,16 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 21, 1:15AM-1:30AM ET",
+   "side": "Y",
+   "entry_price": 0.94,
+   "exit_price": 1.0,
+   "pnl": 1.2766,
+   "closed": "2026-11-21T06:41:35",
+   "motivo": "risoluzione"
+  },
+  {
    "rule_id": "84fb9952fb",
    "market_nome": "Rockets vs. Nuggets",
    "side": "Y",
@@ -953,16 +955,6 @@
    "entry_price": 0.77,
    "exit_price": 0.77,
    "pnl": 0.0,
-   "closed": "2026-11-20T20:57:04",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Anthropic's valuation hit (HIGH) $1.575T by November 30?",
-   "side": "N",
-   "entry_price": 0.82,
-   "exit_price": 0.89,
-   "pnl": 1.7073,
    "closed": "2026-11-20T20:57:04",
    "motivo": "uscita a tempo 24h"
   }
