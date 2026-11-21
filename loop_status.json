@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T09:07:01",
+ "generated_at": "2026-11-21T09:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 49,
+   "chiusi": 50,
    "aperti": 15,
-   "pnl": -34.02,
-   "rend_medio_pct": -3.47,
-   "t": -0.56,
-   "rend40_pct": -6.83,
-   "t40": -0.92
+   "pnl": -32.61,
+   "rend_medio_pct": -3.26,
+   "t": -0.54,
+   "rend40_pct": -4.18,
+   "t40": -0.59
   },
   {
    "id": "924891e0f0",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 2,
+   "chiusi": 3,
    "aperti": 15,
-   "pnl": 27.03,
-   "rend_medio_pct": 67.56,
-   "t": 0.58,
-   "rend40_pct": 67.56,
-   "t40": 0.58
+   "pnl": 30.6,
+   "rend_medio_pct": 50.99,
+   "t": 0.64,
+   "rend40_pct": 50.99,
+   "t40": 0.64
   },
   {
    "id": "a042d572b3",
@@ -84,6 +84,22 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 22?",
+   "side": "Y",
+   "entry_price": 0.96,
+   "importo": 20.0,
+   "opened": "2026-11-21T09:27:27"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will AFC Bournemouth win on 2026-11-21?",
+   "side": "Y",
+   "entry_price": 0.51,
+   "importo": 20.0,
+   "opened": "2026-11-21T09:27:27"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the highest temperature in Hong Kong be 20°C on November 21?",
@@ -398,14 +414,6 @@
   },
   {
    "rule_id": "84fb9952fb",
-   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 28?",
-   "side": "Y",
-   "entry_price": 0.84,
-   "importo": 20.0,
-   "opened": "2026-11-20T20:40:18"
-  },
-  {
-   "rule_id": "84fb9952fb",
    "market_nome": "Will Aston Villa FC win on 2026-11-21?",
    "side": "Y",
    "entry_price": 0.56,
@@ -501,14 +509,6 @@
    "opened": "2026-11-20T15:48:38"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will \"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office be at least 105m?",
-   "side": "Y",
-   "entry_price": 0.922,
-   "importo": 20.0,
-   "opened": "2026-11-20T15:48:38"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "Will Bitcoin dip to $55,000 by December 31, 2026?",
    "side": "Y",
@@ -566,6 +566,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will \"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office be at least 105m?",
+   "side": "Y",
+   "entry_price": 0.922,
+   "exit_price": 0.987,
+   "pnl": 1.41,
+   "closed": "2026-11-21T09:27:26",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 28?",
+   "side": "Y",
+   "entry_price": 0.84,
+   "exit_price": 0.99,
+   "pnl": 3.5714,
+   "closed": "2026-11-21T09:27:26",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Bitcoin Up or Down - November 21, 1:15AM-1:30AM ET",
@@ -945,26 +965,6 @@
    "pnl": -18.6667,
    "closed": "2026-11-20T21:13:50",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will WTI Crude Oil (WTI) hit (LOW) $80 in November?",
-   "side": "Y",
-   "entry_price": 0.59,
-   "exit_price": 0.51,
-   "pnl": -2.7119,
-   "closed": "2026-11-20T21:13:49",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will SE Palmeiras win on 2026-11-21?",
-   "side": "N",
-   "entry_price": 0.77,
-   "exit_price": 0.77,
-   "pnl": 0.0,
-   "closed": "2026-11-20T20:57:04",
-   "motivo": "uscita a tempo 24h"
   }
  ]
 }
