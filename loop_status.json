@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T21:07:01",
+ "generated_at": "2026-11-21T21:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -74,16 +74,24 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 66,
+   "chiusi": 67,
    "aperti": 15,
-   "pnl": -41.86,
-   "rend_medio_pct": -3.17,
-   "t": -0.17,
-   "rend40_pct": 8.74,
-   "t40": 0.33
+   "pnl": -14.29,
+   "rend_medio_pct": -1.07,
+   "t": -0.06,
+   "rend40_pct": 12.29,
+   "t40": 0.46
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Celtics vs. Kings: O/U 217.5",
+   "side": "N",
+   "entry_price": 0.54,
+   "importo": 20.0,
+   "opened": "2026-11-21T21:34:11"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Celtics vs. Kings",
@@ -201,14 +209,6 @@
    "market_nome": "Will Bitcoin dip to $50,000 in November?",
    "side": "Y",
    "entry_price": 0.118,
-   "importo": 20.0,
-   "opened": "2026-11-21T19:51:22"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: Betclic Apogee Esports vs FORZE Reload (BO3) - NODWIN Clutch Series Playoffs",
-   "side": "Y",
-   "entry_price": 0.42,
    "importo": 20.0,
    "opened": "2026-11-21T19:51:22"
   },
@@ -566,6 +566,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Counter-Strike: Betclic Apogee Esports vs FORZE Reload (BO3) - NODWIN Clutch Series Playoffs",
+   "side": "Y",
+   "entry_price": 0.42,
+   "exit_price": 0.999,
+   "pnl": 27.5714,
+   "closed": "2026-11-21T21:34:11",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "UFC Fight Night: Jirí Procházka vs. Navajo Stirling (Light Heavyweight, Main Card)",
@@ -953,16 +963,6 @@
    "entry_price": 0.9,
    "exit_price": 0.001,
    "pnl": -19.9778,
-   "closed": "2026-11-21T15:51:59",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "ATP World Tour Finals, Final Stage: Carlos Alcaraz vs Ben Shelton",
-   "side": "Y",
-   "entry_price": 0.79,
-   "exit_price": 0.999,
-   "pnl": 5.2912,
    "closed": "2026-11-21T15:51:59",
    "motivo": "prezzo a fine corsa"
   }
