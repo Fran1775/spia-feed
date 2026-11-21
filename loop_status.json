@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T04:07:02",
+ "generated_at": "2026-11-21T04:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 26,
+   "chiusi": 27,
    "aperti": 15,
-   "pnl": 11.64,
-   "rend_medio_pct": 2.24,
-   "t": 0.2,
-   "rend40_pct": 2.24,
-   "t40": 0.2
+   "pnl": 57.43,
+   "rend_medio_pct": 10.63,
+   "t": 0.78,
+   "rend40_pct": 10.63,
+   "t40": 0.78
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 45,
+   "chiusi": 46,
    "aperti": 15,
-   "pnl": -52.83,
-   "rend_medio_pct": -5.87,
-   "t": -0.23,
-   "rend40_pct": -1.63,
-   "t40": -0.06
+   "pnl": 22.41,
+   "rend_medio_pct": 2.44,
+   "t": 0.09,
+   "rend40_pct": 10.08,
+   "t40": 0.34
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Drummondville: James Kent Trotter vs Aidan Mayo",
+   "side": "Y",
+   "entry_price": 0.61,
+   "importo": 20.0,
+   "opened": "2026-11-21T04:22:51"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
+   "side": "Y",
+   "entry_price": 0.822,
+   "importo": 20.0,
+   "opened": "2026-11-21T04:22:51"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Real Madrid CF win on 2026-11-21?",
@@ -422,14 +438,6 @@
   },
   {
    "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin dip to $56,000 November 16-22?",
-   "side": "Y",
-   "entry_price": 0.304,
-   "importo": 20.0,
-   "opened": "2026-11-20T18:41:24"
-  },
-  {
-   "rule_id": "924891e0f0",
    "market_nome": "AI bubble burst in 2026?",
    "side": "Y",
    "entry_price": 0.29,
@@ -473,14 +481,6 @@
    "market_nome": "Will Bitcoin dip to $50,000 by December 31, 2026?",
    "side": "Y",
    "entry_price": 0.32,
-   "importo": 20.0,
-   "opened": "2026-11-20T15:48:38"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin dip to $56,000 November 16-22?",
-   "side": "Y",
-   "entry_price": 0.21,
    "importo": 20.0,
    "opened": "2026-11-20T15:48:38"
   },
@@ -550,6 +550,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin dip to $56,000 November 16-22?",
+   "side": "Y",
+   "entry_price": 0.21,
+   "exit_price": 1.0,
+   "pnl": 75.2381,
+   "closed": "2026-11-21T04:22:50",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin dip to $56,000 November 16-22?",
+   "side": "Y",
+   "entry_price": 0.304,
+   "exit_price": 1.0,
+   "pnl": 45.7895,
+   "closed": "2026-11-21T04:22:50",
+   "motivo": "risoluzione"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Anthropic's valuation hit (HIGH) $1.75T by December 31?",
@@ -927,26 +947,6 @@
    "entry_price": 0.5,
    "exit_price": 0.47,
    "pnl": -1.2,
-   "closed": "2026-11-20T20:57:03",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 26?",
-   "side": "Y",
-   "entry_price": 0.65,
-   "exit_price": 0.6,
-   "pnl": -1.5385,
-   "closed": "2026-11-20T20:57:03",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 26?",
-   "side": "Y",
-   "entry_price": 0.65,
-   "exit_price": 0.6,
-   "pnl": -1.5385,
    "closed": "2026-11-20T20:57:03",
    "motivo": "uscita a tempo 24h"
   }
