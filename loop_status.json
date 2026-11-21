@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T06:07:01",
+ "generated_at": "2026-11-21T06:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 48,
-   "aperti": 14,
+   "aperti": 15,
    "pnl": -35.3,
    "rend_medio_pct": -3.68,
    "t": -0.58,
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 21, 1:15AM-1:30AM ET",
+   "side": "Y",
+   "entry_price": 0.94,
+   "importo": 20.0,
+   "opened": "2026-11-21T06:23:47"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will WTI Crude Oil (WTI) hit (LOW) $80 in November?",
