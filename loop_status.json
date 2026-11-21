@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T21:37:01",
+ "generated_at": "2026-11-21T22:07:02",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 68,
-   "aperti": 15,
-   "pnl": -37.79,
-   "rend_medio_pct": -2.78,
-   "t": -0.56,
-   "rend40_pct": -2.53,
-   "t40": -0.38
+   "chiusi": 69,
+   "aperti": 14,
+   "pnl": -57.58,
+   "rend_medio_pct": -4.17,
+   "t": -0.82,
+   "rend40_pct": -5.37,
+   "t40": -0.77
   },
   {
    "id": "924891e0f0",
@@ -211,14 +211,6 @@
    "entry_price": 0.118,
    "importo": 20.0,
    "opened": "2026-11-21T19:51:22"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "RKS Radomiak Radom vs. Wisla Krakow: O/U 0.5",
-   "side": "Y",
-   "entry_price": 0.938,
-   "importo": 20.0,
-   "opened": "2026-11-21T19:00:24"
   },
   {
    "rule_id": "a042d572b3",
@@ -566,6 +558,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "RKS Radomiak Radom vs. Wisla Krakow: O/U 0.5",
+   "side": "Y",
+   "entry_price": 0.938,
+   "exit_price": 0.01,
+   "pnl": -19.7868,
+   "closed": "2026-11-21T21:51:01",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Counter-Strike: Betclic Apogee Esports vs FORZE Reload (BO3) - NODWIN Clutch Series Playoffs",
@@ -954,16 +956,6 @@
    "exit_price": 0.991,
    "pnl": 18.1153,
    "closed": "2026-11-21T16:43:55",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the highest temperature in Hong Kong be 20°C on November 21?",
-   "side": "Y",
-   "entry_price": 0.9,
-   "exit_price": 0.001,
-   "pnl": -19.9778,
-   "closed": "2026-11-21T15:51:59",
    "motivo": "prezzo a fine corsa"
   }
  ]
