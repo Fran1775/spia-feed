@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T07:07:01",
+ "generated_at": "2026-11-21T07:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 49,
-   "aperti": 14,
+   "aperti": 15,
    "pnl": -34.02,
    "rend_medio_pct": -3.47,
    "t": -0.56,
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the highest temperature in Hong Kong be 20°C on November 21?",
+   "side": "Y",
+   "entry_price": 0.9,
+   "importo": 20.0,
+   "opened": "2026-11-21T07:15:18"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will WTI Crude Oil (WTI) hit (LOW) $80 in November?",
