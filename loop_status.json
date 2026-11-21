@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T10:07:01",
+ "generated_at": "2026-11-21T10:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 50,
+   "chiusi": 51,
    "aperti": 15,
-   "pnl": -32.61,
-   "rend_medio_pct": -3.26,
-   "t": -0.54,
-   "rend40_pct": -4.18,
-   "t40": -0.59
+   "pnl": -32.39,
+   "rend_medio_pct": -3.18,
+   "t": -0.53,
+   "rend40_pct": -4.28,
+   "t40": -0.61
   },
   {
    "id": "924891e0f0",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Elon Musk post 65-89 tweets from November 19 to November 21, 2026?",
+   "side": "Y",
+   "entry_price": 0.95,
+   "importo": 20.0,
+   "opened": "2026-11-21T10:18:01"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Kai Cenat finish his GTA VI marathon by November 22?",
@@ -281,14 +289,6 @@
    "market_nome": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
    "side": "Y",
    "entry_price": 0.52,
-   "importo": 20.0,
-   "opened": "2026-11-20T22:21:48"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Ethereum be above $1,500 on November 21?",
-   "side": "Y",
-   "entry_price": 0.975,
    "importo": 20.0,
    "opened": "2026-11-20T22:21:48"
   },
@@ -566,6 +566,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Ethereum be above $1,500 on November 21?",
+   "side": "Y",
+   "entry_price": 0.975,
+   "exit_price": 0.986,
+   "pnl": 0.2256,
+   "closed": "2026-11-21T10:18:00",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will \"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office be at least 105m?",
@@ -953,16 +963,6 @@
    "entry_price": 0.09,
    "exit_price": 0.01,
    "pnl": -17.7778,
-   "closed": "2026-11-20T21:13:50",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: Sinners vs Metizport - Map 1 Winner",
-   "side": "N",
-   "entry_price": 0.15,
-   "exit_price": 0.01,
-   "pnl": -18.6667,
    "closed": "2026-11-20T21:13:50",
    "motivo": "prezzo a fine corsa"
   }
