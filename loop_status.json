@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T05:07:01",
+ "generated_at": "2026-11-21T05:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 28,
+   "chiusi": 29,
    "aperti": 15,
-   "pnl": 70.18,
-   "rend_medio_pct": 12.53,
-   "t": 0.95,
-   "rend40_pct": 12.53,
-   "t40": 0.95
+   "pnl": 88.6,
+   "rend_medio_pct": 15.28,
+   "t": 1.17,
+   "rend40_pct": 15.28,
+   "t40": 1.17
   },
   {
    "id": "84fb9952fb",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be above $56,000 on November 21?",
+   "side": "N",
+   "entry_price": 0.42,
+   "importo": 20.0,
+   "opened": "2026-11-21T05:14:34"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Nvidia’s market capitalization be less than $4.00T at the end of 2026?",
@@ -209,14 +217,6 @@
    "market_nome": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
    "side": "N",
    "entry_price": 0.49,
-   "importo": 20.0,
-   "opened": "2026-11-21T00:36:57"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Spread: Suns (-4.5)",
-   "side": "Y",
-   "entry_price": 0.52,
    "importo": 20.0,
    "opened": "2026-11-21T00:36:57"
   },
@@ -558,6 +558,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Spread: Suns (-4.5)",
+   "side": "Y",
+   "entry_price": 0.52,
+   "exit_price": 0.999,
+   "pnl": 18.423,
+   "closed": "2026-11-21T05:14:33",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Bitcoin Up or Down - November 20, 11:30PM-11:45PM ET",
@@ -945,16 +955,6 @@
    "entry_price": 0.95,
    "exit_price": 0.91,
    "pnl": -0.8421,
-   "closed": "2026-11-20T20:57:03",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Carlos Alcaraz win the 2026 Nitto ATP Finals?",
-   "side": "N",
-   "entry_price": 0.52,
-   "exit_price": 0.49,
-   "pnl": -1.1539,
    "closed": "2026-11-20T20:57:03",
    "motivo": "uscita a tempo 24h"
   }
