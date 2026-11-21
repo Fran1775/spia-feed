@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T15:07:01",
+ "generated_at": "2026-11-21T15:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 56,
+   "chiusi": 58,
    "aperti": 15,
-   "pnl": -46.37,
-   "rend_medio_pct": -4.14,
-   "t": -0.73,
-   "rend40_pct": -4.67,
-   "t40": -0.66
+   "pnl": -44.64,
+   "rend_medio_pct": -3.85,
+   "t": -0.7,
+   "rend40_pct": -5.23,
+   "t40": -0.75
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 31,
+   "chiusi": 32,
    "aperti": 15,
-   "pnl": 75.42,
-   "rend_medio_pct": 12.16,
-   "t": 0.95,
-   "rend40_pct": 12.16,
-   "t40": 0.95
+   "pnl": 55.77,
+   "rend_medio_pct": 8.71,
+   "t": 0.68,
+   "rend40_pct": 8.71,
+   "t40": 0.68
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,48 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 49,
+   "chiusi": 50,
    "aperti": 15,
-   "pnl": -2.34,
-   "rend_medio_pct": -0.24,
-   "t": -0.01,
-   "rend40_pct": 8.23,
-   "t40": 0.27
+   "pnl": -21.99,
+   "rend_medio_pct": -2.2,
+   "t": -0.09,
+   "rend40_pct": 5.5,
+   "t40": 0.18
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Trump call for Jensen Huang's return as NVIDIA CEO by November 30?",
+   "side": "Y",
+   "entry_price": 0.25,
+   "importo": 20.0,
+   "opened": "2026-11-21T15:18:36"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $54,000 on November 24?",
+   "side": "Y",
+   "entry_price": 0.933,
+   "importo": 20.0,
+   "opened": "2026-11-21T15:18:36"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 21?",
+   "side": "Y",
+   "entry_price": 0.477,
+   "importo": 20.0,
+   "opened": "2026-11-21T15:18:35"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 22?",
+   "side": "Y",
+   "entry_price": 0.849,
+   "importo": 20.0,
+   "opened": "2026-11-21T15:18:35"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Bitcoin Up or Down on November 21?",
@@ -123,14 +155,6 @@
    "entry_price": 0.948,
    "importo": 20.0,
    "opened": "2026-11-21T13:20:22"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Elon Musk post 65-89 tweets from November 19 to November 21, 2026?",
-   "side": "Y",
-   "entry_price": 0.95,
-   "importo": 20.0,
-   "opened": "2026-11-21T10:18:01"
   },
   {
    "rule_id": "84fb9952fb",
@@ -325,14 +349,6 @@
    "opened": "2026-11-20T22:04:49"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 21?",
-   "side": "N",
-   "entry_price": 0.457,
-   "importo": 20.0,
-   "opened": "2026-11-20T21:13:50"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "Will Anthropic's valuation hit (LOW) $800B by December 31?",
    "side": "Y",
@@ -385,14 +401,6 @@
    "market_nome": "Will Bitcoin reach $65,000 in November?",
    "side": "N",
    "entry_price": 0.81,
-   "importo": 20.0,
-   "opened": "2026-11-20T20:57:04"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 21?",
-   "side": "N",
-   "entry_price": 0.452,
    "importo": 20.0,
    "opened": "2026-11-20T20:57:04"
   },
@@ -550,14 +558,6 @@
   },
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 21?",
-   "side": "Y",
-   "entry_price": 0.941,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:47:44"
-  },
-  {
-   "rule_id": "2a906fe26e",
    "market_nome": "Israel x Iran ceasefire continues through November 22?",
    "side": "Y",
    "entry_price": 0.95,
@@ -566,6 +566,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Elon Musk post 65-89 tweets from November 19 to November 21, 2026?",
+   "side": "Y",
+   "entry_price": 0.95,
+   "exit_price": 0.983,
+   "pnl": 0.6947,
+   "closed": "2026-11-21T15:18:35",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 21?",
+   "side": "Y",
+   "entry_price": 0.941,
+   "exit_price": 0.99,
+   "pnl": 1.0415,
+   "closed": "2026-11-21T15:18:34",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 21?",
+   "side": "N",
+   "entry_price": 0.452,
+   "exit_price": 0.008,
+   "pnl": -19.646,
+   "closed": "2026-11-21T15:18:34",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 21?",
+   "side": "N",
+   "entry_price": 0.457,
+   "exit_price": 0.008,
+   "pnl": -19.6499,
+   "closed": "2026-11-21T15:18:34",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Dota 2: Aurora vs Astra Invicta (BO3) - BLAST Slam Group D",
@@ -924,46 +964,6 @@
    "exit_price": 0.0,
    "pnl": -20.0,
    "closed": "2026-11-20T23:47:07",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Montevideo: Oriol Roca Batalla vs Thiago Seyboth Wild",
-   "side": "N",
-   "entry_price": 0.673,
-   "exit_price": 1.0,
-   "pnl": 9.7177,
-   "closed": "2026-11-20T23:13:03",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Montevideo: Oriol Roca Batalla vs Thiago Seyboth Wild",
-   "side": "N",
-   "entry_price": 0.673,
-   "exit_price": 1.0,
-   "pnl": 9.7177,
-   "closed": "2026-11-20T23:13:03",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: WBT vs Phantom (BO3) - NODWIN Clutch Series Playoffs",
-   "side": "Y",
-   "entry_price": 0.22,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-20T22:56:06",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Champaign: Gavin Young vs Bor Artnak",
-   "side": "Y",
-   "entry_price": 0.24,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-20T22:21:48",
    "motivo": "risoluzione"
   }
  ]
