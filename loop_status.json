@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T16:07:01",
+ "generated_at": "2026-11-22T16:37:02",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 82,
-   "aperti": 11,
+   "aperti": 13,
    "pnl": -47.44,
    "rend_medio_pct": -2.89,
    "t": -0.64,
@@ -84,6 +84,22 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Liverpool FC vs. Manchester United FC: O/U 1.5",
+   "side": "Y",
+   "entry_price": 0.85,
+   "importo": 20.0,
+   "opened": "2026-11-22T16:22:03"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "AC Milan vs. Frosinone Calcio: O/U 1.5",
+   "side": "Y",
+   "entry_price": 0.86,
+   "importo": 20.0,
+   "opened": "2026-11-22T16:22:03"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Dota 2: LEGION vs DO KONCA - Game 2 Winner",
