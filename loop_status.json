@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T15:07:01",
+ "generated_at": "2026-11-22T15:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 77,
+   "chiusi": 78,
    "aperti": 15,
-   "pnl": -62.34,
-   "rend_medio_pct": -4.05,
-   "t": -0.85,
-   "rend40_pct": -7.81,
-   "t40": -1.15
+   "pnl": -57.97,
+   "rend_medio_pct": -3.72,
+   "t": -0.79,
+   "rend40_pct": -7.77,
+   "t40": -1.14
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 51,
+   "chiusi": 52,
    "aperti": 15,
-   "pnl": -34.91,
-   "rend_medio_pct": -3.42,
-   "t": -0.35,
-   "rend40_pct": -3.85,
-   "t40": -0.35
+   "pnl": -41.31,
+   "rend_medio_pct": -3.97,
+   "t": -0.41,
+   "rend40_pct": -2.19,
+   "t40": -0.21
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,40 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 80,
+   "chiusi": 81,
    "aperti": 15,
-   "pnl": -2.16,
-   "rend_medio_pct": -0.13,
-   "t": -0.01,
-   "rend40_pct": 3.23,
-   "t40": 0.2
+   "pnl": 1.91,
+   "rend_medio_pct": 0.12,
+   "t": 0.01,
+   "rend40_pct": 2.98,
+   "t40": 0.18
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Dota 2: LEGION vs DO KONCA - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.58,
+   "importo": 20.0,
+   "opened": "2026-11-22T15:30:09"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will xQc finish GTA VI by November 23?",
+   "side": "Y",
+   "entry_price": 0.94,
+   "importo": 20.0,
+   "opened": "2026-11-22T15:12:50"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Buccaneers vs. Lions",
+   "side": "N",
+   "entry_price": 0.67,
+   "importo": 20.0,
+   "opened": "2026-11-22T15:12:49"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Liverpool FC win on 2026-11-22?",
@@ -177,14 +201,6 @@
    "market_nome": "Will AI solve 0 more Millennium Prize Problems in 2026?",
    "side": "Y",
    "entry_price": 0.2,
-   "importo": 20.0,
-   "opened": "2026-11-22T05:54:58"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will FC Barcelona win on 2026-11-22?",
-   "side": "Y",
-   "entry_price": 0.83,
    "importo": 20.0,
    "opened": "2026-11-22T05:54:58"
   },
@@ -437,14 +453,6 @@
    "opened": "2026-11-21T15:51:59"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Trump call for Jensen Huang's return as NVIDIA CEO by November 30?",
-   "side": "Y",
-   "entry_price": 0.25,
-   "importo": 20.0,
-   "opened": "2026-11-21T15:18:36"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $54,000 on November 24?",
    "side": "Y",
@@ -550,14 +558,6 @@
   },
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Will FC Barcelona win on 2026-11-22?",
-   "side": "Y",
-   "entry_price": 0.82,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:47:44"
-  },
-  {
-   "rule_id": "2a906fe26e",
    "market_nome": "Will xQc finish GTA VI by November 22?",
    "side": "Y",
    "entry_price": 0.81,
@@ -566,6 +566,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Trump call for Jensen Huang's return as NVIDIA CEO by November 30?",
+   "side": "Y",
+   "entry_price": 0.25,
+   "exit_price": 0.17,
+   "pnl": -6.4,
+   "closed": "2026-11-22T15:30:08",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will FC Barcelona win on 2026-11-22?",
+   "side": "Y",
+   "entry_price": 0.83,
+   "exit_price": 0.999,
+   "pnl": 4.0723,
+   "closed": "2026-11-22T15:12:49",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will FC Barcelona win on 2026-11-22?",
+   "side": "Y",
+   "entry_price": 0.82,
+   "exit_price": 0.999,
+   "pnl": 4.3658,
+   "closed": "2026-11-22T15:12:47",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $58,000 on November 22?",
@@ -933,36 +963,6 @@
    "entry_price": 0.81,
    "exit_price": 0.6,
    "pnl": -5.1852,
-   "closed": "2026-11-21T20:59:43",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
-   "side": "Y",
-   "entry_price": 0.705,
-   "exit_price": 0.749,
-   "pnl": 1.2482,
-   "closed": "2026-11-21T20:59:43",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin dip to $54,000 November 16-22?",
-   "side": "Y",
-   "entry_price": 0.2,
-   "exit_price": 0.024,
-   "pnl": -17.6,
-   "closed": "2026-11-21T20:59:43",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Anthropic's valuation hit (LOW) $800B by December 31?",
-   "side": "Y",
-   "entry_price": 0.327,
-   "exit_price": 0.235,
-   "pnl": -5.6269,
    "closed": "2026-11-21T20:59:43",
    "motivo": "uscita a tempo 24h"
   }
