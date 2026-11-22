@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T18:07:02",
+ "generated_at": "2026-11-22T18:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 59,
+   "chiusi": 60,
    "aperti": 15,
-   "pnl": -2.99,
-   "rend_medio_pct": -0.25,
+   "pnl": -3.35,
+   "rend_medio_pct": -0.28,
    "t": -0.03,
-   "rend40_pct": 2.9,
-   "t40": 0.24
+   "rend40_pct": 2.85,
+   "t40": 0.23
   },
   {
    "id": "84fb9952fb",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Steelers vs. Eagles",
+   "side": "N",
+   "entry_price": 0.58,
+   "importo": 20.0,
+   "opened": "2026-11-22T18:24:54"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Dota 2: 1win vs Aurora (BO3) - BLAST Slam Group D",
@@ -429,14 +437,6 @@
    "opened": "2026-11-21T18:43:25"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the Democratic Progressive Party (DPP) win the most head of local government elections in the 2026 Taiwan local elections?",
-   "side": "N",
-   "entry_price": 0.787,
-   "importo": 20.0,
-   "opened": "2026-11-21T18:10:12"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $54,000 on November 25?",
    "side": "Y",
@@ -566,6 +566,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the Democratic Progressive Party (DPP) win the most head of local government elections in the 2026 Taiwan local elections?",
+   "side": "N",
+   "entry_price": 0.787,
+   "exit_price": 0.773,
+   "pnl": -0.3558,
+   "closed": "2026-11-22T18:24:53",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Liverpool FC win on 2026-11-22?",
@@ -955,16 +965,6 @@
    "pnl": 15.0,
    "closed": "2026-11-22T05:37:12",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin dip to $45,000 by December 31, 2026?",
-   "side": "Y",
-   "entry_price": 0.283,
-   "exit_price": 0.188,
-   "pnl": -6.7138,
-   "closed": "2026-11-22T04:44:10",
-   "motivo": "uscita a tempo 24h"
   }
  ]
 }
