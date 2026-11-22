@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T19:07:01",
+ "generated_at": "2026-11-22T19:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 86,
+   "chiusi": 87,
    "aperti": 15,
-   "pnl": -33.58,
-   "rend_medio_pct": -1.95,
-   "t": -0.45,
-   "rend40_pct": 1.05,
-   "t40": 0.19
+   "pnl": -30.88,
+   "rend_medio_pct": -1.77,
+   "t": -0.41,
+   "rend40_pct": 0.77,
+   "t40": 0.14
   },
   {
    "id": "924891e0f0",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 10,
+   "chiusi": 11,
    "aperti": 15,
-   "pnl": -44.11,
-   "rend_medio_pct": -22.06,
-   "t": -0.65,
-   "rend40_pct": -22.06,
-   "t40": -0.65
+   "pnl": -24.94,
+   "rend_medio_pct": -11.33,
+   "t": -0.35,
+   "rend40_pct": -11.33,
+   "t40": -0.35
   },
   {
    "id": "a042d572b3",
@@ -84,6 +84,22 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Nuggets vs. Bulls",
+   "side": "Y",
+   "entry_price": 0.8,
+   "importo": 20.0,
+   "opened": "2026-11-22T19:19:09"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will AI solve the Riemann Hypothesis in 2026?",
+   "side": "Y",
+   "entry_price": 0.75,
+   "importo": 20.0,
+   "opened": "2026-11-22T19:19:09"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Spread: Steelers (-4.5)",
@@ -121,14 +137,6 @@
    "market_nome": "Dota 2: 1win vs Aurora (BO3) - BLAST Slam Group D",
    "side": "Y",
    "entry_price": 0.48,
-   "importo": 20.0,
-   "opened": "2026-11-22T18:06:47"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Carlos Alcaraz win the 2026 Nitto ATP Finals?",
-   "side": "Y",
-   "entry_price": 0.88,
    "importo": 20.0,
    "opened": "2026-11-22T18:06:47"
   },
@@ -526,14 +534,6 @@
   },
   {
    "rule_id": "84fb9952fb",
-   "market_nome": "Will Carlos Alcaraz win the 2026 Nitto ATP Finals?",
-   "side": "Y",
-   "entry_price": 0.51,
-   "importo": 20.0,
-   "opened": "2026-11-20T22:04:49"
-  },
-  {
-   "rule_id": "84fb9952fb",
    "market_nome": "Will Jensen Huang rejoin NVIDIA by December 31, 2027?",
    "side": "Y",
    "entry_price": 0.31,
@@ -566,6 +566,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Carlos Alcaraz win the 2026 Nitto ATP Finals?",
+   "side": "Y",
+   "entry_price": 0.88,
+   "exit_price": 0.999,
+   "pnl": 2.7046,
+   "closed": "2026-11-22T19:19:09",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Carlos Alcaraz win the 2026 Nitto ATP Finals?",
+   "side": "Y",
+   "entry_price": 0.51,
+   "exit_price": 0.999,
+   "pnl": 19.1765,
+   "closed": "2026-11-22T19:19:07",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Bitcoin dip to $52,500 in November?",
@@ -945,26 +965,6 @@
    "pnl": -20.0,
    "closed": "2026-11-22T06:12:53",
    "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Celtics vs. Kings",
-   "side": "Y",
-   "entry_price": 0.84,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-22T06:12:52",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will \"Mo Bamba\" by Sheck Wes be on the radio in GTA VI at launch?",
-   "side": "N",
-   "entry_price": 0.788,
-   "exit_price": 0.01,
-   "pnl": -19.7462,
-   "closed": "2026-11-22T05:54:58",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
