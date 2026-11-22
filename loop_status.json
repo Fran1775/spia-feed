@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T05:37:01",
+ "generated_at": "2026-11-22T06:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 48,
+   "chiusi": 49,
    "aperti": 15,
-   "pnl": -28.45,
-   "rend_medio_pct": -2.96,
-   "t": -0.29,
-   "rend40_pct": -5.7,
-   "t40": -0.51
+   "pnl": -13.45,
+   "rend_medio_pct": -1.37,
+   "t": -0.14,
+   "rend40_pct": -6.06,
+   "t40": -0.54
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,48 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 74,
+   "chiusi": 77,
    "aperti": 15,
-   "pnl": -11.06,
-   "rend_medio_pct": -0.75,
-   "t": -0.04,
-   "rend40_pct": 15.99,
-   "t40": 0.58
+   "pnl": -2.27,
+   "rend_medio_pct": -0.15,
+   "t": -0.01,
+   "rend40_pct": -0.57,
+   "t40": -0.03
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will AI solve 0 more Millennium Prize Problems in 2026?",
+   "side": "Y",
+   "entry_price": 0.2,
+   "importo": 20.0,
+   "opened": "2026-11-22T05:54:58"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will FC Barcelona win on 2026-11-22?",
+   "side": "Y",
+   "entry_price": 0.83,
+   "importo": 20.0,
+   "opened": "2026-11-22T05:54:58"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Next White House Press Secretary announced by December 31, 2026?",
+   "side": "N",
+   "entry_price": 0.46,
+   "importo": 20.0,
+   "opened": "2026-11-22T05:37:12"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Next White House Press Secretary announced by December 31, 2026?",
+   "side": "N",
+   "entry_price": 0.46,
+   "importo": 20.0,
+   "opened": "2026-11-22T05:37:12"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will AI solve the Riemann Hypothesis in 2026?",
@@ -102,22 +134,6 @@
   },
   {
    "rule_id": "924891e0f0",
-   "market_nome": "Will Max Verstappen win the 2026 F1 Las Vegas Grand Prix?",
-   "side": "Y",
-   "entry_price": 0.56,
-   "importo": 20.0,
-   "opened": "2026-11-22T03:52:10"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Max Verstappen win the 2026 F1 Las Vegas Grand Prix?",
-   "side": "Y",
-   "entry_price": 0.56,
-   "importo": 20.0,
-   "opened": "2026-11-22T03:52:10"
-  },
-  {
-   "rule_id": "924891e0f0",
    "market_nome": "M25 Bradenton, FL: William Jansen vs Teodor Davidov",
    "side": "N",
    "entry_price": 0.4,
@@ -131,14 +147,6 @@
    "entry_price": 0.811,
    "importo": 20.0,
    "opened": "2026-11-22T03:35:19"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will \"Mo Bamba\" by Sheck Wes be on the radio in GTA VI at launch?",
-   "side": "N",
-   "entry_price": 0.788,
-   "importo": 20.0,
-   "opened": "2026-11-22T03:17:54"
   },
   {
    "rule_id": "924891e0f0",
@@ -429,14 +437,6 @@
    "opened": "2026-11-21T06:06:28"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Ethereum dip to $1,500 by December 31, 2026?",
-   "side": "N",
-   "entry_price": 0.192,
-   "importo": 20.0,
-   "opened": "2026-11-21T05:49:26"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Nvidia’s market capitalization be less than $4.00T at the end of 2026?",
    "side": "Y",
@@ -566,6 +566,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will \"Mo Bamba\" by Sheck Wes be on the radio in GTA VI at launch?",
+   "side": "N",
+   "entry_price": 0.788,
+   "exit_price": 0.01,
+   "pnl": -19.7462,
+   "closed": "2026-11-22T05:54:58",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Ethereum dip to $1,500 by December 31, 2026?",
+   "side": "N",
+   "entry_price": 0.192,
+   "exit_price": 0.322,
+   "pnl": 13.5417,
+   "closed": "2026-11-22T05:54:57",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Max Verstappen win the 2026 F1 Las Vegas Grand Prix?",
+   "side": "Y",
+   "entry_price": 0.56,
+   "exit_price": 0.98,
+   "pnl": 15.0,
+   "closed": "2026-11-22T05:37:12",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Max Verstappen win the 2026 F1 Las Vegas Grand Prix?",
+   "side": "Y",
+   "entry_price": 0.56,
+   "exit_price": 0.98,
+   "pnl": 15.0,
+   "closed": "2026-11-22T05:37:12",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will Bitcoin dip to $45,000 by December 31, 2026?",
@@ -925,46 +965,6 @@
    "pnl": 1.1044,
    "closed": "2026-11-21T19:00:22",
    "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "UFC Fight Night: Jared Cannonier vs. Ikram Aliskerov (Middleweight, Main Card)",
-   "side": "N",
-   "entry_price": 0.78,
-   "exit_price": 0.999,
-   "pnl": 5.6154,
-   "closed": "2026-11-21T18:43:25",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: PlayTime vs OG - Game 2 Winner",
-   "side": "Y",
-   "entry_price": 0.95,
-   "exit_price": 0.999,
-   "pnl": 1.0315,
-   "closed": "2026-11-21T18:43:25",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "UFC Fight Night: Jared Cannonier vs. Ikram Aliskerov (Middleweight, Main Card)",
-   "side": "Y",
-   "entry_price": 0.27,
-   "exit_price": 0.01,
-   "pnl": -19.2593,
-   "closed": "2026-11-21T18:43:24",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $54,000 on November 22?",
-   "side": "Y",
-   "entry_price": 0.857,
-   "exit_price": 0.99,
-   "pnl": 3.1038,
-   "closed": "2026-11-21T18:10:11",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
