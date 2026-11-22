@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T02:37:01",
+ "generated_at": "2026-11-22T03:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -74,16 +74,24 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 70,
+   "chiusi": 71,
    "aperti": 15,
-   "pnl": 19.95,
-   "rend_medio_pct": 1.43,
-   "t": 0.08,
-   "rend40_pct": 16.86,
-   "t40": 0.61
+   "pnl": 13.12,
+   "rend_medio_pct": 0.92,
+   "t": 0.05,
+   "rend40_pct": 16.45,
+   "t40": 0.6
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 22?",
+   "side": "Y",
+   "entry_price": 0.859,
+   "importo": 20.0,
+   "opened": "2026-11-22T03:00:34"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Pelicans vs. Spurs: O/U 229.5",
@@ -437,14 +445,6 @@
    "opened": "2026-11-21T03:12:57"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "US x Iran Effective Ceasefire by November 22?",
-   "side": "Y",
-   "entry_price": 0.41,
-   "importo": 20.0,
-   "opened": "2026-11-21T02:55:44"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $56,000 on November 24?",
    "side": "Y",
@@ -566,6 +566,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "US x Iran Effective Ceasefire by November 22?",
+   "side": "Y",
+   "entry_price": 0.41,
+   "exit_price": 0.27,
+   "pnl": -6.8293,
+   "closed": "2026-11-22T03:00:33",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
@@ -954,16 +964,6 @@
    "exit_price": 0.01,
    "pnl": -19.7661,
    "closed": "2026-11-21T17:18:53",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 21?",
-   "side": "Y",
-   "entry_price": 0.831,
-   "exit_price": 0.999,
-   "pnl": 4.0433,
-   "closed": "2026-11-21T17:18:52",
    "motivo": "prezzo a fine corsa"
   }
  ]
