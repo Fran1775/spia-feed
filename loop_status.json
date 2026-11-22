@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T17:07:01",
+ "generated_at": "2026-11-22T17:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 83,
-   "aperti": 13,
-   "pnl": -43.93,
-   "rend_medio_pct": -2.65,
-   "t": -0.59,
-   "rend40_pct": -2.41,
-   "t40": -0.41
+   "chiusi": 85,
+   "aperti": 12,
+   "pnl": -38.25,
+   "rend_medio_pct": -2.25,
+   "t": -0.52,
+   "rend40_pct": 0.45,
+   "t40": 0.08
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 57,
+   "chiusi": 58,
    "aperti": 15,
-   "pnl": 18.24,
-   "rend_medio_pct": 1.6,
-   "t": 0.17,
-   "rend40_pct": 5.98,
-   "t40": 0.5
+   "pnl": 16.42,
+   "rend_medio_pct": 1.42,
+   "t": 0.15,
+   "rend40_pct": 5.56,
+   "t40": 0.46
   },
   {
    "id": "84fb9952fb",
@@ -85,12 +85,20 @@
  ],
  "aperte": [
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Envy vs Sinners - Map 1 Winner",
-   "side": "Y",
-   "entry_price": 0.89,
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin dip to $57,500 in November?",
+   "side": "N",
+   "entry_price": 0.5,
    "importo": 20.0,
-   "opened": "2026-11-22T16:57:32"
+   "opened": "2026-11-22T17:31:59"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Nuclear TigeRES vs Betclic Apogee Esports - Map 2 Winner",
+   "side": "Y",
+   "entry_price": 0.8,
+   "importo": 20.0,
+   "opened": "2026-11-22T17:14:28"
   },
   {
    "rule_id": "924891e0f0",
@@ -107,14 +115,6 @@
    "entry_price": 0.371,
    "importo": 20.0,
    "opened": "2026-11-22T16:39:53"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "AC Milan vs. Frosinone Calcio: O/U 1.5",
-   "side": "Y",
-   "entry_price": 0.86,
-   "importo": 20.0,
-   "opened": "2026-11-22T16:22:03"
   },
   {
    "rule_id": "a042d572b3",
@@ -421,14 +421,6 @@
    "opened": "2026-11-21T17:35:53"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin reach $67,500 in November?",
-   "side": "Y",
-   "entry_price": 0.22,
-   "importo": 20.0,
-   "opened": "2026-11-21T17:18:54"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
    "side": "Y",
@@ -550,6 +542,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin reach $67,500 in November?",
+   "side": "Y",
+   "entry_price": 0.22,
+   "exit_price": 0.2,
+   "pnl": -1.8182,
+   "closed": "2026-11-22T17:31:58",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "AC Milan vs. Frosinone Calcio: O/U 1.5",
+   "side": "Y",
+   "entry_price": 0.86,
+   "exit_price": 0.999,
+   "pnl": 3.2325,
+   "closed": "2026-11-22T17:31:58",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Envy vs Sinners - Map 1 Winner",
+   "side": "Y",
+   "entry_price": 0.89,
+   "exit_price": 0.999,
+   "pnl": 2.4494,
+   "closed": "2026-11-22T17:31:58",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Liverpool FC vs. Manchester United FC: O/U 1.5",
@@ -919,36 +941,6 @@
    "pnl": 2.8965,
    "closed": "2026-11-22T03:35:18",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Trail Blazers vs. Knicks",
-   "side": "Y",
-   "entry_price": 0.51,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-22T03:17:53",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "US x Iran Effective Ceasefire by November 22?",
-   "side": "Y",
-   "entry_price": 0.41,
-   "exit_price": 0.27,
-   "pnl": -6.8293,
-   "closed": "2026-11-22T03:17:52",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "US x Iran Effective Ceasefire by November 22?",
-   "side": "Y",
-   "entry_price": 0.41,
-   "exit_price": 0.27,
-   "pnl": -6.8293,
-   "closed": "2026-11-22T03:00:33",
-   "motivo": "uscita a tempo 24h"
   }
  ]
 }
