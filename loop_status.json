@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T20:07:02",
+ "generated_at": "2026-11-22T20:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 89,
-   "aperti": 15,
-   "pnl": -70.65,
-   "rend_medio_pct": -3.97,
-   "t": -0.89,
-   "rend40_pct": -4.58,
-   "t40": -0.71
+   "chiusi": 91,
+   "aperti": 13,
+   "pnl": -67.66,
+   "rend_medio_pct": -3.72,
+   "t": -0.85,
+   "rend40_pct": -4.41,
+   "t40": -0.69
   },
   {
    "id": "924891e0f0",
@@ -74,31 +74,31 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 89,
+   "chiusi": 91,
    "aperti": 15,
-   "pnl": 30.44,
-   "rend_medio_pct": 1.71,
-   "t": 0.11,
-   "rend40_pct": 4.1,
-   "t40": 0.28
+   "pnl": 32.45,
+   "rend_medio_pct": 1.78,
+   "t": 0.12,
+   "rend40_pct": 7.19,
+   "t40": 0.49
   }
  ],
  "aperte": [
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Getafe CF vs. Club Atlético de Madrid: O/U 0.5",
+   "rule_id": "a042d572b3",
+   "market_nome": "Nuggets vs. Bulls",
    "side": "Y",
-   "entry_price": 0.93,
+   "entry_price": 0.8,
    "importo": 20.0,
-   "opened": "2026-11-22T19:55:20"
+   "opened": "2026-11-22T20:31:18"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: LGD Gaming vs Astra Invicta - Game 2 Winner",
-   "side": "Y",
-   "entry_price": 0.929,
+   "rule_id": "a042d572b3",
+   "market_nome": "Thunder vs. Heat",
+   "side": "N",
+   "entry_price": 0.61,
    "importo": 20.0,
-   "opened": "2026-11-22T19:55:19"
+   "opened": "2026-11-22T20:13:18"
   },
   {
    "rule_id": "2a906fe26e",
@@ -149,14 +149,6 @@
    "opened": "2026-11-22T18:24:54"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: 1win vs Aurora (BO3) - BLAST Slam Group D",
-   "side": "Y",
-   "entry_price": 0.48,
-   "importo": 20.0,
-   "opened": "2026-11-22T18:06:47"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $58,000 on November 24?",
    "side": "Y",
@@ -187,14 +179,6 @@
    "entry_price": 0.58,
    "importo": 20.0,
    "opened": "2026-11-22T17:49:29"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Cardinals vs. Chiefs: O/U 40.5",
-   "side": "N",
-   "entry_price": 0.52,
-   "importo": 20.0,
-   "opened": "2026-11-22T17:49:28"
   },
   {
    "rule_id": "924891e0f0",
@@ -567,6 +551,46 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "a042d572b3",
+   "market_nome": "Cardinals vs. Chiefs: O/U 40.5",
+   "side": "N",
+   "entry_price": 0.52,
+   "exit_price": 0.01,
+   "pnl": -19.6154,
+   "closed": "2026-11-22T20:31:18",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Getafe CF vs. Club Atlético de Madrid: O/U 0.5",
+   "side": "Y",
+   "entry_price": 0.93,
+   "exit_price": 0.999,
+   "pnl": 1.4839,
+   "closed": "2026-11-22T20:31:18",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: 1win vs Aurora (BO3) - BLAST Slam Group D",
+   "side": "Y",
+   "entry_price": 0.48,
+   "exit_price": 0.999,
+   "pnl": 21.625,
+   "closed": "2026-11-22T20:13:18",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: LGD Gaming vs Astra Invicta - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.929,
+   "exit_price": 0.999,
+   "pnl": 1.507,
+   "closed": "2026-11-22T20:13:18",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "2a906fe26e",
    "market_nome": "Counter-Strike: Rebels Gaming vs FC Famalicão Esports (BO5) - Master League Portugal Playoffs",
    "side": "Y",
@@ -925,46 +949,6 @@
    "pnl": 0.886,
    "closed": "2026-11-22T11:35:26",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Ethereum be above $1,600 on November 22?",
-   "side": "Y",
-   "entry_price": 0.955,
-   "exit_price": 0.988,
-   "pnl": 0.6911,
-   "closed": "2026-11-22T10:04:48",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Israel x Iran ceasefire continues through November 22?",
-   "side": "Y",
-   "entry_price": 0.95,
-   "exit_price": 0.99,
-   "pnl": 0.8421,
-   "closed": "2026-11-22T09:29:36",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $56,000 on November 22?",
-   "side": "Y",
-   "entry_price": 0.859,
-   "exit_price": 0.991,
-   "pnl": 3.0734,
-   "closed": "2026-11-22T08:35:53",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Celtics vs. Kings: O/U 217.5",
-   "side": "N",
-   "entry_price": 0.54,
-   "exit_price": 1.0,
-   "pnl": 17.037,
-   "closed": "2026-11-22T06:12:54",
-   "motivo": "risoluzione"
   }
  ]
 }
