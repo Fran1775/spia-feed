@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T04:07:01",
+ "generated_at": "2026-11-22T04:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -74,16 +74,24 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 73,
+   "chiusi": 74,
    "aperti": 15,
-   "pnl": -8.97,
-   "rend_medio_pct": -0.61,
-   "t": -0.03,
-   "rend40_pct": 14.03,
-   "t40": 0.51
+   "pnl": -11.06,
+   "rend_medio_pct": -0.75,
+   "t": -0.04,
+   "rend40_pct": 15.99,
+   "t40": 0.58
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 22?",
+   "side": "Y",
+   "entry_price": 0.25,
+   "importo": 20.0,
+   "opened": "2026-11-22T04:26:42"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will Max Verstappen win the 2026 F1 Las Vegas Grand Prix?",
@@ -437,14 +445,6 @@
    "opened": "2026-11-21T04:40:41"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
-   "side": "Y",
-   "entry_price": 0.822,
-   "importo": 20.0,
-   "opened": "2026-11-21T04:22:51"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $56,000 on November 24?",
    "side": "Y",
@@ -566,6 +566,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
+   "side": "Y",
+   "entry_price": 0.822,
+   "exit_price": 0.736,
+   "pnl": -2.0925,
+   "closed": "2026-11-22T04:26:41",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Pelicans vs. Spurs: O/U 229.5",
@@ -953,16 +963,6 @@
    "entry_price": 0.93,
    "exit_price": 0.999,
    "pnl": 1.4839,
-   "closed": "2026-11-21T18:10:11",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Dota 2: Team Yandex vs Natus Vincere - Game 2 Winner",
-   "side": "Y",
-   "entry_price": 0.71,
-   "exit_price": 0.999,
-   "pnl": 8.1408,
    "closed": "2026-11-21T18:10:11",
    "motivo": "prezzo a fine corsa"
   }
