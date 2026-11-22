@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T23:07:01",
+ "generated_at": "2026-11-22T23:37:02",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 95,
-   "aperti": 13,
+   "aperti": 14,
    "pnl": -60.23,
    "rend_medio_pct": -3.17,
    "t": -0.76,
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 103,
+   "chiusi": 104,
    "aperti": 15,
-   "pnl": -30.83,
-   "rend_medio_pct": -1.5,
+   "pnl": -30.6,
+   "rend_medio_pct": -1.47,
    "t": -0.11,
-   "rend40_pct": -0.44,
-   "t40": -0.03
+   "rend40_pct": -1.67,
+   "t40": -0.11
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Valorant: Wildcard vs Winthrop University (BO3) - VCT Americas Kickoff: North America Group Stage",
+   "side": "Y",
+   "entry_price": 0.86,
+   "importo": 20.0,
+   "opened": "2026-11-22T23:16:00"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Valorant: Wildcard vs Winthrop University (BO3) - VCT Americas Kickoff: North America Group Stage",
+   "side": "N",
+   "entry_price": 0.15,
+   "importo": 20.0,
+   "opened": "2026-11-22T23:16:00"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Counter-Strike: Mira vs underw0rld (BO3) - Gamers Club Liga Série A Group A",
@@ -405,14 +421,6 @@
    "opened": "2026-11-22T03:35:19"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will FURIA Win the PGL Major Singapore 2026?",
-   "side": "N",
-   "entry_price": 0.85,
-   "importo": 20.0,
-   "opened": "2026-11-21T23:14:55"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Bitcoin dip to $52,500 in November?",
    "side": "Y",
@@ -550,6 +558,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will FURIA Win the PGL Major Singapore 2026?",
+   "side": "N",
+   "entry_price": 0.85,
+   "exit_price": 0.86,
+   "pnl": 0.2353,
+   "closed": "2026-11-22T23:16:00",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will xQc finish GTA VI by November 23?",
@@ -938,16 +956,6 @@
    "exit_price": 0.0,
    "pnl": -20.0,
    "closed": "2026-11-22T18:43:15",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "M25 Bradenton, FL: William Jansen vs Teodor Davidov",
-   "side": "N",
-   "entry_price": 0.4,
-   "exit_price": 1.0,
-   "pnl": 30.0,
-   "closed": "2026-11-22T18:43:14",
    "motivo": "risoluzione"
   }
  ]
