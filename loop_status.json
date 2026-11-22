@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T23:37:01",
+ "generated_at": "2026-11-22T00:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 70,
-   "aperti": 13,
+   "aperti": 15,
    "pnl": -54.07,
    "rend_medio_pct": -3.86,
    "t": -0.77,
@@ -84,6 +84,22 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Ethereum be above $1,600 on November 22?",
+   "side": "Y",
+   "entry_price": 0.955,
+   "importo": 20.0,
+   "opened": "2026-11-22T00:05:26"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Georgia vs. South Carolina",
+   "side": "Y",
+   "entry_price": 0.87,
+   "importo": 20.0,
+   "opened": "2026-11-21T23:48:48"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will FURIA Win the PGL Major Singapore 2026?",
