@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T19:37:01",
+ "generated_at": "2026-11-22T20:07:02",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 87,
+   "chiusi": 89,
    "aperti": 15,
-   "pnl": -30.88,
-   "rend_medio_pct": -1.77,
-   "t": -0.41,
-   "rend40_pct": 0.77,
-   "t40": 0.14
+   "pnl": -70.65,
+   "rend_medio_pct": -3.97,
+   "t": -0.89,
+   "rend40_pct": -4.58,
+   "t40": -0.71
   },
   {
    "id": "924891e0f0",
@@ -84,6 +84,22 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Getafe CF vs. Club Atlético de Madrid: O/U 0.5",
+   "side": "Y",
+   "entry_price": 0.93,
+   "importo": 20.0,
+   "opened": "2026-11-22T19:55:20"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: LGD Gaming vs Astra Invicta - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.929,
+   "importo": 20.0,
+   "opened": "2026-11-22T19:55:19"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Nuggets vs. Bulls",
@@ -173,14 +189,6 @@
    "opened": "2026-11-22T17:49:29"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Rebels Gaming vs FC Famalicão Esports (BO5) - Master League Portugal Playoffs",
-   "side": "Y",
-   "entry_price": 0.87,
-   "importo": 20.0,
-   "opened": "2026-11-22T17:49:29"
-  },
-  {
    "rule_id": "a042d572b3",
    "market_nome": "Cardinals vs. Chiefs: O/U 40.5",
    "side": "N",
@@ -195,14 +203,6 @@
    "entry_price": 0.5,
    "importo": 20.0,
    "opened": "2026-11-22T17:31:59"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Nuclear TigeRES vs Betclic Apogee Esports - Map 2 Winner",
-   "side": "Y",
-   "entry_price": 0.8,
-   "importo": 20.0,
-   "opened": "2026-11-22T17:14:28"
   },
   {
    "rule_id": "a042d572b3",
@@ -566,6 +566,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Rebels Gaming vs FC Famalicão Esports (BO5) - Master League Portugal Playoffs",
+   "side": "Y",
+   "entry_price": 0.87,
+   "exit_price": 0.01,
+   "pnl": -19.7701,
+   "closed": "2026-11-22T19:37:25",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Nuclear TigeRES vs Betclic Apogee Esports - Map 2 Winner",
+   "side": "Y",
+   "entry_price": 0.8,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-22T19:37:24",
+   "motivo": "risoluzione"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Carlos Alcaraz win the 2026 Nitto ATP Finals?",
@@ -944,26 +964,6 @@
    "exit_price": 1.0,
    "pnl": 17.037,
    "closed": "2026-11-22T06:12:54",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Celtics vs. Kings",
-   "side": "Y",
-   "entry_price": 0.83,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-22T06:12:53",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Celtics vs. Kings: O/U 217.5",
-   "side": "Y",
-   "entry_price": 0.47,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-22T06:12:53",
    "motivo": "risoluzione"
   }
  ]
