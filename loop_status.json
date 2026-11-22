@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T16:37:02",
+ "generated_at": "2026-11-22T17:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,12 +14,12 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 82,
+   "chiusi": 83,
    "aperti": 13,
-   "pnl": -47.44,
-   "rend_medio_pct": -2.89,
-   "t": -0.64,
-   "rend40_pct": -2.45,
+   "pnl": -43.93,
+   "rend_medio_pct": -2.65,
+   "t": -0.59,
+   "rend40_pct": -2.41,
    "t40": -0.41
   },
   {
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 56,
+   "chiusi": 57,
    "aperti": 15,
-   "pnl": 3.79,
-   "rend_medio_pct": 0.34,
-   "t": 0.03,
-   "rend40_pct": 4.17,
-   "t40": 0.35
+   "pnl": 18.24,
+   "rend_medio_pct": 1.6,
+   "t": 0.17,
+   "rend40_pct": 5.98,
+   "t40": 0.5
   },
   {
    "id": "84fb9952fb",
@@ -74,23 +74,39 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 83,
+   "chiusi": 84,
    "aperti": 15,
-   "pnl": 59.35,
-   "rend_medio_pct": 3.58,
-   "t": 0.22,
-   "rend40_pct": 15.06,
-   "t40": 0.87
+   "pnl": 66.72,
+   "rend_medio_pct": 3.97,
+   "t": 0.25,
+   "rend40_pct": 15.7,
+   "t40": 0.91
   }
  ],
  "aperte": [
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Liverpool FC vs. Manchester United FC: O/U 1.5",
+   "market_nome": "Counter-Strike: Envy vs Sinners - Map 1 Winner",
    "side": "Y",
-   "entry_price": 0.85,
+   "entry_price": 0.89,
    "importo": 20.0,
-   "opened": "2026-11-22T16:22:03"
+   "opened": "2026-11-22T16:57:32"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Dota 2: PARIVISION vs Team Liquid (BO3) - BLAST Slam Group C",
+   "side": "N",
+   "entry_price": 0.34,
+   "importo": 20.0,
+   "opened": "2026-11-22T16:39:53"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin reach $62,000 November 16-22?",
+   "side": "N",
+   "entry_price": 0.371,
+   "importo": 20.0,
+   "opened": "2026-11-22T16:39:53"
   },
   {
    "rule_id": "2a906fe26e",
@@ -99,14 +115,6 @@
    "entry_price": 0.86,
    "importo": 20.0,
    "opened": "2026-11-22T16:22:03"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: LEGION vs DO KONCA - Game 2 Winner",
-   "side": "Y",
-   "entry_price": 0.73,
-   "importo": 20.0,
-   "opened": "2026-11-22T16:04:54"
   },
   {
    "rule_id": "a042d572b3",
@@ -147,14 +155,6 @@
    "entry_price": 0.73,
    "importo": 20.0,
    "opened": "2026-11-22T16:04:54"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Dota 2: LEGION vs DO KONCA - Game 2 Winner",
-   "side": "Y",
-   "entry_price": 0.58,
-   "importo": 20.0,
-   "opened": "2026-11-22T15:30:09"
   },
   {
    "rule_id": "2a906fe26e",
@@ -551,6 +551,36 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Liverpool FC vs. Manchester United FC: O/U 1.5",
+   "side": "Y",
+   "entry_price": 0.85,
+   "exit_price": 0.999,
+   "pnl": 3.5059,
+   "closed": "2026-11-22T16:57:32",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Dota 2: LEGION vs DO KONCA - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.58,
+   "exit_price": 0.999,
+   "pnl": 14.4483,
+   "closed": "2026-11-22T16:39:53",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: LEGION vs DO KONCA - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.73,
+   "exit_price": 0.999,
+   "pnl": 7.3699,
+   "closed": "2026-11-22T16:39:53",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "a042d572b3",
    "market_nome": "Will AI solve the Riemann Hypothesis in 2026?",
    "side": "N",
@@ -918,36 +948,6 @@
    "exit_price": 0.27,
    "pnl": -6.8293,
    "closed": "2026-11-22T03:00:33",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
-   "side": "N",
-   "entry_price": 0.49,
-   "exit_price": 0.52,
-   "pnl": 1.2245,
-   "closed": "2026-11-22T00:39:49",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: Team Spirit vs Xtreme Gaming (BO3) - BLAST Slam Group B",
-   "side": "N",
-   "entry_price": 0.264,
-   "exit_price": 0.999,
-   "pnl": 55.6818,
-   "closed": "2026-11-21T23:14:55",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
-   "side": "Y",
-   "entry_price": 0.52,
-   "exit_price": 0.45,
-   "pnl": -2.6923,
-   "closed": "2026-11-21T22:24:46",
    "motivo": "uscita a tempo 24h"
   }
  ]
