@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T06:07:01",
+ "generated_at": "2026-11-22T06:37:02",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 71,
+   "chiusi": 72,
    "aperti": 15,
-   "pnl": -51.17,
-   "rend_medio_pct": -3.6,
-   "t": -0.72,
-   "rend40_pct": -5.56,
-   "t40": -0.79
+   "pnl": -71.17,
+   "rend_medio_pct": -4.94,
+   "t": -0.97,
+   "rend40_pct": -9.18,
+   "t40": -1.27
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 49,
+   "chiusi": 50,
    "aperti": 15,
-   "pnl": -13.45,
-   "rend_medio_pct": -1.37,
-   "t": -0.14,
-   "rend40_pct": -6.06,
-   "t40": -0.54
+   "pnl": -33.45,
+   "rend_medio_pct": -3.35,
+   "t": -0.33,
+   "rend40_pct": -6.12,
+   "t40": -0.55
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,48 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 77,
+   "chiusi": 79,
    "aperti": 15,
-   "pnl": -2.27,
-   "rend_medio_pct": -0.15,
-   "t": -0.01,
-   "rend40_pct": -0.57,
-   "t40": -0.03
+   "pnl": -5.23,
+   "rend_medio_pct": -0.33,
+   "t": -0.02,
+   "rend40_pct": 4.06,
+   "t40": 0.25
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin reach $62,500 in November?",
+   "side": "Y",
+   "entry_price": 0.53,
+   "importo": 20.0,
+   "opened": "2026-11-22T06:12:54"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "M25 Bradenton, FL: William Jansen vs Teodor Davidov",
+   "side": "Y",
+   "entry_price": 0.61,
+   "importo": 20.0,
+   "opened": "2026-11-22T06:12:54"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will AI solve 1 more Millennium Prize Problem in 2026?",
+   "side": "Y",
+   "entry_price": 0.67,
+   "importo": 20.0,
+   "opened": "2026-11-22T06:12:54"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Hull City AFC vs. Brighton & Hove Albion FC: O/U 0.5",
+   "side": "Y",
+   "entry_price": 0.95,
+   "importo": 20.0,
+   "opened": "2026-11-22T06:12:54"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will AI solve 0 more Millennium Prize Problems in 2026?",
@@ -197,22 +229,6 @@
    "opened": "2026-11-21T22:08:10"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Celtics vs. Kings: O/U 217.5",
-   "side": "N",
-   "entry_price": 0.54,
-   "importo": 20.0,
-   "opened": "2026-11-21T21:34:11"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Celtics vs. Kings",
-   "side": "Y",
-   "entry_price": 0.83,
-   "importo": 20.0,
-   "opened": "2026-11-21T20:59:45"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "Will Bitcoin dip to $52,500 in November?",
    "side": "N",
@@ -249,14 +265,6 @@
    "market_nome": "GTA VI Online released by March 31, 2027?",
    "side": "Y",
    "entry_price": 0.25,
-   "importo": 20.0,
-   "opened": "2026-11-21T20:59:45"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Celtics vs. Kings: O/U 217.5",
-   "side": "Y",
-   "entry_price": 0.47,
    "importo": 20.0,
    "opened": "2026-11-21T20:59:45"
   },
@@ -469,14 +477,6 @@
    "opened": "2026-11-21T01:11:49"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Celtics vs. Kings",
-   "side": "Y",
-   "entry_price": 0.84,
-   "importo": 20.0,
-   "opened": "2026-11-21T00:54:24"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Howard Lutnick out as Secretary of Commerce by December 31?",
    "side": "Y",
@@ -566,6 +566,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Celtics vs. Kings: O/U 217.5",
+   "side": "N",
+   "entry_price": 0.54,
+   "exit_price": 1.0,
+   "pnl": 17.037,
+   "closed": "2026-11-22T06:12:54",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Celtics vs. Kings",
+   "side": "Y",
+   "entry_price": 0.83,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-22T06:12:53",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Celtics vs. Kings: O/U 217.5",
+   "side": "Y",
+   "entry_price": 0.47,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-22T06:12:53",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Celtics vs. Kings",
+   "side": "Y",
+   "entry_price": 0.84,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-22T06:12:52",
+   "motivo": "risoluzione"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will \"Mo Bamba\" by Sheck Wes be on the radio in GTA VI at launch?",
@@ -925,46 +965,6 @@
    "pnl": -19.4286,
    "closed": "2026-11-21T19:51:22",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "UFC Fight Night: Brian Ortega vs. Dan Hooker (Lightweight, Main Card)",
-   "side": "N",
-   "entry_price": 0.65,
-   "exit_price": 0.999,
-   "pnl": 10.7384,
-   "closed": "2026-11-21T19:51:22",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner",
-   "side": "Y",
-   "entry_price": 0.95,
-   "exit_price": 0.992,
-   "pnl": 0.8842,
-   "closed": "2026-11-21T19:00:23",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner",
-   "side": "Y",
-   "entry_price": 0.95,
-   "exit_price": 0.992,
-   "pnl": 0.8842,
-   "closed": "2026-11-21T19:00:23",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin dip to $50,000 in November?",
-   "side": "N",
-   "entry_price": 0.833,
-   "exit_price": 0.879,
-   "pnl": 1.1044,
-   "closed": "2026-11-21T19:00:22",
-   "motivo": "uscita a tempo 24h"
   }
  ]
 }
