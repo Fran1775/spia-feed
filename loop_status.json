@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T09:37:01",
+ "generated_at": "2026-11-22T10:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 74,
+   "chiusi": 75,
    "aperti": 15,
-   "pnl": -67.26,
-   "rend_medio_pct": -4.54,
-   "t": -0.92,
-   "rend40_pct": -9.82,
-   "t40": -1.36
+   "pnl": -66.57,
+   "rend_medio_pct": -4.44,
+   "t": -0.91,
+   "rend40_pct": -10.44,
+   "t40": -1.46
   },
   {
    "id": "924891e0f0",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 22?",
+   "side": "Y",
+   "entry_price": 0.81,
+   "importo": 20.0,
+   "opened": "2026-11-22T10:04:48"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Dota 2: PARIVISION vs Team Liquid (BO3) - BLAST Slam Group C",
@@ -211,14 +219,6 @@
    "entry_price": 0.859,
    "importo": 20.0,
    "opened": "2026-11-22T03:00:34"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Ethereum be above $1,600 on November 22?",
-   "side": "Y",
-   "entry_price": 0.955,
-   "importo": 20.0,
-   "opened": "2026-11-22T00:05:26"
   },
   {
    "rule_id": "a042d572b3",
@@ -566,6 +566,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Ethereum be above $1,600 on November 22?",
+   "side": "Y",
+   "entry_price": 0.955,
+   "exit_price": 0.988,
+   "pnl": 0.6911,
+   "closed": "2026-11-22T10:04:48",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Israel x Iran ceasefire continues through November 22?",
@@ -948,16 +958,6 @@
   },
   {
    "rule_id": "a042d572b3",
-   "market_nome": "UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",
-   "side": "Y",
-   "entry_price": 0.47,
-   "exit_price": 0.01,
-   "pnl": -19.5745,
-   "closed": "2026-11-21T20:25:11",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
    "market_nome": "UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",
    "side": "Y",
    "entry_price": 0.47,
