@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T04:37:01",
+ "generated_at": "2026-11-22T05:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 47,
+   "chiusi": 48,
    "aperti": 15,
-   "pnl": -21.74,
-   "rend_medio_pct": -2.31,
-   "t": -0.22,
-   "rend40_pct": -2.98,
-   "t40": -0.26
+   "pnl": -28.45,
+   "rend_medio_pct": -2.96,
+   "t": -0.29,
+   "rend40_pct": -5.7,
+   "t40": -0.51
   },
   {
    "id": "84fb9952fb",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will AI solve the Riemann Hypothesis in 2026?",
+   "side": "N",
+   "entry_price": 0.27,
+   "importo": 20.0,
+   "opened": "2026-11-22T04:44:11"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will the price of Bitcoin be above $60,000 on November 22?",
@@ -437,14 +445,6 @@
    "opened": "2026-11-21T04:40:42"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin dip to $45,000 by December 31, 2026?",
-   "side": "Y",
-   "entry_price": 0.283,
-   "importo": 20.0,
-   "opened": "2026-11-21T04:40:41"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $56,000 on November 24?",
    "side": "Y",
@@ -566,6 +566,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin dip to $45,000 by December 31, 2026?",
+   "side": "Y",
+   "entry_price": 0.283,
+   "exit_price": 0.188,
+   "pnl": -6.7138,
+   "closed": "2026-11-22T04:44:10",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
@@ -953,16 +963,6 @@
    "entry_price": 0.857,
    "exit_price": 0.99,
    "pnl": 3.1038,
-   "closed": "2026-11-21T18:10:11",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Team Yandex vs Natus Vincere (BO3) - BLAST Slam Group A",
-   "side": "Y",
-   "entry_price": 0.93,
-   "exit_price": 0.999,
-   "pnl": 1.4839,
    "closed": "2026-11-21T18:10:11",
    "motivo": "prezzo a fine corsa"
   }
