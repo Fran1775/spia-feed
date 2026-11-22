@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T00:37:01",
+ "generated_at": "2026-11-22T01:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,12 +35,12 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 43,
+   "chiusi": 44,
    "aperti": 15,
-   "pnl": 23.86,
-   "rend_medio_pct": 2.77,
-   "t": 0.26,
-   "rend40_pct": 2.93,
+   "pnl": 25.09,
+   "rend_medio_pct": 2.85,
+   "t": 0.27,
+   "rend40_pct": 2.9,
    "t40": 0.26
   },
   {
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Pelicans vs. Spurs: O/U 229.5",
+   "side": "Y",
+   "entry_price": 0.45,
+   "importo": 20.0,
+   "opened": "2026-11-22T00:39:50"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Ethereum be above $1,600 on November 22?",
@@ -469,14 +477,6 @@
    "opened": "2026-11-21T00:54:24"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
-   "side": "N",
-   "entry_price": 0.49,
-   "importo": 20.0,
-   "opened": "2026-11-21T00:36:57"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Howard Lutnick out as Secretary of Commerce by December 31?",
    "side": "Y",
@@ -566,6 +566,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
+   "side": "N",
+   "entry_price": 0.49,
+   "exit_price": 0.52,
+   "pnl": 1.2245,
+   "closed": "2026-11-22T00:39:49",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Dota 2: Team Spirit vs Xtreme Gaming (BO3) - BLAST Slam Group B",
@@ -955,16 +965,6 @@
    "pnl": 4.0433,
    "closed": "2026-11-21T17:18:52",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "AI bubble burst in 2026?",
-   "side": "Y",
-   "entry_price": 0.29,
-   "exit_price": 0.647,
-   "pnl": 24.6207,
-   "closed": "2026-11-21T17:18:52",
-   "motivo": "uscita a tempo 24h"
   }
  ]
 }
