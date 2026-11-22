@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T03:07:01",
+ "generated_at": "2026-11-22T03:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 70,
+   "chiusi": 71,
    "aperti": 15,
-   "pnl": -54.07,
-   "rend_medio_pct": -3.86,
-   "t": -0.77,
-   "rend40_pct": -5.41,
-   "t40": -0.77
+   "pnl": -51.17,
+   "rend_medio_pct": -3.6,
+   "t": -0.72,
+   "rend40_pct": -5.56,
+   "t40": -0.79
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 44,
+   "chiusi": 45,
    "aperti": 15,
-   "pnl": 25.09,
-   "rend_medio_pct": 2.85,
-   "t": 0.27,
-   "rend40_pct": 2.9,
-   "t40": 0.26
+   "pnl": 18.26,
+   "rend_medio_pct": 2.03,
+   "t": 0.2,
+   "rend40_pct": 0.64,
+   "t40": 0.06
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,40 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 71,
+   "chiusi": 72,
    "aperti": 15,
-   "pnl": 13.12,
-   "rend_medio_pct": 0.92,
-   "t": 0.05,
-   "rend40_pct": 16.45,
-   "t40": 0.6
+   "pnl": -6.88,
+   "rend_medio_pct": -0.48,
+   "t": -0.03,
+   "rend40_pct": 13.95,
+   "t40": 0.5
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $56,000 on November 25?",
+   "side": "Y",
+   "entry_price": 0.811,
+   "importo": 20.0,
+   "opened": "2026-11-22T03:35:19"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will \"Mo Bamba\" by Sheck Wes be on the radio in GTA VI at launch?",
+   "side": "N",
+   "entry_price": 0.788,
+   "importo": 20.0,
+   "opened": "2026-11-22T03:17:54"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 22?",
+   "side": "Y",
+   "entry_price": 0.32,
+   "importo": 20.0,
+   "opened": "2026-11-22T03:17:54"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will the price of Bitcoin be above $58,000 on November 22?",
@@ -109,28 +133,12 @@
    "opened": "2026-11-22T00:05:26"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Georgia vs. South Carolina",
-   "side": "Y",
-   "entry_price": 0.87,
-   "importo": 20.0,
-   "opened": "2026-11-21T23:48:48"
-  },
-  {
    "rule_id": "a042d572b3",
    "market_nome": "Will FURIA Win the PGL Major Singapore 2026?",
    "side": "N",
    "entry_price": 0.85,
    "importo": 20.0,
    "opened": "2026-11-21T23:14:55"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Trail Blazers vs. Knicks",
-   "side": "Y",
-   "entry_price": 0.51,
-   "importo": 20.0,
-   "opened": "2026-11-21T22:24:47"
   },
   {
    "rule_id": "84fb9952fb",
@@ -437,14 +445,6 @@
    "opened": "2026-11-21T03:47:53"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "US x Iran Effective Ceasefire by November 22?",
-   "side": "Y",
-   "entry_price": 0.41,
-   "importo": 20.0,
-   "opened": "2026-11-21T03:12:57"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $56,000 on November 24?",
    "side": "Y",
@@ -566,6 +566,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Georgia vs. South Carolina",
+   "side": "Y",
+   "entry_price": 0.87,
+   "exit_price": 0.996,
+   "pnl": 2.8965,
+   "closed": "2026-11-22T03:35:18",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Trail Blazers vs. Knicks",
+   "side": "Y",
+   "entry_price": 0.51,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-22T03:17:53",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "US x Iran Effective Ceasefire by November 22?",
+   "side": "Y",
+   "entry_price": 0.41,
+   "exit_price": 0.27,
+   "pnl": -6.8293,
+   "closed": "2026-11-22T03:17:52",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "US x Iran Effective Ceasefire by November 22?",
@@ -934,36 +964,6 @@
    "exit_price": 0.989,
    "pnl": 1.2688,
    "closed": "2026-11-21T17:52:43",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: PlayTime vs OG - Game 1 Winner",
-   "side": "N",
-   "entry_price": 0.79,
-   "exit_price": 0.999,
-   "pnl": 5.2912,
-   "closed": "2026-11-21T17:35:53",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 21?",
-   "side": "Y",
-   "entry_price": 0.477,
-   "exit_price": 0.999,
-   "pnl": 21.8868,
-   "closed": "2026-11-21T17:18:54",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 21?",
-   "side": "N",
-   "entry_price": 0.855,
-   "exit_price": 0.01,
-   "pnl": -19.7661,
-   "closed": "2026-11-21T17:18:53",
    "motivo": "prezzo a fine corsa"
   }
  ]
