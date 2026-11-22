@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T03:37:01",
+ "generated_at": "2026-11-22T04:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 45,
+   "chiusi": 47,
    "aperti": 15,
-   "pnl": 18.26,
-   "rend_medio_pct": 2.03,
-   "t": 0.2,
-   "rend40_pct": 0.64,
-   "t40": 0.06
+   "pnl": -21.74,
+   "rend_medio_pct": -2.31,
+   "t": -0.22,
+   "rend40_pct": -2.98,
+   "t40": -0.26
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,40 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 72,
+   "chiusi": 73,
    "aperti": 15,
-   "pnl": -6.88,
-   "rend_medio_pct": -0.48,
+   "pnl": -8.97,
+   "rend_medio_pct": -0.61,
    "t": -0.03,
-   "rend40_pct": 13.95,
-   "t40": 0.5
+   "rend40_pct": 14.03,
+   "t40": 0.51
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Max Verstappen win the 2026 F1 Las Vegas Grand Prix?",
+   "side": "Y",
+   "entry_price": 0.56,
+   "importo": 20.0,
+   "opened": "2026-11-22T03:52:10"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Max Verstappen win the 2026 F1 Las Vegas Grand Prix?",
+   "side": "Y",
+   "entry_price": 0.56,
+   "importo": 20.0,
+   "opened": "2026-11-22T03:52:10"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "M25 Bradenton, FL: William Jansen vs Teodor Davidov",
+   "side": "N",
+   "entry_price": 0.4,
+   "importo": 20.0,
+   "opened": "2026-11-22T03:52:10"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $56,000 on November 25?",
@@ -115,14 +139,6 @@
    "entry_price": 0.859,
    "importo": 20.0,
    "opened": "2026-11-22T03:00:34"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Pelicans vs. Spurs: O/U 229.5",
-   "side": "Y",
-   "entry_price": 0.45,
-   "importo": 20.0,
-   "opened": "2026-11-22T00:39:50"
   },
   {
    "rule_id": "2a906fe26e",
@@ -217,14 +233,6 @@
    "market_nome": "Celtics vs. Kings: O/U 217.5",
    "side": "Y",
    "entry_price": 0.47,
-   "importo": 20.0,
-   "opened": "2026-11-21T20:59:45"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Pelicans vs. Spurs: O/U 228.5",
-   "side": "Y",
-   "entry_price": 0.5,
    "importo": 20.0,
    "opened": "2026-11-21T20:59:45"
   },
@@ -437,14 +445,6 @@
    "opened": "2026-11-21T04:22:51"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin dip to $45,000 by December 31, 2026?",
-   "side": "Y",
-   "entry_price": 0.21,
-   "importo": 20.0,
-   "opened": "2026-11-21T03:47:53"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $56,000 on November 24?",
    "side": "Y",
@@ -566,6 +566,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Pelicans vs. Spurs: O/U 229.5",
+   "side": "Y",
+   "entry_price": 0.45,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-22T03:52:10",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Pelicans vs. Spurs: O/U 228.5",
+   "side": "Y",
+   "entry_price": 0.5,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-22T03:52:09",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin dip to $45,000 by December 31, 2026?",
+   "side": "Y",
+   "entry_price": 0.21,
+   "exit_price": 0.188,
+   "pnl": -2.0952,
+   "closed": "2026-11-22T03:52:08",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Georgia vs. South Carolina",
@@ -934,36 +964,6 @@
    "exit_price": 0.999,
    "pnl": 8.1408,
    "closed": "2026-11-21T18:10:11",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: Team Yandex vs Natus Vincere - Game 2 Winner",
-   "side": "N",
-   "entry_price": 0.3,
-   "exit_price": 0.01,
-   "pnl": -19.3333,
-   "closed": "2026-11-21T18:10:11",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Team Yandex vs Natus Vincere - Game 2 Winner",
-   "side": "Y",
-   "entry_price": 0.73,
-   "exit_price": 0.999,
-   "pnl": 7.3699,
-   "closed": "2026-11-21T18:10:11",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Wake Forest vs. Georgia Tech",
-   "side": "Y",
-   "entry_price": 0.93,
-   "exit_price": 0.989,
-   "pnl": 1.2688,
-   "closed": "2026-11-21T17:52:43",
    "motivo": "prezzo a fine corsa"
   }
  ]
