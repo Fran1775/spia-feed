@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T22:37:02",
+ "generated_at": "2026-11-22T23:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 95,
-   "aperti": 12,
+   "aperti": 13,
    "pnl": -60.23,
    "rend_medio_pct": -3.17,
    "t": -0.76,
@@ -57,7 +57,7 @@
     "pmin": 0.1
    },
    "chiusi": 15,
-   "aperti": 14,
+   "aperti": 15,
    "pnl": 31.76,
    "rend_medio_pct": 10.59,
    "t": 0.37,
@@ -84,6 +84,22 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Mira vs underw0rld (BO3) - Gamers Club Liga Série A Group A",
+   "side": "Y",
+   "entry_price": 0.956,
+   "importo": 20.0,
+   "opened": "2026-11-22T22:57:58"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Vikings vs. 49ers: O/U 46.5",
+   "side": "Y",
+   "entry_price": 0.47,
+   "importo": 20.0,
+   "opened": "2026-11-22T22:40:20"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will Elon Musk post 115-139 tweets from November 21 to November 23, 2026?",
