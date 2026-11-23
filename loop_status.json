@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T14:07:01",
+ "generated_at": "2026-11-23T14:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 104,
+   "chiusi": 108,
    "aperti": 15,
-   "pnl": -56.89,
-   "rend_medio_pct": -2.73,
-   "t": -0.69,
-   "rend40_pct": -0.74,
-   "t40": -0.12
+   "pnl": -45.58,
+   "rend_medio_pct": -2.11,
+   "t": -0.55,
+   "rend40_pct": -0.97,
+   "t40": -0.16
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 80,
+   "chiusi": 81,
    "aperti": 15,
-   "pnl": 96.29,
-   "rend_medio_pct": 6.02,
-   "t": 0.77,
-   "rend40_pct": 4.06,
-   "t40": 0.37
+   "pnl": 103.74,
+   "rend_medio_pct": 6.4,
+   "t": 0.82,
+   "rend40_pct": 7.19,
+   "t40": 0.66
   },
   {
    "id": "84fb9952fb",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 20,
+   "chiusi": 21,
    "aperti": 15,
-   "pnl": -45.2,
-   "rend_medio_pct": -11.3,
-   "t": -0.48,
-   "rend40_pct": -11.3,
-   "t40": -0.48
+   "pnl": -0.75,
+   "rend_medio_pct": -0.18,
+   "t": -0.01,
+   "rend40_pct": -0.18,
+   "t40": -0.01
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,72 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 119,
+   "chiusi": 121,
    "aperti": 15,
-   "pnl": 85.69,
-   "rend_medio_pct": 3.6,
+   "pnl": 85.9,
+   "rend_medio_pct": 3.55,
    "t": 0.3,
-   "rend40_pct": 11.37,
-   "t40": 0.83
+   "rend40_pct": 10.5,
+   "t40": 0.75
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $62,000 on November 23?",
+   "side": "Y",
+   "entry_price": 0.94,
+   "importo": 20.0,
+   "opened": "2026-11-23T14:28:27"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Yokohama: Ryo Ono vs Lennon Roark Jones",
+   "side": "Y",
+   "entry_price": 0.48,
+   "importo": 20.0,
+   "opened": "2026-11-23T14:09:31"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Yokohama: Ryo Ono vs Lennon Roark Jones",
+   "side": "Y",
+   "entry_price": 0.48,
+   "importo": 20.0,
+   "opened": "2026-11-23T14:09:31"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Counter-Strike: NIP vs M80 (BO1) - PGL Major Singapore Stage 1",
+   "side": "Y",
+   "entry_price": 0.57,
+   "importo": 20.0,
+   "opened": "2026-11-23T14:09:31"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Counter-Strike: NIP vs M80 (BO1) - PGL Major Singapore Stage 1",
+   "side": "N",
+   "entry_price": 0.44,
+   "importo": 20.0,
+   "opened": "2026-11-23T14:09:31"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down on November 23?",
+   "side": "Y",
+   "entry_price": 0.82,
+   "importo": 20.0,
+   "opened": "2026-11-23T14:09:31"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Ethereum Up or Down on November 23?",
+   "side": "Y",
+   "entry_price": 0.87,
+   "importo": 20.0,
+   "opened": "2026-11-23T14:09:31"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Counter-Strike: PVISION vs DENDELE CS (BO1) - PGL Major Singapore Stage 1",
@@ -91,14 +147,6 @@
    "entry_price": 0.59,
    "importo": 20.0,
    "opened": "2026-11-23T10:51:05"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Ethereum be above $1,700 on November 23?",
-   "side": "Y",
-   "entry_price": 0.82,
-   "importo": 20.0,
-   "opened": "2026-11-23T09:16:43"
   },
   {
    "rule_id": "2a906fe26e",
@@ -238,14 +286,6 @@
   },
   {
    "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Ethereum be above $1,700 on November 23?",
-   "side": "Y",
-   "entry_price": 0.5,
-   "importo": 20.0,
-   "opened": "2026-11-23T02:52:24"
-  },
-  {
-   "rule_id": "a042d572b3",
    "market_nome": "Will Elon Musk post 320-339 tweets from November 17 to November 24, 2026?",
    "side": "N",
    "entry_price": 0.68,
@@ -339,22 +379,6 @@
    "entry_price": 0.5,
    "importo": 20.0,
    "opened": "2026-11-22T21:45:00"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Ethereum be above $1,700 on November 23?",
-   "side": "Y",
-   "entry_price": 0.69,
-   "importo": 20.0,
-   "opened": "2026-11-22T21:45:00"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 23?",
-   "side": "N",
-   "entry_price": 0.086,
-   "importo": 20.0,
-   "opened": "2026-11-22T21:26:19"
   },
   {
    "rule_id": "a042d572b3",
@@ -486,14 +510,6 @@
   },
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 23?",
-   "side": "Y",
-   "entry_price": 0.802,
-   "importo": 20.0,
-   "opened": "2026-11-21T18:43:25"
-  },
-  {
-   "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $54,000 on November 25?",
    "side": "Y",
    "entry_price": 0.93,
@@ -525,14 +541,6 @@
    "opened": "2026-11-21T04:40:42"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $56,000 on November 24?",
-   "side": "Y",
-   "entry_price": 0.835,
-   "importo": 20.0,
-   "opened": "2026-11-21T02:38:19"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Anthropic's valuation hit (LOW) $800B by December 31?",
    "side": "Y",
@@ -555,17 +563,89 @@
    "entry_price": 0.24,
    "importo": 20.0,
    "opened": "2026-11-20T23:30:25"
+  }
+ ],
+ "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "S&P 500 (SPX) Up or Down on November 23?",
+   "side": "Y",
+   "entry_price": 0.97,
+   "exit_price": 0.974,
+   "pnl": 0.0825,
+   "closed": "2026-11-23T14:28:27",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Ethereum be above $1,700 on November 23?",
+   "side": "Y",
+   "entry_price": 0.69,
+   "exit_price": 0.947,
+   "pnl": 7.4493,
+   "closed": "2026-11-23T14:09:30",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Ethereum be above $1,700 on November 23?",
+   "side": "Y",
+   "entry_price": 0.5,
+   "exit_price": 0.947,
+   "pnl": 17.88,
+   "closed": "2026-11-23T14:09:30",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Ethereum be above $1,700 on November 23?",
+   "side": "Y",
+   "entry_price": 0.82,
+   "exit_price": 0.947,
+   "pnl": 3.0975,
+   "closed": "2026-11-23T14:09:30",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 23?",
+   "side": "N",
+   "entry_price": 0.086,
+   "exit_price": 0.01,
+   "pnl": -17.6744,
+   "closed": "2026-11-23T14:09:29",
+   "motivo": "prezzo a fine corsa"
   },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Jensen Huang rejoin NVIDIA by December 31, 2027?",
    "side": "Y",
    "entry_price": 0.31,
-   "importo": 20.0,
-   "opened": "2026-11-20T20:40:18"
-  }
- ],
- "ultime_chiuse": [
+   "exit_price": 0.999,
+   "pnl": 44.4516,
+   "closed": "2026-11-23T14:09:28",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $56,000 on November 24?",
+   "side": "Y",
+   "entry_price": 0.835,
+   "exit_price": 0.988,
+   "pnl": 3.6647,
+   "closed": "2026-11-23T14:09:28",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 23?",
+   "side": "Y",
+   "entry_price": 0.802,
+   "exit_price": 0.981,
+   "pnl": 4.4639,
+   "closed": "2026-11-23T14:09:28",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Ethereum be above $1,600 on November 23?",
@@ -885,86 +965,6 @@
    "pnl": 12.7541,
    "closed": "2026-11-23T01:21:34",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Thunder vs. Heat",
-   "side": "N",
-   "entry_price": 0.61,
-   "exit_price": 0.999,
-   "pnl": 12.7541,
-   "closed": "2026-11-23T01:21:34",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Thunder vs. Heat",
-   "side": "Y",
-   "entry_price": 0.4,
-   "exit_price": 0.01,
-   "pnl": -19.5,
-   "closed": "2026-11-23T01:21:34",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Jaguars vs. Giants: O/U 46.5",
-   "side": "Y",
-   "entry_price": 0.5,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-23T01:21:32",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 22, 4:00PM-8:00PM ET",
-   "side": "Y",
-   "entry_price": 0.83,
-   "exit_price": 0.999,
-   "pnl": 4.0723,
-   "closed": "2026-11-23T01:03:28",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 22, 6:00PM-7:00PM ET",
-   "side": "Y",
-   "entry_price": 0.88,
-   "exit_price": 1.0,
-   "pnl": 2.7273,
-   "closed": "2026-11-23T00:09:25",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Valorant: Wildcard vs Winthrop University (BO3) - VCT Americas Kickoff: North America Group Stage",
-   "side": "Y",
-   "entry_price": 0.86,
-   "exit_price": 0.997,
-   "pnl": 3.186,
-   "closed": "2026-11-22T23:51:46",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Valorant: Wildcard vs Winthrop University (BO3) - VCT Americas Kickoff: North America Group Stage",
-   "side": "N",
-   "entry_price": 0.15,
-   "exit_price": 0.01,
-   "pnl": -18.6667,
-   "closed": "2026-11-22T23:51:46",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will FURIA Win the PGL Major Singapore 2026?",
-   "side": "N",
-   "entry_price": 0.85,
-   "exit_price": 0.86,
-   "pnl": 0.2353,
-   "closed": "2026-11-22T23:16:00",
-   "motivo": "uscita a tempo 24h"
   }
  ]
 }
