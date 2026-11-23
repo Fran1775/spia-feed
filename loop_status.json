@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T09:07:01",
+ "generated_at": "2026-11-23T09:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 103,
+   "chiusi": 104,
    "aperti": 15,
-   "pnl": -57.33,
-   "rend_medio_pct": -2.78,
+   "pnl": -56.89,
+   "rend_medio_pct": -2.73,
    "t": -0.69,
-   "rend40_pct": -0.61,
-   "t40": -0.1
+   "rend40_pct": -0.74,
+   "t40": -0.12
   },
   {
    "id": "924891e0f0",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Ethereum be above $1,700 on November 23?",
+   "side": "Y",
+   "entry_price": 0.82,
+   "importo": 20.0,
+   "opened": "2026-11-23T09:16:43"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will \"Raw: 2026 - November 16, 2026\" be the #2 US Netflix show this week?",
@@ -389,14 +397,6 @@
    "opened": "2026-11-22T18:06:47"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Ethereum be above $1,600 on November 23?",
-   "side": "Y",
-   "entry_price": 0.948,
-   "importo": 20.0,
-   "opened": "2026-11-22T18:06:47"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "Will Anthropic close below its IPO price by November 27, 2026?",
    "side": "N",
@@ -558,6 +558,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Ethereum be above $1,600 on November 23?",
+   "side": "Y",
+   "entry_price": 0.948,
+   "exit_price": 0.969,
+   "pnl": 0.443,
+   "closed": "2026-11-23T09:16:42",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $54,000 on November 24?",
@@ -947,16 +957,6 @@
    "pnl": 0.2353,
    "closed": "2026-11-22T23:16:00",
    "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will xQc finish GTA VI by November 23?",
-   "side": "Y",
-   "entry_price": 0.94,
-   "exit_price": 0.98,
-   "pnl": 0.8511,
-   "closed": "2026-11-22T22:03:23",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
