@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T16:07:02",
+ "generated_at": "2026-11-23T16:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 111,
-   "aperti": 15,
-   "pnl": -40.3,
-   "rend_medio_pct": -1.82,
-   "t": -0.49,
-   "rend40_pct": 1.36,
-   "t40": 0.25
+   "chiusi": 112,
+   "aperti": 14,
+   "pnl": -36.0,
+   "rend_medio_pct": -1.61,
+   "t": -0.43,
+   "rend40_pct": 4.4,
+   "t40": 0.92
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 85,
+   "chiusi": 90,
    "aperti": 15,
-   "pnl": 96.04,
-   "rend_medio_pct": 5.65,
-   "t": 0.73,
-   "rend40_pct": 9.72,
-   "t40": 0.84
+   "pnl": 136.99,
+   "rend_medio_pct": 7.61,
+   "t": 0.98,
+   "rend40_pct": 21.31,
+   "t40": 1.8
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,80 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 126,
+   "chiusi": 129,
    "aperti": 15,
-   "pnl": 79.18,
-   "rend_medio_pct": 3.14,
+   "pnl": 80.01,
+   "rend_medio_pct": 3.1,
    "t": 0.27,
-   "rend40_pct": 1.25,
-   "t40": 0.1
+   "rend40_pct": 6.2,
+   "t40": 0.45
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "International League T20: Sharjah Warriors vs Desert Vipers",
+   "side": "N",
+   "entry_price": 0.63,
+   "importo": 20.0,
+   "opened": "2026-11-23T16:30:07"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
+   "side": "N",
+   "entry_price": 0.6,
+   "importo": 20.0,
+   "opened": "2026-11-23T16:30:06"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+   "side": "Y",
+   "entry_price": 0.218,
+   "importo": 20.0,
+   "opened": "2026-11-23T16:30:06"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Apple be the largest company in the world by market cap on December 31?",
+   "side": "N",
+   "entry_price": 0.249,
+   "importo": 20.0,
+   "opened": "2026-11-23T16:30:06"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Apple be the largest company in the world by market cap on December 31?",
+   "side": "N",
+   "entry_price": 0.249,
+   "importo": 20.0,
+   "opened": "2026-11-23T16:30:06"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post 280-299 tweets from November 17 to November 24, 2026?",
+   "side": "Y",
+   "entry_price": 0.44,
+   "importo": 20.0,
+   "opened": "2026-11-23T16:30:06"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
+   "side": "N",
+   "entry_price": 0.6,
+   "importo": 20.0,
+   "opened": "2026-11-23T16:13:19"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+   "side": "Y",
+   "entry_price": 0.23,
+   "importo": 20.0,
+   "opened": "2026-11-23T16:13:19"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Ethereum be between $1,700 and $1,800 on November 23?",
@@ -109,38 +173,6 @@
    "opened": "2026-11-23T15:39:53"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Dota 2: Natus Vincere vs OG - Game 2 Winner",
-   "side": "Y",
-   "entry_price": 0.77,
-   "importo": 20.0,
-   "opened": "2026-11-23T15:39:52"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: Natus Vincere vs OG - Game 2 Winner",
-   "side": "Y",
-   "entry_price": 0.77,
-   "importo": 20.0,
-   "opened": "2026-11-23T15:39:52"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A",
-   "side": "N",
-   "entry_price": 0.5,
-   "importo": 20.0,
-   "opened": "2026-11-23T15:39:52"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A",
-   "side": "Y",
-   "entry_price": 0.51,
-   "importo": 20.0,
-   "opened": "2026-11-23T15:39:52"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $60,000 on November 24?",
    "side": "Y",
@@ -153,22 +185,6 @@
    "market_nome": "Spread: Bengals (-6.5)",
    "side": "Y",
    "entry_price": 0.48,
-   "importo": 20.0,
-   "opened": "2026-11-23T15:22:30"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "New NVIDIA CEO named by December 31, 2026?",
-   "side": "Y",
-   "entry_price": 0.332,
-   "importo": 20.0,
-   "opened": "2026-11-23T15:22:30"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "New NVIDIA CEO named by December 31, 2026?",
-   "side": "Y",
-   "entry_price": 0.332,
    "importo": 20.0,
    "opened": "2026-11-23T15:22:30"
   },
@@ -209,14 +225,6 @@
    "market_nome": "Counter-Strike: NIP vs M80 (BO1) - PGL Major Singapore Stage 1",
    "side": "N",
    "entry_price": 0.44,
-   "importo": 20.0,
-   "opened": "2026-11-23T14:09:31"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down on November 23?",
-   "side": "Y",
-   "entry_price": 0.82,
    "importo": 20.0,
    "opened": "2026-11-23T14:09:31"
   },
@@ -469,22 +477,6 @@
    "opened": "2026-11-22T17:31:59"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will PSOE win the most seats in Santa Cruz de Tenerife in the 2026 Spanish general election?",
-   "side": "Y",
-   "entry_price": 0.73,
-   "importo": 20.0,
-   "opened": "2026-11-22T16:04:54"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will PP win the most seats in Santa Cruz de Tenerife in the 2026 Spanish general election?",
-   "side": "N",
-   "entry_price": 0.73,
-   "importo": 20.0,
-   "opened": "2026-11-22T16:04:54"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $56,000 on November 25?",
    "side": "Y",
@@ -566,6 +558,96 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down on November 23?",
+   "side": "Y",
+   "entry_price": 0.82,
+   "exit_price": 0.996,
+   "pnl": 4.2926,
+   "closed": "2026-11-23T16:30:06",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "New NVIDIA CEO named by December 31, 2026?",
+   "side": "Y",
+   "entry_price": 0.332,
+   "exit_price": 0.999,
+   "pnl": 40.1808,
+   "closed": "2026-11-23T16:30:06",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "New NVIDIA CEO named by December 31, 2026?",
+   "side": "Y",
+   "entry_price": 0.332,
+   "exit_price": 0.999,
+   "pnl": 40.1808,
+   "closed": "2026-11-23T16:30:06",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Dota 2: Natus Vincere vs OG - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.77,
+   "exit_price": 0.01,
+   "pnl": -19.7403,
+   "closed": "2026-11-23T16:30:06",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: Natus Vincere vs OG - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.77,
+   "exit_price": 0.01,
+   "pnl": -19.7403,
+   "closed": "2026-11-23T16:30:06",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A",
+   "side": "N",
+   "entry_price": 0.5,
+   "exit_price": 0.999,
+   "pnl": 19.96,
+   "closed": "2026-11-23T16:30:06",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A",
+   "side": "Y",
+   "entry_price": 0.51,
+   "exit_price": 0.01,
+   "pnl": -19.6078,
+   "closed": "2026-11-23T16:30:06",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will PSOE win the most seats in Santa Cruz de Tenerife in the 2026 Spanish general election?",
+   "side": "Y",
+   "entry_price": 0.73,
+   "exit_price": 0.74,
+   "pnl": 0.274,
+   "closed": "2026-11-23T16:13:17",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will PP win the most seats in Santa Cruz de Tenerife in the 2026 Spanish general election?",
+   "side": "N",
+   "entry_price": 0.73,
+   "exit_price": 0.74,
+   "pnl": 0.274,
+   "closed": "2026-11-23T16:13:17",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the highest temperature in Toronto be 13°C on November 23?",
@@ -875,96 +957,6 @@
    "pnl": -6.8657,
    "closed": "2026-11-23T06:30:50",
    "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will AI solve 0 more Millennium Prize Problems in 2026?",
-   "side": "Y",
-   "entry_price": 0.2,
-   "exit_price": 0.37,
-   "pnl": 17.0,
-   "closed": "2026-11-23T06:12:14",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Playford: Florian Broska vs Anton Shepp",
-   "side": "N",
-   "entry_price": 0.62,
-   "exit_price": 0.999,
-   "pnl": 12.2258,
-   "closed": "2026-11-23T05:53:49",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Playford: Florian Broska vs Anton Shepp",
-   "side": "N",
-   "entry_price": 0.62,
-   "exit_price": 0.999,
-   "pnl": 12.2258,
-   "closed": "2026-11-23T05:53:49",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Next White House Press Secretary announced by December 31, 2026?",
-   "side": "N",
-   "entry_price": 0.46,
-   "exit_price": 0.41,
-   "pnl": -2.1739,
-   "closed": "2026-11-23T05:53:48",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Next White House Press Secretary announced by December 31, 2026?",
-   "side": "N",
-   "entry_price": 0.46,
-   "exit_price": 0.41,
-   "pnl": -2.1739,
-   "closed": "2026-11-23T05:53:48",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will xQc finish GTA VI by November 22?",
-   "side": "N",
-   "entry_price": 0.622,
-   "exit_price": 0.999,
-   "pnl": 12.1221,
-   "closed": "2026-11-23T05:16:28",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will xQc finish GTA VI by November 22?",
-   "side": "Y",
-   "entry_price": 0.738,
-   "exit_price": 0.01,
-   "pnl": -19.729,
-   "closed": "2026-11-23T05:16:28",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Playford: August Holmgren vs Akira Santillan",
-   "side": "N",
-   "entry_price": 0.51,
-   "exit_price": 0.999,
-   "pnl": 19.1765,
-   "closed": "2026-11-23T05:16:28",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Playford: August Holmgren vs Akira Santillan",
-   "side": "N",
-   "entry_price": 0.51,
-   "exit_price": 0.999,
-   "pnl": 19.1765,
-   "closed": "2026-11-23T05:16:28",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
