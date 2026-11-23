@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T23:37:02",
+ "generated_at": "2026-11-23T00:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 95,
-   "aperti": 14,
-   "pnl": -60.23,
-   "rend_medio_pct": -3.17,
-   "t": -0.76,
-   "rend40_pct": -1.36,
-   "t40": -0.23
+   "chiusi": 96,
+   "aperti": 15,
+   "pnl": -57.04,
+   "rend_medio_pct": -2.97,
+   "t": -0.72,
+   "rend40_pct": -1.33,
+   "t40": -0.22
   },
   {
    "id": "924891e0f0",
@@ -74,31 +74,39 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 104,
+   "chiusi": 105,
    "aperti": 15,
-   "pnl": -30.6,
-   "rend_medio_pct": -1.47,
-   "t": -0.11,
-   "rend40_pct": -1.67,
-   "t40": -0.11
+   "pnl": -49.26,
+   "rend_medio_pct": -2.35,
+   "t": -0.18,
+   "rend40_pct": -3.36,
+   "t40": -0.22
   }
  ],
  "aperte": [
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Valorant: Wildcard vs Winthrop University (BO3) - VCT Americas Kickoff: North America Group Stage",
+   "market_nome": "Bitcoin Up or Down - November 22, 4:00PM-8:00PM ET",
    "side": "Y",
-   "entry_price": 0.86,
+   "entry_price": 0.83,
    "importo": 20.0,
-   "opened": "2026-11-22T23:16:00"
+   "opened": "2026-11-22T23:51:47"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 22, 6:00PM-7:00PM ET",
+   "side": "Y",
+   "entry_price": 0.88,
+   "importo": 20.0,
+   "opened": "2026-11-22T23:51:47"
   },
   {
    "rule_id": "a042d572b3",
-   "market_nome": "Valorant: Wildcard vs Winthrop University (BO3) - VCT Americas Kickoff: North America Group Stage",
-   "side": "N",
-   "entry_price": 0.15,
+   "market_nome": "Nuggets vs. Bulls: O/U 236.5",
+   "side": "Y",
+   "entry_price": 0.54,
    "importo": 20.0,
-   "opened": "2026-11-22T23:16:00"
+   "opened": "2026-11-22T23:51:46"
   },
   {
    "rule_id": "2a906fe26e",
@@ -559,6 +567,26 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Valorant: Wildcard vs Winthrop University (BO3) - VCT Americas Kickoff: North America Group Stage",
+   "side": "Y",
+   "entry_price": 0.86,
+   "exit_price": 0.997,
+   "pnl": 3.186,
+   "closed": "2026-11-22T23:51:46",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Valorant: Wildcard vs Winthrop University (BO3) - VCT Americas Kickoff: North America Group Stage",
+   "side": "N",
+   "entry_price": 0.15,
+   "exit_price": 0.01,
+   "pnl": -18.6667,
+   "closed": "2026-11-22T23:51:46",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "a042d572b3",
    "market_nome": "Will FURIA Win the PGL Major Singapore 2026?",
    "side": "N",
@@ -937,26 +965,6 @@
    "pnl": 19.1765,
    "closed": "2026-11-22T19:19:07",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin dip to $52,500 in November?",
-   "side": "N",
-   "entry_price": 0.8,
-   "exit_price": 0.85,
-   "pnl": 1.25,
-   "closed": "2026-11-22T19:01:09",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "M25 Bradenton, FL: William Jansen vs Teodor Davidov",
-   "side": "Y",
-   "entry_price": 0.61,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-22T18:43:15",
-   "motivo": "risoluzione"
   }
  ]
 }
