@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T15:07:01",
+ "generated_at": "2026-11-23T15:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 108,
+   "chiusi": 109,
    "aperti": 15,
-   "pnl": -45.58,
-   "rend_medio_pct": -2.11,
-   "t": -0.55,
-   "rend40_pct": -0.97,
-   "t40": -0.16
+   "pnl": -41.98,
+   "rend_medio_pct": -1.93,
+   "t": -0.51,
+   "rend40_pct": 1.95,
+   "t40": 0.36
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 82,
+   "chiusi": 83,
    "aperti": 15,
-   "pnl": 110.03,
-   "rend_medio_pct": 6.71,
-   "t": 0.87,
-   "rend40_pct": 8.68,
-   "t40": 0.8
+   "pnl": 90.39,
+   "rend_medio_pct": 5.45,
+   "t": 0.71,
+   "rend40_pct": 8.32,
+   "t40": 0.76
   },
   {
    "id": "84fb9952fb",
@@ -74,31 +74,47 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 122,
+   "chiusi": 124,
    "aperti": 15,
-   "pnl": 66.7,
-   "rend_medio_pct": 2.73,
-   "t": 0.23,
-   "rend40_pct": 8.32,
-   "t40": 0.58
+   "pnl": 93.62,
+   "rend_medio_pct": 3.78,
+   "t": 0.32,
+   "rend40_pct": 3.36,
+   "t40": 0.27
   }
  ],
  "aperte": [
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Dota 2: Team Nemesis vs Xtreme Gaming - Game 1 Winner",
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 24?",
    "side": "Y",
-   "entry_price": 0.56,
+   "entry_price": 0.941,
    "importo": 20.0,
-   "opened": "2026-11-23T15:04:44"
+   "opened": "2026-11-23T15:22:31"
   },
   {
    "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: Team Nemesis vs Xtreme Gaming - Game 1 Winner",
-   "side": "N",
-   "entry_price": 0.45,
+   "market_nome": "Spread: Bengals (-6.5)",
+   "side": "Y",
+   "entry_price": 0.48,
    "importo": 20.0,
-   "opened": "2026-11-23T15:04:44"
+   "opened": "2026-11-23T15:22:30"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "New NVIDIA CEO named by December 31, 2026?",
+   "side": "Y",
+   "entry_price": 0.332,
+   "importo": 20.0,
+   "opened": "2026-11-23T15:22:30"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "New NVIDIA CEO named by December 31, 2026?",
+   "side": "Y",
+   "entry_price": 0.332,
+   "importo": 20.0,
+   "opened": "2026-11-23T15:22:30"
   },
   {
    "rule_id": "2a906fe26e",
@@ -213,14 +229,6 @@
    "opened": "2026-11-23T06:30:50"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 23?",
-   "side": "Y",
-   "entry_price": 0.88,
-   "importo": 20.0,
-   "opened": "2026-11-23T05:53:49"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "Will Elon Musk post 300-319 tweets from November 17 to November 24, 2026?",
    "side": "Y",
@@ -291,14 +299,6 @@
    "entry_price": 0.59,
    "importo": 20.0,
    "opened": "2026-11-23T04:40:57"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 23?",
-   "side": "Y",
-   "entry_price": 0.84,
-   "importo": 20.0,
-   "opened": "2026-11-23T03:28:46"
   },
   {
    "rule_id": "a042d572b3",
@@ -566,6 +566,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 23?",
+   "side": "Y",
+   "entry_price": 0.88,
+   "exit_price": 0.991,
+   "pnl": 2.5228,
+   "closed": "2026-11-23T15:22:30",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Dota 2: Team Nemesis vs Xtreme Gaming - Game 1 Winner",
+   "side": "Y",
+   "entry_price": 0.56,
+   "exit_price": 0.01,
+   "pnl": -19.6429,
+   "closed": "2026-11-23T15:22:30",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: Team Nemesis vs Xtreme Gaming - Game 1 Winner",
+   "side": "N",
+   "entry_price": 0.45,
+   "exit_price": 0.999,
+   "pnl": 24.4,
+   "closed": "2026-11-23T15:22:30",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 23?",
+   "side": "Y",
+   "entry_price": 0.84,
+   "exit_price": 0.991,
+   "pnl": 3.5952,
+   "closed": "2026-11-23T15:22:29",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will Elon Musk post 65-89 tweets from November 21 to November 23, 2026?",
@@ -924,46 +964,6 @@
    "exit_price": 0.962,
    "pnl": 2.1149,
    "closed": "2026-11-23T04:22:52",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Celtics vs. Warriors: O/U 211.5",
-   "side": "Y",
-   "entry_price": 0.52,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-23T04:22:51",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $56,000 on November 23?",
-   "side": "Y",
-   "entry_price": 0.863,
-   "exit_price": 0.99,
-   "pnl": 2.9432,
-   "closed": "2026-11-23T03:28:44",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Nuggets vs. Bulls",
-   "side": "Y",
-   "entry_price": 0.8,
-   "exit_price": 0.999,
-   "pnl": 4.975,
-   "closed": "2026-11-23T02:52:23",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Nuggets vs. Bulls",
-   "side": "Y",
-   "entry_price": 0.8,
-   "exit_price": 0.999,
-   "pnl": 4.975,
-   "closed": "2026-11-23T02:52:23",
    "motivo": "prezzo a fine corsa"
   }
  ]
