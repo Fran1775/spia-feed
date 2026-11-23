@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T16:37:01",
+ "generated_at": "2026-11-23T17:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 112,
-   "aperti": 14,
-   "pnl": -36.0,
-   "rend_medio_pct": -1.61,
-   "t": -0.43,
-   "rend40_pct": 4.4,
-   "t40": 0.92
+   "chiusi": 114,
+   "aperti": 15,
+   "pnl": -34.37,
+   "rend_medio_pct": -1.51,
+   "t": -0.41,
+   "rend40_pct": 4.11,
+   "t40": 0.86
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 90,
+   "chiusi": 91,
    "aperti": 15,
-   "pnl": 136.99,
-   "rend_medio_pct": 7.61,
-   "t": 0.98,
-   "rend40_pct": 21.31,
-   "t40": 1.8
+   "pnl": 172.49,
+   "rend_medio_pct": 9.48,
+   "t": 1.2,
+   "rend40_pct": 25.92,
+   "t40": 2.09
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,56 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 129,
+   "chiusi": 130,
    "aperti": 15,
-   "pnl": 80.01,
-   "rend_medio_pct": 3.1,
-   "t": 0.27,
-   "rend40_pct": 6.2,
-   "t40": 0.45
+   "pnl": 118.43,
+   "rend_medio_pct": 4.56,
+   "t": 0.4,
+   "rend40_pct": 8.3,
+   "t40": 0.58
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Elon Musk post 280-299 tweets from November 17 to November 24, 2026?",
+   "side": "N",
+   "entry_price": 0.55,
+   "importo": 20.0,
+   "opened": "2026-11-23T17:03:39"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Trump speak to Emmanuel Macron by November 30?",
+   "side": "N",
+   "entry_price": 0.556,
+   "importo": 20.0,
+   "opened": "2026-11-23T17:03:39"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 26?",
+   "side": "Y",
+   "entry_price": 0.905,
+   "importo": 20.0,
+   "opened": "2026-11-23T17:03:39"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Virtus.pro vs Betclic Apogee Esports (BO3) - NODWIN Clutch Series Playoffs",
+   "side": "Y",
+   "entry_price": 0.86,
+   "importo": 20.0,
+   "opened": "2026-11-23T16:46:46"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the highest temperature in Hong Kong be 22°C on November 24?",
+   "side": "Y",
+   "entry_price": 0.94,
+   "importo": 20.0,
+   "opened": "2026-11-23T16:46:46"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "International League T20: Sharjah Warriors vs Desert Vipers",
@@ -149,14 +189,6 @@
    "opened": "2026-11-23T16:13:19"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Ethereum be between $1,700 and $1,800 on November 23?",
-   "side": "Y",
-   "entry_price": 0.96,
-   "importo": 20.0,
-   "opened": "2026-11-23T15:56:29"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Spread: Bengals (-6.5)",
    "side": "Y",
@@ -187,14 +219,6 @@
    "entry_price": 0.48,
    "importo": 20.0,
    "opened": "2026-11-23T15:22:30"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $62,000 on November 23?",
-   "side": "Y",
-   "entry_price": 0.94,
-   "importo": 20.0,
-   "opened": "2026-11-23T14:28:27"
   },
   {
    "rule_id": "924891e0f0",
@@ -254,25 +278,9 @@
   },
   {
    "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $62,000 on November 23?",
-   "side": "Y",
-   "entry_price": 0.342,
-   "importo": 20.0,
-   "opened": "2026-11-23T07:43:22"
-  },
-  {
-   "rule_id": "a042d572b3",
    "market_nome": "Will Elon Musk post 300-319 tweets from November 17 to November 24, 2026?",
    "side": "Y",
    "entry_price": 0.4,
-   "importo": 20.0,
-   "opened": "2026-11-23T07:06:56"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $62,000 on November 23?",
-   "side": "Y",
-   "entry_price": 0.36,
    "importo": 20.0,
    "opened": "2026-11-23T07:06:56"
   },
@@ -558,6 +566,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $62,000 on November 23?",
+   "side": "Y",
+   "entry_price": 0.94,
+   "exit_price": 0.999,
+   "pnl": 1.2553,
+   "closed": "2026-11-23T17:03:39",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be above $62,000 on November 23?",
+   "side": "Y",
+   "entry_price": 0.36,
+   "exit_price": 0.999,
+   "pnl": 35.5,
+   "closed": "2026-11-23T17:03:38",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be above $62,000 on November 23?",
+   "side": "Y",
+   "entry_price": 0.342,
+   "exit_price": 0.999,
+   "pnl": 38.421,
+   "closed": "2026-11-23T17:03:38",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Ethereum be between $1,700 and $1,800 on November 23?",
+   "side": "Y",
+   "entry_price": 0.96,
+   "exit_price": 0.978,
+   "pnl": 0.375,
+   "closed": "2026-11-23T16:46:45",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Bitcoin Up or Down on November 23?",
@@ -917,46 +965,6 @@
    "pnl": 7.75,
    "closed": "2026-11-23T07:06:56",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Playford: Dhakshineswar Suresh vs Moerani Bouzige",
-   "side": "N",
-   "entry_price": 0.5,
-   "exit_price": 0.999,
-   "pnl": 19.96,
-   "closed": "2026-11-23T06:49:01",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Playford: Dhakshineswar Suresh vs Moerani Bouzige",
-   "side": "N",
-   "entry_price": 0.5,
-   "exit_price": 0.999,
-   "pnl": 19.96,
-   "closed": "2026-11-23T06:49:01",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin reach $62,500 in November?",
-   "side": "Y",
-   "entry_price": 0.53,
-   "exit_price": 0.83,
-   "pnl": 11.3207,
-   "closed": "2026-11-23T06:30:50",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will AI solve 1 more Millennium Prize Problem in 2026?",
-   "side": "Y",
-   "entry_price": 0.67,
-   "exit_price": 0.44,
-   "pnl": -6.8657,
-   "closed": "2026-11-23T06:30:50",
-   "motivo": "uscita a tempo 24h"
   }
  ]
 }
