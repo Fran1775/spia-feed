@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T05:07:01",
+ "generated_at": "2026-11-23T05:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 101,
+   "chiusi": 102,
    "aperti": 15,
-   "pnl": -38.82,
-   "rend_medio_pct": -1.92,
-   "t": -0.48,
-   "rend40_pct": 2.25,
-   "t40": 0.41
+   "pnl": -58.57,
+   "rend_medio_pct": -2.87,
+   "t": -0.71,
+   "rend40_pct": -0.38,
+   "t40": -0.06
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 73,
+   "chiusi": 75,
    "aperti": 15,
-   "pnl": 34.1,
-   "rend_medio_pct": 2.34,
-   "t": 0.28,
-   "rend40_pct": -3.01,
-   "t40": -0.27
+   "pnl": 65.4,
+   "rend_medio_pct": 4.36,
+   "t": 0.53,
+   "rend40_pct": -2.83,
+   "t40": -0.26
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,56 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 110,
+   "chiusi": 112,
    "aperti": 15,
-   "pnl": 39.82,
-   "rend_medio_pct": 1.81,
+   "pnl": 39.27,
+   "rend_medio_pct": 1.75,
    "t": 0.14,
-   "rend40_pct": 2.48,
-   "t40": 0.18
+   "rend40_pct": 5.77,
+   "t40": 0.42
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will an AI lab announce another Millennium Prize solution by December 31, 2026?",
+   "side": "N",
+   "entry_price": 0.41,
+   "importo": 20.0,
+   "opened": "2026-11-23T05:16:29"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will an AI lab announce another Millennium Prize solution by December 31, 2026?",
+   "side": "Y",
+   "entry_price": 0.62,
+   "importo": 20.0,
+   "opened": "2026-11-23T05:16:29"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the highest temperature in Toronto be 13°C on November 23?",
+   "side": "Y",
+   "entry_price": 0.94,
+   "importo": 20.0,
+   "opened": "2026-11-23T05:16:29"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Playford: Florian Broska vs Anton Shepp",
+   "side": "N",
+   "entry_price": 0.62,
+   "importo": 20.0,
+   "opened": "2026-11-23T05:16:28"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Playford: Florian Broska vs Anton Shepp",
+   "side": "N",
+   "entry_price": 0.62,
+   "importo": 20.0,
+   "opened": "2026-11-23T05:16:28"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Spurs vs. Kings",
@@ -123,22 +163,6 @@
    "entry_price": 0.59,
    "importo": 20.0,
    "opened": "2026-11-23T04:40:57"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Playford: August Holmgren vs Akira Santillan",
-   "side": "N",
-   "entry_price": 0.51,
-   "importo": 20.0,
-   "opened": "2026-11-23T04:22:52"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Playford: August Holmgren vs Akira Santillan",
-   "side": "N",
-   "entry_price": 0.51,
-   "importo": 20.0,
-   "opened": "2026-11-23T04:22:52"
   },
   {
    "rule_id": "2a906fe26e",
@@ -294,14 +318,6 @@
   },
   {
    "rule_id": "a042d572b3",
-   "market_nome": "Will xQc finish GTA VI by November 22?",
-   "side": "Y",
-   "entry_price": 0.738,
-   "importo": 20.0,
-   "opened": "2026-11-22T21:07:57"
-  },
-  {
-   "rule_id": "a042d572b3",
    "market_nome": "Will Bitcoin dip to $57,500 in November?",
    "side": "Y",
    "entry_price": 0.49,
@@ -355,14 +371,6 @@
    "entry_price": 0.5,
    "importo": 20.0,
    "opened": "2026-11-22T17:31:59"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will xQc finish GTA VI by November 22?",
-   "side": "N",
-   "entry_price": 0.622,
-   "importo": 20.0,
-   "opened": "2026-11-22T16:04:54"
   },
   {
    "rule_id": "924891e0f0",
@@ -555,17 +563,59 @@
    "entry_price": 0.31,
    "importo": 20.0,
    "opened": "2026-11-20T20:40:18"
+  }
+ ],
+ "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will xQc finish GTA VI by November 22?",
+   "side": "N",
+   "entry_price": 0.622,
+   "exit_price": 0.999,
+   "pnl": 12.1221,
+   "closed": "2026-11-23T05:16:28",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will xQc finish GTA VI by November 22?",
+   "side": "Y",
+   "entry_price": 0.738,
+   "exit_price": 0.01,
+   "pnl": -19.729,
+   "closed": "2026-11-23T05:16:28",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Playford: August Holmgren vs Akira Santillan",
+   "side": "N",
+   "entry_price": 0.51,
+   "exit_price": 0.999,
+   "pnl": 19.1765,
+   "closed": "2026-11-23T05:16:28",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Playford: August Holmgren vs Akira Santillan",
+   "side": "N",
+   "entry_price": 0.51,
+   "exit_price": 0.999,
+   "pnl": 19.1765,
+   "closed": "2026-11-23T05:16:28",
+   "motivo": "prezzo a fine corsa"
   },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will xQc finish GTA VI by November 22?",
    "side": "Y",
    "entry_price": 0.81,
-   "importo": 20.0,
-   "opened": "2026-11-19T20:47:44"
-  }
- ],
- "ultime_chiuse": [
+   "exit_price": 0.01,
+   "pnl": -19.7531,
+   "closed": "2026-11-23T05:16:26",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the match end in a draw?",
@@ -915,56 +965,6 @@
    "pnl": 14.4483,
    "closed": "2026-11-22T21:26:18",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Steelers vs. Eagles",
-   "side": "N",
-   "entry_price": 0.74,
-   "exit_price": 0.999,
-   "pnl": 7.0,
-   "closed": "2026-11-22T21:26:18",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Steelers vs. Eagles: O/U 36.5",
-   "side": "Y",
-   "entry_price": 0.13,
-   "exit_price": 0.01,
-   "pnl": -18.4615,
-   "closed": "2026-11-22T21:26:18",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Buccaneers vs. Lions",
-   "side": "Y",
-   "entry_price": 0.32,
-   "exit_price": 0.01,
-   "pnl": -19.375,
-   "closed": "2026-11-22T21:07:57",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin dip to $52,500 in November?",
-   "side": "N",
-   "entry_price": 0.8,
-   "exit_price": 0.85,
-   "pnl": 1.25,
-   "closed": "2026-11-22T21:07:57",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the Democratic Progressive Party (DPP) win the most head of local government elections in the 2026 Taiwan local elections?",
-   "side": "N",
-   "entry_price": 0.77,
-   "exit_price": 0.772,
-   "pnl": 0.0519,
-   "closed": "2026-11-22T21:07:57",
-   "motivo": "uscita a tempo 24h"
   }
  ]
 }
