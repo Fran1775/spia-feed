@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T03:07:01",
+ "generated_at": "2026-11-23T03:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 99,
+   "chiusi": 100,
    "aperti": 14,
-   "pnl": -45.27,
-   "rend_medio_pct": -2.29,
-   "t": -0.57,
-   "rend40_pct": 2.42,
-   "t40": 0.44
+   "pnl": -42.33,
+   "rend_medio_pct": -2.12,
+   "t": -0.53,
+   "rend40_pct": 2.31,
+   "t40": 0.42
   },
   {
    "id": "924891e0f0",
@@ -57,7 +57,7 @@
     "pmin": 0.1
    },
    "chiusi": 17,
-   "aperti": 14,
+   "aperti": 15,
    "pnl": -7.74,
    "rend_medio_pct": -2.28,
    "t": -0.08,
@@ -84,6 +84,22 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Trump call for Jensen Huang's return as NVIDIA CEO by November 30?",
+   "side": "Y",
+   "entry_price": 0.87,
+   "importo": 20.0,
+   "opened": "2026-11-23T03:28:46"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 23?",
+   "side": "Y",
+   "entry_price": 0.84,
+   "importo": 20.0,
+   "opened": "2026-11-23T03:28:46"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will India win?",
@@ -525,14 +541,6 @@
    "opened": "2026-11-20T23:30:25"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $56,000 on November 23?",
-   "side": "Y",
-   "entry_price": 0.863,
-   "importo": 20.0,
-   "opened": "2026-11-20T22:04:50"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Jensen Huang rejoin NVIDIA by December 31, 2027?",
    "side": "Y",
@@ -550,6 +558,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $56,000 on November 23?",
+   "side": "Y",
+   "entry_price": 0.863,
+   "exit_price": 0.99,
+   "pnl": 2.9432,
+   "closed": "2026-11-23T03:28:44",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Nuggets vs. Bulls",
@@ -937,16 +955,6 @@
    "entry_price": 0.48,
    "exit_price": 0.999,
    "pnl": 21.625,
-   "closed": "2026-11-22T20:49:48",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Spread: Chiefs (-16.5)",
-   "side": "N",
-   "entry_price": 0.53,
-   "exit_price": 0.01,
-   "pnl": -19.6226,
    "closed": "2026-11-22T20:49:48",
    "motivo": "prezzo a fine corsa"
   }
