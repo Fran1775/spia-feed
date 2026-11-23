@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T21:07:01",
+ "generated_at": "2026-11-23T21:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,12 +14,12 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 117,
+   "chiusi": 118,
    "aperti": 15,
-   "pnl": -26.2,
-   "rend_medio_pct": -1.12,
-   "t": -0.31,
-   "rend40_pct": 4.52,
+   "pnl": -22.05,
+   "rend_medio_pct": -0.93,
+   "t": -0.26,
+   "rend40_pct": 4.49,
    "t40": 0.94
   },
   {
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 95,
+   "chiusi": 96,
    "aperti": 15,
-   "pnl": 198.96,
-   "rend_medio_pct": 10.47,
-   "t": 1.38,
-   "rend40_pct": 24.97,
-   "t40": 2.18
+   "pnl": 198.56,
+   "rend_medio_pct": 10.34,
+   "t": 1.37,
+   "rend40_pct": 24.35,
+   "t40": 2.12
   },
   {
    "id": "84fb9952fb",
@@ -74,29 +74,45 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 130,
+   "chiusi": 131,
    "aperti": 15,
-   "pnl": 118.43,
-   "rend_medio_pct": 4.56,
-   "t": 0.4,
-   "rend40_pct": 8.3,
-   "t40": 0.58
+   "pnl": 112.72,
+   "rend_medio_pct": 4.3,
+   "t": 0.38,
+   "rend40_pct": 10.03,
+   "t40": 0.71
   }
  ],
  "aperte": [
   {
    "rule_id": "924891e0f0",
-   "market_nome": "Jensen Huang admits to another affair with a woman by December 31?",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 24?",
    "side": "Y",
-   "entry_price": 0.29,
+   "entry_price": 0.804,
    "importo": 20.0,
-   "opened": "2026-11-23T19:34:53"
+   "opened": "2026-11-23T21:31:13"
   },
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "AC Monza vs. ACF Fiorentina: O/U 1.5",
+   "market_nome": "Will the price of Bitcoin be above $54,000 on November 27?",
    "side": "Y",
-   "entry_price": 0.82,
+   "entry_price": 0.963,
+   "importo": 20.0,
+   "opened": "2026-11-23T21:14:32"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Bengals vs. Commanders",
+   "side": "N",
+   "entry_price": 0.28,
+   "importo": 20.0,
+   "opened": "2026-11-23T21:14:31"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Jensen Huang admits to another affair with a woman by December 31?",
+   "side": "Y",
+   "entry_price": 0.29,
    "importo": 20.0,
    "opened": "2026-11-23T19:34:53"
   },
@@ -445,22 +461,6 @@
    "opened": "2026-11-22T21:45:00"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Dota 2: Zero Tenacity vs Inner Circle (BO3) - European Pro League Group A",
-   "side": "Y",
-   "entry_price": 0.5,
-   "importo": 20.0,
-   "opened": "2026-11-22T21:26:19"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin dip to $57,500 in November?",
-   "side": "Y",
-   "entry_price": 0.49,
-   "importo": 20.0,
-   "opened": "2026-11-22T21:07:57"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
    "side": "Y",
@@ -566,6 +566,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Dota 2: Zero Tenacity vs Inner Circle (BO3) - European Pro League Group A",
+   "side": "Y",
+   "entry_price": 0.5,
+   "exit_price": 0.49,
+   "pnl": -0.4,
+   "closed": "2026-11-23T21:31:12",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "AC Monza vs. ACF Fiorentina: O/U 1.5",
+   "side": "Y",
+   "entry_price": 0.82,
+   "exit_price": 0.99,
+   "pnl": 4.1463,
+   "closed": "2026-11-23T21:14:31",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin dip to $57,500 in November?",
+   "side": "Y",
+   "entry_price": 0.49,
+   "exit_price": 0.35,
+   "pnl": -5.7143,
+   "closed": "2026-11-23T21:14:29",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 2 Winner",
@@ -934,36 +964,6 @@
    "exit_price": 0.947,
    "pnl": 3.0975,
    "closed": "2026-11-23T14:09:30",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 23?",
-   "side": "N",
-   "entry_price": 0.086,
-   "exit_price": 0.01,
-   "pnl": -17.6744,
-   "closed": "2026-11-23T14:09:29",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will Jensen Huang rejoin NVIDIA by December 31, 2027?",
-   "side": "Y",
-   "entry_price": 0.31,
-   "exit_price": 0.999,
-   "pnl": 44.4516,
-   "closed": "2026-11-23T14:09:28",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $56,000 on November 24?",
-   "side": "Y",
-   "entry_price": 0.835,
-   "exit_price": 0.988,
-   "pnl": 3.6647,
-   "closed": "2026-11-23T14:09:28",
    "motivo": "prezzo a fine corsa"
   }
  ]
