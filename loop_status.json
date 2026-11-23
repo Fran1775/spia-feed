@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T19:07:01",
+ "generated_at": "2026-11-23T19:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 116,
+   "chiusi": 117,
    "aperti": 15,
-   "pnl": -28.15,
-   "rend_medio_pct": -1.21,
-   "t": -0.34,
-   "rend40_pct": 4.69,
-   "t40": 0.98
+   "pnl": -26.2,
+   "rend_medio_pct": -1.12,
+   "t": -0.31,
+   "rend40_pct": 4.52,
+   "t40": 0.94
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 94,
+   "chiusi": 95,
    "aperti": 15,
-   "pnl": 190.01,
-   "rend_medio_pct": 10.11,
-   "t": 1.31,
-   "rend40_pct": 29.08,
-   "t40": 2.36
+   "pnl": 198.96,
+   "rend_medio_pct": 10.47,
+   "t": 1.38,
+   "rend40_pct": 24.97,
+   "t40": 2.18
   },
   {
    "id": "84fb9952fb",
@@ -85,12 +85,20 @@
  ],
  "aperte": [
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 2 Winner",
+   "rule_id": "924891e0f0",
+   "market_nome": "Jensen Huang admits to another affair with a woman by December 31?",
    "side": "Y",
-   "entry_price": 0.91,
+   "entry_price": 0.29,
    "importo": 20.0,
-   "opened": "2026-11-23T18:28:23"
+   "opened": "2026-11-23T19:34:53"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "AC Monza vs. ACF Fiorentina: O/U 1.5",
+   "side": "Y",
+   "entry_price": 0.82,
+   "importo": 20.0,
+   "opened": "2026-11-23T19:34:53"
   },
   {
    "rule_id": "924891e0f0",
@@ -99,14 +107,6 @@
    "entry_price": 0.46,
    "importo": 20.0,
    "opened": "2026-11-23T17:55:23"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 2 Winner",
-   "side": "Y",
-   "entry_price": 0.69,
-   "importo": 20.0,
-   "opened": "2026-11-23T17:38:26"
   },
   {
    "rule_id": "924891e0f0",
@@ -567,6 +567,26 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "924891e0f0",
+   "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.69,
+   "exit_price": 0.999,
+   "pnl": 8.9565,
+   "closed": "2026-11-23T19:34:53",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.91,
+   "exit_price": 0.999,
+   "pnl": 1.956,
+   "closed": "2026-11-23T19:34:53",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "2a906fe26e",
    "market_nome": "Counter-Strike: Virtus.pro vs Betclic Apogee Esports (BO3) - NODWIN Clutch Series Playoffs",
    "side": "Y",
@@ -944,26 +964,6 @@
    "exit_price": 0.988,
    "pnl": 3.6647,
    "closed": "2026-11-23T14:09:28",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 23?",
-   "side": "Y",
-   "entry_price": 0.802,
-   "exit_price": 0.981,
-   "pnl": 4.4639,
-   "closed": "2026-11-23T14:09:28",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Ethereum be above $1,600 on November 23?",
-   "side": "Y",
-   "entry_price": 0.948,
-   "exit_price": 0.969,
-   "pnl": 0.443,
-   "closed": "2026-11-23T09:16:42",
    "motivo": "prezzo a fine corsa"
   }
  ]
