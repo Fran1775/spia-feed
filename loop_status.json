@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T02:37:01",
+ "generated_at": "2026-11-23T03:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 98,
-   "aperti": 15,
-   "pnl": -50.24,
-   "rend_medio_pct": -2.56,
-   "t": -0.63,
-   "rend40_pct": -0.7,
-   "t40": -0.12
+   "chiusi": 99,
+   "aperti": 14,
+   "pnl": -45.27,
+   "rend_medio_pct": -2.29,
+   "t": -0.57,
+   "rend40_pct": 2.42,
+   "t40": 0.44
   },
   {
    "id": "924891e0f0",
@@ -57,7 +57,7 @@
     "pmin": 0.1
    },
    "chiusi": 17,
-   "aperti": 13,
+   "aperti": 14,
    "pnl": -7.74,
    "rend_medio_pct": -2.28,
    "t": -0.08,
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 107,
+   "chiusi": 108,
    "aperti": 15,
-   "pnl": -19.77,
-   "rend_medio_pct": -0.92,
-   "t": -0.07,
-   "rend40_pct": -0.69,
-   "t40": -0.05
+   "pnl": -14.79,
+   "rend_medio_pct": -0.68,
+   "t": -0.05,
+   "rend40_pct": 2.28,
+   "t40": 0.16
   }
  ],
  "aperte": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will India win?",
+   "side": "Y",
+   "entry_price": 0.4,
+   "importo": 20.0,
+   "opened": "2026-11-23T02:52:25"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Ethereum be above $1,700 on November 23?",
+   "side": "Y",
+   "entry_price": 0.5,
+   "importo": 20.0,
+   "opened": "2026-11-23T02:52:24"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Elon Musk post 320-339 tweets from November 17 to November 24, 2026?",
@@ -259,22 +275,6 @@
    "entry_price": 0.763,
    "importo": 20.0,
    "opened": "2026-11-22T20:49:48"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Nuggets vs. Bulls",
-   "side": "Y",
-   "entry_price": 0.8,
-   "importo": 20.0,
-   "opened": "2026-11-22T20:31:18"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Nuggets vs. Bulls",
-   "side": "Y",
-   "entry_price": 0.8,
-   "importo": 20.0,
-   "opened": "2026-11-22T19:19:09"
   },
   {
    "rule_id": "84fb9952fb",
@@ -550,6 +550,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Nuggets vs. Bulls",
+   "side": "Y",
+   "entry_price": 0.8,
+   "exit_price": 0.999,
+   "pnl": 4.975,
+   "closed": "2026-11-23T02:52:23",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Nuggets vs. Bulls",
+   "side": "Y",
+   "entry_price": 0.8,
+   "exit_price": 0.999,
+   "pnl": 4.975,
+   "closed": "2026-11-23T02:52:23",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Nuggets vs. Bulls: O/U 236.5",
@@ -928,26 +948,6 @@
    "exit_price": 0.01,
    "pnl": -19.6226,
    "closed": "2026-11-22T20:49:48",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin reach $67,500 in November?",
-   "side": "Y",
-   "entry_price": 0.21,
-   "exit_price": 0.19,
-   "pnl": -1.9048,
-   "closed": "2026-11-22T20:49:47",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Cardinals vs. Chiefs: O/U 40.5",
-   "side": "N",
-   "entry_price": 0.52,
-   "exit_price": 0.01,
-   "pnl": -19.6154,
-   "closed": "2026-11-22T20:31:18",
    "motivo": "prezzo a fine corsa"
   }
  ]
