@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T18:07:02",
+ "generated_at": "2026-11-23T18:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 115,
+   "chiusi": 116,
    "aperti": 15,
-   "pnl": -31.39,
-   "rend_medio_pct": -1.36,
-   "t": -0.38,
-   "rend40_pct": 4.4,
-   "t40": 0.92
+   "pnl": -28.15,
+   "rend_medio_pct": -1.21,
+   "t": -0.34,
+   "rend40_pct": 4.69,
+   "t40": 0.98
   },
   {
    "id": "924891e0f0",
@@ -85,6 +85,14 @@
  ],
  "aperte": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.91,
+   "importo": 20.0,
+   "opened": "2026-11-23T18:28:23"
+  },
+  {
    "rule_id": "924891e0f0",
    "market_nome": "Will the price of Bitcoin be above $62,000 on November 24?",
    "side": "Y",
@@ -139,14 +147,6 @@
    "entry_price": 0.905,
    "importo": 20.0,
    "opened": "2026-11-23T17:03:39"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Virtus.pro vs Betclic Apogee Esports (BO3) - NODWIN Clutch Series Playoffs",
-   "side": "Y",
-   "entry_price": 0.86,
-   "importo": 20.0,
-   "opened": "2026-11-23T16:46:46"
   },
   {
    "rule_id": "2a906fe26e",
@@ -567,6 +567,16 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Virtus.pro vs Betclic Apogee Esports (BO3) - NODWIN Clutch Series Playoffs",
+   "side": "Y",
+   "entry_price": 0.86,
+   "exit_price": 0.999,
+   "pnl": 3.2325,
+   "closed": "2026-11-23T18:28:23",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "924891e0f0",
    "market_nome": "Will Anthropic close below its IPO price by November 27, 2026?",
    "side": "N",
@@ -954,16 +964,6 @@
    "exit_price": 0.969,
    "pnl": 0.443,
    "closed": "2026-11-23T09:16:42",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $54,000 on November 24?",
-   "side": "Y",
-   "entry_price": 0.933,
-   "exit_price": 0.991,
-   "pnl": 1.2433,
-   "closed": "2026-11-23T08:20:00",
    "motivo": "prezzo a fine corsa"
   }
  ]
