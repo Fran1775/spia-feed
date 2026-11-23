@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T07:07:01",
+ "generated_at": "2026-11-23T07:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 19,
-   "aperti": 15,
-   "pnl": -25.2,
-   "rend_medio_pct": -6.63,
-   "t": -0.27,
-   "rend40_pct": -6.63,
-   "t40": -0.27
+   "chiusi": 20,
+   "aperti": 14,
+   "pnl": -45.2,
+   "rend_medio_pct": -11.3,
+   "t": -0.48,
+   "rend40_pct": -11.3,
+   "t40": -0.48
   },
   {
    "id": "a042d572b3",
@@ -211,14 +211,6 @@
    "entry_price": 0.84,
    "importo": 20.0,
    "opened": "2026-11-23T03:28:46"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will India win?",
-   "side": "Y",
-   "entry_price": 0.4,
-   "importo": 20.0,
-   "opened": "2026-11-23T02:52:25"
   },
   {
    "rule_id": "a042d572b3",
@@ -566,6 +558,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will India win?",
+   "side": "Y",
+   "entry_price": 0.4,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-23T07:25:04",
+   "motivo": "risoluzione"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Yokohama: Max Schoenhaus vs Masamichi Imamura",
@@ -953,16 +955,6 @@
    "entry_price": 0.74,
    "exit_price": 0.01,
    "pnl": -19.7297,
-   "closed": "2026-11-22T22:03:23",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: LGD Gaming vs Astra Invicta (BO3) - BLAST Slam Group D",
-   "side": "Y",
-   "entry_price": 0.97,
-   "exit_price": 0.999,
-   "pnl": 0.598,
    "closed": "2026-11-22T22:03:23",
    "motivo": "prezzo a fine corsa"
   }
