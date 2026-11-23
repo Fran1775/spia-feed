@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T17:07:01",
+ "generated_at": "2026-11-23T17:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 114,
+   "chiusi": 115,
    "aperti": 15,
-   "pnl": -34.37,
-   "rend_medio_pct": -1.51,
-   "t": -0.41,
-   "rend40_pct": 4.11,
-   "t40": 0.86
+   "pnl": -31.39,
+   "rend_medio_pct": -1.36,
+   "t": -0.38,
+   "rend40_pct": 4.4,
+   "t40": 0.92
   },
   {
    "id": "924891e0f0",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the highest temperature in Seoul (Incheon) be 5°C on November 24?",
+   "side": "Y",
+   "entry_price": 0.89,
+   "importo": 20.0,
+   "opened": "2026-11-23T17:21:07"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Elon Musk post 280-299 tweets from November 17 to November 24, 2026?",
@@ -249,14 +257,6 @@
    "market_nome": "Counter-Strike: NIP vs M80 (BO1) - PGL Major Singapore Stage 1",
    "side": "N",
    "entry_price": 0.44,
-   "importo": 20.0,
-   "opened": "2026-11-23T14:09:31"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Ethereum Up or Down on November 23?",
-   "side": "Y",
-   "entry_price": 0.87,
    "importo": 20.0,
    "opened": "2026-11-23T14:09:31"
   },
@@ -566,6 +566,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Ethereum Up or Down on November 23?",
+   "side": "Y",
+   "entry_price": 0.87,
+   "exit_price": 1.0,
+   "pnl": 2.9885,
+   "closed": "2026-11-23T17:21:06",
+   "motivo": "risoluzione"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $62,000 on November 23?",
@@ -948,16 +958,6 @@
   },
   {
    "rule_id": "924891e0f0",
-   "market_nome": "Yokohama: Max Schoenhaus vs Masamichi Imamura",
-   "side": "N",
-   "entry_price": 0.72,
-   "exit_price": 0.999,
-   "pnl": 7.75,
-   "closed": "2026-11-23T07:06:56",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
    "market_nome": "Yokohama: Max Schoenhaus vs Masamichi Imamura",
    "side": "N",
    "entry_price": 0.72,
