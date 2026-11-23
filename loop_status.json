@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T05:37:01",
+ "generated_at": "2026-11-23T06:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 75,
+   "chiusi": 77,
    "aperti": 15,
-   "pnl": 65.4,
-   "rend_medio_pct": 4.36,
-   "t": 0.53,
-   "rend40_pct": -2.83,
-   "t40": -0.26
+   "pnl": 75.45,
+   "rend_medio_pct": 4.9,
+   "t": 0.61,
+   "rend40_pct": -0.12,
+   "t40": -0.01
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,48 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 112,
+   "chiusi": 114,
    "aperti": 15,
-   "pnl": 39.27,
-   "rend_medio_pct": 1.75,
-   "t": 0.14,
-   "rend40_pct": 5.77,
-   "t40": 0.42
+   "pnl": 49.32,
+   "rend_medio_pct": 2.16,
+   "t": 0.17,
+   "rend40_pct": 7.55,
+   "t40": 0.55
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Playford: Dhakshineswar Suresh vs Moerani Bouzige",
+   "side": "N",
+   "entry_price": 0.5,
+   "importo": 20.0,
+   "opened": "2026-11-23T05:53:49"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Playford: Dhakshineswar Suresh vs Moerani Bouzige",
+   "side": "N",
+   "entry_price": 0.5,
+   "importo": 20.0,
+   "opened": "2026-11-23T05:53:49"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 23?",
+   "side": "Y",
+   "entry_price": 0.88,
+   "importo": 20.0,
+   "opened": "2026-11-23T05:53:49"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post 300-319 tweets from November 17 to November 24, 2026?",
+   "side": "Y",
+   "entry_price": 0.4,
+   "importo": 20.0,
+   "opened": "2026-11-23T05:53:49"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will an AI lab announce another Millennium Prize solution by December 31, 2026?",
@@ -107,22 +139,6 @@
    "entry_price": 0.94,
    "importo": 20.0,
    "opened": "2026-11-23T05:16:29"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Playford: Florian Broska vs Anton Shepp",
-   "side": "N",
-   "entry_price": 0.62,
-   "importo": 20.0,
-   "opened": "2026-11-23T05:16:28"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Playford: Florian Broska vs Anton Shepp",
-   "side": "N",
-   "entry_price": 0.62,
-   "importo": 20.0,
-   "opened": "2026-11-23T05:16:28"
   },
   {
    "rule_id": "a042d572b3",
@@ -429,22 +445,6 @@
    "opened": "2026-11-22T05:54:58"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Next White House Press Secretary announced by December 31, 2026?",
-   "side": "N",
-   "entry_price": 0.46,
-   "importo": 20.0,
-   "opened": "2026-11-22T05:37:12"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Next White House Press Secretary announced by December 31, 2026?",
-   "side": "N",
-   "entry_price": 0.46,
-   "importo": 20.0,
-   "opened": "2026-11-22T05:37:12"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $56,000 on November 25?",
    "side": "Y",
@@ -566,6 +566,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Playford: Florian Broska vs Anton Shepp",
+   "side": "N",
+   "entry_price": 0.62,
+   "exit_price": 0.999,
+   "pnl": 12.2258,
+   "closed": "2026-11-23T05:53:49",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Playford: Florian Broska vs Anton Shepp",
+   "side": "N",
+   "entry_price": 0.62,
+   "exit_price": 0.999,
+   "pnl": 12.2258,
+   "closed": "2026-11-23T05:53:49",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Next White House Press Secretary announced by December 31, 2026?",
+   "side": "N",
+   "entry_price": 0.46,
+   "exit_price": 0.41,
+   "pnl": -2.1739,
+   "closed": "2026-11-23T05:53:48",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Next White House Press Secretary announced by December 31, 2026?",
+   "side": "N",
+   "entry_price": 0.46,
+   "exit_price": 0.41,
+   "pnl": -2.1739,
+   "closed": "2026-11-23T05:53:48",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will xQc finish GTA VI by November 22?",
@@ -925,46 +965,6 @@
    "pnl": 0.4082,
    "closed": "2026-11-22T21:44:59",
    "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Steelers vs. Eagles: O/U 38.5",
-   "side": "N",
-   "entry_price": 0.53,
-   "exit_price": 1.0,
-   "pnl": 17.7358,
-   "closed": "2026-11-22T21:44:58",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Spread: Lions (-6.5)",
-   "side": "Y",
-   "entry_price": 0.45,
-   "exit_price": 1.0,
-   "pnl": 24.4444,
-   "closed": "2026-11-22T21:44:57",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Spread: Lions (-7.5)",
-   "side": "Y",
-   "entry_price": 0.4,
-   "exit_price": 1.0,
-   "pnl": 30.0,
-   "closed": "2026-11-22T21:44:57",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Steelers vs. Eagles",
-   "side": "N",
-   "entry_price": 0.58,
-   "exit_price": 0.999,
-   "pnl": 14.4483,
-   "closed": "2026-11-22T21:26:18",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
