@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T17:37:01",
+ "generated_at": "2026-11-23T18:07:02",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 91,
+   "chiusi": 94,
    "aperti": 15,
-   "pnl": 172.49,
-   "rend_medio_pct": 9.48,
-   "t": 1.2,
-   "rend40_pct": 25.92,
-   "t40": 2.09
+   "pnl": 190.01,
+   "rend_medio_pct": 10.11,
+   "t": 1.31,
+   "rend40_pct": 29.08,
+   "t40": 2.36
   },
   {
    "id": "84fb9952fb",
@@ -84,6 +84,30 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be above $62,000 on November 24?",
+   "side": "Y",
+   "entry_price": 0.46,
+   "importo": 20.0,
+   "opened": "2026-11-23T17:55:23"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.69,
+   "importo": 20.0,
+   "opened": "2026-11-23T17:38:26"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin dip to $60,000 in November?",
+   "side": "N",
+   "entry_price": 0.34,
+   "importo": 20.0,
+   "opened": "2026-11-23T17:38:25"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the highest temperature in Seoul (Incheon) be 5°C on November 24?",
@@ -131,14 +155,6 @@
    "entry_price": 0.94,
    "importo": 20.0,
    "opened": "2026-11-23T16:46:46"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "International League T20: Sharjah Warriors vs Desert Vipers",
-   "side": "N",
-   "entry_price": 0.63,
-   "importo": 20.0,
-   "opened": "2026-11-23T16:30:07"
   },
   {
    "rule_id": "a042d572b3",
@@ -469,22 +485,6 @@
    "opened": "2026-11-22T18:06:47"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Anthropic close below its IPO price by November 27, 2026?",
-   "side": "N",
-   "entry_price": 0.58,
-   "importo": 20.0,
-   "opened": "2026-11-22T17:49:29"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin dip to $57,500 in November?",
-   "side": "N",
-   "entry_price": 0.5,
-   "importo": 20.0,
-   "opened": "2026-11-22T17:31:59"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $56,000 on November 25?",
    "side": "Y",
@@ -566,6 +566,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Anthropic close below its IPO price by November 27, 2026?",
+   "side": "N",
+   "entry_price": 0.58,
+   "exit_price": 0.57,
+   "pnl": -0.3448,
+   "closed": "2026-11-23T17:55:21",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "International League T20: Sharjah Warriors vs Desert Vipers",
+   "side": "N",
+   "entry_price": 0.63,
+   "exit_price": 0.991,
+   "pnl": 11.4603,
+   "closed": "2026-11-23T17:38:25",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin dip to $57,500 in November?",
+   "side": "N",
+   "entry_price": 0.5,
+   "exit_price": 0.66,
+   "pnl": 6.4,
+   "closed": "2026-11-23T17:38:24",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Ethereum Up or Down on November 23?",
@@ -934,36 +964,6 @@
    "exit_price": 0.991,
    "pnl": 1.2433,
    "closed": "2026-11-23T08:20:00",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Yokohama: Kasidit Samrej vs Dimitris Sakellaridis",
-   "side": "N",
-   "entry_price": 0.59,
-   "exit_price": 0.01,
-   "pnl": -19.661,
-   "closed": "2026-11-23T07:43:22",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will India win?",
-   "side": "Y",
-   "entry_price": 0.4,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-23T07:25:04",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Yokohama: Max Schoenhaus vs Masamichi Imamura",
-   "side": "N",
-   "entry_price": 0.72,
-   "exit_price": 0.999,
-   "pnl": 7.75,
-   "closed": "2026-11-23T07:06:56",
    "motivo": "prezzo a fine corsa"
   }
  ]
