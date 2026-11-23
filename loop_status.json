@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T01:37:02",
+ "generated_at": "2026-11-23T02:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 98,
-   "aperti": 14,
+   "aperti": 15,
    "pnl": -50.24,
    "rend_medio_pct": -2.56,
    "t": -0.63,
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 106,
+   "chiusi": 107,
    "aperti": 15,
-   "pnl": -36.51,
-   "rend_medio_pct": -1.72,
-   "t": -0.13,
-   "rend40_pct": 0.67,
-   "t40": 0.04
+   "pnl": -19.77,
+   "rend_medio_pct": -0.92,
+   "t": -0.07,
+   "rend40_pct": -0.69,
+   "t40": -0.05
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Elon Musk post 320-339 tweets from November 17 to November 24, 2026?",
+   "side": "N",
+   "entry_price": 0.68,
+   "importo": 20.0,
+   "opened": "2026-11-23T01:39:40"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will FC Barcelona win on 2026-11-25?",
+   "side": "Y",
+   "entry_price": 0.92,
+   "importo": 20.0,
+   "opened": "2026-11-23T01:39:40"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Celtics vs. Warriors: O/U 211.5",
@@ -107,14 +123,6 @@
    "entry_price": 0.88,
    "importo": 20.0,
    "opened": "2026-11-23T01:03:29"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Nuggets vs. Bulls: O/U 236.5",
-   "side": "Y",
-   "entry_price": 0.54,
-   "importo": 20.0,
-   "opened": "2026-11-22T23:51:46"
   },
   {
    "rule_id": "2a906fe26e",
@@ -544,6 +552,16 @@
  "ultime_chiuse": [
   {
    "rule_id": "a042d572b3",
+   "market_nome": "Nuggets vs. Bulls: O/U 236.5",
+   "side": "Y",
+   "entry_price": 0.54,
+   "exit_price": 0.992,
+   "pnl": 16.7407,
+   "closed": "2026-11-23T01:39:39",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
    "market_nome": "Thunder vs. Heat",
    "side": "N",
    "entry_price": 0.61,
@@ -929,16 +947,6 @@
    "entry_price": 0.52,
    "exit_price": 0.01,
    "pnl": -19.6154,
-   "closed": "2026-11-22T20:31:18",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Getafe CF vs. Club Atlético de Madrid: O/U 0.5",
-   "side": "Y",
-   "entry_price": 0.93,
-   "exit_price": 0.999,
-   "pnl": 1.4839,
    "closed": "2026-11-22T20:31:18",
    "motivo": "prezzo a fine corsa"
   }
