@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T00:37:01",
+ "generated_at": "2026-11-23T01:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 97,
+   "chiusi": 98,
    "aperti": 14,
-   "pnl": -54.32,
-   "rend_medio_pct": -2.8,
-   "t": -0.68,
-   "rend40_pct": -1.12,
-   "t40": -0.19
+   "pnl": -50.24,
+   "rend_medio_pct": -2.56,
+   "t": -0.63,
+   "rend40_pct": -0.7,
+   "t40": -0.12
   },
   {
    "id": "924891e0f0",
@@ -86,11 +86,11 @@
  "aperte": [
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 22, 4:00PM-8:00PM ET",
+   "market_nome": "Spurs vs. Kings",
    "side": "Y",
-   "entry_price": 0.83,
+   "entry_price": 0.88,
    "importo": 20.0,
-   "opened": "2026-11-22T23:51:47"
+   "opened": "2026-11-23T01:03:29"
   },
   {
    "rule_id": "a042d572b3",
@@ -560,6 +560,16 @@
  "ultime_chiuse": [
   {
    "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 22, 4:00PM-8:00PM ET",
+   "side": "Y",
+   "entry_price": 0.83,
+   "exit_price": 0.999,
+   "pnl": 4.0723,
+   "closed": "2026-11-23T01:03:28",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
    "market_nome": "Bitcoin Up or Down - November 22, 6:00PM-7:00PM ET",
    "side": "Y",
    "entry_price": 0.88,
@@ -947,16 +957,6 @@
    "pnl": -20.0,
    "closed": "2026-11-22T19:37:24",
    "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Carlos Alcaraz win the 2026 Nitto ATP Finals?",
-   "side": "Y",
-   "entry_price": 0.88,
-   "exit_price": 0.999,
-   "pnl": 2.7046,
-   "closed": "2026-11-22T19:19:09",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
