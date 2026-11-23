@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T06:07:01",
+ "generated_at": "2026-11-23T06:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 77,
+   "chiusi": 78,
    "aperti": 15,
-   "pnl": 75.45,
-   "rend_medio_pct": 4.9,
-   "t": 0.61,
-   "rend40_pct": -0.12,
-   "t40": -0.01
+   "pnl": 68.58,
+   "rend_medio_pct": 4.4,
+   "t": 0.55,
+   "rend40_pct": 0.1,
+   "t40": 0.01
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,40 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 114,
+   "chiusi": 116,
    "aperti": 15,
-   "pnl": 49.32,
-   "rend_medio_pct": 2.16,
-   "t": 0.17,
-   "rend40_pct": 7.55,
-   "t40": 0.55
+   "pnl": 77.64,
+   "rend_medio_pct": 3.35,
+   "t": 0.27,
+   "rend40_pct": 7.52,
+   "t40": 0.54
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will PSOE win the most seats in Santa Cruz de Tenerife in the 2026 Spanish general election?",
+   "side": "Y",
+   "entry_price": 0.72,
+   "importo": 20.0,
+   "opened": "2026-11-23T06:30:51"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Spurs vs. Kings",
+   "side": "N",
+   "entry_price": 0.21,
+   "importo": 20.0,
+   "opened": "2026-11-23T06:30:50"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Yokohama: Kasidit Samrej vs Dimitris Sakellaridis",
+   "side": "N",
+   "entry_price": 0.59,
+   "importo": 20.0,
+   "opened": "2026-11-23T06:12:15"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Playford: Dhakshineswar Suresh vs Moerani Bouzige",
@@ -421,30 +445,6 @@
    "opened": "2026-11-22T08:35:55"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin reach $62,500 in November?",
-   "side": "Y",
-   "entry_price": 0.53,
-   "importo": 20.0,
-   "opened": "2026-11-22T06:12:54"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will AI solve 1 more Millennium Prize Problem in 2026?",
-   "side": "Y",
-   "entry_price": 0.67,
-   "importo": 20.0,
-   "opened": "2026-11-22T06:12:54"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will AI solve 0 more Millennium Prize Problems in 2026?",
-   "side": "Y",
-   "entry_price": 0.2,
-   "importo": 20.0,
-   "opened": "2026-11-22T05:54:58"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $56,000 on November 25?",
    "side": "Y",
@@ -566,6 +566,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin reach $62,500 in November?",
+   "side": "Y",
+   "entry_price": 0.53,
+   "exit_price": 0.83,
+   "pnl": 11.3207,
+   "closed": "2026-11-23T06:30:50",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will AI solve 1 more Millennium Prize Problem in 2026?",
+   "side": "Y",
+   "entry_price": 0.67,
+   "exit_price": 0.44,
+   "pnl": -6.8657,
+   "closed": "2026-11-23T06:30:50",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will AI solve 0 more Millennium Prize Problems in 2026?",
+   "side": "Y",
+   "entry_price": 0.2,
+   "exit_price": 0.37,
+   "pnl": 17.0,
+   "closed": "2026-11-23T06:12:14",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Playford: Florian Broska vs Anton Shepp",
@@ -933,36 +963,6 @@
    "entry_price": 0.77,
    "exit_price": 0.0,
    "pnl": -20.0,
-   "closed": "2026-11-22T21:44:59",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Steelers vs. Eagles: O/U 38.5",
-   "side": "N",
-   "entry_price": 0.8,
-   "exit_price": 1.0,
-   "pnl": 5.0,
-   "closed": "2026-11-22T21:44:59",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Spread: Eagles (-6.5)",
-   "side": "N",
-   "entry_price": 0.98,
-   "exit_price": 1.0,
-   "pnl": 0.4082,
-   "closed": "2026-11-22T21:44:59",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Spread: Eagles (-6.5)",
-   "side": "N",
-   "entry_price": 0.98,
-   "exit_price": 1.0,
-   "pnl": 0.4082,
    "closed": "2026-11-22T21:44:59",
    "motivo": "risoluzione"
   }
