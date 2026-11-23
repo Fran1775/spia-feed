@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T10:37:01",
+ "generated_at": "2026-11-23T11:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -57,7 +57,7 @@
     "pmin": 0.1
    },
    "chiusi": 20,
-   "aperti": 14,
+   "aperti": 15,
    "pnl": -45.2,
    "rend_medio_pct": -11.3,
    "t": -0.48,
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Counter-Strike: PVISION vs DENDELE CS (BO1) - PGL Major Singapore Stage 1",
+   "side": "Y",
+   "entry_price": 0.59,
+   "importo": 20.0,
+   "opened": "2026-11-23T10:51:05"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Ethereum be above $1,700 on November 23?",
