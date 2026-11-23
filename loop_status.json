@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T08:07:01",
+ "generated_at": "2026-11-23T08:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 102,
+   "chiusi": 103,
    "aperti": 15,
-   "pnl": -58.57,
-   "rend_medio_pct": -2.87,
-   "t": -0.71,
-   "rend40_pct": -0.38,
-   "t40": -0.06
+   "pnl": -57.33,
+   "rend_medio_pct": -2.78,
+   "t": -0.69,
+   "rend40_pct": -0.61,
+   "t40": -0.1
   },
   {
    "id": "924891e0f0",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will \"Raw: 2026 - November 16, 2026\" be the #2 US Netflix show this week?",
+   "side": "Y",
+   "entry_price": 0.931,
+   "importo": 20.0,
+   "opened": "2026-11-23T08:20:04"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will the price of Bitcoin be above $62,000 on November 23?",
@@ -493,14 +501,6 @@
    "opened": "2026-11-21T17:01:03"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $54,000 on November 24?",
-   "side": "Y",
-   "entry_price": 0.933,
-   "importo": 20.0,
-   "opened": "2026-11-21T15:18:36"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will WTI Crude Oil (WTI) hit (LOW) $80 in November?",
    "side": "Y",
@@ -558,6 +558,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $54,000 on November 24?",
+   "side": "Y",
+   "entry_price": 0.933,
+   "exit_price": 0.991,
+   "pnl": 1.2433,
+   "closed": "2026-11-23T08:20:00",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Yokohama: Kasidit Samrej vs Dimitris Sakellaridis",
@@ -945,16 +955,6 @@
    "entry_price": 0.94,
    "exit_price": 0.98,
    "pnl": 0.8511,
-   "closed": "2026-11-22T22:03:23",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Dota 2: LGD Gaming vs Astra Invicta (BO3) - BLAST Slam Group D",
-   "side": "N",
-   "entry_price": 0.74,
-   "exit_price": 0.01,
-   "pnl": -19.7297,
    "closed": "2026-11-22T22:03:23",
    "motivo": "prezzo a fine corsa"
   }
