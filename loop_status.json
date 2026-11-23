@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T04:37:01",
+ "generated_at": "2026-11-23T05:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 100,
+   "chiusi": 101,
    "aperti": 15,
-   "pnl": -42.33,
-   "rend_medio_pct": -2.12,
-   "t": -0.53,
-   "rend40_pct": 2.31,
-   "t40": 0.42
+   "pnl": -38.82,
+   "rend_medio_pct": -1.92,
+   "t": -0.48,
+   "rend40_pct": 2.25,
+   "t40": 0.41
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 72,
+   "chiusi": 73,
    "aperti": 15,
-   "pnl": 23.73,
-   "rend_medio_pct": 1.65,
-   "t": 0.2,
-   "rend40_pct": -4.01,
-   "t40": -0.36
+   "pnl": 34.1,
+   "rend_medio_pct": 2.34,
+   "t": 0.28,
+   "rend40_pct": -3.01,
+   "t40": -0.27
   },
   {
    "id": "84fb9952fb",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 18,
-   "aperti": 14,
-   "pnl": -5.63,
-   "rend_medio_pct": -1.56,
-   "t": -0.06,
-   "rend40_pct": -1.56,
-   "t40": -0.06
+   "chiusi": 19,
+   "aperti": 15,
+   "pnl": -25.2,
+   "rend_medio_pct": -6.63,
+   "t": -0.27,
+   "rend40_pct": -6.63,
+   "t40": -0.27
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,56 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 109,
+   "chiusi": 110,
    "aperti": 15,
-   "pnl": 6.02,
-   "rend_medio_pct": 0.28,
-   "t": 0.02,
-   "rend40_pct": 5.22,
-   "t40": 0.36
+   "pnl": 39.82,
+   "rend_medio_pct": 1.81,
+   "t": 0.14,
+   "rend40_pct": 2.48,
+   "t40": 0.18
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Spurs vs. Kings",
+   "side": "N",
+   "entry_price": 0.2,
+   "importo": 20.0,
+   "opened": "2026-11-23T04:58:41"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post 320-339 tweets from November 17 to November 24, 2026?",
+   "side": "Y",
+   "entry_price": 0.29,
+   "importo": 20.0,
+   "opened": "2026-11-23T04:58:41"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Real Madrid CF win on 2026-11-24?",
+   "side": "Y",
+   "entry_price": 0.84,
+   "importo": 20.0,
+   "opened": "2026-11-23T04:58:41"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will PP win the most seats in Santa Cruz de Tenerife in the 2026 Spanish general election?",
+   "side": "Y",
+   "entry_price": 0.3,
+   "importo": 20.0,
+   "opened": "2026-11-23T04:40:57"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Next White House Press Secretary announced by December 31, 2026?",
+   "side": "Y",
+   "entry_price": 0.59,
+   "importo": 20.0,
+   "opened": "2026-11-23T04:40:57"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Playford: August Holmgren vs Akira Santillan",
@@ -99,14 +139,6 @@
    "entry_price": 0.51,
    "importo": 20.0,
    "opened": "2026-11-23T04:22:52"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the match end in a draw?",
-   "side": "Y",
-   "entry_price": 0.85,
-   "importo": 20.0,
-   "opened": "2026-11-23T03:46:51"
   },
   {
    "rule_id": "2a906fe26e",
@@ -163,14 +195,6 @@
    "entry_price": 0.956,
    "importo": 20.0,
    "opened": "2026-11-22T22:57:58"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Vikings vs. 49ers: O/U 46.5",
-   "side": "Y",
-   "entry_price": 0.47,
-   "importo": 20.0,
-   "opened": "2026-11-22T22:40:20"
   },
   {
    "rule_id": "924891e0f0",
@@ -333,14 +357,6 @@
    "opened": "2026-11-22T17:31:59"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin reach $62,000 November 16-22?",
-   "side": "N",
-   "entry_price": 0.371,
-   "importo": 20.0,
-   "opened": "2026-11-22T16:39:53"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "Will xQc finish GTA VI by November 22?",
    "side": "N",
@@ -419,14 +435,6 @@
    "entry_price": 0.46,
    "importo": 20.0,
    "opened": "2026-11-22T05:37:12"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will AI solve the Riemann Hypothesis in 2026?",
-   "side": "N",
-   "entry_price": 0.27,
-   "importo": 20.0,
-   "opened": "2026-11-22T04:44:11"
   },
   {
    "rule_id": "2a906fe26e",
@@ -558,6 +566,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the match end in a draw?",
+   "side": "Y",
+   "entry_price": 0.85,
+   "exit_price": 0.999,
+   "pnl": 3.5059,
+   "closed": "2026-11-23T04:58:41",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will AI solve the Riemann Hypothesis in 2026?",
+   "side": "N",
+   "entry_price": 0.27,
+   "exit_price": 0.41,
+   "pnl": 10.3704,
+   "closed": "2026-11-23T04:58:40",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin reach $62,000 November 16-22?",
+   "side": "N",
+   "entry_price": 0.371,
+   "exit_price": 0.998,
+   "pnl": 33.8006,
+   "closed": "2026-11-23T04:58:40",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Vikings vs. 49ers: O/U 46.5",
+   "side": "Y",
+   "entry_price": 0.47,
+   "exit_price": 0.01,
+   "pnl": -19.5745,
+   "closed": "2026-11-23T04:40:57",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Celtics vs. Warriors: O/U 211.5",
@@ -915,46 +963,6 @@
    "entry_price": 0.77,
    "exit_price": 0.772,
    "pnl": 0.0519,
-   "closed": "2026-11-22T21:07:57",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "GTA VI Online released by March 31, 2027?",
-   "side": "N",
-   "entry_price": 0.76,
-   "exit_price": 0.75,
-   "pnl": -0.2631,
-   "closed": "2026-11-22T21:07:57",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "GTA VI Online released by March 31, 2027?",
-   "side": "Y",
-   "entry_price": 0.25,
-   "exit_price": 0.24,
-   "pnl": -0.8,
-   "closed": "2026-11-22T21:07:57",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin reach $62,000 November 16-22?",
-   "side": "Y",
-   "entry_price": 0.426,
-   "exit_price": 0.395,
-   "pnl": -1.4554,
-   "closed": "2026-11-22T21:07:57",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin reach $62,500 in November?",
-   "side": "Y",
-   "entry_price": 0.71,
-   "exit_price": 0.76,
-   "pnl": 1.4084,
    "closed": "2026-11-22T21:07:57",
    "motivo": "uscita a tempo 24h"
   }
