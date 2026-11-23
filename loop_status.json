@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T03:37:01",
+ "generated_at": "2026-11-23T04:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 100,
-   "aperti": 14,
+   "aperti": 15,
    "pnl": -42.33,
    "rend_medio_pct": -2.12,
    "t": -0.53,
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the match end in a draw?",
+   "side": "Y",
+   "entry_price": 0.85,
+   "importo": 20.0,
+   "opened": "2026-11-23T03:46:51"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Trump call for Jensen Huang's return as NVIDIA CEO by November 30?",
