@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T06:37:01",
+ "generated_at": "2026-11-23T07:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 78,
+   "chiusi": 80,
    "aperti": 15,
-   "pnl": 68.58,
-   "rend_medio_pct": 4.4,
-   "t": 0.55,
-   "rend40_pct": 0.1,
-   "t40": 0.01
+   "pnl": 96.29,
+   "rend_medio_pct": 6.02,
+   "t": 0.77,
+   "rend40_pct": 4.06,
+   "t40": 0.37
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 116,
+   "chiusi": 118,
    "aperti": 15,
-   "pnl": 77.64,
-   "rend_medio_pct": 3.35,
-   "t": 0.27,
-   "rend40_pct": 7.52,
-   "t40": 0.54
+   "pnl": 105.35,
+   "rend_medio_pct": 4.46,
+   "t": 0.37,
+   "rend40_pct": 15.95,
+   "t40": 1.18
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Elon Musk post 300-319 tweets from November 17 to November 24, 2026?",
+   "side": "Y",
+   "entry_price": 0.4,
+   "importo": 20.0,
+   "opened": "2026-11-23T07:06:56"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be above $62,000 on November 23?",
+   "side": "Y",
+   "entry_price": 0.36,
+   "importo": 20.0,
+   "opened": "2026-11-23T07:06:56"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will PSOE win the most seats in Santa Cruz de Tenerife in the 2026 Spanish general election?",
@@ -107,22 +123,6 @@
    "entry_price": 0.59,
    "importo": 20.0,
    "opened": "2026-11-23T06:12:15"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Playford: Dhakshineswar Suresh vs Moerani Bouzige",
-   "side": "N",
-   "entry_price": 0.5,
-   "importo": 20.0,
-   "opened": "2026-11-23T05:53:49"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Playford: Dhakshineswar Suresh vs Moerani Bouzige",
-   "side": "N",
-   "entry_price": 0.5,
-   "importo": 20.0,
-   "opened": "2026-11-23T05:53:49"
   },
   {
    "rule_id": "a042d572b3",
@@ -567,6 +567,46 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "924891e0f0",
+   "market_nome": "Yokohama: Max Schoenhaus vs Masamichi Imamura",
+   "side": "N",
+   "entry_price": 0.72,
+   "exit_price": 0.999,
+   "pnl": 7.75,
+   "closed": "2026-11-23T07:06:56",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Yokohama: Max Schoenhaus vs Masamichi Imamura",
+   "side": "N",
+   "entry_price": 0.72,
+   "exit_price": 0.999,
+   "pnl": 7.75,
+   "closed": "2026-11-23T07:06:56",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Playford: Dhakshineswar Suresh vs Moerani Bouzige",
+   "side": "N",
+   "entry_price": 0.5,
+   "exit_price": 0.999,
+   "pnl": 19.96,
+   "closed": "2026-11-23T06:49:01",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Playford: Dhakshineswar Suresh vs Moerani Bouzige",
+   "side": "N",
+   "entry_price": 0.5,
+   "exit_price": 0.999,
+   "pnl": 19.96,
+   "closed": "2026-11-23T06:49:01",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "a042d572b3",
    "market_nome": "Will Bitcoin reach $62,500 in November?",
    "side": "Y",
@@ -925,46 +965,6 @@
    "pnl": 0.598,
    "closed": "2026-11-22T22:03:23",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Spread: Eagles (-1.5)",
-   "side": "Y",
-   "entry_price": 0.87,
-   "exit_price": 1.0,
-   "pnl": 2.9885,
-   "closed": "2026-11-22T21:45:00",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Spread: Eagles (-2.5)",
-   "side": "Y",
-   "entry_price": 0.87,
-   "exit_price": 1.0,
-   "pnl": 2.9885,
-   "closed": "2026-11-22T21:45:00",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Spread: Steelers (-3.5)",
-   "side": "N",
-   "entry_price": 0.86,
-   "exit_price": 1.0,
-   "pnl": 3.2558,
-   "closed": "2026-11-22T21:44:59",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Spread: Eagles (-3.5)",
-   "side": "Y",
-   "entry_price": 0.77,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-22T21:44:59",
-   "motivo": "risoluzione"
   }
  ]
 }
