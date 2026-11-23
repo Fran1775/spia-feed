@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T14:37:01",
+ "generated_at": "2026-11-23T15:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 81,
+   "chiusi": 82,
    "aperti": 15,
-   "pnl": 103.74,
-   "rend_medio_pct": 6.4,
-   "t": 0.82,
-   "rend40_pct": 7.19,
-   "t40": 0.66
+   "pnl": 110.03,
+   "rend_medio_pct": 6.71,
+   "t": 0.87,
+   "rend40_pct": 8.68,
+   "t40": 0.8
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 121,
+   "chiusi": 122,
    "aperti": 15,
-   "pnl": 85.9,
-   "rend_medio_pct": 3.55,
-   "t": 0.3,
-   "rend40_pct": 10.5,
-   "t40": 0.75
+   "pnl": 66.7,
+   "rend_medio_pct": 2.73,
+   "t": 0.23,
+   "rend40_pct": 8.32,
+   "t40": 0.58
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Dota 2: Team Nemesis vs Xtreme Gaming - Game 1 Winner",
+   "side": "Y",
+   "entry_price": 0.56,
+   "importo": 20.0,
+   "opened": "2026-11-23T15:04:44"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: Team Nemesis vs Xtreme Gaming - Game 1 Winner",
+   "side": "N",
+   "entry_price": 0.45,
+   "importo": 20.0,
+   "opened": "2026-11-23T15:04:44"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $62,000 on November 23?",
@@ -333,22 +349,6 @@
    "opened": "2026-11-22T22:03:23"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Elon Musk post 65-89 tweets from November 21 to November 23, 2026?",
-   "side": "N",
-   "entry_price": 0.76,
-   "importo": 20.0,
-   "opened": "2026-11-22T21:45:00"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Elon Musk post 65-89 tweets from November 21 to November 23, 2026?",
-   "side": "Y",
-   "entry_price": 0.25,
-   "importo": 20.0,
-   "opened": "2026-11-22T21:45:00"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will AI solve 0 more Millennium Prize Problems in 2026?",
    "side": "Y",
@@ -566,6 +566,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post 65-89 tweets from November 21 to November 23, 2026?",
+   "side": "N",
+   "entry_price": 0.76,
+   "exit_price": 0.999,
+   "pnl": 6.2895,
+   "closed": "2026-11-23T15:04:43",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Elon Musk post 65-89 tweets from November 21 to November 23, 2026?",
+   "side": "Y",
+   "entry_price": 0.25,
+   "exit_price": 0.01,
+   "pnl": -19.2,
+   "closed": "2026-11-23T15:04:43",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "S&P 500 (SPX) Up or Down on November 23?",
@@ -944,26 +964,6 @@
    "exit_price": 0.999,
    "pnl": 4.975,
    "closed": "2026-11-23T02:52:23",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Nuggets vs. Bulls: O/U 236.5",
-   "side": "Y",
-   "entry_price": 0.54,
-   "exit_price": 0.992,
-   "pnl": 16.7407,
-   "closed": "2026-11-23T01:39:39",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Thunder vs. Heat",
-   "side": "N",
-   "entry_price": 0.61,
-   "exit_price": 0.999,
-   "pnl": 12.7541,
-   "closed": "2026-11-23T01:21:34",
    "motivo": "prezzo a fine corsa"
   }
  ]
