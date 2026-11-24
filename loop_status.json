@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T23:07:01",
+ "generated_at": "2026-11-24T23:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 41,
+   "chiusi": 42,
    "aperti": 15,
-   "pnl": -26.2,
-   "rend_medio_pct": -3.19,
-   "t": -0.21,
-   "rend40_pct": -9.1,
-   "t40": -0.64
+   "pnl": -21.41,
+   "rend_medio_pct": -2.55,
+   "t": -0.17,
+   "rend40_pct": -6.05,
+   "t40": -0.43
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 166,
+   "chiusi": 167,
    "aperti": 15,
-   "pnl": 120.75,
-   "rend_medio_pct": 3.64,
-   "t": 0.38,
-   "rend40_pct": 5.2,
-   "t40": 0.32
+   "pnl": 101.71,
+   "rend_medio_pct": 3.05,
+   "t": 0.32,
+   "rend40_pct": -2.21,
+   "t40": -0.14
   }
  ],
  "aperte": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Pistons vs. Magic",
+   "side": "Y",
+   "entry_price": 0.55,
+   "importo": 20.0,
+   "opened": "2026-11-24T23:16:13"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Pistons vs. Magic",
+   "side": "Y",
+   "entry_price": 0.55,
+   "importo": 20.0,
+   "opened": "2026-11-24T23:16:13"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Mavericks vs. Nuggets: O/U 234.5",
@@ -299,22 +315,6 @@
    "entry_price": 0.65,
    "importo": 20.0,
    "opened": "2026-11-24T16:17:24"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Jensen Huang admits to another affair with a woman by December 31?",
-   "side": "Y",
-   "entry_price": 0.806,
-   "importo": 20.0,
-   "opened": "2026-11-24T08:16:24"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Jensen Huang admits to another affair with a woman by December 31?",
-   "side": "N",
-   "entry_price": 0.208,
-   "importo": 20.0,
-   "opened": "2026-11-24T08:16:24"
   },
   {
    "rule_id": "a042d572b3",
@@ -542,6 +542,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Jensen Huang admits to another affair with a woman by December 31?",
+   "side": "Y",
+   "entry_price": 0.806,
+   "exit_price": 0.999,
+   "pnl": 4.7891,
+   "closed": "2026-11-24T23:16:13",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Jensen Huang admits to another affair with a woman by December 31?",
+   "side": "N",
+   "entry_price": 0.208,
+   "exit_price": 0.01,
+   "pnl": -19.0385,
+   "closed": "2026-11-24T23:16:13",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Buenos Aires: Nadia Podoroska vs Leyre Romero Gormaz",
@@ -920,26 +940,6 @@
    "exit_price": 0.01,
    "pnl": -19.7512,
    "closed": "2026-11-24T17:07:15",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-   "side": "Y",
-   "entry_price": 0.89,
-   "exit_price": 0.93,
-   "pnl": 0.8989,
-   "closed": "2026-11-24T17:07:14",
-   "motivo": "uscita a tempo 72h"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will Anthropic close below its IPO price by November 27, 2026?",
-   "side": "Y",
-   "entry_price": 0.44,
-   "exit_price": 0.975,
-   "pnl": 24.3181,
-   "closed": "2026-11-24T16:50:19",
    "motivo": "prezzo a fine corsa"
   }
  ]
