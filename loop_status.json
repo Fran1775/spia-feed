@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T05:37:01",
+ "generated_at": "2026-11-24T06:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 101,
+   "chiusi": 103,
    "aperti": 15,
-   "pnl": 131.35,
-   "rend_medio_pct": 6.5,
-   "t": 0.88,
-   "rend40_pct": 13.09,
-   "t40": 1.12
+   "pnl": 98.67,
+   "rend_medio_pct": 4.79,
+   "t": 0.65,
+   "rend40_pct": 8.88,
+   "t40": 0.73
   },
   {
    "id": "84fb9952fb",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 30,
-   "aperti": 15,
-   "pnl": -25.52,
-   "rend_medio_pct": -4.25,
-   "t": -0.23,
-   "rend40_pct": -4.25,
-   "t40": -0.23
+   "chiusi": 31,
+   "aperti": 14,
+   "pnl": -10.47,
+   "rend_medio_pct": -1.69,
+   "t": -0.09,
+   "rend40_pct": -1.69,
+   "t40": -0.09
   },
   {
    "id": "a042d572b3",
@@ -74,23 +74,39 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 142,
+   "chiusi": 143,
    "aperti": 15,
-   "pnl": 199.97,
-   "rend_medio_pct": 7.04,
-   "t": 0.66,
-   "rend40_pct": 26.38,
+   "pnl": 180.43,
+   "rend_medio_pct": 6.31,
+   "t": 0.59,
+   "rend40_pct": 26.41,
    "t40": 1.75
   }
  ],
  "aperte": [
   {
    "rule_id": "924891e0f0",
-   "market_nome": "Counter-Strike: NIP vs M80 (BO1) - PGL Major Singapore Stage 1",
-   "side": "N",
-   "entry_price": 0.61,
+   "market_nome": "Kimberly Powell announced resignation or removal by November 30, 2026?",
+   "side": "Y",
+   "entry_price": 0.22,
    "importo": 20.0,
-   "opened": "2026-11-24T05:31:25"
+   "opened": "2026-11-24T06:04:34"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Ethereum be above $1,700 on November 24?",
+   "side": "N",
+   "entry_price": 0.502,
+   "importo": 20.0,
+   "opened": "2026-11-24T06:04:34"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 24?",
+   "side": "N",
+   "entry_price": 0.369,
+   "importo": 20.0,
+   "opened": "2026-11-24T06:04:33"
   },
   {
    "rule_id": "924891e0f0",
@@ -398,22 +414,6 @@
   },
   {
    "rule_id": "84fb9952fb",
-   "market_nome": "Counter-Strike: NIP vs M80 (BO1) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.57,
-   "importo": 20.0,
-   "opened": "2026-11-23T14:09:31"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: NIP vs M80 (BO1) - PGL Major Singapore Stage 1",
-   "side": "N",
-   "entry_price": 0.44,
-   "importo": 20.0,
-   "opened": "2026-11-23T14:09:31"
-  },
-  {
-   "rule_id": "84fb9952fb",
    "market_nome": "Counter-Strike: PVISION vs DENDELE CS (BO1) - PGL Major Singapore Stage 1",
    "side": "Y",
    "entry_price": 0.59,
@@ -443,14 +443,6 @@
    "entry_price": 0.72,
    "importo": 20.0,
    "opened": "2026-11-23T06:30:51"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Elon Musk post 300-319 tweets from November 17 to November 24, 2026?",
-   "side": "Y",
-   "entry_price": 0.4,
-   "importo": 20.0,
-   "opened": "2026-11-23T05:53:49"
   },
   {
    "rule_id": "2a906fe26e",
@@ -566,6 +558,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Counter-Strike: NIP vs M80 (BO1) - PGL Major Singapore Stage 1",
+   "side": "Y",
+   "entry_price": 0.57,
+   "exit_price": 0.999,
+   "pnl": 15.0526,
+   "closed": "2026-11-24T06:04:33",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Counter-Strike: NIP vs M80 (BO1) - PGL Major Singapore Stage 1",
+   "side": "N",
+   "entry_price": 0.44,
+   "exit_price": 0.01,
+   "pnl": -19.5455,
+   "closed": "2026-11-24T06:04:33",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Counter-Strike: NIP vs M80 (BO1) - PGL Major Singapore Stage 1",
+   "side": "N",
+   "entry_price": 0.61,
+   "exit_price": 0.01,
+   "pnl": -19.6721,
+   "closed": "2026-11-24T06:04:33",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post 300-319 tweets from November 17 to November 24, 2026?",
+   "side": "Y",
+   "entry_price": 0.4,
+   "exit_price": 0.14,
+   "pnl": -13.0,
+   "closed": "2026-11-24T06:04:32",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Spurs vs. Kings",
@@ -924,46 +956,6 @@
    "exit_price": 0.991,
    "pnl": 11.4603,
    "closed": "2026-11-23T17:38:25",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin dip to $57,500 in November?",
-   "side": "N",
-   "entry_price": 0.5,
-   "exit_price": 0.66,
-   "pnl": 6.4,
-   "closed": "2026-11-23T17:38:24",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Ethereum Up or Down on November 23?",
-   "side": "Y",
-   "entry_price": 0.87,
-   "exit_price": 1.0,
-   "pnl": 2.9885,
-   "closed": "2026-11-23T17:21:06",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $62,000 on November 23?",
-   "side": "Y",
-   "entry_price": 0.94,
-   "exit_price": 0.999,
-   "pnl": 1.2553,
-   "closed": "2026-11-23T17:03:39",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $62,000 on November 23?",
-   "side": "Y",
-   "entry_price": 0.36,
-   "exit_price": 0.999,
-   "pnl": 35.5,
-   "closed": "2026-11-23T17:03:38",
    "motivo": "prezzo a fine corsa"
   }
  ]
