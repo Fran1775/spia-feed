@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T16:37:01",
+ "generated_at": "2026-11-24T17:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 34,
+   "chiusi": 35,
    "aperti": 15,
-   "pnl": -35.99,
-   "rend_medio_pct": -5.29,
-   "t": -0.31,
-   "rend40_pct": -5.29,
-   "t40": -0.31
+   "pnl": -11.67,
+   "rend_medio_pct": -1.67,
+   "t": -0.1,
+   "rend40_pct": -1.67,
+   "t40": -0.1
   },
   {
    "id": "a042d572b3",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Arsenal FC win on 2026-11-24?",
+   "side": "Y",
+   "entry_price": 0.68,
+   "importo": 20.0,
+   "opened": "2026-11-24T16:50:19"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Galatasaray SK vs. Aston Villa FC: O/U 1.5",
@@ -381,14 +389,6 @@
    "opened": "2026-11-24T03:17:56"
   },
   {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will Anthropic close below its IPO price by November 27, 2026?",
-   "side": "Y",
-   "entry_price": 0.44,
-   "importo": 20.0,
-   "opened": "2026-11-24T01:38:12"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "Exact Score: Any Other Score?",
    "side": "N",
@@ -566,6 +566,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Anthropic close below its IPO price by November 27, 2026?",
+   "side": "Y",
+   "entry_price": 0.44,
+   "exit_price": 0.975,
+   "pnl": 24.3181,
+   "closed": "2026-11-24T16:50:19",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
@@ -954,16 +964,6 @@
    "exit_price": 0.999,
    "pnl": 31.2308,
    "closed": "2026-11-24T05:31:24",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Spurs vs. Kings",
-   "side": "Y",
-   "entry_price": 0.88,
-   "exit_price": 0.999,
-   "pnl": 2.7046,
-   "closed": "2026-11-24T05:31:23",
    "motivo": "prezzo a fine corsa"
   }
  ]
