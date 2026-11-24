@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T06:37:02",
+ "generated_at": "2026-11-24T07:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -74,23 +74,31 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 144,
+   "chiusi": 146,
    "aperti": 15,
-   "pnl": 161.48,
-   "rend_medio_pct": 5.61,
-   "t": 0.53,
-   "rend40_pct": 24.01,
-   "t40": 1.56
+   "pnl": 166.66,
+   "rend_medio_pct": 5.71,
+   "t": 0.55,
+   "rend40_pct": 25.4,
+   "t40": 1.68
   }
  ],
  "aperte": [
   {
    "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: Liquid vs GOSH (BO1) - PGL Major Singapore Stage 1",
+   "market_nome": "Yokohama: Jie Cui vs Benjamin Hassan",
    "side": "Y",
-   "entry_price": 0.83,
+   "entry_price": 0.31,
    "importo": 20.0,
-   "opened": "2026-11-24T06:21:06"
+   "opened": "2026-11-24T06:53:58"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Counter-Strike: Eternal Fire vs FlyQuest (BO1) - PGL Major Singapore Stage 1",
+   "side": "N",
+   "entry_price": 0.41,
+   "importo": 20.0,
+   "opened": "2026-11-24T06:37:23"
   },
   {
    "rule_id": "84fb9952fb",
@@ -445,14 +453,6 @@
    "opened": "2026-11-23T07:06:56"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will PSOE win the most seats in Santa Cruz de Tenerife in the 2026 Spanish general election?",
-   "side": "Y",
-   "entry_price": 0.72,
-   "importo": 20.0,
-   "opened": "2026-11-23T06:30:51"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Real Madrid CF win on 2026-11-24?",
    "side": "Y",
@@ -566,6 +566,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Counter-Strike: Liquid vs GOSH (BO1) - PGL Major Singapore Stage 1",
+   "side": "Y",
+   "entry_price": 0.83,
+   "exit_price": 0.999,
+   "pnl": 4.0723,
+   "closed": "2026-11-24T06:53:58",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will PSOE win the most seats in Santa Cruz de Tenerife in the 2026 Spanish general election?",
+   "side": "Y",
+   "entry_price": 0.72,
+   "exit_price": 0.76,
+   "pnl": 1.1111,
+   "closed": "2026-11-24T06:37:22",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Counter-Strike: 100 Thieves vs Chinggis Warriors (BO1) - PGL Major Singapore Stage 1",
@@ -944,26 +964,6 @@
    "exit_price": 0.999,
    "pnl": 8.9565,
    "closed": "2026-11-23T19:34:53",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Team Liquid vs DO KONCA - Game 2 Winner",
-   "side": "Y",
-   "entry_price": 0.91,
-   "exit_price": 0.999,
-   "pnl": 1.956,
-   "closed": "2026-11-23T19:34:53",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Virtus.pro vs Betclic Apogee Esports (BO3) - NODWIN Clutch Series Playoffs",
-   "side": "Y",
-   "entry_price": 0.86,
-   "exit_price": 0.999,
-   "pnl": 3.2325,
-   "closed": "2026-11-23T18:28:23",
    "motivo": "prezzo a fine corsa"
   }
  ]
