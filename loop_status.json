@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T15:37:01",
+ "generated_at": "2026-11-24T16:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 123,
+   "chiusi": 125,
    "aperti": 15,
-   "pnl": -31.55,
-   "rend_medio_pct": -1.28,
-   "t": -0.37,
-   "rend40_pct": 1.55,
-   "t40": 0.29
+   "pnl": -27.77,
+   "rend_medio_pct": -1.11,
+   "t": -0.32,
+   "rend40_pct": 1.31,
+   "t40": 0.24
   },
   {
    "id": "924891e0f0",
@@ -84,6 +84,22 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Anthropic close below its IPO price by November 25, 2026?",
+   "side": "Y",
+   "entry_price": 0.91,
+   "importo": 20.0,
+   "opened": "2026-11-24T16:01:03"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Elon Musk post 280-299 tweets from November 17 to November 24, 2026?",
+   "side": "Y",
+   "entry_price": 0.92,
+   "importo": 20.0,
+   "opened": "2026-11-24T15:44:27"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Dota 2: Team Yandex vs 1win (BO3) - BLAST Slam Seeding Matches",
@@ -283,14 +299,6 @@
    "entry_price": 0.194,
    "importo": 20.0,
    "opened": "2026-11-24T04:41:50"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Ethereum be above $1,600 on November 24?",
-   "side": "Y",
-   "entry_price": 0.961,
-   "importo": 20.0,
-   "opened": "2026-11-24T04:07:49"
   },
   {
    "rule_id": "924891e0f0",
@@ -518,14 +526,6 @@
   },
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 24?",
-   "side": "Y",
-   "entry_price": 0.852,
-   "importo": 20.0,
-   "opened": "2026-11-22T18:06:47"
-  },
-  {
-   "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $56,000 on November 25?",
    "side": "Y",
    "entry_price": 0.811,
@@ -566,6 +566,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 24?",
+   "side": "Y",
+   "entry_price": 0.852,
+   "exit_price": 0.99,
+   "pnl": 3.2395,
+   "closed": "2026-11-24T16:01:02",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Ethereum be above $1,600 on November 24?",
+   "side": "Y",
+   "entry_price": 0.961,
+   "exit_price": 0.987,
+   "pnl": 0.5411,
+   "closed": "2026-11-24T15:44:26",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Ankara: Robert Guna vs Dusan Obradovic",
@@ -944,26 +964,6 @@
    "exit_price": 0.999,
    "pnl": 7.0,
    "closed": "2026-11-24T03:17:56",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin dip to $60,000 in November?",
-   "side": "N",
-   "entry_price": 0.34,
-   "exit_price": 0.01,
-   "pnl": -19.4118,
-   "closed": "2026-11-24T03:17:55",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Trail Blazers vs. 76ers",
-   "side": "Y",
-   "entry_price": 0.51,
-   "exit_price": 0.999,
-   "pnl": 19.1765,
-   "closed": "2026-11-24T02:28:08",
    "motivo": "prezzo a fine corsa"
   }
  ]
