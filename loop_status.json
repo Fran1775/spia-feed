@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T14:07:01",
+ "generated_at": "2026-11-24T14:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 103,
+   "chiusi": 104,
    "aperti": 15,
-   "pnl": 98.67,
-   "rend_medio_pct": 4.79,
+   "pnl": 98.26,
+   "rend_medio_pct": 4.72,
    "t": 0.65,
-   "rend40_pct": 8.88,
-   "t40": 0.73
+   "rend40_pct": 9.01,
+   "t40": 0.74
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 150,
+   "chiusi": 151,
    "aperti": 15,
-   "pnl": 173.48,
-   "rend_medio_pct": 5.78,
+   "pnl": 173.06,
+   "rend_medio_pct": 5.73,
    "t": 0.56,
-   "rend40_pct": 16.71,
-   "t40": 1.09
+   "rend40_pct": 19.12,
+   "t40": 1.28
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Ankara: Robert Guna vs Dusan Obradovic",
+   "side": "N",
+   "entry_price": 0.67,
+   "importo": 20.0,
+   "opened": "2026-11-24T14:20:37"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Ankara: Robert Guna vs Dusan Obradovic",
+   "side": "N",
+   "entry_price": 0.67,
+   "importo": 20.0,
+   "opened": "2026-11-24T14:20:37"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Jensen Huang admits to another affair with a woman by December 31?",
@@ -429,22 +445,6 @@
    "opened": "2026-11-23T15:22:31"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Yokohama: Ryo Ono vs Lennon Roark Jones",
-   "side": "Y",
-   "entry_price": 0.48,
-   "importo": 20.0,
-   "opened": "2026-11-23T14:09:31"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Yokohama: Ryo Ono vs Lennon Roark Jones",
-   "side": "Y",
-   "entry_price": 0.48,
-   "importo": 20.0,
-   "opened": "2026-11-23T14:09:31"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will \"Raw: 2026 - November 16, 2026\" be the #2 US Netflix show this week?",
    "side": "Y",
@@ -566,6 +566,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Yokohama: Ryo Ono vs Lennon Roark Jones",
+   "side": "Y",
+   "entry_price": 0.48,
+   "exit_price": 0.47,
+   "pnl": -0.4167,
+   "closed": "2026-11-24T14:20:36",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Yokohama: Ryo Ono vs Lennon Roark Jones",
+   "side": "Y",
+   "entry_price": 0.48,
+   "exit_price": 0.47,
+   "pnl": -0.4167,
+   "closed": "2026-11-24T14:20:36",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Counter-Strike: Eternal Fire vs FlyQuest (BO1) - PGL Major Singapore Stage 1",
@@ -944,26 +964,6 @@
    "exit_price": 0.91,
    "pnl": 1.4118,
    "closed": "2026-11-24T01:21:30",
-   "motivo": "uscita a tempo 72h"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $54,000 on November 25?",
-   "side": "Y",
-   "entry_price": 0.93,
-   "exit_price": 0.989,
-   "pnl": 1.2688,
-   "closed": "2026-11-24T01:21:30",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Howard Lutnick out as Secretary of Commerce by December 31?",
-   "side": "Y",
-   "entry_price": 0.24,
-   "exit_price": 0.13,
-   "pnl": -9.1667,
-   "closed": "2026-11-23T23:42:22",
    "motivo": "uscita a tempo 72h"
   }
  ]
