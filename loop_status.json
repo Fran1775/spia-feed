@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T08:07:01",
+ "generated_at": "2026-11-24T08:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 33,
+   "chiusi": 34,
    "aperti": 15,
-   "pnl": -16.32,
-   "rend_medio_pct": -2.47,
-   "t": -0.14,
-   "rend40_pct": -2.47,
-   "t40": -0.14
+   "pnl": -35.99,
+   "rend_medio_pct": -5.29,
+   "t": -0.31,
+   "rend40_pct": -5.29,
+   "t40": -0.31
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 149,
+   "chiusi": 150,
    "aperti": 15,
-   "pnl": 144.74,
-   "rend_medio_pct": 4.86,
-   "t": 0.47,
-   "rend40_pct": 17.34,
-   "t40": 1.13
+   "pnl": 173.48,
+   "rend_medio_pct": 5.78,
+   "t": 0.56,
+   "rend40_pct": 16.71,
+   "t40": 1.09
   }
  ],
  "aperte": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Jensen Huang admits to another affair with a woman by December 31?",
+   "side": "Y",
+   "entry_price": 0.806,
+   "importo": 20.0,
+   "opened": "2026-11-24T08:16:24"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Jensen Huang admits to another affair with a woman by December 31?",
+   "side": "N",
+   "entry_price": 0.208,
+   "importo": 20.0,
+   "opened": "2026-11-24T08:16:24"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will the average Ornn B300 rental price in January 2027 be above $12.00?",
@@ -99,14 +115,6 @@
    "entry_price": 0.13,
    "importo": 20.0,
    "opened": "2026-11-24T07:59:52"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Counter-Strike: Eternal Fire vs FlyQuest (BO1) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.6,
-   "importo": 20.0,
-   "opened": "2026-11-24T07:10:33"
   },
   {
    "rule_id": "a042d572b3",
@@ -131,14 +139,6 @@
    "entry_price": 0.31,
    "importo": 20.0,
    "opened": "2026-11-24T06:53:58"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: Eternal Fire vs FlyQuest (BO1) - PGL Major Singapore Stage 1",
-   "side": "N",
-   "entry_price": 0.41,
-   "importo": 20.0,
-   "opened": "2026-11-24T06:37:23"
   },
   {
    "rule_id": "84fb9952fb",
@@ -567,6 +567,26 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "a042d572b3",
+   "market_nome": "Counter-Strike: Eternal Fire vs FlyQuest (BO1) - PGL Major Singapore Stage 1",
+   "side": "N",
+   "entry_price": 0.41,
+   "exit_price": 0.999,
+   "pnl": 28.7317,
+   "closed": "2026-11-24T08:16:24",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Counter-Strike: Eternal Fire vs FlyQuest (BO1) - PGL Major Singapore Stage 1",
+   "side": "Y",
+   "entry_price": 0.6,
+   "exit_price": 0.01,
+   "pnl": -19.6667,
+   "closed": "2026-11-24T08:16:24",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "84fb9952fb",
    "market_nome": "Counter-Strike: FaZe vs Wildcard (BO1) - PGL Major Singapore Stage 1",
    "side": "Y",
@@ -945,26 +965,6 @@
    "pnl": -9.1667,
    "closed": "2026-11-23T23:42:22",
    "motivo": "uscita a tempo 72h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Texas vs. Texas A&M",
-   "side": "Y",
-   "entry_price": 0.8,
-   "exit_price": 0.81,
-   "pnl": 0.25,
-   "closed": "2026-11-23T21:47:30",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Texas vs. Texas A&M",
-   "side": "Y",
-   "entry_price": 0.8,
-   "exit_price": 0.81,
-   "pnl": 0.25,
-   "closed": "2026-11-23T21:47:30",
-   "motivo": "uscita a tempo 24h"
   }
  ]
 }
