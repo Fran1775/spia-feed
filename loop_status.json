@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T15:07:01",
+ "generated_at": "2026-11-24T15:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 104,
+   "chiusi": 106,
    "aperti": 15,
-   "pnl": 98.26,
-   "rend_medio_pct": 4.72,
-   "t": 0.65,
-   "rend40_pct": 9.01,
-   "t40": 0.74
+   "pnl": 59.03,
+   "rend_medio_pct": 2.78,
+   "t": 0.38,
+   "rend40_pct": 2.12,
+   "t40": 0.17
   },
   {
    "id": "84fb9952fb",
@@ -74,31 +74,39 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 151,
+   "chiusi": 152,
    "aperti": 15,
-   "pnl": 173.06,
-   "rend_medio_pct": 5.73,
-   "t": 0.56,
-   "rend40_pct": 19.12,
-   "t40": 1.28
+   "pnl": 153.36,
+   "rend_medio_pct": 5.04,
+   "t": 0.5,
+   "rend40_pct": 14.26,
+   "t40": 0.94
   }
  ],
  "aperte": [
   {
    "rule_id": "924891e0f0",
-   "market_nome": "Ankara: Robert Guna vs Dusan Obradovic",
+   "market_nome": "Dota 2: Team Yandex vs 1win (BO3) - BLAST Slam Seeding Matches",
    "side": "N",
-   "entry_price": 0.67,
+   "entry_price": 0.58,
    "importo": 20.0,
-   "opened": "2026-11-24T14:20:37"
+   "opened": "2026-11-24T15:27:50"
   },
   {
    "rule_id": "a042d572b3",
-   "market_nome": "Ankara: Robert Guna vs Dusan Obradovic",
-   "side": "N",
-   "entry_price": 0.67,
+   "market_nome": "Dota 2: Team Yandex vs 1win (BO3) - BLAST Slam Seeding Matches",
+   "side": "Y",
+   "entry_price": 0.43,
    "importo": 20.0,
-   "opened": "2026-11-24T14:20:37"
+   "opened": "2026-11-24T15:27:50"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Dota 2: Team Yandex vs 1win - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.68,
+   "importo": 20.0,
+   "opened": "2026-11-24T15:27:50"
   },
   {
    "rule_id": "84fb9952fb",
@@ -341,14 +349,6 @@
    "opened": "2026-11-23T19:34:53"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $62,000 on November 24?",
-   "side": "Y",
-   "entry_price": 0.46,
-   "importo": 20.0,
-   "opened": "2026-11-23T17:55:23"
-  },
-  {
    "rule_id": "a042d572b3",
    "market_nome": "Will Elon Musk post 280-299 tweets from November 17 to November 24, 2026?",
    "side": "N",
@@ -566,6 +566,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Ankara: Robert Guna vs Dusan Obradovic",
+   "side": "N",
+   "entry_price": 0.67,
+   "exit_price": 0.01,
+   "pnl": -19.7015,
+   "closed": "2026-11-24T15:27:50",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Ankara: Robert Guna vs Dusan Obradovic",
+   "side": "N",
+   "entry_price": 0.67,
+   "exit_price": 0.01,
+   "pnl": -19.7015,
+   "closed": "2026-11-24T15:27:50",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be above $62,000 on November 24?",
+   "side": "Y",
+   "entry_price": 0.46,
+   "exit_price": 0.011,
+   "pnl": -19.5217,
+   "closed": "2026-11-24T15:27:49",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Yokohama: Ryo Ono vs Lennon Roark Jones",
@@ -935,36 +965,6 @@
    "pnl": 19.1765,
    "closed": "2026-11-24T02:28:08",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Elon Musk post 320-339 tweets from November 17 to November 24, 2026?",
-   "side": "N",
-   "entry_price": 0.68,
-   "exit_price": 0.91,
-   "pnl": 6.7647,
-   "closed": "2026-11-24T01:55:19",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will Anthropic's valuation hit (LOW) $800B by December 31?",
-   "side": "Y",
-   "entry_price": 0.304,
-   "exit_price": 0.211,
-   "pnl": -6.1184,
-   "closed": "2026-11-24T01:38:11",
-   "motivo": "uscita a tempo 72h"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will \"GTA VI\" have a Metascore of at least 99?",
-   "side": "Y",
-   "entry_price": 0.85,
-   "exit_price": 0.91,
-   "pnl": 1.4118,
-   "closed": "2026-11-24T01:21:30",
-   "motivo": "uscita a tempo 72h"
   }
  ]
 }
