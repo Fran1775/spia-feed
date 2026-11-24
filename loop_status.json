@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T20:07:01",
+ "generated_at": "2026-11-24T20:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 131,
-   "aperti": 15,
-   "pnl": -56.51,
-   "rend_medio_pct": -2.16,
-   "t": -0.62,
-   "rend40_pct": 1.39,
-   "t40": 0.26
+   "chiusi": 134,
+   "aperti": 13,
+   "pnl": -70.72,
+   "rend_medio_pct": -2.64,
+   "t": -0.76,
+   "rend40_pct": -1.24,
+   "t40": -0.21
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 119,
+   "chiusi": 121,
    "aperti": 15,
-   "pnl": 70.08,
-   "rend_medio_pct": 2.94,
-   "t": 0.42,
-   "rend40_pct": -2.31,
-   "t40": -0.17
+   "pnl": 63.77,
+   "rend_medio_pct": 2.64,
+   "t": 0.38,
+   "rend40_pct": -5.0,
+   "t40": -0.36
   },
   {
    "id": "84fb9952fb",
@@ -74,23 +74,55 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 160,
+   "chiusi": 162,
    "aperti": 15,
-   "pnl": 184.51,
-   "rend_medio_pct": 5.77,
-   "t": 0.59,
-   "rend40_pct": 14.56,
-   "t40": 0.91
+   "pnl": 174.78,
+   "rend_medio_pct": 5.39,
+   "t": 0.56,
+   "rend40_pct": 13.51,
+   "t40": 0.85
   }
  ],
  "aperte": [
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Buenos Aires: Solana Sierra vs Victoria Jimenez Kasintseva",
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post 40-64 tweets from November 23 to November 25, 2026?",
    "side": "Y",
-   "entry_price": 0.66,
+   "entry_price": 0.53,
    "importo": 20.0,
-   "opened": "2026-11-24T19:56:15"
+   "opened": "2026-11-24T20:30:46"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Young27 vs Haze (BO3) - CCT Europe Contenders #11 Playoffs",
+   "side": "Y",
+   "entry_price": 0.91,
+   "importo": 20.0,
+   "opened": "2026-11-24T20:30:46"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Netanyahu out by end of 2026?",
+   "side": "Y",
+   "entry_price": 0.49,
+   "importo": 20.0,
+   "opened": "2026-11-24T20:13:12"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Israel x Iran ceasefire continues through December 31?",
+   "side": "N",
+   "entry_price": 0.29,
+   "importo": 20.0,
+   "opened": "2026-11-24T20:13:11"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.80?",
+   "side": "Y",
+   "entry_price": 0.7,
+   "importo": 20.0,
+   "opened": "2026-11-24T20:13:11"
   },
   {
    "rule_id": "84fb9952fb",
@@ -99,30 +131,6 @@
    "entry_price": 0.55,
    "importo": 20.0,
    "opened": "2026-11-24T19:56:15"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Dota 2: PuckChamp vs Zero Tenacity (BO3) - European Pro League Playoffs",
-   "side": "Y",
-   "entry_price": 0.6,
-   "importo": 20.0,
-   "opened": "2026-11-24T19:56:15"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Arsenal FC vs. BV Borussia 09 Dortmund: O/U 0.5",
-   "side": "Y",
-   "entry_price": 0.96,
-   "importo": 20.0,
-   "opened": "2026-11-24T19:56:15"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Buenos Aires: Solana Sierra vs Victoria Jimenez Kasintseva",
-   "side": "N",
-   "entry_price": 0.51,
-   "importo": 20.0,
-   "opened": "2026-11-24T19:39:25"
   },
   {
    "rule_id": "924891e0f0",
@@ -139,14 +147,6 @@
    "entry_price": 0.7,
    "importo": 20.0,
    "opened": "2026-11-24T18:31:55"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Al Nassr Club win on 2026-11-24?",
-   "side": "Y",
-   "entry_price": 0.8,
-   "importo": 20.0,
-   "opened": "2026-11-24T17:57:51"
   },
   {
    "rule_id": "2a906fe26e",
@@ -187,14 +187,6 @@
    "entry_price": 0.68,
    "importo": 20.0,
    "opened": "2026-11-24T16:50:19"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Galatasaray SK vs. Aston Villa FC: O/U 1.5",
-   "side": "Y",
-   "entry_price": 0.85,
-   "importo": 20.0,
-   "opened": "2026-11-24T16:33:52"
   },
   {
    "rule_id": "924891e0f0",
@@ -337,14 +329,6 @@
    "market_nome": "Will Apple be the largest company in the world by market cap on December 31?",
    "side": "Y",
    "entry_price": 0.843,
-   "importo": 20.0,
-   "opened": "2026-11-24T06:21:06"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Galatasaray SK vs. Aston Villa FC: O/U 1.5",
-   "side": "Y",
-   "entry_price": 0.86,
    "importo": 20.0,
    "opened": "2026-11-24T06:21:06"
   },
@@ -566,6 +550,76 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Al Nassr Club win on 2026-11-24?",
+   "side": "Y",
+   "entry_price": 0.8,
+   "exit_price": 0.999,
+   "pnl": 4.975,
+   "closed": "2026-11-24T20:30:45",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Dota 2: PuckChamp vs Zero Tenacity (BO3) - European Pro League Playoffs",
+   "side": "Y",
+   "entry_price": 0.6,
+   "exit_price": 0.999,
+   "pnl": 13.3,
+   "closed": "2026-11-24T20:30:45",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Arsenal FC vs. BV Borussia 09 Dortmund: O/U 0.5",
+   "side": "Y",
+   "entry_price": 0.96,
+   "exit_price": 0.999,
+   "pnl": 0.8125,
+   "closed": "2026-11-24T20:30:45",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Buenos Aires: Solana Sierra vs Victoria Jimenez Kasintseva",
+   "side": "N",
+   "entry_price": 0.51,
+   "exit_price": 0.01,
+   "pnl": -19.6078,
+   "closed": "2026-11-24T20:13:11",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Buenos Aires: Solana Sierra vs Victoria Jimenez Kasintseva",
+   "side": "Y",
+   "entry_price": 0.66,
+   "exit_price": 0.999,
+   "pnl": 10.2727,
+   "closed": "2026-11-24T20:13:11",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Galatasaray SK vs. Aston Villa FC: O/U 1.5",
+   "side": "Y",
+   "entry_price": 0.86,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-24T20:13:10",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Galatasaray SK vs. Aston Villa FC: O/U 1.5",
+   "side": "Y",
+   "entry_price": 0.85,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-24T20:13:10",
+   "motivo": "risoluzione"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Spread: FK Bodø/Glimt (-1.5)",
@@ -894,76 +948,6 @@
    "exit_price": 0.01,
    "pnl": -19.7015,
    "closed": "2026-11-24T15:27:50",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Ankara: Robert Guna vs Dusan Obradovic",
-   "side": "N",
-   "entry_price": 0.67,
-   "exit_price": 0.01,
-   "pnl": -19.7015,
-   "closed": "2026-11-24T15:27:50",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $62,000 on November 24?",
-   "side": "Y",
-   "entry_price": 0.46,
-   "exit_price": 0.011,
-   "pnl": -19.5217,
-   "closed": "2026-11-24T15:27:49",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Yokohama: Ryo Ono vs Lennon Roark Jones",
-   "side": "Y",
-   "entry_price": 0.48,
-   "exit_price": 0.47,
-   "pnl": -0.4167,
-   "closed": "2026-11-24T14:20:36",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Yokohama: Ryo Ono vs Lennon Roark Jones",
-   "side": "Y",
-   "entry_price": 0.48,
-   "exit_price": 0.47,
-   "pnl": -0.4167,
-   "closed": "2026-11-24T14:20:36",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: Eternal Fire vs FlyQuest (BO1) - PGL Major Singapore Stage 1",
-   "side": "N",
-   "entry_price": 0.41,
-   "exit_price": 0.999,
-   "pnl": 28.7317,
-   "closed": "2026-11-24T08:16:24",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Counter-Strike: Eternal Fire vs FlyQuest (BO1) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.6,
-   "exit_price": 0.01,
-   "pnl": -19.6667,
-   "closed": "2026-11-24T08:16:24",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Counter-Strike: FaZe vs Wildcard (BO1) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.71,
-   "exit_price": 0.01,
-   "pnl": -19.7183,
-   "closed": "2026-11-24T07:59:51",
    "motivo": "prezzo a fine corsa"
   }
  ]
