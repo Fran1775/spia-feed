@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T01:07:01",
+ "generated_at": "2026-11-24T01:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 118,
+   "chiusi": 119,
    "aperti": 15,
-   "pnl": -22.05,
-   "rend_medio_pct": -0.93,
-   "t": -0.26,
-   "rend40_pct": 4.49,
-   "t40": 0.94
+   "pnl": -20.78,
+   "rend_medio_pct": -0.87,
+   "t": -0.25,
+   "rend40_pct": 4.52,
+   "t40": 0.95
   },
   {
    "id": "924891e0f0",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 23,
+   "chiusi": 24,
    "aperti": 15,
-   "pnl": 3.38,
-   "rend_medio_pct": 0.74,
-   "t": 0.03,
-   "rend40_pct": 0.74,
-   "t40": 0.03
+   "pnl": 4.79,
+   "rend_medio_pct": 1.0,
+   "t": 0.04,
+   "rend40_pct": 1.0,
+   "t40": 0.04
   },
   {
    "id": "a042d572b3",
@@ -84,6 +84,22 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Counter-Strike: Heroic vs Imperial (BO1) - PGL Major Singapore Stage 1",
+   "side": "Y",
+   "entry_price": 0.66,
+   "importo": 20.0,
+   "opened": "2026-11-24T01:21:31"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: 100 Thieves vs Chinggis Warriors (BO1) - PGL Major Singapore Stage 1",
+   "side": "Y",
+   "entry_price": 0.83,
+   "importo": 20.0,
+   "opened": "2026-11-24T01:21:31"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Trail Blazers vs. 76ers",
@@ -525,14 +541,6 @@
    "opened": "2026-11-21T19:51:22"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $54,000 on November 25?",
-   "side": "Y",
-   "entry_price": 0.93,
-   "importo": 20.0,
-   "opened": "2026-11-21T18:10:12"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
    "side": "Y",
@@ -555,17 +563,29 @@
    "entry_price": 0.304,
    "importo": 20.0,
    "opened": "2026-11-21T01:29:31"
-  },
+  }
+ ],
+ "ultime_chiuse": [
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will \"GTA VI\" have a Metascore of at least 99?",
    "side": "Y",
    "entry_price": 0.85,
-   "importo": 20.0,
-   "opened": "2026-11-21T01:11:49"
-  }
- ],
- "ultime_chiuse": [
+   "exit_price": 0.91,
+   "pnl": 1.4118,
+   "closed": "2026-11-24T01:21:30",
+   "motivo": "uscita a tempo 72h"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $54,000 on November 25?",
+   "side": "Y",
+   "entry_price": 0.93,
+   "exit_price": 0.989,
+   "pnl": 1.2688,
+   "closed": "2026-11-24T01:21:30",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Howard Lutnick out as Secretary of Commerce by December 31?",
@@ -944,26 +964,6 @@
    "exit_price": 0.991,
    "pnl": 3.5952,
    "closed": "2026-11-23T15:22:29",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Elon Musk post 65-89 tweets from November 21 to November 23, 2026?",
-   "side": "N",
-   "entry_price": 0.76,
-   "exit_price": 0.999,
-   "pnl": 6.2895,
-   "closed": "2026-11-23T15:04:43",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Elon Musk post 65-89 tweets from November 21 to November 23, 2026?",
-   "side": "Y",
-   "entry_price": 0.25,
-   "exit_price": 0.01,
-   "pnl": -19.2,
-   "closed": "2026-11-23T15:04:43",
    "motivo": "prezzo a fine corsa"
   }
  ]
