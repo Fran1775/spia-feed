@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T07:37:01",
+ "generated_at": "2026-11-24T08:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 32,
+   "chiusi": 33,
    "aperti": 15,
-   "pnl": 3.4,
-   "rend_medio_pct": 0.53,
-   "t": 0.03,
-   "rend40_pct": 0.53,
-   "t40": 0.03
+   "pnl": -16.32,
+   "rend_medio_pct": -2.47,
+   "t": -0.14,
+   "rend40_pct": -2.47,
+   "t40": -0.14
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 148,
+   "chiusi": 149,
    "aperti": 15,
-   "pnl": 164.46,
-   "rend_medio_pct": 5.56,
-   "t": 0.54,
-   "rend40_pct": 22.41,
-   "t40": 1.47
+   "pnl": 144.74,
+   "rend_medio_pct": 4.86,
+   "t": 0.47,
+   "rend40_pct": 17.34,
+   "t40": 1.13
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn B300 rental price in January 2027 be above $12.00?",
+   "side": "N",
+   "entry_price": 0.67,
+   "importo": 20.0,
+   "opened": "2026-11-24T07:59:52"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "US-Iran Hormuz Agreement by December 31?",
+   "side": "Y",
+   "entry_price": 0.13,
+   "importo": 20.0,
+   "opened": "2026-11-24T07:59:52"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Counter-Strike: Eternal Fire vs FlyQuest (BO1) - PGL Major Singapore Stage 1",
@@ -211,22 +227,6 @@
    "entry_price": 0.19,
    "importo": 20.0,
    "opened": "2026-11-24T05:31:25"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Counter-Strike: FaZe vs Wildcard (BO1) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.71,
-   "importo": 20.0,
-   "opened": "2026-11-24T05:14:25"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: FaZe vs Wildcard (BO1) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.71,
-   "importo": 20.0,
-   "opened": "2026-11-24T05:14:25"
   },
   {
    "rule_id": "924891e0f0",
@@ -566,6 +566,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Counter-Strike: FaZe vs Wildcard (BO1) - PGL Major Singapore Stage 1",
+   "side": "Y",
+   "entry_price": 0.71,
+   "exit_price": 0.01,
+   "pnl": -19.7183,
+   "closed": "2026-11-24T07:59:51",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Counter-Strike: FaZe vs Wildcard (BO1) - PGL Major Singapore Stage 1",
+   "side": "Y",
+   "entry_price": 0.71,
+   "exit_price": 0.01,
+   "pnl": -19.7183,
+   "closed": "2026-11-24T07:59:51",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Elon Musk post 300-319 tweets from November 17 to November 24, 2026?",
@@ -944,26 +964,6 @@
    "exit_price": 0.81,
    "pnl": 0.25,
    "closed": "2026-11-23T21:47:30",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: Zero Tenacity vs Inner Circle (BO3) - European Pro League Group A",
-   "side": "Y",
-   "entry_price": 0.5,
-   "exit_price": 0.49,
-   "pnl": -0.4,
-   "closed": "2026-11-23T21:47:30",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Dota 2: Zero Tenacity vs Inner Circle (BO3) - European Pro League Group A",
-   "side": "Y",
-   "entry_price": 0.5,
-   "exit_price": 0.49,
-   "pnl": -0.4,
-   "closed": "2026-11-23T21:31:12",
    "motivo": "uscita a tempo 24h"
   }
  ]
