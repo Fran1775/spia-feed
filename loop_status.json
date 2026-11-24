@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T19:37:01",
+ "generated_at": "2026-11-24T20:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,12 +14,12 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 130,
+   "chiusi": 131,
    "aperti": 15,
-   "pnl": -57.77,
-   "rend_medio_pct": -2.22,
-   "t": -0.64,
-   "rend40_pct": 1.42,
+   "pnl": -56.51,
+   "rend_medio_pct": -2.16,
+   "t": -0.62,
+   "rend40_pct": 1.39,
    "t40": 0.26
   },
   {
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 116,
+   "chiusi": 119,
    "aperti": 15,
-   "pnl": 48.85,
-   "rend_medio_pct": 2.11,
-   "t": 0.3,
-   "rend40_pct": -1.8,
-   "t40": -0.14
+   "pnl": 70.08,
+   "rend_medio_pct": 2.94,
+   "t": 0.42,
+   "rend40_pct": -2.31,
+   "t40": -0.17
   },
   {
    "id": "84fb9952fb",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 36,
+   "chiusi": 37,
    "aperti": 15,
-   "pnl": -10.77,
-   "rend_medio_pct": -1.5,
-   "t": -0.09,
-   "rend40_pct": -1.5,
-   "t40": -0.09
+   "pnl": -17.21,
+   "rend_medio_pct": -2.33,
+   "t": -0.14,
+   "rend40_pct": -2.33,
+   "t40": -0.14
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,64 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 159,
+   "chiusi": 160,
    "aperti": 15,
-   "pnl": 161.95,
-   "rend_medio_pct": 5.09,
-   "t": 0.52,
-   "rend40_pct": 9.53,
-   "t40": 0.6
+   "pnl": 184.51,
+   "rend_medio_pct": 5.77,
+   "t": 0.59,
+   "rend40_pct": 14.56,
+   "t40": 0.91
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Buenos Aires: Solana Sierra vs Victoria Jimenez Kasintseva",
+   "side": "Y",
+   "entry_price": 0.66,
+   "importo": 20.0,
+   "opened": "2026-11-24T19:56:15"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Manchester City FC vs. SSC Napoli: O/U 3.5",
+   "side": "Y",
+   "entry_price": 0.55,
+   "importo": 20.0,
+   "opened": "2026-11-24T19:56:15"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Dota 2: PuckChamp vs Zero Tenacity (BO3) - European Pro League Playoffs",
+   "side": "Y",
+   "entry_price": 0.6,
+   "importo": 20.0,
+   "opened": "2026-11-24T19:56:15"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Arsenal FC vs. BV Borussia 09 Dortmund: O/U 0.5",
+   "side": "Y",
+   "entry_price": 0.96,
+   "importo": 20.0,
+   "opened": "2026-11-24T19:56:15"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Buenos Aires: Solana Sierra vs Victoria Jimenez Kasintseva",
+   "side": "N",
+   "entry_price": 0.51,
+   "importo": 20.0,
+   "opened": "2026-11-24T19:39:25"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will 4 Jensen Huang affairs be reported by December 31?",
+   "side": "Y",
+   "entry_price": 0.51,
+   "importo": 20.0,
+   "opened": "2026-11-24T19:39:25"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.80?",
@@ -125,34 +173,10 @@
    "opened": "2026-11-24T17:24:06"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Spread: FK Bodø/Glimt (-1.5)",
-   "side": "Y",
-   "entry_price": 0.54,
-   "importo": 20.0,
-   "opened": "2026-11-24T17:07:16"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Spread: FK Bodø/Glimt (-1.5)",
-   "side": "N",
-   "entry_price": 0.47,
-   "importo": 20.0,
-   "opened": "2026-11-24T17:07:16"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Real Madrid CF win on 2026-11-24?",
    "side": "Y",
    "entry_price": 0.87,
-   "importo": 20.0,
-   "opened": "2026-11-24T17:07:16"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Galatasaray SK vs. Aston Villa FC: O/U 3.5",
-   "side": "N",
-   "entry_price": 0.63,
    "importo": 20.0,
    "opened": "2026-11-24T17:07:16"
   },
@@ -445,28 +469,12 @@
    "opened": "2026-11-23T21:14:32"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Jensen Huang admits to another affair with a woman by December 31?",
-   "side": "Y",
-   "entry_price": 0.29,
-   "importo": 20.0,
-   "opened": "2026-11-23T19:34:53"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $58,000 on November 26?",
    "side": "Y",
    "entry_price": 0.905,
    "importo": 20.0,
    "opened": "2026-11-23T17:03:39"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will \"Raw: 2026 - November 16, 2026\" be the #2 US Netflix show this week?",
-   "side": "Y",
-   "entry_price": 0.931,
-   "importo": 20.0,
-   "opened": "2026-11-23T08:20:04"
   },
   {
    "rule_id": "2a906fe26e",
@@ -555,17 +563,69 @@
    "entry_price": 0.87,
    "importo": 20.0,
    "opened": "2026-11-21T20:08:09"
+  }
+ ],
+ "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Spread: FK Bodø/Glimt (-1.5)",
+   "side": "Y",
+   "entry_price": 0.54,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-24T19:56:14",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Spread: FK Bodø/Glimt (-1.5)",
+   "side": "N",
+   "entry_price": 0.47,
+   "exit_price": 1.0,
+   "pnl": 22.5532,
+   "closed": "2026-11-24T19:56:14",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will \"Raw: 2026 - November 16, 2026\" be the #2 US Netflix show this week?",
+   "side": "Y",
+   "entry_price": 0.931,
+   "exit_price": 0.99,
+   "pnl": 1.2675,
+   "closed": "2026-11-24T19:56:13",
+   "motivo": "prezzo a fine corsa"
   },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Bitcoin dip to $50,000 in November?",
    "side": "Y",
    "entry_price": 0.118,
-   "importo": 20.0,
-   "opened": "2026-11-21T19:51:22"
-  }
- ],
- "ultime_chiuse": [
+   "exit_price": 0.08,
+   "pnl": -6.4407,
+   "closed": "2026-11-24T19:56:12",
+   "motivo": "uscita a tempo 72h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Galatasaray SK vs. Aston Villa FC: O/U 3.5",
+   "side": "N",
+   "entry_price": 0.63,
+   "exit_price": 0.999,
+   "pnl": 11.7143,
+   "closed": "2026-11-24T19:39:25",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Jensen Huang admits to another affair with a woman by December 31?",
+   "side": "Y",
+   "entry_price": 0.29,
+   "exit_price": 0.718,
+   "pnl": 29.5172,
+   "closed": "2026-11-24T19:39:23",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "San Salvador: Juan Sebastian Osorio vs Oliver Bonding",
@@ -905,66 +965,6 @@
    "pnl": -19.7183,
    "closed": "2026-11-24T07:59:51",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: FaZe vs Wildcard (BO1) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.71,
-   "exit_price": 0.01,
-   "pnl": -19.7183,
-   "closed": "2026-11-24T07:59:51",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Elon Musk post 300-319 tweets from November 17 to November 24, 2026?",
-   "side": "Y",
-   "entry_price": 0.4,
-   "exit_price": 0.09,
-   "pnl": -15.5,
-   "closed": "2026-11-24T07:10:33",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Counter-Strike: PVISION vs DENDELE CS (BO1) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.59,
-   "exit_price": 0.999,
-   "pnl": 13.8644,
-   "closed": "2026-11-24T07:10:33",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: PVISION vs DENDELE CS (BO1) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.6,
-   "exit_price": 0.999,
-   "pnl": 13.3,
-   "closed": "2026-11-24T07:10:33",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: Liquid vs GOSH (BO1) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.83,
-   "exit_price": 0.999,
-   "pnl": 4.0723,
-   "closed": "2026-11-24T06:53:58",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will PSOE win the most seats in Santa Cruz de Tenerife in the 2026 Spanish general election?",
-   "side": "Y",
-   "entry_price": 0.72,
-   "exit_price": 0.76,
-   "pnl": 1.1111,
-   "closed": "2026-11-24T06:37:22",
-   "motivo": "uscita a tempo 24h"
   }
  ]
 }
