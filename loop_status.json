@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T18:07:01",
+ "generated_at": "2026-11-24T18:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 115,
+   "chiusi": 116,
    "aperti": 15,
-   "pnl": 68.49,
-   "rend_medio_pct": 2.98,
-   "t": 0.43,
-   "rend40_pct": 0.39,
-   "t40": 0.03
+   "pnl": 48.85,
+   "rend_medio_pct": 2.11,
+   "t": 0.3,
+   "rend40_pct": -1.8,
+   "t40": -0.14
   },
   {
    "id": "84fb9952fb",
@@ -85,6 +85,14 @@
  ],
  "aperte": [
   {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.80?",
+   "side": "Y",
+   "entry_price": 0.7,
+   "importo": 20.0,
+   "opened": "2026-11-24T18:31:55"
+  },
+  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Al Nassr Club win on 2026-11-24?",
    "side": "Y",
@@ -113,14 +121,6 @@
    "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.70?",
    "side": "Y",
    "entry_price": 0.74,
-   "importo": 20.0,
-   "opened": "2026-11-24T17:24:06"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "San Salvador: Juan Sebastian Osorio vs Oliver Bonding",
-   "side": "Y",
-   "entry_price": 0.56,
    "importo": 20.0,
    "opened": "2026-11-24T17:24:06"
   },
@@ -567,6 +567,16 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "924891e0f0",
+   "market_nome": "San Salvador: Juan Sebastian Osorio vs Oliver Bonding",
+   "side": "Y",
+   "entry_price": 0.56,
+   "exit_price": 0.01,
+   "pnl": -19.6429,
+   "closed": "2026-11-24T18:31:55",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "2a906fe26e",
    "market_nome": "Bitcoin Up or Down - November 24, 12:00PM-1:00PM ET",
    "side": "Y",
@@ -955,16 +965,6 @@
    "pnl": 1.1111,
    "closed": "2026-11-24T06:37:22",
    "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: 100 Thieves vs Chinggis Warriors (BO1) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.83,
-   "exit_price": 0.999,
-   "pnl": 4.0723,
-   "closed": "2026-11-24T06:21:06",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
