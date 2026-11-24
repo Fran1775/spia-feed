@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T16:07:01",
+ "generated_at": "2026-11-24T16:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 125,
+   "chiusi": 126,
    "aperti": 15,
-   "pnl": -27.77,
-   "rend_medio_pct": -1.11,
-   "t": -0.32,
-   "rend40_pct": 1.31,
-   "t40": 0.24
+   "pnl": -26.13,
+   "rend_medio_pct": -1.04,
+   "t": -0.3,
+   "rend40_pct": 0.93,
+   "t40": 0.17
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 106,
+   "chiusi": 111,
    "aperti": 15,
-   "pnl": 59.03,
-   "rend_medio_pct": 2.78,
-   "t": 0.38,
-   "rend40_pct": 2.12,
-   "t40": 0.17
+   "pnl": 79.96,
+   "rend_medio_pct": 3.6,
+   "t": 0.51,
+   "rend40_pct": 4.53,
+   "t40": 0.35
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,104 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 152,
+   "chiusi": 157,
    "aperti": 15,
-   "pnl": 153.36,
-   "rend_medio_pct": 5.04,
-   "t": 0.5,
-   "rend40_pct": 14.26,
-   "t40": 0.94
+   "pnl": 101.34,
+   "rend_medio_pct": 3.23,
+   "t": 0.33,
+   "rend40_pct": 0.47,
+   "t40": 0.03
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Galatasaray SK vs. Aston Villa FC: O/U 1.5",
+   "side": "Y",
+   "entry_price": 0.85,
+   "importo": 20.0,
+   "opened": "2026-11-24T16:33:52"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Jensen Huang announced resignation or removal again by December 31, 2027?",
+   "side": "Y",
+   "entry_price": 0.3,
+   "importo": 20.0,
+   "opened": "2026-11-24T16:33:51"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Jensen Huang announced resignation or removal again by December 31, 2027?",
+   "side": "N",
+   "entry_price": 0.71,
+   "importo": 20.0,
+   "opened": "2026-11-24T16:33:51"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will BV Borussia 09 Dortmund win on 2026-11-24?",
+   "side": "Y",
+   "entry_price": 0.14,
+   "importo": 20.0,
+   "opened": "2026-11-24T16:33:51"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B300 rental price in January 2027 be above $11.50?",
+   "side": "N",
+   "entry_price": 0.56,
+   "importo": 20.0,
+   "opened": "2026-11-24T16:17:25"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B300 rental price in December 2026 be above $11.00?",
+   "side": "N",
+   "entry_price": 0.42,
+   "importo": 20.0,
+   "opened": "2026-11-24T16:17:25"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will TheBurntPeanut finish GTA VI by November 26?",
+   "side": "Y",
+   "entry_price": 0.95,
+   "importo": 20.0,
+   "opened": "2026-11-24T16:17:25"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Arsenal FC win on 2026-11-24?",
+   "side": "Y",
+   "entry_price": 0.68,
+   "importo": 20.0,
+   "opened": "2026-11-24T16:17:24"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B300 rental price in January 2027 be above $11.00?",
+   "side": "N",
+   "entry_price": 0.41,
+   "importo": 20.0,
+   "opened": "2026-11-24T16:17:24"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn B300 rental price in January 2027 be above $11.00?",
+   "side": "N",
+   "entry_price": 0.41,
+   "importo": 20.0,
+   "opened": "2026-11-24T16:17:24"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B300 rental price in January 2027 be above $12.00?",
+   "side": "N",
+   "entry_price": 0.65,
+   "importo": 20.0,
+   "opened": "2026-11-24T16:17:24"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Anthropic close below its IPO price by November 25, 2026?",
@@ -91,14 +179,6 @@
    "entry_price": 0.91,
    "importo": 20.0,
    "opened": "2026-11-24T16:01:03"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Elon Musk post 280-299 tweets from November 17 to November 24, 2026?",
-   "side": "Y",
-   "entry_price": 0.92,
-   "importo": 20.0,
-   "opened": "2026-11-24T15:44:27"
   },
   {
    "rule_id": "924891e0f0",
@@ -113,14 +193,6 @@
    "market_nome": "Dota 2: Team Yandex vs 1win (BO3) - BLAST Slam Seeding Matches",
    "side": "Y",
    "entry_price": 0.43,
-   "importo": 20.0,
-   "opened": "2026-11-24T15:27:50"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Dota 2: Team Yandex vs 1win - Game 2 Winner",
-   "side": "Y",
-   "entry_price": 0.68,
    "importo": 20.0,
    "opened": "2026-11-24T15:27:50"
   },
@@ -161,14 +233,6 @@
    "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $3.00?",
    "side": "N",
    "entry_price": 0.53,
-   "importo": 20.0,
-   "opened": "2026-11-24T07:10:33"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Elon Musk post 260-279 tweets from November 17 to November 24, 2026?",
-   "side": "Y",
-   "entry_price": 0.22,
    "importo": 20.0,
    "opened": "2026-11-24T07:10:33"
   },
@@ -357,14 +421,6 @@
    "opened": "2026-11-23T19:34:53"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Elon Musk post 280-299 tweets from November 17 to November 24, 2026?",
-   "side": "N",
-   "entry_price": 0.55,
-   "importo": 20.0,
-   "opened": "2026-11-23T17:03:39"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "Will Trump speak to Emmanuel Macron by November 30?",
    "side": "N",
@@ -379,62 +435,6 @@
    "entry_price": 0.905,
    "importo": 20.0,
    "opened": "2026-11-23T17:03:39"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
-   "side": "N",
-   "entry_price": 0.6,
-   "importo": 20.0,
-   "opened": "2026-11-23T16:30:06"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-   "side": "Y",
-   "entry_price": 0.218,
-   "importo": 20.0,
-   "opened": "2026-11-23T16:30:06"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Apple be the largest company in the world by market cap on December 31?",
-   "side": "N",
-   "entry_price": 0.249,
-   "importo": 20.0,
-   "opened": "2026-11-23T16:30:06"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Apple be the largest company in the world by market cap on December 31?",
-   "side": "N",
-   "entry_price": 0.249,
-   "importo": 20.0,
-   "opened": "2026-11-23T16:30:06"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Elon Musk post 280-299 tweets from November 17 to November 24, 2026?",
-   "side": "Y",
-   "entry_price": 0.44,
-   "importo": 20.0,
-   "opened": "2026-11-23T16:30:06"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
-   "side": "N",
-   "entry_price": 0.6,
-   "importo": 20.0,
-   "opened": "2026-11-23T16:13:19"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-   "side": "Y",
-   "entry_price": 0.23,
-   "importo": 20.0,
-   "opened": "2026-11-23T16:13:19"
   },
   {
    "rule_id": "2a906fe26e",
@@ -566,6 +566,116 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
+   "side": "N",
+   "entry_price": 0.6,
+   "exit_price": 0.74,
+   "pnl": 4.6666,
+   "closed": "2026-11-24T16:33:51",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+   "side": "Y",
+   "entry_price": 0.218,
+   "exit_price": 0.128,
+   "pnl": -8.2569,
+   "closed": "2026-11-24T16:33:51",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Apple be the largest company in the world by market cap on December 31?",
+   "side": "N",
+   "entry_price": 0.249,
+   "exit_price": 0.131,
+   "pnl": -9.4779,
+   "closed": "2026-11-24T16:33:51",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Apple be the largest company in the world by market cap on December 31?",
+   "side": "N",
+   "entry_price": 0.249,
+   "exit_price": 0.131,
+   "pnl": -9.4779,
+   "closed": "2026-11-24T16:33:51",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
+   "side": "N",
+   "entry_price": 0.6,
+   "exit_price": 0.74,
+   "pnl": 4.6666,
+   "closed": "2026-11-24T16:17:24",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+   "side": "Y",
+   "entry_price": 0.23,
+   "exit_price": 0.128,
+   "pnl": -8.8696,
+   "closed": "2026-11-24T16:17:24",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post 280-299 tweets from November 17 to November 24, 2026?",
+   "side": "Y",
+   "entry_price": 0.44,
+   "exit_price": 0.995,
+   "pnl": 25.2272,
+   "closed": "2026-11-24T16:17:24",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Elon Musk post 280-299 tweets from November 17 to November 24, 2026?",
+   "side": "N",
+   "entry_price": 0.55,
+   "exit_price": 0.004,
+   "pnl": -19.8545,
+   "closed": "2026-11-24T16:17:24",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Elon Musk post 260-279 tweets from November 17 to November 24, 2026?",
+   "side": "Y",
+   "entry_price": 0.22,
+   "exit_price": 0.01,
+   "pnl": -19.0909,
+   "closed": "2026-11-24T16:17:24",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Dota 2: Team Yandex vs 1win - Game 2 Winner",
+   "side": "Y",
+   "entry_price": 0.68,
+   "exit_price": 0.999,
+   "pnl": 9.3824,
+   "closed": "2026-11-24T16:17:24",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Elon Musk post 280-299 tweets from November 17 to November 24, 2026?",
+   "side": "Y",
+   "entry_price": 0.92,
+   "exit_price": 0.995,
+   "pnl": 1.6304,
+   "closed": "2026-11-24T16:17:24",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $58,000 on November 24?",
@@ -854,116 +964,6 @@
    "exit_price": 0.999,
    "pnl": 2.7046,
    "closed": "2026-11-24T05:31:23",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: 9z vs Lynn Vision (BO1) - PGL Major Singapore Stage 1",
-   "side": "N",
-   "entry_price": 0.51,
-   "exit_price": 0.999,
-   "pnl": 19.1765,
-   "closed": "2026-11-24T05:14:25",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Spurs vs. Kings",
-   "side": "N",
-   "entry_price": 0.2,
-   "exit_price": 0.014,
-   "pnl": -18.6,
-   "closed": "2026-11-24T05:14:24",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Elon Musk post 320-339 tweets from November 17 to November 24, 2026?",
-   "side": "Y",
-   "entry_price": 0.29,
-   "exit_price": 0.025,
-   "pnl": -18.2759,
-   "closed": "2026-11-24T05:14:24",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: Heroic vs Imperial (BO1) - PGL Major Singapore Stage 1",
-   "side": "N",
-   "entry_price": 0.81,
-   "exit_price": 0.999,
-   "pnl": 4.6667,
-   "closed": "2026-11-24T04:57:58",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Counter-Strike: Heroic vs Imperial (BO1) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.66,
-   "exit_price": 0.01,
-   "pnl": -19.697,
-   "closed": "2026-11-24T04:57:57",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Spread: Bengals (-6.5)",
-   "side": "Y",
-   "entry_price": 0.48,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-24T04:41:49",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Spread: Bengals (-6.5)",
-   "side": "Y",
-   "entry_price": 0.48,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-24T04:41:49",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will Nvidia’s market capitalization be less than $4.00T at the end of 2026?",
-   "side": "Y",
-   "entry_price": 0.86,
-   "exit_price": 0.385,
-   "pnl": -11.0465,
-   "closed": "2026-11-24T04:41:47",
-   "motivo": "uscita a tempo 72h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Bengals vs. Commanders",
-   "side": "N",
-   "entry_price": 0.28,
-   "exit_price": 0.999,
-   "pnl": 51.3572,
-   "closed": "2026-11-24T04:24:40",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the highest temperature in Seoul (Incheon) be 5°C on November 24?",
-   "side": "Y",
-   "entry_price": 0.89,
-   "exit_price": 0.99,
-   "pnl": 2.2472,
-   "closed": "2026-11-24T04:07:48",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin dip to $60,000 in November?",
-   "side": "Y",
-   "entry_price": 0.74,
-   "exit_price": 0.999,
-   "pnl": 7.0,
-   "closed": "2026-11-24T03:17:56",
    "motivo": "prezzo a fine corsa"
   }
  ]
