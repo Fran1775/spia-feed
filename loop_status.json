@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T04:07:01",
+ "generated_at": "2026-11-24T04:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 119,
+   "chiusi": 120,
    "aperti": 15,
-   "pnl": -20.78,
-   "rend_medio_pct": -0.87,
-   "t": -0.25,
-   "rend40_pct": 4.52,
-   "t40": 0.95
+   "pnl": -18.54,
+   "rend_medio_pct": -0.77,
+   "t": -0.22,
+   "rend40_pct": 4.24,
+   "t40": 0.89
   },
   {
    "id": "924891e0f0",
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 135,
+   "chiusi": 136,
    "aperti": 15,
-   "pnl": 126.33,
-   "rend_medio_pct": 4.68,
-   "t": 0.43,
-   "rend40_pct": 14.52,
-   "t40": 1.05
+   "pnl": 177.69,
+   "rend_medio_pct": 6.53,
+   "t": 0.59,
+   "rend40_pct": 19.71,
+   "t40": 1.31
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Counter-Strike: 9z vs Lynn Vision (BO1) - PGL Major Singapore Stage 1",
+   "side": "N",
+   "entry_price": 0.51,
+   "importo": 20.0,
+   "opened": "2026-11-24T04:24:41"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Ethereum be above $1,600 on November 24?",
+   "side": "Y",
+   "entry_price": 0.961,
+   "importo": 20.0,
+   "opened": "2026-11-24T04:07:49"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.60?",
@@ -173,14 +189,6 @@
    "opened": "2026-11-23T21:14:32"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Bengals vs. Commanders",
-   "side": "N",
-   "entry_price": 0.28,
-   "importo": 20.0,
-   "opened": "2026-11-23T21:14:31"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "Jensen Huang admits to another affair with a woman by December 31?",
    "side": "Y",
@@ -195,14 +203,6 @@
    "entry_price": 0.46,
    "importo": 20.0,
    "opened": "2026-11-23T17:55:23"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the highest temperature in Seoul (Incheon) be 5°C on November 24?",
-   "side": "Y",
-   "entry_price": 0.89,
-   "importo": 20.0,
-   "opened": "2026-11-23T17:21:07"
   },
   {
    "rule_id": "a042d572b3",
@@ -566,6 +566,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Bengals vs. Commanders",
+   "side": "N",
+   "entry_price": 0.28,
+   "exit_price": 0.999,
+   "pnl": 51.3572,
+   "closed": "2026-11-24T04:24:40",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the highest temperature in Seoul (Incheon) be 5°C on November 24?",
+   "side": "Y",
+   "entry_price": 0.89,
+   "exit_price": 0.99,
+   "pnl": 2.2472,
+   "closed": "2026-11-24T04:07:48",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Bitcoin dip to $60,000 in November?",
@@ -944,26 +964,6 @@
    "exit_price": 0.991,
    "pnl": 5.1843,
    "closed": "2026-11-23T15:39:51",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $52,000 on November 25?",
-   "side": "Y",
-   "entry_price": 0.966,
-   "exit_price": 0.995,
-   "pnl": 0.6004,
-   "closed": "2026-11-23T15:39:50",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Elon Musk post 90-114 tweets from November 21 to November 23, 2026?",
-   "side": "Y",
-   "entry_price": 0.44,
-   "exit_price": 0.989,
-   "pnl": 24.9545,
-   "closed": "2026-11-23T15:39:50",
    "motivo": "prezzo a fine corsa"
   }
  ]
