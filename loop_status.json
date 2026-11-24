@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T23:37:01",
+ "generated_at": "2026-11-24T00:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 22,
+   "chiusi": 23,
    "aperti": 15,
-   "pnl": 12.55,
-   "rend_medio_pct": 2.85,
-   "t": 0.12,
-   "rend40_pct": 2.85,
-   "t40": 0.12
+   "pnl": 3.38,
+   "rend_medio_pct": 0.74,
+   "t": 0.03,
+   "rend40_pct": 0.74,
+   "t40": 0.03
   },
   {
    "id": "a042d572b3",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Trail Blazers vs. 76ers",
+   "side": "Y",
+   "entry_price": 0.51,
+   "importo": 20.0,
+   "opened": "2026-11-23T23:42:23"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Counter-Strike: PVISION vs DENDELE CS (BO1) - PGL Major Singapore Stage 1",
@@ -555,17 +563,19 @@
    "entry_price": 0.85,
    "importo": 20.0,
    "opened": "2026-11-21T01:11:49"
-  },
+  }
+ ],
+ "ultime_chiuse": [
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Howard Lutnick out as Secretary of Commerce by December 31?",
    "side": "Y",
    "entry_price": 0.24,
-   "importo": 20.0,
-   "opened": "2026-11-20T23:30:25"
-  }
- ],
- "ultime_chiuse": [
+   "exit_price": 0.13,
+   "pnl": -9.1667,
+   "closed": "2026-11-23T23:42:22",
+   "motivo": "uscita a tempo 72h"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Texas vs. Texas A&M",
@@ -954,16 +964,6 @@
    "exit_price": 0.01,
    "pnl": -19.2,
    "closed": "2026-11-23T15:04:43",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "S&P 500 (SPX) Up or Down on November 23?",
-   "side": "Y",
-   "entry_price": 0.97,
-   "exit_price": 0.974,
-   "pnl": 0.0825,
-   "closed": "2026-11-23T14:28:27",
    "motivo": "prezzo a fine corsa"
   }
  ]
