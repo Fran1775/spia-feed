@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T22:07:01",
+ "generated_at": "2026-11-24T22:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 137,
-   "aperti": 13,
-   "pnl": -63.22,
-   "rend_medio_pct": -2.31,
-   "t": -0.68,
-   "rend40_pct": -1.11,
-   "t40": -0.19
+   "chiusi": 138,
+   "aperti": 12,
+   "pnl": -61.24,
+   "rend_medio_pct": -2.22,
+   "t": -0.66,
+   "rend40_pct": -1.37,
+   "t40": -0.23
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 122,
+   "chiusi": 123,
    "aperti": 15,
-   "pnl": 61.03,
-   "rend_medio_pct": 2.5,
-   "t": 0.36,
-   "rend40_pct": -6.13,
-   "t40": -0.44
+   "pnl": 68.03,
+   "rend_medio_pct": 2.77,
+   "t": 0.4,
+   "rend40_pct": -2.8,
+   "t40": -0.2
   },
   {
    "id": "84fb9952fb",
@@ -74,39 +74,31 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 165,
+   "chiusi": 166,
    "aperti": 15,
-   "pnl": 140.01,
-   "rend_medio_pct": 4.24,
-   "t": 0.44,
-   "rend40_pct": 8.25,
-   "t40": 0.52
+   "pnl": 120.75,
+   "rend_medio_pct": 3.64,
+   "t": 0.38,
+   "rend40_pct": 5.2,
+   "t40": 0.32
   }
  ],
  "aperte": [
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 24, 4:00PM-5:00PM ET",
-   "side": "Y",
-   "entry_price": 0.91,
-   "importo": 20.0,
-   "opened": "2026-11-24T21:53:53"
-  },
-  {
    "rule_id": "924891e0f0",
-   "market_nome": "Buenos Aires: Nadia Podoroska vs Leyre Romero Gormaz",
-   "side": "Y",
-   "entry_price": 0.74,
+   "market_nome": "Mavericks vs. Nuggets: O/U 234.5",
+   "side": "N",
+   "entry_price": 0.51,
    "importo": 20.0,
-   "opened": "2026-11-24T21:53:52"
+   "opened": "2026-11-24T22:10:53"
   },
   {
    "rule_id": "a042d572b3",
-   "market_nome": "Buenos Aires: Nadia Podoroska vs Leyre Romero Gormaz",
-   "side": "N",
-   "entry_price": 0.27,
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 25?",
+   "side": "Y",
+   "entry_price": 0.883,
    "importo": 20.0,
-   "opened": "2026-11-24T21:53:52"
+   "opened": "2026-11-24T22:10:53"
   },
   {
    "rule_id": "84fb9952fb",
@@ -551,6 +543,36 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "924891e0f0",
+   "market_nome": "Buenos Aires: Nadia Podoroska vs Leyre Romero Gormaz",
+   "side": "Y",
+   "entry_price": 0.74,
+   "exit_price": 0.999,
+   "pnl": 7.0,
+   "closed": "2026-11-24T22:10:52",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Buenos Aires: Nadia Podoroska vs Leyre Romero Gormaz",
+   "side": "N",
+   "entry_price": 0.27,
+   "exit_price": 0.01,
+   "pnl": -19.2593,
+   "closed": "2026-11-24T22:10:52",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 24, 4:00PM-5:00PM ET",
+   "side": "Y",
+   "entry_price": 0.91,
+   "exit_price": 1.0,
+   "pnl": 1.978,
+   "closed": "2026-11-24T22:10:52",
+   "motivo": "risoluzione"
+  },
+  {
    "rule_id": "a042d572b3",
    "market_nome": "Will Arsenal FC win on 2026-11-24?",
    "side": "Y",
@@ -919,36 +941,6 @@
    "pnl": 24.3181,
    "closed": "2026-11-24T16:50:19",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
-   "side": "N",
-   "entry_price": 0.6,
-   "exit_price": 0.74,
-   "pnl": 4.6666,
-   "closed": "2026-11-24T16:33:51",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-   "side": "Y",
-   "entry_price": 0.218,
-   "exit_price": 0.128,
-   "pnl": -8.2569,
-   "closed": "2026-11-24T16:33:51",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Apple be the largest company in the world by market cap on December 31?",
-   "side": "N",
-   "entry_price": 0.249,
-   "exit_price": 0.131,
-   "pnl": -9.4779,
-   "closed": "2026-11-24T16:33:51",
-   "motivo": "uscita a tempo 24h"
   }
  ]
 }
