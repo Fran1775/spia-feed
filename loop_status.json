@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T20:37:01",
+ "generated_at": "2026-11-24T21:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,12 +14,12 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 134,
-   "aperti": 13,
-   "pnl": -70.72,
-   "rend_medio_pct": -2.64,
-   "t": -0.76,
-   "rend40_pct": -1.24,
+   "chiusi": 136,
+   "aperti": 12,
+   "pnl": -67.0,
+   "rend_medio_pct": -2.46,
+   "t": -0.72,
+   "rend40_pct": -1.25,
    "t40": -0.21
   },
   {
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 37,
+   "chiusi": 38,
    "aperti": 15,
-   "pnl": -17.21,
-   "rend_medio_pct": -2.33,
-   "t": -0.14,
-   "rend40_pct": -2.33,
-   "t40": -0.14
+   "pnl": -25.78,
+   "rend_medio_pct": -3.39,
+   "t": -0.21,
+   "rend40_pct": -3.39,
+   "t40": -0.21
   },
   {
    "id": "a042d572b3",
@@ -85,18 +85,26 @@
  ],
  "aperte": [
   {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Jensen Huang announced resignation or removal again by December 31, 2027?",
+   "side": "Y",
+   "entry_price": 0.29,
+   "importo": 20.0,
+   "opened": "2026-11-24T21:03:53"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $56,000 on November 26?",
+   "side": "Y",
+   "entry_price": 0.922,
+   "importo": 20.0,
+   "opened": "2026-11-24T20:47:25"
+  },
+  {
    "rule_id": "924891e0f0",
    "market_nome": "Will Elon Musk post 40-64 tweets from November 23 to November 25, 2026?",
    "side": "Y",
    "entry_price": 0.53,
-   "importo": 20.0,
-   "opened": "2026-11-24T20:30:46"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Young27 vs Haze (BO3) - CCT Europe Contenders #11 Playoffs",
-   "side": "Y",
-   "entry_price": 0.91,
    "importo": 20.0,
    "opened": "2026-11-24T20:30:46"
   },
@@ -267,14 +275,6 @@
    "entry_price": 0.65,
    "importo": 20.0,
    "opened": "2026-11-24T16:17:24"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Anthropic close below its IPO price by November 25, 2026?",
-   "side": "Y",
-   "entry_price": 0.91,
-   "importo": 20.0,
-   "opened": "2026-11-24T16:01:03"
   },
   {
    "rule_id": "84fb9952fb",
@@ -533,14 +533,6 @@
    "opened": "2026-11-22T03:35:19"
   },
   {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will Bitcoin dip to $52,500 in November?",
-   "side": "Y",
-   "entry_price": 0.21,
-   "importo": 20.0,
-   "opened": "2026-11-21T20:59:45"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Club Atlético de Madrid win on 2026-11-25?",
    "side": "Y",
@@ -550,6 +542,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Anthropic close below its IPO price by November 25, 2026?",
+   "side": "Y",
+   "entry_price": 0.91,
+   "exit_price": 0.999,
+   "pnl": 1.956,
+   "closed": "2026-11-24T21:03:52",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Bitcoin dip to $52,500 in November?",
+   "side": "Y",
+   "entry_price": 0.21,
+   "exit_price": 0.12,
+   "pnl": -8.5714,
+   "closed": "2026-11-24T21:03:51",
+   "motivo": "uscita a tempo 72h"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Young27 vs Haze (BO3) - CCT Europe Contenders #11 Playoffs",
+   "side": "Y",
+   "entry_price": 0.91,
+   "exit_price": 0.99,
+   "pnl": 1.7582,
+   "closed": "2026-11-24T20:47:24",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Al Nassr Club win on 2026-11-24?",
@@ -918,36 +940,6 @@
    "exit_price": 0.995,
    "pnl": 1.6304,
    "closed": "2026-11-24T16:17:24",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 24?",
-   "side": "Y",
-   "entry_price": 0.852,
-   "exit_price": 0.99,
-   "pnl": 3.2395,
-   "closed": "2026-11-24T16:01:02",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Ethereum be above $1,600 on November 24?",
-   "side": "Y",
-   "entry_price": 0.961,
-   "exit_price": 0.987,
-   "pnl": 0.5411,
-   "closed": "2026-11-24T15:44:26",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Ankara: Robert Guna vs Dusan Obradovic",
-   "side": "N",
-   "entry_price": 0.67,
-   "exit_price": 0.01,
-   "pnl": -19.7015,
-   "closed": "2026-11-24T15:27:50",
    "motivo": "prezzo a fine corsa"
   }
  ]
