@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T01:37:01",
+ "generated_at": "2026-11-24T02:07:02",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 24,
+   "chiusi": 25,
    "aperti": 15,
-   "pnl": 4.79,
-   "rend_medio_pct": 1.0,
-   "t": 0.04,
-   "rend40_pct": 1.0,
-   "t40": 0.04
+   "pnl": -1.32,
+   "rend_medio_pct": -0.26,
+   "t": -0.01,
+   "rend40_pct": -0.26,
+   "t40": -0.01
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 133,
+   "chiusi": 134,
    "aperti": 15,
-   "pnl": 112.57,
-   "rend_medio_pct": 4.23,
-   "t": 0.38,
-   "rend40_pct": 12.71,
-   "t40": 0.92
+   "pnl": 119.33,
+   "rend_medio_pct": 4.45,
+   "t": 0.4,
+   "rend40_pct": 13.55,
+   "t40": 0.98
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Spread: Spurs (-11.5)",
+   "side": "Y",
+   "entry_price": 0.39,
+   "importo": 20.0,
+   "opened": "2026-11-24T01:55:20"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Anthropic close below its IPO price by November 27, 2026?",
+   "side": "Y",
+   "entry_price": 0.44,
+   "importo": 20.0,
+   "opened": "2026-11-24T01:38:12"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Counter-Strike: Heroic vs Imperial (BO1) - PGL Major Singapore Stage 1",
@@ -445,14 +461,6 @@
    "opened": "2026-11-23T04:40:57"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Elon Musk post 320-339 tweets from November 17 to November 24, 2026?",
-   "side": "N",
-   "entry_price": 0.68,
-   "importo": 20.0,
-   "opened": "2026-11-23T01:39:40"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will FC Barcelona win on 2026-11-25?",
    "side": "Y",
@@ -555,17 +563,29 @@
    "entry_price": 0.86,
    "importo": 20.0,
    "opened": "2026-11-21T04:40:42"
+  }
+ ],
+ "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Elon Musk post 320-339 tweets from November 17 to November 24, 2026?",
+   "side": "N",
+   "entry_price": 0.68,
+   "exit_price": 0.91,
+   "pnl": 6.7647,
+   "closed": "2026-11-24T01:55:19",
+   "motivo": "uscita a tempo 24h"
   },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Anthropic's valuation hit (LOW) $800B by December 31?",
    "side": "Y",
    "entry_price": 0.304,
-   "importo": 20.0,
-   "opened": "2026-11-21T01:29:31"
-  }
- ],
- "ultime_chiuse": [
+   "exit_price": 0.211,
+   "pnl": -6.1184,
+   "closed": "2026-11-24T01:38:11",
+   "motivo": "uscita a tempo 72h"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will \"GTA VI\" have a Metascore of at least 99?",
@@ -944,26 +964,6 @@
    "exit_price": 0.01,
    "pnl": -19.6429,
    "closed": "2026-11-23T15:22:30",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: Team Nemesis vs Xtreme Gaming - Game 1 Winner",
-   "side": "N",
-   "entry_price": 0.45,
-   "exit_price": 0.999,
-   "pnl": 24.4,
-   "closed": "2026-11-23T15:22:30",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 23?",
-   "side": "Y",
-   "entry_price": 0.84,
-   "exit_price": 0.991,
-   "pnl": 3.5952,
-   "closed": "2026-11-23T15:22:29",
    "motivo": "prezzo a fine corsa"
   }
  ]
