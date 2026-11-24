@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T02:07:02",
+ "generated_at": "2026-11-24T02:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 25,
+   "chiusi": 26,
    "aperti": 15,
-   "pnl": -1.32,
-   "rend_medio_pct": -0.26,
-   "t": -0.01,
-   "rend40_pct": -0.26,
-   "t40": -0.01
+   "pnl": 17.85,
+   "rend_medio_pct": 3.43,
+   "t": 0.16,
+   "rend40_pct": 3.43,
+   "t40": 0.16
   },
   {
    "id": "a042d572b3",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Spurs vs. Kings",
+   "side": "Y",
+   "entry_price": 0.73,
+   "importo": 20.0,
+   "opened": "2026-11-24T02:28:08"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Spread: Spurs (-11.5)",
@@ -115,14 +123,6 @@
    "entry_price": 0.83,
    "importo": 20.0,
    "opened": "2026-11-24T01:21:31"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Trail Blazers vs. 76ers",
-   "side": "Y",
-   "entry_price": 0.51,
-   "importo": 20.0,
-   "opened": "2026-11-23T23:42:23"
   },
   {
    "rule_id": "a042d572b3",
@@ -567,6 +567,16 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Trail Blazers vs. 76ers",
+   "side": "Y",
+   "entry_price": 0.51,
+   "exit_price": 0.999,
+   "pnl": 19.1765,
+   "closed": "2026-11-24T02:28:08",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "a042d572b3",
    "market_nome": "Will Elon Musk post 320-339 tweets from November 17 to November 24, 2026?",
    "side": "N",
@@ -953,16 +963,6 @@
    "entry_price": 0.88,
    "exit_price": 0.991,
    "pnl": 2.5228,
-   "closed": "2026-11-23T15:22:30",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Dota 2: Team Nemesis vs Xtreme Gaming - Game 1 Winner",
-   "side": "Y",
-   "entry_price": 0.56,
-   "exit_price": 0.01,
-   "pnl": -19.6429,
    "closed": "2026-11-23T15:22:30",
    "motivo": "prezzo a fine corsa"
   }
