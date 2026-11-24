@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T17:37:01",
+ "generated_at": "2026-11-24T18:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 129,
-   "aperti": 14,
-   "pnl": -63.72,
-   "rend_medio_pct": -2.47,
-   "t": -0.71,
-   "rend40_pct": 0.87,
-   "t40": 0.16
+   "chiusi": 130,
+   "aperti": 15,
+   "pnl": -57.77,
+   "rend_medio_pct": -2.22,
+   "t": -0.64,
+   "rend40_pct": 1.42,
+   "t40": 0.26
   },
   {
    "id": "924891e0f0",
@@ -86,11 +86,19 @@
  "aperte": [
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 24, 12:00PM-1:00PM ET",
+   "market_nome": "Will Al Nassr Club win on 2026-11-24?",
    "side": "Y",
-   "entry_price": 0.77,
+   "entry_price": 0.8,
    "importo": 20.0,
-   "opened": "2026-11-24T17:24:07"
+   "opened": "2026-11-24T17:57:51"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: GOSH vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
+   "side": "Y",
+   "entry_price": 0.83,
+   "importo": 20.0,
+   "opened": "2026-11-24T17:40:55"
   },
   {
    "rule_id": "924891e0f0",
@@ -559,6 +567,16 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 24, 12:00PM-1:00PM ET",
+   "side": "Y",
+   "entry_price": 0.77,
+   "exit_price": 0.999,
+   "pnl": 5.948,
+   "closed": "2026-11-24T17:57:51",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "924891e0f0",
    "market_nome": "Will the price of Ethereum be above $1,700 on November 24?",
    "side": "N",
@@ -945,16 +963,6 @@
    "entry_price": 0.83,
    "exit_price": 0.999,
    "pnl": 4.0723,
-   "closed": "2026-11-24T06:21:06",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: 100 Thieves vs Chinggis Warriors (BO1) - PGL Major Singapore Stage 1",
-   "side": "N",
-   "entry_price": 0.19,
-   "exit_price": 0.01,
-   "pnl": -18.9474,
    "closed": "2026-11-24T06:21:06",
    "motivo": "prezzo a fine corsa"
   }
