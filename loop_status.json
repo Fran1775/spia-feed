@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T03:07:01",
+ "generated_at": "2026-11-24T03:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 97,
+   "chiusi": 98,
    "aperti": 15,
-   "pnl": 198.81,
-   "rend_medio_pct": 10.25,
-   "t": 1.37,
-   "rend40_pct": 22.57,
-   "t40": 1.98
+   "pnl": 179.4,
+   "rend_medio_pct": 9.15,
+   "t": 1.23,
+   "rend40_pct": 20.37,
+   "t40": 1.73
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 134,
+   "chiusi": 135,
    "aperti": 15,
-   "pnl": 119.33,
-   "rend_medio_pct": 4.45,
-   "t": 0.4,
-   "rend40_pct": 13.55,
-   "t40": 0.98
+   "pnl": 126.33,
+   "rend_medio_pct": 4.68,
+   "t": 0.43,
+   "rend40_pct": 14.52,
+   "t40": 1.05
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.60?",
+   "side": "N",
+   "entry_price": 0.78,
+   "importo": 20.0,
+   "opened": "2026-11-24T03:17:56"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.60?",
+   "side": "N",
+   "entry_price": 0.78,
+   "importo": 20.0,
+   "opened": "2026-11-24T03:17:56"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Spurs vs. Kings",
@@ -129,14 +145,6 @@
    "market_nome": "Counter-Strike: PVISION vs DENDELE CS (BO1) - PGL Major Singapore Stage 1",
    "side": "Y",
    "entry_price": 0.6,
-   "importo": 20.0,
-   "opened": "2026-11-23T21:47:31"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin dip to $60,000 in November?",
-   "side": "Y",
-   "entry_price": 0.74,
    "importo": 20.0,
    "opened": "2026-11-23T21:47:31"
   },
@@ -187,14 +195,6 @@
    "entry_price": 0.46,
    "importo": 20.0,
    "opened": "2026-11-23T17:55:23"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin dip to $60,000 in November?",
-   "side": "N",
-   "entry_price": 0.34,
-   "importo": 20.0,
-   "opened": "2026-11-23T17:38:25"
   },
   {
    "rule_id": "2a906fe26e",
@@ -566,6 +566,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin dip to $60,000 in November?",
+   "side": "Y",
+   "entry_price": 0.74,
+   "exit_price": 0.999,
+   "pnl": 7.0,
+   "closed": "2026-11-24T03:17:56",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin dip to $60,000 in November?",
+   "side": "N",
+   "entry_price": 0.34,
+   "exit_price": 0.01,
+   "pnl": -19.4118,
+   "closed": "2026-11-24T03:17:55",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Trail Blazers vs. 76ers",
@@ -944,26 +964,6 @@
    "exit_price": 0.989,
    "pnl": 24.9545,
    "closed": "2026-11-23T15:39:50",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Elon Musk post 90-114 tweets from November 21 to November 23, 2026?",
-   "side": "N",
-   "entry_price": 0.48,
-   "exit_price": 0.009,
-   "pnl": -19.625,
-   "closed": "2026-11-23T15:39:50",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 23?",
-   "side": "Y",
-   "entry_price": 0.88,
-   "exit_price": 0.991,
-   "pnl": 2.5228,
-   "closed": "2026-11-23T15:22:30",
    "motivo": "prezzo a fine corsa"
   }
  ]
