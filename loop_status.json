@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T17:07:01",
+ "generated_at": "2026-11-24T17:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 126,
-   "aperti": 15,
-   "pnl": -26.13,
-   "rend_medio_pct": -1.04,
-   "t": -0.3,
-   "rend40_pct": 0.93,
-   "t40": 0.17
+   "chiusi": 129,
+   "aperti": 14,
+   "pnl": -63.72,
+   "rend_medio_pct": -2.47,
+   "t": -0.71,
+   "rend40_pct": 0.87,
+   "t40": 0.16
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 111,
+   "chiusi": 115,
    "aperti": 15,
-   "pnl": 79.96,
-   "rend_medio_pct": 3.6,
-   "t": 0.51,
-   "rend40_pct": 4.53,
-   "t40": 0.35
+   "pnl": 68.49,
+   "rend_medio_pct": 2.98,
+   "t": 0.43,
+   "rend40_pct": 0.39,
+   "t40": 0.03
   },
   {
    "id": "84fb9952fb",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 35,
+   "chiusi": 36,
    "aperti": 15,
-   "pnl": -11.67,
-   "rend_medio_pct": -1.67,
-   "t": -0.1,
-   "rend40_pct": -1.67,
-   "t40": -0.1
+   "pnl": -10.77,
+   "rend_medio_pct": -1.5,
+   "t": -0.09,
+   "rend40_pct": -1.5,
+   "t40": -0.09
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,80 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 157,
+   "chiusi": 159,
    "aperti": 15,
-   "pnl": 101.34,
-   "rend_medio_pct": 3.23,
-   "t": 0.33,
-   "rend40_pct": 0.47,
-   "t40": 0.03
+   "pnl": 161.95,
+   "rend_medio_pct": 5.09,
+   "t": 0.52,
+   "rend40_pct": 9.53,
+   "t40": 0.6
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 24, 12:00PM-1:00PM ET",
+   "side": "Y",
+   "entry_price": 0.77,
+   "importo": 20.0,
+   "opened": "2026-11-24T17:24:07"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.70?",
+   "side": "Y",
+   "entry_price": 0.74,
+   "importo": 20.0,
+   "opened": "2026-11-24T17:24:06"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.70?",
+   "side": "Y",
+   "entry_price": 0.74,
+   "importo": 20.0,
+   "opened": "2026-11-24T17:24:06"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "San Salvador: Juan Sebastian Osorio vs Oliver Bonding",
+   "side": "Y",
+   "entry_price": 0.56,
+   "importo": 20.0,
+   "opened": "2026-11-24T17:24:06"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Spread: FK Bodø/Glimt (-1.5)",
+   "side": "Y",
+   "entry_price": 0.54,
+   "importo": 20.0,
+   "opened": "2026-11-24T17:07:16"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Spread: FK Bodø/Glimt (-1.5)",
+   "side": "N",
+   "entry_price": 0.47,
+   "importo": 20.0,
+   "opened": "2026-11-24T17:07:16"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Real Madrid CF win on 2026-11-24?",
+   "side": "Y",
+   "entry_price": 0.87,
+   "importo": 20.0,
+   "opened": "2026-11-24T17:07:16"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Galatasaray SK vs. Aston Villa FC: O/U 3.5",
+   "side": "N",
+   "entry_price": 0.63,
+   "importo": 20.0,
+   "opened": "2026-11-24T17:07:16"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Arsenal FC win on 2026-11-24?",
@@ -189,22 +253,6 @@
    "opened": "2026-11-24T16:01:03"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Dota 2: Team Yandex vs 1win (BO3) - BLAST Slam Seeding Matches",
-   "side": "N",
-   "entry_price": 0.58,
-   "importo": 20.0,
-   "opened": "2026-11-24T15:27:50"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Dota 2: Team Yandex vs 1win (BO3) - BLAST Slam Seeding Matches",
-   "side": "Y",
-   "entry_price": 0.43,
-   "importo": 20.0,
-   "opened": "2026-11-24T15:27:50"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Jensen Huang admits to another affair with a woman by December 31?",
    "side": "Y",
@@ -275,22 +323,6 @@
    "entry_price": 0.22,
    "importo": 20.0,
    "opened": "2026-11-24T06:04:34"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Ethereum be above $1,700 on November 24?",
-   "side": "N",
-   "entry_price": 0.502,
-   "importo": 20.0,
-   "opened": "2026-11-24T06:04:34"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 24?",
-   "side": "N",
-   "entry_price": 0.369,
-   "importo": 20.0,
-   "opened": "2026-11-24T06:04:33"
   },
   {
    "rule_id": "924891e0f0",
@@ -397,14 +429,6 @@
    "opened": "2026-11-23T21:47:31"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 24?",
-   "side": "Y",
-   "entry_price": 0.804,
-   "importo": 20.0,
-   "opened": "2026-11-23T21:31:13"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $54,000 on November 27?",
    "side": "Y",
@@ -421,36 +445,12 @@
    "opened": "2026-11-23T19:34:53"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Trump speak to Emmanuel Macron by November 30?",
-   "side": "N",
-   "entry_price": 0.556,
-   "importo": 20.0,
-   "opened": "2026-11-23T17:03:39"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $58,000 on November 26?",
    "side": "Y",
    "entry_price": 0.905,
    "importo": 20.0,
    "opened": "2026-11-23T17:03:39"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Ethereum be above $1,700 on November 24?",
-   "side": "Y",
-   "entry_price": 0.914,
-   "importo": 20.0,
-   "opened": "2026-11-23T15:39:53"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 24?",
-   "side": "Y",
-   "entry_price": 0.941,
-   "importo": 20.0,
-   "opened": "2026-11-23T15:22:31"
   },
   {
    "rule_id": "2a906fe26e",
@@ -555,17 +555,109 @@
    "entry_price": 0.118,
    "importo": 20.0,
    "opened": "2026-11-21T19:51:22"
+  }
+ ],
+ "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Ethereum be above $1,700 on November 24?",
+   "side": "N",
+   "entry_price": 0.502,
+   "exit_price": 1.0,
+   "pnl": 19.8406,
+   "closed": "2026-11-24T17:24:06",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Dota 2: Team Yandex vs 1win (BO3) - BLAST Slam Seeding Matches",
+   "side": "N",
+   "entry_price": 0.58,
+   "exit_price": 0.01,
+   "pnl": -19.6552,
+   "closed": "2026-11-24T17:24:06",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: Team Yandex vs 1win (BO3) - BLAST Slam Seeding Matches",
+   "side": "Y",
+   "entry_price": 0.43,
+   "exit_price": 0.999,
+   "pnl": 26.4651,
+   "closed": "2026-11-24T17:24:06",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Team Yandex vs 1win (BO3) - BLAST Slam Seeding Matches",
+   "side": "Y",
+   "entry_price": 0.9,
+   "exit_price": 0.999,
+   "pnl": 2.2,
+   "closed": "2026-11-24T17:24:06",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Ethereum be above $1,700 on November 24?",
+   "side": "Y",
+   "entry_price": 0.914,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-24T17:24:05",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 24?",
+   "side": "N",
+   "entry_price": 0.369,
+   "exit_price": 0.999,
+   "pnl": 34.1463,
+   "closed": "2026-11-24T17:07:16",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 24?",
+   "side": "Y",
+   "entry_price": 0.941,
+   "exit_price": 0.01,
+   "pnl": -19.7875,
+   "closed": "2026-11-24T17:07:15",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Trump speak to Emmanuel Macron by November 30?",
+   "side": "N",
+   "entry_price": 0.556,
+   "exit_price": 0.781,
+   "pnl": 8.0935,
+   "closed": "2026-11-24T17:07:15",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 24?",
+   "side": "Y",
+   "entry_price": 0.804,
+   "exit_price": 0.01,
+   "pnl": -19.7512,
+   "closed": "2026-11-24T17:07:15",
+   "motivo": "prezzo a fine corsa"
   },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
    "side": "Y",
    "entry_price": 0.89,
-   "importo": 20.0,
-   "opened": "2026-11-21T17:01:03"
-  }
- ],
- "ultime_chiuse": [
+   "exit_price": 0.93,
+   "pnl": 0.8989,
+   "closed": "2026-11-24T17:07:14",
+   "motivo": "uscita a tempo 72h"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Anthropic close below its IPO price by November 27, 2026?",
@@ -864,106 +956,6 @@
    "exit_price": 0.01,
    "pnl": -18.9474,
    "closed": "2026-11-24T06:21:06",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Counter-Strike: NIP vs M80 (BO1) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.57,
-   "exit_price": 0.999,
-   "pnl": 15.0526,
-   "closed": "2026-11-24T06:04:33",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: NIP vs M80 (BO1) - PGL Major Singapore Stage 1",
-   "side": "N",
-   "entry_price": 0.44,
-   "exit_price": 0.01,
-   "pnl": -19.5455,
-   "closed": "2026-11-24T06:04:33",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Counter-Strike: NIP vs M80 (BO1) - PGL Major Singapore Stage 1",
-   "side": "N",
-   "entry_price": 0.61,
-   "exit_price": 0.01,
-   "pnl": -19.6721,
-   "closed": "2026-11-24T06:04:33",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Elon Musk post 300-319 tweets from November 17 to November 24, 2026?",
-   "side": "Y",
-   "entry_price": 0.4,
-   "exit_price": 0.14,
-   "pnl": -13.0,
-   "closed": "2026-11-24T06:04:32",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Spurs vs. Kings",
-   "side": "Y",
-   "entry_price": 0.73,
-   "exit_price": 0.999,
-   "pnl": 7.3699,
-   "closed": "2026-11-24T05:31:25",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will an AI lab announce another Millennium Prize solution by December 31, 2026?",
-   "side": "N",
-   "entry_price": 0.41,
-   "exit_price": 0.19,
-   "pnl": -10.7317,
-   "closed": "2026-11-24T05:31:24",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will an AI lab announce another Millennium Prize solution by December 31, 2026?",
-   "side": "Y",
-   "entry_price": 0.62,
-   "exit_price": 0.8,
-   "pnl": 5.8065,
-   "closed": "2026-11-24T05:31:24",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Spurs vs. Kings",
-   "side": "N",
-   "entry_price": 0.21,
-   "exit_price": 0.01,
-   "pnl": -19.0476,
-   "closed": "2026-11-24T05:31:24",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the highest temperature in Hong Kong be 22°C on November 24?",
-   "side": "Y",
-   "entry_price": 0.94,
-   "exit_price": 0.01,
-   "pnl": -19.7872,
-   "closed": "2026-11-24T05:31:24",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Spread: Spurs (-11.5)",
-   "side": "Y",
-   "entry_price": 0.39,
-   "exit_price": 0.999,
-   "pnl": 31.2308,
-   "closed": "2026-11-24T05:31:24",
    "motivo": "prezzo a fine corsa"
   }
  ]
