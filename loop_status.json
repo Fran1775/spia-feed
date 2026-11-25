@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T09:37:01",
+ "generated_at": "2026-11-25T10:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 144,
-   "aperti": 13,
-   "pnl": -41.77,
-   "rend_medio_pct": -1.45,
-   "t": -0.44,
-   "rend40_pct": 1.89,
-   "t40": 0.34
+   "chiusi": 147,
+   "aperti": 12,
+   "pnl": -34.73,
+   "rend_medio_pct": -1.18,
+   "t": -0.37,
+   "rend40_pct": 1.37,
+   "t40": 0.25
   },
   {
    "id": "924891e0f0",
@@ -84,14 +84,6 @@
   }
  ],
  "aperte": [
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: 9z vs DENDELE CS (BO3) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.83,
-   "importo": 20.0,
-   "opened": "2026-11-25T09:27:35"
-  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Elon Musk post 40-64 tweets from November 23 to November 25, 2026?",
@@ -552,6 +544,36 @@
  "ultime_chiuse": [
   {
    "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: 9z vs DENDELE CS (BO3) - PGL Major Singapore Stage 1",
+   "side": "Y",
+   "entry_price": 0.83,
+   "exit_price": 0.999,
+   "pnl": 4.0723,
+   "closed": "2026-11-25T10:00:37",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: 9z vs DENDELE CS - Map 2 Winner",
+   "side": "Y",
+   "entry_price": 0.94,
+   "exit_price": 0.999,
+   "pnl": 1.2553,
+   "closed": "2026-11-25T10:00:37",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Map Handicap: 9z (-1.5) vs DENDELE CS (+1.5)",
+   "side": "Y",
+   "entry_price": 0.92,
+   "exit_price": 0.999,
+   "pnl": 1.7174,
+   "closed": "2026-11-25T10:00:37",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
    "market_nome": "Counter-Strike: 9z vs DENDELE CS - Map 1 Winner",
    "side": "Y",
    "entry_price": 0.88,
@@ -918,36 +940,6 @@
    "exit_price": 0.999,
    "pnl": 3.7857,
    "closed": "2026-11-24T21:53:50",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Anthropic close below its IPO price by November 25, 2026?",
-   "side": "Y",
-   "entry_price": 0.91,
-   "exit_price": 0.999,
-   "pnl": 1.956,
-   "closed": "2026-11-24T21:03:52",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will Bitcoin dip to $52,500 in November?",
-   "side": "Y",
-   "entry_price": 0.21,
-   "exit_price": 0.12,
-   "pnl": -8.5714,
-   "closed": "2026-11-24T21:03:51",
-   "motivo": "uscita a tempo 72h"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Young27 vs Haze (BO3) - CCT Europe Contenders #11 Playoffs",
-   "side": "Y",
-   "entry_price": 0.91,
-   "exit_price": 0.99,
-   "pnl": 1.7582,
-   "closed": "2026-11-24T20:47:24",
    "motivo": "prezzo a fine corsa"
   }
  ]
