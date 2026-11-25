@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T14:37:01",
+ "generated_at": "2026-11-25T15:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -74,16 +74,24 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 180,
+   "chiusi": 181,
    "aperti": 15,
-   "pnl": -2.23,
-   "rend_medio_pct": -0.06,
-   "t": -0.01,
-   "rend40_pct": -20.65,
-   "t40": -1.56
+   "pnl": -21.96,
+   "rend_medio_pct": -0.61,
+   "t": -0.07,
+   "rend40_pct": -23.84,
+   "t40": -1.79
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Heat vs. 76ers",
+   "side": "Y",
+   "entry_price": 0.47,
+   "importo": 20.0,
+   "opened": "2026-11-25T15:01:00"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Sporting CP win on 2026-11-25?",
@@ -99,14 +107,6 @@
    "entry_price": 0.403,
    "importo": 20.0,
    "opened": "2026-11-25T14:10:46"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "M15 Sharm ElSheikh: Vladimir Osminkin vs Artem Alekseychuk",
-   "side": "Y",
-   "entry_price": 0.73,
-   "importo": 20.0,
-   "opened": "2026-11-25T13:53:44"
   },
   {
    "rule_id": "2a906fe26e",
@@ -567,6 +567,16 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "a042d572b3",
+   "market_nome": "M15 Sharm ElSheikh: Vladimir Osminkin vs Artem Alekseychuk",
+   "side": "Y",
+   "entry_price": 0.73,
+   "exit_price": 0.01,
+   "pnl": -19.726,
+   "closed": "2026-11-25T15:01:00",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "924891e0f0",
    "market_nome": "Will Elon Musk post 40-64 tweets from November 23 to November 25, 2026?",
    "side": "Y",
@@ -954,16 +964,6 @@
    "exit_price": 0.01,
    "pnl": -19.0385,
    "closed": "2026-11-24T23:16:13",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Buenos Aires: Nadia Podoroska vs Leyre Romero Gormaz",
-   "side": "Y",
-   "entry_price": 0.74,
-   "exit_price": 0.999,
-   "pnl": 7.0,
-   "closed": "2026-11-24T22:10:52",
    "motivo": "prezzo a fine corsa"
   }
  ]
