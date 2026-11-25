@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T07:07:01",
+ "generated_at": "2026-11-25T07:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 129,
+   "chiusi": 130,
    "aperti": 15,
-   "pnl": 82.7,
-   "rend_medio_pct": 3.21,
-   "t": 0.49,
-   "rend40_pct": -4.29,
-   "t40": -0.35
+   "pnl": 62.98,
+   "rend_medio_pct": 2.42,
+   "t": 0.37,
+   "rend40_pct": -9.25,
+   "t40": -0.76
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,40 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 174,
+   "chiusi": 176,
    "aperti": 15,
-   "pnl": 76.24,
-   "rend_medio_pct": 2.19,
-   "t": 0.24,
-   "rend40_pct": -5.39,
-   "t40": -0.36
+   "pnl": 58.06,
+   "rend_medio_pct": 1.65,
+   "t": 0.18,
+   "rend40_pct": -14.95,
+   "t40": -1.11
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin reach $62,500 in November?",
+   "side": "N",
+   "entry_price": 0.61,
+   "importo": 20.0,
+   "opened": "2026-11-25T07:15:00"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn B300 rental price in December 2026 be above $12.00?",
+   "side": "Y",
+   "entry_price": 0.33,
+   "importo": 20.0,
+   "opened": "2026-11-25T07:14:59"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will FC Barcelona win on 2026-11-25?",
+   "side": "N",
+   "entry_price": 0.1,
+   "importo": 20.0,
+   "opened": "2026-11-25T07:14:59"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Javokhir Sindarov win the 2026 World Chess Championship?",
@@ -117,28 +141,12 @@
    "opened": "2026-11-25T05:52:46"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Yokohama: Kasidit Samrej vs Ognjen Milic",
-   "side": "Y",
-   "entry_price": 0.29,
-   "importo": 20.0,
-   "opened": "2026-11-25T05:36:01"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "Will Variational launch a token by December 31, 2026?",
    "side": "N",
    "entry_price": 0.472,
    "importo": 20.0,
    "opened": "2026-11-25T05:36:01"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Yokohama: Kasidit Samrej vs Ognjen Milic",
-   "side": "Y",
-   "entry_price": 0.72,
-   "importo": 20.0,
-   "opened": "2026-11-25T05:19:12"
   },
   {
    "rule_id": "a042d572b3",
@@ -413,14 +421,6 @@
    "opened": "2026-11-24T07:59:52"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $3.00?",
-   "side": "N",
-   "entry_price": 0.53,
-   "importo": 20.0,
-   "opened": "2026-11-24T07:10:33"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Apple be the largest company in the world by market cap on December 31?",
    "side": "Y",
@@ -542,6 +542,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $3.00?",
+   "side": "N",
+   "entry_price": 0.53,
+   "exit_price": 0.56,
+   "pnl": 1.132,
+   "closed": "2026-11-25T07:14:59",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Yokohama: Kasidit Samrej vs Ognjen Milic",
+   "side": "Y",
+   "entry_price": 0.72,
+   "exit_price": 0.01,
+   "pnl": -19.7222,
+   "closed": "2026-11-25T07:14:59",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Yokohama: Kasidit Samrej vs Ognjen Milic",
+   "side": "Y",
+   "entry_price": 0.29,
+   "exit_price": 0.01,
+   "pnl": -19.3103,
+   "closed": "2026-11-25T07:14:59",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Mavericks vs. Nuggets: O/U 234.5",
@@ -910,36 +940,6 @@
    "exit_price": 0.999,
    "pnl": 13.3,
    "closed": "2026-11-24T20:30:45",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Arsenal FC vs. BV Borussia 09 Dortmund: O/U 0.5",
-   "side": "Y",
-   "entry_price": 0.96,
-   "exit_price": 0.999,
-   "pnl": 0.8125,
-   "closed": "2026-11-24T20:30:45",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Buenos Aires: Solana Sierra vs Victoria Jimenez Kasintseva",
-   "side": "N",
-   "entry_price": 0.51,
-   "exit_price": 0.01,
-   "pnl": -19.6078,
-   "closed": "2026-11-24T20:13:11",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Buenos Aires: Solana Sierra vs Victoria Jimenez Kasintseva",
-   "side": "Y",
-   "entry_price": 0.66,
-   "exit_price": 0.999,
-   "pnl": 10.2727,
-   "closed": "2026-11-24T20:13:11",
    "motivo": "prezzo a fine corsa"
   }
  ]
