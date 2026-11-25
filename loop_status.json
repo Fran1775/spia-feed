@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T20:07:01",
+ "generated_at": "2026-11-25T20:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 170,
+   "chiusi": 171,
    "aperti": 9,
-   "pnl": -59.94,
-   "rend_medio_pct": -1.76,
-   "t": -0.58,
-   "rend40_pct": -0.27,
-   "t40": -0.04
+   "pnl": -79.94,
+   "rend_medio_pct": -2.34,
+   "t": -0.76,
+   "rend40_pct": -2.93,
+   "t40": -0.44
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 147,
+   "chiusi": 150,
    "aperti": 15,
-   "pnl": 32.55,
-   "rend_medio_pct": 1.11,
-   "t": 0.18,
-   "rend40_pct": -3.89,
-   "t40": -0.34
+   "pnl": 31.39,
+   "rend_medio_pct": 1.05,
+   "t": 0.17,
+   "rend40_pct": -7.26,
+   "t40": -0.65
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,64 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 190,
+   "chiusi": 193,
    "aperti": 15,
-   "pnl": -35.88,
-   "rend_medio_pct": -0.94,
-   "t": -0.11,
-   "rend40_pct": -26.17,
-   "t40": -2.08
+   "pnl": -13.08,
+   "rend_medio_pct": -0.34,
+   "t": -0.04,
+   "rend40_pct": -18.32,
+   "t40": -1.42
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Spread: Rams (-2.5)",
+   "side": "N",
+   "entry_price": 0.49,
+   "importo": 20.0,
+   "opened": "2026-11-25T20:34:32"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Spread: 76ers (-2.5)",
+   "side": "N",
+   "entry_price": 0.59,
+   "importo": 20.0,
+   "opened": "2026-11-25T20:34:32"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Chang San-cheng win the next Taoyuan Mayor election?",
+   "side": "Y",
+   "entry_price": 0.93,
+   "importo": 20.0,
+   "opened": "2026-11-25T20:17:29"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Florianopolis: Nicolas Kicker vs Elmer Moeller",
+   "side": "Y",
+   "entry_price": 0.6,
+   "importo": 20.0,
+   "opened": "2026-11-25T20:17:28"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Florianopolis: Nicolas Kicker vs Elmer Moeller",
+   "side": "Y",
+   "entry_price": 0.6,
+   "importo": 20.0,
+   "opened": "2026-11-25T20:17:28"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Buenos Aires: Ipek Oz vs Julia Riera",
+   "side": "Y",
+   "entry_price": 0.51,
+   "importo": 20.0,
+   "opened": "2026-11-25T20:17:28"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Spread: Knicks (-2.5)",
@@ -134,35 +182,11 @@
   },
   {
    "rule_id": "924891e0f0",
-   "market_nome": "San Salvador: Blaise Bicknell vs Theodore Dean",
-   "side": "N",
-   "entry_price": 0.44,
-   "importo": 20.0,
-   "opened": "2026-11-25T19:10:25"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Counter-Strike: Nordic Partners Gaming  vs Donstu Esports - Map 2 Winner",
-   "side": "N",
-   "entry_price": 0.59,
-   "importo": 20.0,
-   "opened": "2026-11-25T18:37:08"
-  },
-  {
-   "rule_id": "924891e0f0",
    "market_nome": "Spread: Knicks (-3.5)",
    "side": "N",
    "entry_price": 0.55,
    "importo": 20.0,
    "opened": "2026-11-25T18:20:32"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Nordic Partners Gaming  vs Donstu Esports - Map 2 Winner",
-   "side": "Y",
-   "entry_price": 0.75,
-   "importo": 20.0,
-   "opened": "2026-11-25T17:47:11"
   },
   {
    "rule_id": "a042d572b3",
@@ -389,30 +413,6 @@
    "opened": "2026-11-24T20:47:25"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Netanyahu out by end of 2026?",
-   "side": "Y",
-   "entry_price": 0.49,
-   "importo": 20.0,
-   "opened": "2026-11-24T20:13:12"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Israel x Iran ceasefire continues through December 31?",
-   "side": "N",
-   "entry_price": 0.29,
-   "importo": 20.0,
-   "opened": "2026-11-24T20:13:11"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.80?",
-   "side": "Y",
-   "entry_price": 0.7,
-   "importo": 20.0,
-   "opened": "2026-11-24T20:13:11"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will TheBurntPeanut finish GTA VI by November 26?",
    "side": "Y",
@@ -518,6 +518,76 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "San Salvador: Blaise Bicknell vs Theodore Dean",
+   "side": "N",
+   "entry_price": 0.44,
+   "exit_price": 0.01,
+   "pnl": -19.5455,
+   "closed": "2026-11-25T20:34:32",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "San Salvador: Blaise Bicknell vs Theodore Dean",
+   "side": "Y",
+   "entry_price": 0.43,
+   "exit_price": 0.999,
+   "pnl": 26.4651,
+   "closed": "2026-11-25T20:34:32",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Nordic Partners Gaming  vs Donstu Esports - Map 2 Winner",
+   "side": "Y",
+   "entry_price": 0.75,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-25T20:17:28",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Counter-Strike: Nordic Partners Gaming  vs Donstu Esports - Map 2 Winner",
+   "side": "N",
+   "entry_price": 0.59,
+   "exit_price": 1.0,
+   "pnl": 13.8983,
+   "closed": "2026-11-25T20:17:28",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Israel x Iran ceasefire continues through December 31?",
+   "side": "N",
+   "entry_price": 0.29,
+   "exit_price": 0.27,
+   "pnl": -1.3793,
+   "closed": "2026-11-25T20:17:27",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.80?",
+   "side": "Y",
+   "entry_price": 0.7,
+   "exit_price": 0.62,
+   "pnl": -2.2857,
+   "closed": "2026-11-25T20:17:27",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Netanyahu out by end of 2026?",
+   "side": "Y",
+   "entry_price": 0.49,
+   "exit_price": 0.6,
+   "pnl": 4.4898,
+   "closed": "2026-11-25T20:17:27",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Bitcoin Up or Down - November 25, 2:00PM-3:00PM ET",
@@ -847,76 +917,6 @@
    "pnl": -0.3571,
    "closed": "2026-11-25T16:23:20",
    "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn B300 rental price in December 2026 be above $11.00?",
-   "side": "N",
-   "entry_price": 0.42,
-   "exit_price": 0.36,
-   "pnl": -2.8572,
-   "closed": "2026-11-25T16:23:20",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn B300 rental price in January 2027 be above $11.00?",
-   "side": "N",
-   "entry_price": 0.41,
-   "exit_price": 0.41,
-   "pnl": 0.0,
-   "closed": "2026-11-25T16:23:19",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the average Ornn B300 rental price in January 2027 be above $11.00?",
-   "side": "N",
-   "entry_price": 0.41,
-   "exit_price": 0.41,
-   "pnl": 0.0,
-   "closed": "2026-11-25T16:23:19",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will a turkey audibly gobble during the Thanksgiving Turkey Pardon on November 24?",
-   "side": "Y",
-   "entry_price": 0.896,
-   "exit_price": 0.997,
-   "pnl": 2.2544,
-   "closed": "2026-11-25T16:06:54",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Ethereum be above $1,600 on November 25?",
-   "side": "Y",
-   "entry_price": 0.904,
-   "exit_price": 0.99,
-   "pnl": 1.9027,
-   "closed": "2026-11-25T16:06:54",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Elon Musk post 65-89 tweets from November 23 to November 25, 2026?",
-   "side": "N",
-   "entry_price": 0.77,
-   "exit_price": 0.006,
-   "pnl": -19.8442,
-   "closed": "2026-11-25T15:50:32",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Elon Musk post 65-89 tweets from November 23 to November 25, 2026?",
-   "side": "Y",
-   "entry_price": 0.85,
-   "exit_price": 0.993,
-   "pnl": 3.3647,
-   "closed": "2026-11-25T15:50:32",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
