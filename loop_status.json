@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T20:37:01",
+ "generated_at": "2026-11-25T21:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 171,
-   "aperti": 9,
+   "aperti": 10,
    "pnl": -79.94,
    "rend_medio_pct": -2.34,
    "t": -0.76,
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 44,
+   "chiusi": 45,
    "aperti": 15,
-   "pnl": -8.09,
-   "rend_medio_pct": -0.92,
-   "t": -0.06,
-   "rend40_pct": -2.38,
-   "t40": -0.17
+   "pnl": -8.85,
+   "rend_medio_pct": -0.98,
+   "t": -0.07,
+   "rend40_pct": -4.87,
+   "t40": -0.35
   },
   {
    "id": "a042d572b3",
@@ -84,6 +84,22 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 25, 3:00PM-4:00PM ET",
+   "side": "Y",
+   "entry_price": 0.87,
+   "importo": 20.0,
+   "opened": "2026-11-25T20:51:05"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Heat vs. 76ers",
+   "side": "Y",
+   "entry_price": 0.52,
+   "importo": 20.0,
+   "opened": "2026-11-25T20:51:04"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Spread: Rams (-2.5)",
@@ -501,14 +517,6 @@
    "opened": "2026-11-22T21:45:00"
   },
   {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
-   "side": "Y",
-   "entry_price": 0.763,
-   "importo": 20.0,
-   "opened": "2026-11-22T20:49:48"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Club Atlético de Madrid win on 2026-11-25?",
    "side": "Y",
@@ -518,6 +526,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
+   "side": "Y",
+   "entry_price": 0.763,
+   "exit_price": 0.734,
+   "pnl": -0.7602,
+   "closed": "2026-11-25T20:51:03",
+   "motivo": "uscita a tempo 72h"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "San Salvador: Blaise Bicknell vs Theodore Dean",
@@ -905,16 +923,6 @@
    "entry_price": 0.65,
    "exit_price": 0.63,
    "pnl": -0.6154,
-   "closed": "2026-11-25T16:23:20",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn B300 rental price in January 2027 be above $11.50?",
-   "side": "N",
-   "entry_price": 0.56,
-   "exit_price": 0.55,
-   "pnl": -0.3571,
    "closed": "2026-11-25T16:23:20",
    "motivo": "uscita a tempo 24h"
   }
