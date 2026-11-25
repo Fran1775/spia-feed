@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T03:37:02",
+ "generated_at": "2026-11-25T04:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 141,
+   "chiusi": 142,
    "aperti": 11,
-   "pnl": -48.44,
-   "rend_medio_pct": -1.72,
-   "t": -0.52,
-   "rend40_pct": -1.2,
-   "t40": -0.2
+   "pnl": -45.99,
+   "rend_medio_pct": -1.62,
+   "t": -0.49,
+   "rend40_pct": 1.57,
+   "t40": 0.28
   },
   {
    "id": "924891e0f0",
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 170,
+   "chiusi": 171,
    "aperti": 15,
-   "pnl": 97.07,
-   "rend_medio_pct": 2.86,
-   "t": 0.31,
-   "rend40_pct": -2.67,
-   "t40": -0.18
+   "pnl": 107.01,
+   "rend_medio_pct": 3.13,
+   "t": 0.34,
+   "rend40_pct": -0.71,
+   "t40": -0.05
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Marco Rubio out as Secretary of State by December 31, 2026?",
+   "side": "N",
+   "entry_price": 0.91,
+   "importo": 20.0,
+   "opened": "2026-11-25T03:56:18"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 24, 10:00PM-11:00PM ET",
+   "side": "Y",
+   "entry_price": 0.92,
+   "importo": 20.0,
+   "opened": "2026-11-25T03:39:45"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Packers vs. Rams",
@@ -101,14 +117,6 @@
    "opened": "2026-11-25T03:23:05"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: EMPIRE vs Kodex Esports (BO3) - CROSSFIRE Playoffs",
-   "side": "Y",
-   "entry_price": 0.89,
-   "importo": 20.0,
-   "opened": "2026-11-25T03:06:27"
-  },
-  {
    "rule_id": "a042d572b3",
    "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.40?",
    "side": "Y",
@@ -121,14 +129,6 @@
    "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.70?",
    "side": "Y",
    "entry_price": 0.74,
-   "importo": 20.0,
-   "opened": "2026-11-25T02:17:30"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Playford: Hiroki Moriya vs Matthew Dellavedova",
-   "side": "N",
-   "entry_price": 0.668,
    "importo": 20.0,
    "opened": "2026-11-25T02:17:30"
   },
@@ -535,6 +535,26 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "a042d572b3",
+   "market_nome": "Playford: Hiroki Moriya vs Matthew Dellavedova",
+   "side": "N",
+   "entry_price": 0.668,
+   "exit_price": 1.0,
+   "pnl": 9.9401,
+   "closed": "2026-11-25T03:56:18",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: EMPIRE vs Kodex Esports (BO3) - CROSSFIRE Playoffs",
+   "side": "Y",
+   "entry_price": 0.89,
+   "exit_price": 0.999,
+   "pnl": 2.4494,
+   "closed": "2026-11-25T03:39:44",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "924891e0f0",
    "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.60?",
    "side": "N",
@@ -913,26 +933,6 @@
    "pnl": -19.6429,
    "closed": "2026-11-24T18:31:55",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 24, 12:00PM-1:00PM ET",
-   "side": "Y",
-   "entry_price": 0.77,
-   "exit_price": 0.999,
-   "pnl": 5.948,
-   "closed": "2026-11-24T17:57:51",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Ethereum be above $1,700 on November 24?",
-   "side": "N",
-   "entry_price": 0.502,
-   "exit_price": 1.0,
-   "pnl": 19.8406,
-   "closed": "2026-11-24T17:24:06",
-   "motivo": "risoluzione"
   }
  ]
 }
