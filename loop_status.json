@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T02:37:01",
+ "generated_at": "2026-11-25T03:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 139,
-   "aperti": 12,
-   "pnl": -56.42,
-   "rend_medio_pct": -2.03,
-   "t": -0.61,
-   "rend40_pct": -1.39,
-   "t40": -0.23
+   "chiusi": 141,
+   "aperti": 11,
+   "pnl": -48.44,
+   "rend_medio_pct": -1.72,
+   "t": -0.52,
+   "rend40_pct": -1.2,
+   "t40": -0.2
   },
   {
    "id": "924891e0f0",
@@ -85,6 +85,14 @@
  ],
  "aperte": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: EMPIRE vs Kodex Esports (BO3) - CROSSFIRE Playoffs",
+   "side": "Y",
+   "entry_price": 0.89,
+   "importo": 20.0,
+   "opened": "2026-11-25T03:06:27"
+  },
+  {
    "rule_id": "a042d572b3",
    "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.40?",
    "side": "Y",
@@ -107,14 +115,6 @@
    "entry_price": 0.668,
    "importo": 20.0,
    "opened": "2026-11-25T02:17:30"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Ethereum dip to $1,650 on November 24?",
-   "side": "Y",
-   "entry_price": 0.64,
-   "importo": 20.0,
-   "opened": "2026-11-25T02:01:16"
   },
   {
    "rule_id": "924891e0f0",
@@ -493,14 +493,6 @@
    "opened": "2026-11-23T01:39:40"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Mira vs underw0rld (BO3) - Gamers Club Liga Série A Group A",
-   "side": "Y",
-   "entry_price": 0.956,
-   "importo": 20.0,
-   "opened": "2026-11-22T22:57:58"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will AI solve 0 more Millennium Prize Problems in 2026?",
    "side": "Y",
@@ -542,6 +534,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Ethereum dip to $1,650 on November 24?",
+   "side": "Y",
+   "entry_price": 0.64,
+   "exit_price": 0.999,
+   "pnl": 11.2188,
+   "closed": "2026-11-25T03:06:26",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Mira vs underw0rld (BO3) - Gamers Club Liga Série A Group A",
+   "side": "Y",
+   "entry_price": 0.956,
+   "exit_price": 0.801,
+   "pnl": -3.2427,
+   "closed": "2026-11-25T02:50:04",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Yokohama: Jie Cui vs Benjamin Hassan",
@@ -921,26 +933,6 @@
    "pnl": 26.4651,
    "closed": "2026-11-24T17:24:06",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Team Yandex vs 1win (BO3) - BLAST Slam Seeding Matches",
-   "side": "Y",
-   "entry_price": 0.9,
-   "exit_price": 0.999,
-   "pnl": 2.2,
-   "closed": "2026-11-24T17:24:06",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Ethereum be above $1,700 on November 24?",
-   "side": "Y",
-   "entry_price": 0.914,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-24T17:24:05",
-   "motivo": "risoluzione"
   }
  ]
 }
