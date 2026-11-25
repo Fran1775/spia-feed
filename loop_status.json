@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T02:07:01",
+ "generated_at": "2026-11-25T02:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,12 +14,12 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 138,
-   "aperti": 13,
-   "pnl": -61.24,
-   "rend_medio_pct": -2.22,
-   "t": -0.66,
-   "rend40_pct": -1.37,
+   "chiusi": 139,
+   "aperti": 12,
+   "pnl": -56.42,
+   "rend_medio_pct": -2.03,
+   "t": -0.61,
+   "rend40_pct": -1.39,
    "t40": -0.23
   },
   {
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 42,
+   "chiusi": 43,
    "aperti": 15,
-   "pnl": -21.41,
-   "rend_medio_pct": -2.55,
-   "t": -0.17,
-   "rend40_pct": -6.05,
-   "t40": -0.43
+   "pnl": -5.15,
+   "rend_medio_pct": -0.6,
+   "t": -0.04,
+   "rend40_pct": -4.47,
+   "t40": -0.31
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,40 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 167,
+   "chiusi": 169,
    "aperti": 15,
-   "pnl": 101.71,
-   "rend_medio_pct": 3.05,
-   "t": 0.32,
-   "rend40_pct": -2.21,
-   "t40": -0.14
+   "pnl": 98.61,
+   "rend_medio_pct": 2.92,
+   "t": 0.31,
+   "rend40_pct": 2.32,
+   "t40": 0.15
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.40?",
+   "side": "Y",
+   "entry_price": 0.33,
+   "importo": 20.0,
+   "opened": "2026-11-25T02:33:48"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.70?",
+   "side": "Y",
+   "entry_price": 0.74,
+   "importo": 20.0,
+   "opened": "2026-11-25T02:17:30"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Playford: Hiroki Moriya vs Matthew Dellavedova",
+   "side": "N",
+   "entry_price": 0.668,
+   "importo": 20.0,
+   "opened": "2026-11-25T02:17:30"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Ethereum dip to $1,650 on November 24?",
@@ -91,22 +115,6 @@
    "entry_price": 0.64,
    "importo": 20.0,
    "opened": "2026-11-25T02:01:16"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Pistons vs. Magic",
-   "side": "Y",
-   "entry_price": 0.55,
-   "importo": 20.0,
-   "opened": "2026-11-24T23:16:13"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Pistons vs. Magic",
-   "side": "Y",
-   "entry_price": 0.55,
-   "importo": 20.0,
-   "opened": "2026-11-24T23:16:13"
   },
   {
    "rule_id": "924891e0f0",
@@ -349,14 +357,6 @@
    "opened": "2026-11-24T07:10:33"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Yokohama: Jie Cui vs Benjamin Hassan",
-   "side": "Y",
-   "entry_price": 0.31,
-   "importo": 20.0,
-   "opened": "2026-11-24T06:53:58"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Apple be the largest company in the world by market cap on December 31?",
    "side": "Y",
@@ -393,14 +393,6 @@
    "market_nome": "Will the price of Bitcoin be above $58,000 on November 25?",
    "side": "Y",
    "entry_price": 0.874,
-   "importo": 20.0,
-   "opened": "2026-11-24T05:31:25"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Celtics vs. Wizards",
-   "side": "Y",
-   "entry_price": 0.8,
    "importo": 20.0,
    "opened": "2026-11-24T05:31:25"
   },
@@ -550,6 +542,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Yokohama: Jie Cui vs Benjamin Hassan",
+   "side": "Y",
+   "entry_price": 0.31,
+   "exit_price": 0.01,
+   "pnl": -19.3548,
+   "closed": "2026-11-25T02:33:48",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Pistons vs. Magic",
+   "side": "Y",
+   "entry_price": 0.55,
+   "exit_price": 0.997,
+   "pnl": 16.2545,
+   "closed": "2026-11-25T02:17:30",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Celtics vs. Wizards",
+   "side": "Y",
+   "entry_price": 0.8,
+   "exit_price": 0.993,
+   "pnl": 4.825,
+   "closed": "2026-11-25T02:17:29",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Pistons vs. Magic",
+   "side": "Y",
+   "entry_price": 0.55,
+   "exit_price": 0.997,
+   "pnl": 16.2545,
+   "closed": "2026-11-25T02:17:29",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Jensen Huang admits to another affair with a woman by December 31?",
@@ -909,46 +941,6 @@
    "pnl": -20.0,
    "closed": "2026-11-24T17:24:05",
    "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 24?",
-   "side": "N",
-   "entry_price": 0.369,
-   "exit_price": 0.999,
-   "pnl": 34.1463,
-   "closed": "2026-11-24T17:07:16",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 24?",
-   "side": "Y",
-   "entry_price": 0.941,
-   "exit_price": 0.01,
-   "pnl": -19.7875,
-   "closed": "2026-11-24T17:07:15",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Trump speak to Emmanuel Macron by November 30?",
-   "side": "N",
-   "entry_price": 0.556,
-   "exit_price": 0.781,
-   "pnl": 8.0935,
-   "closed": "2026-11-24T17:07:15",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 24?",
-   "side": "Y",
-   "entry_price": 0.804,
-   "exit_price": 0.01,
-   "pnl": -19.7512,
-   "closed": "2026-11-24T17:07:15",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
