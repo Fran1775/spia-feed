@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T13:07:01",
+ "generated_at": "2026-11-25T13:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 152,
-   "aperti": 14,
-   "pnl": -41.74,
-   "rend_medio_pct": -1.37,
-   "t": -0.43,
-   "rend40_pct": -0.72,
-   "t40": -0.12
+   "chiusi": 153,
+   "aperti": 13,
+   "pnl": -61.5,
+   "rend_medio_pct": -2.01,
+   "t": -0.62,
+   "rend40_pct": -3.23,
+   "t40": -0.49
   },
   {
    "id": "924891e0f0",
@@ -74,16 +74,24 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 177,
+   "chiusi": 178,
    "aperti": 15,
-   "pnl": 56.86,
-   "rend_medio_pct": 1.61,
-   "t": 0.18,
-   "rend40_pct": -12.6,
-   "t40": -0.95
+   "pnl": 37.11,
+   "rend_medio_pct": 1.04,
+   "t": 0.12,
+   "rend40_pct": -15.66,
+   "t40": -1.17
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Ankara: Diego Dedura-Palomero vs Oleg Prihodko",
+   "side": "N",
+   "entry_price": 0.51,
+   "importo": 20.0,
+   "opened": "2026-11-25T13:20:36"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Spread: FC Barcelona (-1.5)",
@@ -171,14 +179,6 @@
    "entry_price": 0.472,
    "importo": 20.0,
    "opened": "2026-11-25T05:36:01"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: GOSH vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.83,
-   "importo": 20.0,
-   "opened": "2026-11-25T05:02:40"
   },
   {
    "rule_id": "2a906fe26e",
@@ -339,14 +339,6 @@
    "entry_price": 0.7,
    "importo": 20.0,
    "opened": "2026-11-24T18:31:55"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: GOSH vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.83,
-   "importo": 20.0,
-   "opened": "2026-11-24T17:40:55"
   },
   {
    "rule_id": "924891e0f0",
@@ -558,6 +550,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Counter-Strike: GOSH vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
+   "side": "Y",
+   "entry_price": 0.83,
+   "exit_price": 0.01,
+   "pnl": -19.759,
+   "closed": "2026-11-25T13:20:36",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: GOSH vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
+   "side": "Y",
+   "entry_price": 0.83,
+   "exit_price": 0.01,
+   "pnl": -19.759,
+   "closed": "2026-11-25T13:20:35",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1",
@@ -930,26 +942,6 @@
   },
   {
    "rule_id": "a042d572b3",
-   "market_nome": "Will Arsenal FC win on 2026-11-24?",
-   "side": "Y",
-   "entry_price": 0.68,
-   "exit_price": 0.01,
-   "pnl": -19.7059,
-   "closed": "2026-11-24T21:53:52",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will BV Borussia 09 Dortmund win on 2026-11-24?",
-   "side": "Y",
-   "entry_price": 0.14,
-   "exit_price": 0.01,
-   "pnl": -18.5714,
-   "closed": "2026-11-24T21:53:52",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
    "market_nome": "Will Arsenal FC win on 2026-11-24?",
    "side": "Y",
    "entry_price": 0.68,
