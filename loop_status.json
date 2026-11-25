@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T08:37:01",
+ "generated_at": "2026-11-25T09:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 143,
-   "aperti": 13,
-   "pnl": -44.25,
-   "rend_medio_pct": -1.55,
-   "t": -0.47,
-   "rend40_pct": 1.63,
-   "t40": 0.29
+   "chiusi": 144,
+   "aperti": 12,
+   "pnl": -41.77,
+   "rend_medio_pct": -1.45,
+   "t": -0.44,
+   "rend40_pct": 1.89,
+   "t40": 0.34
   },
   {
    "id": "924891e0f0",
@@ -84,14 +84,6 @@
   }
  ],
  "aperte": [
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: 9z vs DENDELE CS - Map 1 Winner",
-   "side": "Y",
-   "entry_price": 0.88,
-   "importo": 20.0,
-   "opened": "2026-11-25T08:21:07"
-  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Elon Musk post 40-64 tweets from November 23 to November 25, 2026?",
@@ -551,6 +543,16 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: 9z vs DENDELE CS - Map 1 Winner",
+   "side": "Y",
+   "entry_price": 0.88,
+   "exit_price": 0.989,
+   "pnl": 2.4773,
+   "closed": "2026-11-25T08:37:46",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "a042d572b3",
    "market_nome": "Will the average Ornn B300 rental price in January 2027 be above $12.00?",
    "side": "N",
@@ -938,16 +940,6 @@
    "exit_price": 0.99,
    "pnl": 1.7582,
    "closed": "2026-11-24T20:47:24",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Al Nassr Club win on 2026-11-24?",
-   "side": "Y",
-   "entry_price": 0.8,
-   "exit_price": 0.999,
-   "pnl": 4.975,
-   "closed": "2026-11-24T20:30:45",
    "motivo": "prezzo a fine corsa"
   }
  ]
