@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T12:07:01",
+ "generated_at": "2026-11-25T12:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 150,
-   "aperti": 13,
+   "aperti": 15,
    "pnl": -48.4,
    "rend_medio_pct": -1.61,
    "t": -0.5,
@@ -84,6 +84,22 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1",
+   "side": "Y",
+   "entry_price": 0.896,
+   "importo": 20.0,
+   "opened": "2026-11-25T12:14:21"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: NIP vs Liquid - Map 2 Winner",
+   "side": "Y",
+   "entry_price": 0.82,
+   "importo": 20.0,
+   "opened": "2026-11-25T12:14:21"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $54,000 on November 26?",
