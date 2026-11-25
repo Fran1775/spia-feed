@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T09:07:01",
+ "generated_at": "2026-11-25T09:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 144,
-   "aperti": 12,
+   "aperti": 13,
    "pnl": -41.77,
    "rend_medio_pct": -1.45,
    "t": -0.44,
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: 9z vs DENDELE CS (BO3) - PGL Major Singapore Stage 1",
+   "side": "Y",
+   "entry_price": 0.83,
+   "importo": 20.0,
+   "opened": "2026-11-25T09:27:35"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Elon Musk post 40-64 tweets from November 23 to November 25, 2026?",
