@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T12:37:01",
+ "generated_at": "2026-11-25T13:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 150,
-   "aperti": 15,
-   "pnl": -48.4,
-   "rend_medio_pct": -1.61,
-   "t": -0.5,
-   "rend40_pct": -0.88,
-   "t40": -0.14
+   "chiusi": 152,
+   "aperti": 14,
+   "pnl": -41.74,
+   "rend_medio_pct": -1.37,
+   "t": -0.43,
+   "rend40_pct": -0.72,
+   "t40": -0.12
   },
   {
    "id": "924891e0f0",
@@ -86,19 +86,11 @@
  "aperte": [
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1",
+   "market_nome": "Spread: FC Barcelona (-1.5)",
    "side": "Y",
-   "entry_price": 0.896,
+   "entry_price": 0.8,
    "importo": 20.0,
-   "opened": "2026-11-25T12:14:21"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: NIP vs Liquid - Map 2 Winner",
-   "side": "Y",
-   "entry_price": 0.82,
-   "importo": 20.0,
-   "opened": "2026-11-25T12:14:21"
+   "opened": "2026-11-25T13:04:10"
   },
   {
    "rule_id": "2a906fe26e",
@@ -568,6 +560,26 @@
  "ultime_chiuse": [
   {
    "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1",
+   "side": "Y",
+   "entry_price": 0.896,
+   "exit_price": 0.999,
+   "pnl": 2.2991,
+   "closed": "2026-11-25T12:47:44",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: NIP vs Liquid - Map 2 Winner",
+   "side": "Y",
+   "entry_price": 0.82,
+   "exit_price": 0.999,
+   "pnl": 4.3658,
+   "closed": "2026-11-25T12:47:44",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
    "market_nome": "Counter-Strike: Prodigies vs Esport Academy Copenhagen (BO3) - United21 Group C",
    "side": "Y",
    "entry_price": 0.92,
@@ -943,26 +955,6 @@
    "entry_price": 0.68,
    "exit_price": 0.01,
    "pnl": -19.7059,
-   "closed": "2026-11-24T21:53:52",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will Real Madrid CF win on 2026-11-24?",
-   "side": "Y",
-   "entry_price": 0.87,
-   "exit_price": 0.999,
-   "pnl": 2.9655,
-   "closed": "2026-11-24T21:53:52",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Manchester City FC vs. SSC Napoli: O/U 3.5",
-   "side": "Y",
-   "entry_price": 0.55,
-   "exit_price": 0.999,
-   "pnl": 16.3272,
    "closed": "2026-11-24T21:53:52",
    "motivo": "prezzo a fine corsa"
   }
