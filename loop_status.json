@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T10:07:01",
+ "generated_at": "2026-11-25T10:37:02",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 147,
-   "aperti": 12,
+   "aperti": 13,
    "pnl": -34.73,
    "rend_medio_pct": -1.18,
    "t": -0.37,
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: GOSH vs Chinggis Warriors - Map 1 Winner",
+   "side": "Y",
+   "entry_price": 0.82,
+   "importo": 20.0,
+   "opened": "2026-11-25T10:17:20"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Elon Musk post 40-64 tweets from November 23 to November 25, 2026?",
