@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T16:37:01",
+ "generated_at": "2026-11-25T17:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 159,
-   "aperti": 11,
+   "aperti": 13,
    "pnl": -68.22,
    "rend_medio_pct": -2.15,
    "t": -0.68,
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 136,
+   "chiusi": 140,
    "aperti": 15,
-   "pnl": 19.68,
-   "rend_medio_pct": 0.72,
-   "t": 0.11,
-   "rend40_pct": -22.36,
-   "t40": -1.99
+   "pnl": 1.58,
+   "rend_medio_pct": 0.06,
+   "t": 0.01,
+   "rend40_pct": -18.6,
+   "t40": -1.67
   },
   {
    "id": "84fb9952fb",
@@ -74,31 +74,71 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 182,
+   "chiusi": 184,
    "aperti": 15,
-   "pnl": -21.96,
-   "rend_medio_pct": -0.6,
-   "t": -0.07,
-   "rend40_pct": -27.74,
-   "t40": -2.21
+   "pnl": 13.66,
+   "rend_medio_pct": 0.37,
+   "t": 0.04,
+   "rend40_pct": -18.48,
+   "t40": -1.39
   }
  ],
  "aperte": [
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Florianopolis: Paulo Dos Santos vs Thiago Cigarran",
-   "side": "Y",
-   "entry_price": 0.65,
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Fenerbahçe SK win on 2026-11-25?",
+   "side": "N",
+   "entry_price": 0.64,
    "importo": 20.0,
-   "opened": "2026-11-25T16:23:20"
+   "opened": "2026-11-25T16:57:11"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Spirit Academy vs angry birds - Game 1 Winner",
+   "side": "Y",
+   "entry_price": 0.81,
+   "importo": 20.0,
+   "opened": "2026-11-25T16:57:11"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Marco Rubio out as Secretary of State by March 31, 2027?",
+   "side": "N",
+   "entry_price": 0.8,
+   "importo": 20.0,
+   "opened": "2026-11-25T16:57:11"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Counter-Strike: Nordic Partners Gaming  vs Donstu Esports - Map 1 Winner",
+   "side": "N",
+   "entry_price": 0.73,
+   "importo": 20.0,
+   "opened": "2026-11-25T16:57:11"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 26?",
+   "side": "N",
+   "entry_price": 0.402,
+   "importo": 20.0,
+   "opened": "2026-11-25T16:57:11"
   },
   {
    "rule_id": "a042d572b3",
-   "market_nome": "Florianopolis: Paulo Dos Santos vs Thiago Cigarran",
-   "side": "N",
-   "entry_price": 0.36,
+   "market_nome": "Florianopolis: Matheus Pucinelli de Almeida vs Carlos Maria Zarate",
+   "side": "Y",
+   "entry_price": 0.59,
    "importo": 20.0,
-   "opened": "2026-11-25T16:23:20"
+   "opened": "2026-11-25T16:40:22"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Nordic Partners Gaming  vs Donstu Esports - Map 1 Winner",
+   "side": "Y",
+   "entry_price": 0.84,
+   "importo": 20.0,
+   "opened": "2026-11-25T16:40:22"
   },
   {
    "rule_id": "924891e0f0",
@@ -209,14 +249,6 @@
    "market_nome": "Will Javokhir Sindarov win the 2026 World Chess Championship?",
    "side": "N",
    "entry_price": 0.27,
-   "importo": 20.0,
-   "opened": "2026-11-25T06:09:33"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Ethereum Up or Down on November 25?",
-   "side": "N",
-   "entry_price": 0.65,
    "importo": 20.0,
    "opened": "2026-11-25T06:09:33"
   },
@@ -389,22 +421,6 @@
    "opened": "2026-11-24T17:24:06"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Jensen Huang announced resignation or removal again by December 31, 2027?",
-   "side": "Y",
-   "entry_price": 0.3,
-   "importo": 20.0,
-   "opened": "2026-11-24T16:33:51"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Jensen Huang announced resignation or removal again by December 31, 2027?",
-   "side": "N",
-   "entry_price": 0.71,
-   "importo": 20.0,
-   "opened": "2026-11-24T16:33:51"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will TheBurntPeanut finish GTA VI by November 26?",
    "side": "Y",
@@ -534,6 +550,66 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Ethereum Up or Down on November 25?",
+   "side": "N",
+   "entry_price": 0.65,
+   "exit_price": 0.601,
+   "pnl": -1.5077,
+   "closed": "2026-11-25T16:57:11",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Florianopolis: Paulo Dos Santos vs Thiago Cigarran",
+   "side": "Y",
+   "entry_price": 0.65,
+   "exit_price": 0.004,
+   "pnl": -19.8769,
+   "closed": "2026-11-25T16:57:11",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Florianopolis: Paulo Dos Santos vs Thiago Cigarran",
+   "side": "N",
+   "entry_price": 0.36,
+   "exit_price": 0.991,
+   "pnl": 35.0556,
+   "closed": "2026-11-25T16:57:11",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "W15 Sharm ElSheikh: Sabine Rutlauka vs Darja Suvirdjonkova",
+   "side": "Y",
+   "entry_price": 0.77,
+   "exit_price": 0.999,
+   "pnl": 5.948,
+   "closed": "2026-11-25T16:57:11",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Jensen Huang announced resignation or removal again by December 31, 2027?",
+   "side": "Y",
+   "entry_price": 0.3,
+   "exit_price": 0.26,
+   "pnl": -2.6667,
+   "closed": "2026-11-25T16:40:22",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Jensen Huang announced resignation or removal again by December 31, 2027?",
+   "side": "N",
+   "entry_price": 0.71,
+   "exit_price": 0.73,
+   "pnl": 0.5634,
+   "closed": "2026-11-25T16:40:22",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will the average Ornn B300 rental price in January 2027 be above $12.00?",
@@ -873,66 +949,6 @@
    "pnl": -14.5455,
    "closed": "2026-11-25T06:09:31",
    "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Jensen Huang publicly testify before Congress by December 31, 2026?",
-   "side": "Y",
-   "entry_price": 0.83,
-   "exit_price": 0.92,
-   "pnl": 2.1687,
-   "closed": "2026-11-25T05:36:00",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Jensen Huang publicly testify before Congress by December 31, 2026?",
-   "side": "N",
-   "entry_price": 0.19,
-   "exit_price": 0.07,
-   "pnl": -12.6316,
-   "closed": "2026-11-25T05:36:00",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Ulf Kristersson be the next Prime Minister of Sweden?",
-   "side": "Y",
-   "entry_price": 0.679,
-   "exit_price": 0.746,
-   "pnl": 1.9735,
-   "closed": "2026-11-25T05:19:11",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Ulf Kristersson be the next Prime Minister of Sweden?",
-   "side": "Y",
-   "entry_price": 0.679,
-   "exit_price": 0.742,
-   "pnl": 1.8557,
-   "closed": "2026-11-25T05:02:39",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Yokohama: Niels McDonald vs Luca Staeheli",
-   "side": "N",
-   "entry_price": 0.73,
-   "exit_price": 1.0,
-   "pnl": 7.3973,
-   "closed": "2026-11-25T04:12:54",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 24, 10:00PM-11:00PM ET",
-   "side": "Y",
-   "entry_price": 0.92,
-   "exit_price": 1.0,
-   "pnl": 1.7391,
-   "closed": "2026-11-25T04:12:54",
-   "motivo": "risoluzione"
   }
  ]
 }
