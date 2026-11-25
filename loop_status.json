@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T05:07:01",
+ "generated_at": "2026-11-25T05:37:02",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 125,
+   "chiusi": 127,
    "aperti": 15,
-   "pnl": 73.89,
-   "rend_medio_pct": 2.96,
-   "t": 0.44,
-   "rend40_pct": -2.77,
-   "t40": -0.21
+   "pnl": 78.03,
+   "rend_medio_pct": 3.07,
+   "t": 0.46,
+   "rend40_pct": -2.32,
+   "t40": -0.18
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,40 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 172,
+   "chiusi": 173,
    "aperti": 15,
-   "pnl": 108.87,
-   "rend_medio_pct": 3.16,
-   "t": 0.34,
-   "rend40_pct": -0.51,
-   "t40": -0.04
+   "pnl": 96.24,
+   "rend_medio_pct": 2.78,
+   "t": 0.3,
+   "rend40_pct": -2.04,
+   "t40": -0.14
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Yokohama: Kasidit Samrej vs Ognjen Milic",
+   "side": "Y",
+   "entry_price": 0.29,
+   "importo": 20.0,
+   "opened": "2026-11-25T05:36:01"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Variational launch a token by December 31, 2026?",
+   "side": "N",
+   "entry_price": 0.472,
+   "importo": 20.0,
+   "opened": "2026-11-25T05:36:01"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Yokohama: Kasidit Samrej vs Ognjen Milic",
+   "side": "Y",
+   "entry_price": 0.72,
+   "importo": 20.0,
+   "opened": "2026-11-25T05:19:12"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Counter-Strike: GOSH vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
@@ -397,22 +421,6 @@
    "opened": "2026-11-24T06:04:34"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Jensen Huang publicly testify before Congress by December 31, 2026?",
-   "side": "Y",
-   "entry_price": 0.83,
-   "importo": 20.0,
-   "opened": "2026-11-24T05:31:25"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Jensen Huang publicly testify before Congress by December 31, 2026?",
-   "side": "N",
-   "entry_price": 0.19,
-   "importo": 20.0,
-   "opened": "2026-11-24T05:31:25"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $58,000 on November 25?",
    "side": "Y",
@@ -427,14 +435,6 @@
    "entry_price": 0.19,
    "importo": 20.0,
    "opened": "2026-11-24T05:31:25"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Ulf Kristersson be the next Prime Minister of Sweden?",
-   "side": "Y",
-   "entry_price": 0.679,
-   "importo": 20.0,
-   "opened": "2026-11-24T05:14:25"
   },
   {
    "rule_id": "84fb9952fb",
@@ -534,6 +534,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Jensen Huang publicly testify before Congress by December 31, 2026?",
+   "side": "Y",
+   "entry_price": 0.83,
+   "exit_price": 0.92,
+   "pnl": 2.1687,
+   "closed": "2026-11-25T05:36:00",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Jensen Huang publicly testify before Congress by December 31, 2026?",
+   "side": "N",
+   "entry_price": 0.19,
+   "exit_price": 0.07,
+   "pnl": -12.6316,
+   "closed": "2026-11-25T05:36:00",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Ulf Kristersson be the next Prime Minister of Sweden?",
+   "side": "Y",
+   "entry_price": 0.679,
+   "exit_price": 0.746,
+   "pnl": 1.9735,
+   "closed": "2026-11-25T05:19:11",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Ulf Kristersson be the next Prime Minister of Sweden?",
@@ -903,36 +933,6 @@
    "pnl": -20.0,
    "closed": "2026-11-24T19:56:14",
    "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Spread: FK Bodø/Glimt (-1.5)",
-   "side": "N",
-   "entry_price": 0.47,
-   "exit_price": 1.0,
-   "pnl": 22.5532,
-   "closed": "2026-11-24T19:56:14",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will \"Raw: 2026 - November 16, 2026\" be the #2 US Netflix show this week?",
-   "side": "Y",
-   "entry_price": 0.931,
-   "exit_price": 0.99,
-   "pnl": 1.2675,
-   "closed": "2026-11-24T19:56:13",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will Bitcoin dip to $50,000 in November?",
-   "side": "Y",
-   "entry_price": 0.118,
-   "exit_price": 0.08,
-   "pnl": -6.4407,
-   "closed": "2026-11-24T19:56:12",
-   "motivo": "uscita a tempo 72h"
   }
  ]
 }
