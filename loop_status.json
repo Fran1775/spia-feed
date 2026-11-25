@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T19:37:01",
+ "generated_at": "2026-11-25T20:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 169,
-   "aperti": 8,
-   "pnl": -61.2,
-   "rend_medio_pct": -1.81,
-   "t": -0.59,
-   "rend40_pct": 0.32,
-   "t40": 0.05
+   "chiusi": 170,
+   "aperti": 9,
+   "pnl": -59.94,
+   "rend_medio_pct": -1.76,
+   "t": -0.58,
+   "rend40_pct": -0.27,
+   "t40": -0.04
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 146,
+   "chiusi": 147,
    "aperti": 15,
-   "pnl": 31.76,
-   "rend_medio_pct": 1.09,
+   "pnl": 32.55,
+   "rend_medio_pct": 1.11,
    "t": 0.18,
-   "rend40_pct": -3.41,
-   "t40": -0.3
+   "rend40_pct": -3.89,
+   "t40": -0.34
   },
   {
    "id": "84fb9952fb",
@@ -84,6 +84,22 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Spread: Knicks (-2.5)",
+   "side": "N",
+   "entry_price": 0.53,
+   "importo": 20.0,
+   "opened": "2026-11-25T19:43:43"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Valorant: Joblife vs WIP Esports (BO3) - VCT EMEA Kickoff: Europe - Qualifier Swiss Stage",
+   "side": "Y",
+   "entry_price": 0.79,
+   "importo": 20.0,
+   "opened": "2026-11-25T19:43:43"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $58,000 on November 27?",
@@ -397,14 +413,6 @@
    "opened": "2026-11-24T20:13:11"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will 4 Jensen Huang affairs be reported by December 31?",
-   "side": "Y",
-   "entry_price": 0.51,
-   "importo": 20.0,
-   "opened": "2026-11-24T19:39:25"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will TheBurntPeanut finish GTA VI by November 26?",
    "side": "Y",
@@ -510,6 +518,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 25, 2:00PM-3:00PM ET",
+   "side": "Y",
+   "entry_price": 0.94,
+   "exit_price": 0.999,
+   "pnl": 1.2553,
+   "closed": "2026-11-25T20:00:41",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will 4 Jensen Huang affairs be reported by December 31?",
+   "side": "Y",
+   "entry_price": 0.51,
+   "exit_price": 0.53,
+   "pnl": 0.7843,
+   "closed": "2026-11-25T19:43:43",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Dota 2: Spirit Academy vs angry birds (BO3) - European Pro League Playoffs",
@@ -888,26 +916,6 @@
    "exit_price": 0.993,
    "pnl": 3.3647,
    "closed": "2026-11-25T15:50:32",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $56,000 on November 25?",
-   "side": "Y",
-   "entry_price": 0.811,
-   "exit_price": 0.987,
-   "pnl": 4.3403,
-   "closed": "2026-11-25T15:50:30",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Ryvex vs LVLT (BO3) - European Pro League Series 11 Closed Qualifier Group C",
-   "side": "Y",
-   "entry_price": 0.943,
-   "exit_price": 0.999,
-   "pnl": 1.1877,
-   "closed": "2026-11-25T15:34:04",
    "motivo": "prezzo a fine corsa"
   }
  ]
