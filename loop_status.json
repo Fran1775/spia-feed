@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T04:37:01",
+ "generated_at": "2026-11-25T05:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 143,
-   "aperti": 10,
+   "aperti": 11,
    "pnl": -44.25,
    "rend_medio_pct": -1.55,
    "t": -0.47,
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 171,
+   "chiusi": 172,
    "aperti": 15,
-   "pnl": 107.01,
-   "rend_medio_pct": 3.13,
+   "pnl": 108.87,
+   "rend_medio_pct": 3.16,
    "t": 0.34,
-   "rend40_pct": -0.71,
-   "t40": -0.05
+   "rend40_pct": -0.51,
+   "t40": -0.04
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Counter-Strike: GOSH vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
+   "side": "Y",
+   "entry_price": 0.83,
+   "importo": 20.0,
+   "opened": "2026-11-25T05:02:40"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Johnny Chiang win the next Taichung Mayor election?",
+   "side": "Y",
+   "entry_price": 0.83,
+   "importo": 20.0,
+   "opened": "2026-11-25T05:02:40"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Jon Ossoff Democratic nomination odds leader on December 31?",
@@ -429,14 +445,6 @@
    "opened": "2026-11-24T05:14:25"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Ulf Kristersson be the next Prime Minister of Sweden?",
-   "side": "Y",
-   "entry_price": 0.679,
-   "importo": 20.0,
-   "opened": "2026-11-24T04:57:58"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will the San Francisco 49ers win the 2027 NFL league championship?",
    "side": "Y",
@@ -526,6 +534,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Ulf Kristersson be the next Prime Minister of Sweden?",
+   "side": "Y",
+   "entry_price": 0.679,
+   "exit_price": 0.742,
+   "pnl": 1.8557,
+   "closed": "2026-11-25T05:02:39",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Yokohama: Niels McDonald vs Luca Staeheli",
@@ -915,16 +933,6 @@
    "pnl": -6.4407,
    "closed": "2026-11-24T19:56:12",
    "motivo": "uscita a tempo 72h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Galatasaray SK vs. Aston Villa FC: O/U 3.5",
-   "side": "N",
-   "entry_price": 0.63,
-   "exit_price": 0.999,
-   "pnl": 11.7143,
-   "closed": "2026-11-24T19:39:25",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
