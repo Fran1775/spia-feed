@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T05:37:02",
+ "generated_at": "2026-11-25T06:07:02",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 143,
-   "aperti": 11,
+   "aperti": 12,
    "pnl": -44.25,
    "rend_medio_pct": -1.55,
    "t": -0.47,
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Ethereum be above $1,600 on November 25?",
+   "side": "Y",
+   "entry_price": 0.904,
+   "importo": 20.0,
+   "opened": "2026-11-25T05:52:46"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Yokohama: Kasidit Samrej vs Ognjen Milic",
