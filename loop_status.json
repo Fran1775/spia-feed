@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T07:37:01",
+ "generated_at": "2026-11-25T08:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -74,16 +74,24 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 176,
+   "chiusi": 177,
    "aperti": 15,
-   "pnl": 58.06,
-   "rend_medio_pct": 1.65,
+   "pnl": 56.86,
+   "rend_medio_pct": 1.61,
    "t": 0.18,
-   "rend40_pct": -14.95,
-   "t40": -1.11
+   "rend40_pct": -12.6,
+   "t40": -0.95
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Elon Musk post 40-64 tweets from November 23 to November 25, 2026?",
+   "side": "Y",
+   "entry_price": 0.74,
+   "importo": 20.0,
+   "opened": "2026-11-25T08:04:19"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will Bitcoin reach $62,500 in November?",
@@ -405,14 +413,6 @@
    "opened": "2026-11-24T16:17:24"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the average Ornn B300 rental price in January 2027 be above $12.00?",
-   "side": "N",
-   "entry_price": 0.67,
-   "importo": 20.0,
-   "opened": "2026-11-24T07:59:52"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "US-Iran Hormuz Agreement by December 31?",
    "side": "Y",
@@ -542,6 +542,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn B300 rental price in January 2027 be above $12.00?",
+   "side": "N",
+   "entry_price": 0.67,
+   "exit_price": 0.63,
+   "pnl": -1.1941,
+   "closed": "2026-11-25T08:04:18",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $3.00?",
@@ -929,16 +939,6 @@
    "entry_price": 0.8,
    "exit_price": 0.999,
    "pnl": 4.975,
-   "closed": "2026-11-24T20:30:45",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Dota 2: PuckChamp vs Zero Tenacity (BO3) - European Pro League Playoffs",
-   "side": "Y",
-   "entry_price": 0.6,
-   "exit_price": 0.999,
-   "pnl": 13.3,
    "closed": "2026-11-24T20:30:45",
    "motivo": "prezzo a fine corsa"
   }
