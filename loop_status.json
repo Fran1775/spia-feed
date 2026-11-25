@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T06:07:02",
+ "generated_at": "2026-11-25T06:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 127,
+   "chiusi": 129,
    "aperti": 15,
-   "pnl": 78.03,
-   "rend_medio_pct": 3.07,
-   "t": 0.46,
-   "rend40_pct": -2.32,
-   "t40": -0.18
+   "pnl": 82.7,
+   "rend_medio_pct": 3.21,
+   "t": 0.49,
+   "rend40_pct": -4.29,
+   "t40": -0.35
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,40 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 173,
+   "chiusi": 174,
    "aperti": 15,
-   "pnl": 96.24,
-   "rend_medio_pct": 2.78,
-   "t": 0.3,
-   "rend40_pct": -2.04,
-   "t40": -0.14
+   "pnl": 76.24,
+   "rend_medio_pct": 2.19,
+   "t": 0.24,
+   "rend40_pct": -5.39,
+   "t40": -0.36
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Javokhir Sindarov win the 2026 World Chess Championship?",
+   "side": "N",
+   "entry_price": 0.27,
+   "importo": 20.0,
+   "opened": "2026-11-25T06:09:33"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post 65-89 tweets from November 23 to November 25, 2026?",
+   "side": "N",
+   "entry_price": 0.77,
+   "importo": 20.0,
+   "opened": "2026-11-25T06:09:33"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Ethereum Up or Down on November 25?",
+   "side": "N",
+   "entry_price": 0.65,
+   "importo": 20.0,
+   "opened": "2026-11-25T06:09:33"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Ethereum be above $1,600 on November 25?",
@@ -173,14 +197,6 @@
    "opened": "2026-11-25T02:17:30"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Mavericks vs. Nuggets: O/U 234.5",
-   "side": "N",
-   "entry_price": 0.51,
-   "importo": 20.0,
-   "opened": "2026-11-24T22:10:53"
-  },
-  {
    "rule_id": "a042d572b3",
    "market_nome": "Will the price of Bitcoin be above $58,000 on November 25?",
    "side": "Y",
@@ -201,14 +217,6 @@
    "market_nome": "Jensen Huang announced resignation or removal again by March 31, 2027?",
    "side": "N",
    "entry_price": 0.87,
-   "importo": 20.0,
-   "opened": "2026-11-24T21:53:52"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Mavericks vs. Nuggets: O/U 234.5",
-   "side": "Y",
-   "entry_price": 0.5,
    "importo": 20.0,
    "opened": "2026-11-24T21:53:52"
   },
@@ -421,14 +429,6 @@
    "opened": "2026-11-24T06:21:06"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Kimberly Powell announced resignation or removal by November 30, 2026?",
-   "side": "Y",
-   "entry_price": 0.22,
-   "importo": 20.0,
-   "opened": "2026-11-24T06:04:34"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $58,000 on November 25?",
    "side": "Y",
@@ -542,6 +542,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Mavericks vs. Nuggets: O/U 234.5",
+   "side": "Y",
+   "entry_price": 0.5,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-25T06:09:32",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Mavericks vs. Nuggets: O/U 234.5",
+   "side": "N",
+   "entry_price": 0.51,
+   "exit_price": 1.0,
+   "pnl": 19.2157,
+   "closed": "2026-11-25T06:09:32",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Kimberly Powell announced resignation or removal by November 30, 2026?",
+   "side": "Y",
+   "entry_price": 0.22,
+   "exit_price": 0.06,
+   "pnl": -14.5455,
+   "closed": "2026-11-25T06:09:31",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will Jensen Huang publicly testify before Congress by December 31, 2026?",
@@ -911,36 +941,6 @@
    "pnl": 10.2727,
    "closed": "2026-11-24T20:13:11",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Galatasaray SK vs. Aston Villa FC: O/U 1.5",
-   "side": "Y",
-   "entry_price": 0.86,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-24T20:13:10",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Galatasaray SK vs. Aston Villa FC: O/U 1.5",
-   "side": "Y",
-   "entry_price": 0.85,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-24T20:13:10",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Spread: FK Bodø/Glimt (-1.5)",
-   "side": "Y",
-   "entry_price": 0.54,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-24T19:56:14",
-   "motivo": "risoluzione"
   }
  ]
 }
