@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T01:37:01",
+ "generated_at": "2026-11-25T02:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 138,
-   "aperti": 12,
+   "aperti": 13,
    "pnl": -61.24,
    "rend_medio_pct": -2.22,
    "t": -0.66,
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Ethereum dip to $1,650 on November 24?",
+   "side": "Y",
+   "entry_price": 0.64,
+   "importo": 20.0,
+   "opened": "2026-11-25T02:01:16"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Pistons vs. Magic",
