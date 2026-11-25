@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T22:07:01",
+ "generated_at": "2026-11-25T22:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 174,
-   "aperti": 9,
-   "pnl": -68.86,
-   "rend_medio_pct": -1.98,
-   "t": -0.66,
-   "rend40_pct": 0.23,
-   "t40": 0.04
+   "chiusi": 175,
+   "aperti": 8,
+   "pnl": -64.79,
+   "rend_medio_pct": -1.85,
+   "t": -0.62,
+   "rend40_pct": 0.52,
+   "t40": 0.08
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 152,
+   "chiusi": 153,
    "aperti": 15,
-   "pnl": -8.22,
-   "rend_medio_pct": -0.27,
-   "t": -0.04,
-   "rend40_pct": -12.03,
-   "t40": -1.04
+   "pnl": 0.74,
+   "rend_medio_pct": 0.02,
+   "t": 0.0,
+   "rend40_pct": -8.45,
+   "t40": -0.74
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,40 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 195,
+   "chiusi": 197,
    "aperti": 15,
-   "pnl": -33.54,
-   "rend_medio_pct": -0.86,
-   "t": -0.1,
-   "rend40_pct": -19.08,
-   "t40": -1.48
+   "pnl": -72.69,
+   "rend_medio_pct": -1.84,
+   "t": -0.22,
+   "rend40_pct": -21.75,
+   "t40": -1.66
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Spread: Spurs (-2.5)",
+   "side": "Y",
+   "entry_price": 0.55,
+   "importo": 20.0,
+   "opened": "2026-11-25T22:30:27"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Spread: Spurs (-2.5)",
+   "side": "Y",
+   "entry_price": 0.55,
+   "importo": 20.0,
+   "opened": "2026-11-25T22:13:52"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Netanyahu out by end of 2026?",
+   "side": "Y",
+   "entry_price": 0.59,
+   "importo": 20.0,
+   "opened": "2026-11-25T22:13:52"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Timberwolves vs. Thunder",
@@ -97,22 +121,6 @@
    "market_nome": "Timberwolves vs. Thunder",
    "side": "Y",
    "entry_price": 0.46,
-   "importo": 20.0,
-   "opened": "2026-11-25T21:57:24"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: ENCELADE vs Young27 (BO3) - CCT Europe Contenders #11 Playoffs",
-   "side": "Y",
-   "entry_price": 0.83,
-   "importo": 20.0,
-   "opened": "2026-11-25T21:57:24"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Counter-Strike: Grêmio Esports vs Rush (BO3) - Gamers Club Liga Série A Playoffs",
-   "side": "Y",
-   "entry_price": 0.69,
    "importo": 20.0,
    "opened": "2026-11-25T21:57:24"
   },
@@ -253,14 +261,6 @@
    "opened": "2026-11-25T17:30:38"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Fenerbahçe SK win on 2026-11-25?",
-   "side": "N",
-   "entry_price": 0.64,
-   "importo": 20.0,
-   "opened": "2026-11-25T16:57:11"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "Marco Rubio out as Secretary of State by March 31, 2027?",
    "side": "N",
@@ -307,14 +307,6 @@
    "entry_price": 0.47,
    "importo": 20.0,
    "opened": "2026-11-25T15:01:00"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Sporting CP win on 2026-11-25?",
-   "side": "Y",
-   "entry_price": 0.37,
-   "importo": 20.0,
-   "opened": "2026-11-25T14:10:46"
   },
   {
    "rule_id": "924891e0f0",
@@ -518,6 +510,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Counter-Strike: Grêmio Esports vs Rush (BO3) - Gamers Club Liga Série A Playoffs",
+   "side": "Y",
+   "entry_price": 0.69,
+   "exit_price": 0.999,
+   "pnl": 8.9565,
+   "closed": "2026-11-25T22:30:27",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: ENCELADE vs Young27 (BO3) - CCT Europe Contenders #11 Playoffs",
+   "side": "Y",
+   "entry_price": 0.83,
+   "exit_price": 0.999,
+   "pnl": 4.0723,
+   "closed": "2026-11-25T22:13:52",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Sporting CP win on 2026-11-25?",
+   "side": "Y",
+   "entry_price": 0.37,
+   "exit_price": 0.01,
+   "pnl": -19.4595,
+   "closed": "2026-11-25T22:13:51",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Fenerbahçe SK win on 2026-11-25?",
+   "side": "N",
+   "entry_price": 0.64,
+   "exit_price": 0.01,
+   "pnl": -19.6875,
+   "closed": "2026-11-25T22:13:51",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Buenos Aires: Ipek Oz vs Julia Riera",
@@ -877,46 +909,6 @@
    "pnl": 2.6501,
    "closed": "2026-11-25T17:30:38",
    "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 25?",
-   "side": "N",
-   "entry_price": 0.403,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-25T17:30:38",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 25?",
-   "side": "Y",
-   "entry_price": 0.874,
-   "exit_price": 1.0,
-   "pnl": 2.8833,
-   "closed": "2026-11-25T17:30:37",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.70?",
-   "side": "Y",
-   "entry_price": 0.74,
-   "exit_price": 0.73,
-   "pnl": -0.2703,
-   "closed": "2026-11-25T17:30:37",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.70?",
-   "side": "Y",
-   "entry_price": 0.74,
-   "exit_price": 0.73,
-   "pnl": -0.2703,
-   "closed": "2026-11-25T17:30:37",
-   "motivo": "uscita a tempo 24h"
   }
  ]
 }
