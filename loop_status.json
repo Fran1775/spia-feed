@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T19:07:01",
+ "generated_at": "2026-11-25T19:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 163,
-   "aperti": 12,
-   "pnl": -57.56,
-   "rend_medio_pct": -1.77,
-   "t": -0.57,
-   "rend40_pct": -3.25,
-   "t40": -0.49
+   "chiusi": 169,
+   "aperti": 8,
+   "pnl": -61.2,
+   "rend_medio_pct": -1.81,
+   "t": -0.59,
+   "rend40_pct": 0.32,
+   "t40": 0.05
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 145,
+   "chiusi": 146,
    "aperti": 15,
-   "pnl": 24.36,
-   "rend_medio_pct": 0.84,
-   "t": 0.14,
-   "rend40_pct": -6.8,
-   "t40": -0.59
+   "pnl": 31.76,
+   "rend_medio_pct": 1.09,
+   "t": 0.18,
+   "rend40_pct": -3.41,
+   "t40": -0.3
   },
   {
    "id": "84fb9952fb",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 43,
+   "chiusi": 44,
    "aperti": 15,
-   "pnl": -5.15,
-   "rend_medio_pct": -0.6,
-   "t": -0.04,
-   "rend40_pct": -4.47,
-   "t40": -0.31
+   "pnl": -8.09,
+   "rend_medio_pct": -0.92,
+   "t": -0.06,
+   "rend40_pct": -2.38,
+   "t40": -0.17
   },
   {
    "id": "a042d572b3",
@@ -74,23 +74,55 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 187,
+   "chiusi": 190,
    "aperti": 15,
-   "pnl": -3.62,
-   "rend_medio_pct": -0.1,
-   "t": -0.01,
-   "rend40_pct": -19.35,
-   "t40": -1.45
+   "pnl": -35.88,
+   "rend_medio_pct": -0.94,
+   "t": -0.11,
+   "rend40_pct": -26.17,
+   "t40": -2.08
   }
  ],
  "aperte": [
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 25, 1:00PM-2:00PM ET",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 27?",
    "side": "Y",
-   "entry_price": 0.86,
+   "entry_price": 0.84,
    "importo": 20.0,
-   "opened": "2026-11-25T18:53:37"
+   "opened": "2026-11-25T19:27:16"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Packers vs. Rams",
+   "side": "Y",
+   "entry_price": 0.44,
+   "importo": 20.0,
+   "opened": "2026-11-25T19:27:15"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.90?",
+   "side": "N",
+   "entry_price": 0.47,
+   "importo": 20.0,
+   "opened": "2026-11-25T19:27:15"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Spread: Knicks (-3.5)",
+   "side": "Y",
+   "entry_price": 0.46,
+   "importo": 20.0,
+   "opened": "2026-11-25T19:10:25"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "San Salvador: Blaise Bicknell vs Theodore Dean",
+   "side": "N",
+   "entry_price": 0.44,
+   "importo": 20.0,
+   "opened": "2026-11-25T19:10:25"
   },
   {
    "rule_id": "924891e0f0",
@@ -142,14 +174,6 @@
   },
   {
    "rule_id": "a042d572b3",
-   "market_nome": "Sabah FK vs. FC Barcelona: O/U 2.5",
-   "side": "N",
-   "entry_price": 0.13,
-   "importo": 20.0,
-   "opened": "2026-11-25T17:30:38"
-  },
-  {
-   "rule_id": "a042d572b3",
    "market_nome": "Marco Rubio out as Secretary of State by March 31, 2027?",
    "side": "N",
    "entry_price": 0.8,
@@ -174,27 +198,11 @@
   },
   {
    "rule_id": "924891e0f0",
-   "market_nome": "Counter-Strike: Nordic Partners Gaming  vs Donstu Esports - Map 1 Winner",
-   "side": "N",
-   "entry_price": 0.73,
-   "importo": 20.0,
-   "opened": "2026-11-25T16:57:11"
-  },
-  {
-   "rule_id": "924891e0f0",
    "market_nome": "Will the price of Bitcoin be above $58,000 on November 26?",
    "side": "N",
    "entry_price": 0.402,
    "importo": 20.0,
    "opened": "2026-11-25T16:57:11"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Nordic Partners Gaming  vs Donstu Esports - Map 1 Winner",
-   "side": "Y",
-   "entry_price": 0.84,
-   "importo": 20.0,
-   "opened": "2026-11-25T16:40:22"
   },
   {
    "rule_id": "924891e0f0",
@@ -221,14 +229,6 @@
    "opened": "2026-11-25T15:50:32"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Sabah FK vs. FC Barcelona: O/U 2.5",
-   "side": "Y",
-   "entry_price": 0.87,
-   "importo": 20.0,
-   "opened": "2026-11-25T15:34:05"
-  },
-  {
    "rule_id": "a042d572b3",
    "market_nome": "Heat vs. 76ers",
    "side": "Y",
@@ -245,14 +245,6 @@
    "opened": "2026-11-25T14:10:46"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Spread: FC Barcelona (-1.5)",
-   "side": "Y",
-   "entry_price": 0.8,
-   "importo": 20.0,
-   "opened": "2026-11-25T13:04:10"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "Will Bitcoin reach $62,500 in November?",
    "side": "N",
@@ -265,14 +257,6 @@
    "market_nome": "Will the average Ornn B300 rental price in December 2026 be above $12.00?",
    "side": "Y",
    "entry_price": 0.33,
-   "importo": 20.0,
-   "opened": "2026-11-25T07:14:59"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will FC Barcelona win on 2026-11-25?",
-   "side": "N",
-   "entry_price": 0.1,
    "importo": 20.0,
    "opened": "2026-11-25T07:14:59"
   },
@@ -501,14 +485,6 @@
    "opened": "2026-11-23T04:40:57"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will FC Barcelona win on 2026-11-25?",
-   "side": "Y",
-   "entry_price": 0.92,
-   "importo": 20.0,
-   "opened": "2026-11-23T01:39:40"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will AI solve 0 more Millennium Prize Problems in 2026?",
    "side": "Y",
@@ -525,14 +501,6 @@
    "opened": "2026-11-22T20:49:48"
   },
   {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will AI solve the Riemann Hypothesis in 2026?",
-   "side": "Y",
-   "entry_price": 0.75,
-   "importo": 20.0,
-   "opened": "2026-11-22T19:19:09"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Club Atlético de Madrid win on 2026-11-25?",
    "side": "Y",
@@ -542,6 +510,116 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Spirit Academy vs angry birds (BO3) - European Pro League Playoffs",
+   "side": "Y",
+   "entry_price": 0.81,
+   "exit_price": 0.98,
+   "pnl": 4.1976,
+   "closed": "2026-11-25T19:27:15",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Dota 2: Spirit Academy vs angry birds (BO3) - European Pro League Playoffs",
+   "side": "Y",
+   "entry_price": 0.81,
+   "exit_price": 0.98,
+   "pnl": 4.1976,
+   "closed": "2026-11-25T19:27:15",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will AI solve the Riemann Hypothesis in 2026?",
+   "side": "Y",
+   "entry_price": 0.75,
+   "exit_price": 0.64,
+   "pnl": -2.9333,
+   "closed": "2026-11-25T19:27:14",
+   "motivo": "uscita a tempo 72h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Counter-Strike: Nordic Partners Gaming  vs Donstu Esports - Map 1 Winner",
+   "side": "N",
+   "entry_price": 0.73,
+   "exit_price": 1.0,
+   "pnl": 7.3973,
+   "closed": "2026-11-25T19:10:25",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Sabah FK vs. FC Barcelona: O/U 2.5",
+   "side": "N",
+   "entry_price": 0.13,
+   "exit_price": 0.01,
+   "pnl": -18.4615,
+   "closed": "2026-11-25T19:10:25",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 25, 1:00PM-2:00PM ET",
+   "side": "Y",
+   "entry_price": 0.86,
+   "exit_price": 1.0,
+   "pnl": 3.2558,
+   "closed": "2026-11-25T19:10:25",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will FC Barcelona win on 2026-11-25?",
+   "side": "N",
+   "entry_price": 0.1,
+   "exit_price": 0.01,
+   "pnl": -18.0,
+   "closed": "2026-11-25T19:10:24",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Spread: FC Barcelona (-1.5)",
+   "side": "Y",
+   "entry_price": 0.8,
+   "exit_price": 0.98,
+   "pnl": 4.5,
+   "closed": "2026-11-25T19:10:24",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Sabah FK vs. FC Barcelona: O/U 2.5",
+   "side": "Y",
+   "entry_price": 0.87,
+   "exit_price": 0.99,
+   "pnl": 2.7586,
+   "closed": "2026-11-25T19:10:24",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Nordic Partners Gaming  vs Donstu Esports - Map 1 Winner",
+   "side": "Y",
+   "entry_price": 0.84,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-25T19:10:24",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will FC Barcelona win on 2026-11-25?",
+   "side": "Y",
+   "entry_price": 0.92,
+   "exit_price": 0.996,
+   "pnl": 1.6521,
+   "closed": "2026-11-25T19:10:23",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.80?",
@@ -830,116 +908,6 @@
    "exit_price": 0.999,
    "pnl": 1.1877,
    "closed": "2026-11-25T15:34:04",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Butterfly vs Lunacy Team (BO3) - CCT Europe Series #15 Group Stage",
-   "side": "Y",
-   "entry_price": 0.89,
-   "exit_price": 0.01,
-   "pnl": -19.7753,
-   "closed": "2026-11-25T15:17:37",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "M15 Sharm ElSheikh: Vladimir Osminkin vs Artem Alekseychuk",
-   "side": "Y",
-   "entry_price": 0.73,
-   "exit_price": 0.01,
-   "pnl": -19.726,
-   "closed": "2026-11-25T15:01:00",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Elon Musk post 40-64 tweets from November 23 to November 25, 2026?",
-   "side": "Y",
-   "entry_price": 0.53,
-   "exit_price": 0.01,
-   "pnl": -19.6226,
-   "closed": "2026-11-25T14:10:46",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Elon Musk post 40-64 tweets from November 23 to November 25, 2026?",
-   "side": "Y",
-   "entry_price": 0.74,
-   "exit_price": 0.01,
-   "pnl": -19.7297,
-   "closed": "2026-11-25T14:10:46",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Ankara: Diego Dedura-Palomero vs Oleg Prihodko",
-   "side": "N",
-   "entry_price": 0.51,
-   "exit_price": 0.01,
-   "pnl": -19.6078,
-   "closed": "2026-11-25T13:53:44",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: GOSH vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.83,
-   "exit_price": 0.01,
-   "pnl": -19.759,
-   "closed": "2026-11-25T13:20:36",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: GOSH vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.83,
-   "exit_price": 0.01,
-   "pnl": -19.759,
-   "closed": "2026-11-25T13:20:35",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.896,
-   "exit_price": 0.999,
-   "pnl": 2.2991,
-   "closed": "2026-11-25T12:47:44",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: NIP vs Liquid - Map 2 Winner",
-   "side": "Y",
-   "entry_price": 0.82,
-   "exit_price": 0.999,
-   "pnl": 4.3658,
-   "closed": "2026-11-25T12:47:44",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Prodigies vs Esport Academy Copenhagen (BO3) - United21 Group C",
-   "side": "Y",
-   "entry_price": 0.92,
-   "exit_price": 0.999,
-   "pnl": 1.7174,
-   "closed": "2026-11-25T11:57:47",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: NIP vs Liquid - Map 1 Winner",
-   "side": "Y",
-   "entry_price": 0.82,
-   "exit_price": 0.999,
-   "pnl": 4.3658,
-   "closed": "2026-11-25T11:41:05",
    "motivo": "prezzo a fine corsa"
   }
  ]
