@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T18:07:01",
+ "generated_at": "2026-11-25T18:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 143,
+   "chiusi": 144,
    "aperti": 15,
-   "pnl": 10.04,
-   "rend_medio_pct": 0.35,
-   "t": 0.06,
-   "rend40_pct": -11.08,
-   "t40": -0.95
+   "pnl": 26.36,
+   "rend_medio_pct": 0.92,
+   "t": 0.15,
+   "rend40_pct": -8.99,
+   "t40": -0.76
   },
   {
    "id": "84fb9952fb",
@@ -85,6 +85,14 @@
  ],
  "aperte": [
   {
+   "rule_id": "924891e0f0",
+   "market_nome": "Spread: Knicks (-3.5)",
+   "side": "N",
+   "entry_price": 0.55,
+   "importo": 20.0,
+   "opened": "2026-11-25T18:20:32"
+  },
+  {
    "rule_id": "2a906fe26e",
    "market_nome": "Counter-Strike: Nordic Partners Gaming  vs Donstu Esports - Map 2 Winner",
    "side": "Y",
@@ -95,14 +103,6 @@
   {
    "rule_id": "a042d572b3",
    "market_nome": "Cavaliers vs. Knicks",
-   "side": "N",
-   "entry_price": 0.55,
-   "importo": 20.0,
-   "opened": "2026-11-25T17:47:10"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Counter-Strike: Nordic Partners Gaming  vs Donstu Esports (BO3) - CCT Europe Closed Qualifier: Series #16 Group B",
    "side": "N",
    "entry_price": 0.55,
    "importo": 20.0,
@@ -535,6 +535,16 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "924891e0f0",
+   "market_nome": "Counter-Strike: Nordic Partners Gaming  vs Donstu Esports (BO3) - CCT Europe Closed Qualifier: Series #16 Group B",
+   "side": "N",
+   "entry_price": 0.55,
+   "exit_price": 0.999,
+   "pnl": 16.3272,
+   "closed": "2026-11-25T18:20:32",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "2a906fe26e",
    "market_nome": "Bitcoin Up or Down - November 25, 12:00PM-1:00PM ET",
    "side": "Y",
@@ -922,16 +932,6 @@
    "exit_price": 0.01,
    "pnl": -19.7561,
    "closed": "2026-11-25T11:07:53",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: 9z vs DENDELE CS (BO3) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.83,
-   "exit_price": 0.999,
-   "pnl": 4.0723,
-   "closed": "2026-11-25T10:00:37",
    "motivo": "prezzo a fine corsa"
   }
  ]
