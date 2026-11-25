@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T11:37:02",
+ "generated_at": "2026-11-25T12:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 148,
-   "aperti": 14,
-   "pnl": -54.49,
-   "rend_medio_pct": -1.84,
-   "t": -0.57,
-   "rend40_pct": -1.11,
-   "t40": -0.18
+   "chiusi": 150,
+   "aperti": 13,
+   "pnl": -48.4,
+   "rend_medio_pct": -1.61,
+   "t": -0.5,
+   "rend40_pct": -0.88,
+   "t40": -0.14
   },
   {
    "id": "924891e0f0",
@@ -86,19 +86,11 @@
  "aperte": [
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Prodigies vs Esport Academy Copenhagen (BO3) - United21 Group C",
+   "market_nome": "Will the price of Bitcoin be above $54,000 on November 26?",
    "side": "Y",
-   "entry_price": 0.92,
+   "entry_price": 0.947,
    "importo": 20.0,
-   "opened": "2026-11-25T11:24:24"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: NIP vs Liquid - Map 1 Winner",
-   "side": "Y",
-   "entry_price": 0.82,
-   "importo": 20.0,
-   "opened": "2026-11-25T11:24:23"
+   "opened": "2026-11-25T11:41:06"
   },
   {
    "rule_id": "a042d572b3",
@@ -560,6 +552,26 @@
  "ultime_chiuse": [
   {
    "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Prodigies vs Esport Academy Copenhagen (BO3) - United21 Group C",
+   "side": "Y",
+   "entry_price": 0.92,
+   "exit_price": 0.999,
+   "pnl": 1.7174,
+   "closed": "2026-11-25T11:57:47",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: NIP vs Liquid - Map 1 Winner",
+   "side": "Y",
+   "entry_price": 0.82,
+   "exit_price": 0.999,
+   "pnl": 4.3658,
+   "closed": "2026-11-25T11:41:05",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
    "market_nome": "Counter-Strike: GOSH vs Chinggis Warriors - Map 1 Winner",
    "side": "Y",
    "entry_price": 0.82,
@@ -936,26 +948,6 @@
    "exit_price": 0.999,
    "pnl": 16.3272,
    "closed": "2026-11-24T21:53:52",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Exact Score: Any Other Score?",
-   "side": "N",
-   "entry_price": 0.51,
-   "exit_price": 0.44,
-   "pnl": -2.7451,
-   "closed": "2026-11-24T21:53:51",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Real Madrid CF win on 2026-11-24?",
-   "side": "Y",
-   "entry_price": 0.85,
-   "exit_price": 0.999,
-   "pnl": 3.5059,
-   "closed": "2026-11-24T21:53:51",
    "motivo": "prezzo a fine corsa"
   }
  ]
