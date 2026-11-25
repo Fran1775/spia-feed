@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T04:07:01",
+ "generated_at": "2026-11-25T04:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 142,
-   "aperti": 11,
-   "pnl": -45.99,
-   "rend_medio_pct": -1.62,
-   "t": -0.49,
-   "rend40_pct": 1.57,
-   "t40": 0.28
+   "chiusi": 143,
+   "aperti": 10,
+   "pnl": -44.25,
+   "rend_medio_pct": -1.55,
+   "t": -0.47,
+   "rend40_pct": 1.63,
+   "t40": 0.29
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 124,
+   "chiusi": 125,
    "aperti": 15,
-   "pnl": 66.49,
-   "rend_medio_pct": 2.68,
-   "t": 0.39,
-   "rend40_pct": -6.11,
-   "t40": -0.46
+   "pnl": 73.89,
+   "rend_medio_pct": 2.96,
+   "t": 0.44,
+   "rend40_pct": -2.77,
+   "t40": -0.21
   },
   {
    "id": "84fb9952fb",
@@ -85,6 +85,14 @@
  ],
  "aperte": [
   {
+   "rule_id": "924891e0f0",
+   "market_nome": "Jon Ossoff Democratic nomination odds leader on December 31?",
+   "side": "N",
+   "entry_price": 0.25,
+   "importo": 20.0,
+   "opened": "2026-11-25T04:12:54"
+  },
+  {
    "rule_id": "a042d572b3",
    "market_nome": "Marco Rubio out as Secretary of State by December 31, 2026?",
    "side": "N",
@@ -93,26 +101,10 @@
    "opened": "2026-11-25T03:56:18"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 24, 10:00PM-11:00PM ET",
-   "side": "Y",
-   "entry_price": 0.92,
-   "importo": 20.0,
-   "opened": "2026-11-25T03:39:45"
-  },
-  {
    "rule_id": "a042d572b3",
    "market_nome": "Packers vs. Rams",
    "side": "Y",
    "entry_price": 0.45,
-   "importo": 20.0,
-   "opened": "2026-11-25T03:23:05"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Yokohama: Niels McDonald vs Luca Staeheli",
-   "side": "N",
-   "entry_price": 0.73,
    "importo": 20.0,
    "opened": "2026-11-25T03:23:05"
   },
@@ -535,6 +527,26 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "924891e0f0",
+   "market_nome": "Yokohama: Niels McDonald vs Luca Staeheli",
+   "side": "N",
+   "entry_price": 0.73,
+   "exit_price": 1.0,
+   "pnl": 7.3973,
+   "closed": "2026-11-25T04:12:54",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 24, 10:00PM-11:00PM ET",
+   "side": "Y",
+   "entry_price": 0.92,
+   "exit_price": 1.0,
+   "pnl": 1.7391,
+   "closed": "2026-11-25T04:12:54",
+   "motivo": "risoluzione"
+  },
+  {
    "rule_id": "a042d572b3",
    "market_nome": "Playford: Hiroki Moriya vs Matthew Dellavedova",
    "side": "N",
@@ -912,26 +924,6 @@
    "exit_price": 0.999,
    "pnl": 11.7143,
    "closed": "2026-11-24T19:39:25",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Jensen Huang admits to another affair with a woman by December 31?",
-   "side": "Y",
-   "entry_price": 0.29,
-   "exit_price": 0.718,
-   "pnl": 29.5172,
-   "closed": "2026-11-24T19:39:23",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "San Salvador: Juan Sebastian Osorio vs Oliver Bonding",
-   "side": "Y",
-   "entry_price": 0.56,
-   "exit_price": 0.01,
-   "pnl": -19.6429,
-   "closed": "2026-11-24T18:31:55",
    "motivo": "prezzo a fine corsa"
   }
  ]
