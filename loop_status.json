@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T15:07:01",
+ "generated_at": "2026-11-25T15:37:02",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 153,
+   "chiusi": 155,
    "aperti": 15,
-   "pnl": -61.5,
-   "rend_medio_pct": -2.01,
-   "t": -0.62,
-   "rend40_pct": -3.23,
-   "t40": -0.49
+   "pnl": -80.08,
+   "rend_medio_pct": -2.58,
+   "t": -0.8,
+   "rend40_pct": -6.09,
+   "t40": -0.87
   },
   {
    "id": "924891e0f0",
@@ -85,6 +85,14 @@
  ],
  "aperte": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Sabah FK vs. FC Barcelona: O/U 2.5",
+   "side": "Y",
+   "entry_price": 0.87,
+   "importo": 20.0,
+   "opened": "2026-11-25T15:34:05"
+  },
+  {
    "rule_id": "a042d572b3",
    "market_nome": "Heat vs. 76ers",
    "side": "Y",
@@ -113,14 +121,6 @@
    "market_nome": "Will Elon Musk post 65-89 tweets from November 23 to November 25, 2026?",
    "side": "Y",
    "entry_price": 0.85,
-   "importo": 20.0,
-   "opened": "2026-11-25T13:53:44"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Butterfly vs Lunacy Team (BO3) - CCT Europe Series #15 Group Stage",
-   "side": "Y",
-   "entry_price": 0.89,
    "importo": 20.0,
    "opened": "2026-11-25T13:53:44"
   },
@@ -567,6 +567,26 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Ryvex vs LVLT (BO3) - European Pro League Series 11 Closed Qualifier Group C",
+   "side": "Y",
+   "entry_price": 0.943,
+   "exit_price": 0.999,
+   "pnl": 1.1877,
+   "closed": "2026-11-25T15:34:04",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Butterfly vs Lunacy Team (BO3) - CCT Europe Series #15 Group Stage",
+   "side": "Y",
+   "entry_price": 0.89,
+   "exit_price": 0.01,
+   "pnl": -19.7753,
+   "closed": "2026-11-25T15:17:37",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "a042d572b3",
    "market_nome": "M15 Sharm ElSheikh: Vladimir Osminkin vs Artem Alekseychuk",
    "side": "Y",
@@ -944,26 +964,6 @@
    "exit_price": 0.997,
    "pnl": 16.2545,
    "closed": "2026-11-25T02:17:29",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Jensen Huang admits to another affair with a woman by December 31?",
-   "side": "Y",
-   "entry_price": 0.806,
-   "exit_price": 0.999,
-   "pnl": 4.7891,
-   "closed": "2026-11-24T23:16:13",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Jensen Huang admits to another affair with a woman by December 31?",
-   "side": "N",
-   "entry_price": 0.208,
-   "exit_price": 0.01,
-   "pnl": -19.0385,
-   "closed": "2026-11-24T23:16:13",
    "motivo": "prezzo a fine corsa"
   }
  ]
