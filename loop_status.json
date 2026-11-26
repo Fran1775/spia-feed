@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T19:07:01",
+ "generated_at": "2026-11-26T19:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 199,
+   "chiusi": 201,
    "aperti": 15,
-   "pnl": -45.07,
-   "rend_medio_pct": -1.13,
-   "t": -0.41,
-   "rend40_pct": 2.89,
-   "t40": 0.53
+   "pnl": -37.12,
+   "rend_medio_pct": -0.92,
+   "t": -0.34,
+   "rend40_pct": 2.94,
+   "t40": 0.54
   },
   {
    "id": "924891e0f0",
@@ -74,16 +74,40 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 216,
+   "chiusi": 217,
    "aperti": 15,
-   "pnl": -75.23,
-   "rend_medio_pct": -1.74,
-   "t": -0.22,
-   "rend40_pct": -16.66,
+   "pnl": -76.93,
+   "rend_medio_pct": -1.77,
+   "t": -0.23,
+   "rend40_pct": -16.72,
    "t40": -1.38
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be between $60,000 and $62,000 on November 27?",
+   "side": "N",
+   "entry_price": 0.47,
+   "importo": 20.0,
+   "opened": "2026-11-26T19:32:42"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Lir vs Spirit Academy - Map 1 Winner",
+   "side": "Y",
+   "entry_price": 0.9,
+   "importo": 20.0,
+   "opened": "2026-11-26T19:32:42"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Valorant: Mandatory vs MIR (BO3) - VCT EMEA Kickoff: Europe - Qualifier Swiss Stage",
+   "side": "Y",
+   "entry_price": 0.81,
+   "importo": 20.0,
+   "opened": "2026-11-26T19:15:15"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Juventus FC win on 2026-11-26?",
@@ -161,14 +185,6 @@
    "market_nome": "Will the average Ornn B200 rental price in January 2027 be above $8.50?",
    "side": "Y",
    "entry_price": 0.74,
-   "importo": 20.0,
-   "opened": "2026-11-26T16:39:45"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will AFC Ajax win on 2026-11-26?",
-   "side": "Y",
-   "entry_price": 0.8,
    "importo": 20.0,
    "opened": "2026-11-26T16:39:45"
   },
@@ -437,14 +453,6 @@
    "opened": "2026-11-26T02:42:31"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will FC Red Bull Salzburg win on 2026-11-26?",
-   "side": "Y",
-   "entry_price": 0.86,
-   "importo": 20.0,
-   "opened": "2026-11-26T02:25:25"
-  },
-  {
    "rule_id": "a042d572b3",
    "market_nome": "Netanyahu out by end of 2026?",
    "side": "Y",
@@ -467,14 +475,6 @@
    "entry_price": 0.84,
    "importo": 20.0,
    "opened": "2026-11-25T19:27:16"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.90?",
-   "side": "N",
-   "entry_price": 0.47,
-   "importo": 20.0,
-   "opened": "2026-11-25T19:27:15"
   },
   {
    "rule_id": "2a906fe26e",
@@ -566,6 +566,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will AFC Ajax win on 2026-11-26?",
+   "side": "Y",
+   "entry_price": 0.8,
+   "exit_price": 0.999,
+   "pnl": 4.975,
+   "closed": "2026-11-26T19:32:42",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.90?",
+   "side": "N",
+   "entry_price": 0.47,
+   "exit_price": 0.43,
+   "pnl": -1.7021,
+   "closed": "2026-11-26T19:32:41",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will FC Red Bull Salzburg win on 2026-11-26?",
+   "side": "Y",
+   "entry_price": 0.86,
+   "exit_price": 0.988,
+   "pnl": 2.9767,
+   "closed": "2026-11-26T19:15:13",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Brighton & Hove Albion FC win on 2026-11-26?",
@@ -935,36 +965,6 @@
    "pnl": -20.0,
    "closed": "2026-11-26T06:07:08",
    "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Spread: Spurs (-2.5)",
-   "side": "Y",
-   "entry_price": 0.55,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-26T06:07:08",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Variational launch a token by December 31, 2026?",
-   "side": "N",
-   "entry_price": 0.472,
-   "exit_price": 0.324,
-   "pnl": -6.2712,
-   "closed": "2026-11-26T05:50:10",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Spread: Warriors (-7.5)",
-   "side": "Y",
-   "entry_price": 0.54,
-   "exit_price": 0.999,
-   "pnl": 17.0,
-   "closed": "2026-11-26T05:33:11",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
