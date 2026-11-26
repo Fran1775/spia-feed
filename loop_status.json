@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T18:37:01",
+ "generated_at": "2026-11-26T19:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 197,
+   "chiusi": 199,
    "aperti": 15,
-   "pnl": -51.83,
-   "rend_medio_pct": -1.32,
-   "t": -0.47,
-   "rend40_pct": 2.57,
-   "t40": 0.47
+   "pnl": -45.07,
+   "rend_medio_pct": -1.13,
+   "t": -0.41,
+   "rend40_pct": 2.89,
+   "t40": 0.53
   },
   {
    "id": "924891e0f0",
@@ -85,6 +85,22 @@
  ],
  "aperte": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Juventus FC win on 2026-11-26?",
+   "side": "Y",
+   "entry_price": 0.83,
+   "importo": 20.0,
+   "opened": "2026-11-26T18:40:43"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Lai Jui-lung win the next Kaohsiung Mayor election?",
+   "side": "Y",
+   "entry_price": 0.81,
+   "importo": 20.0,
+   "opened": "2026-11-26T18:40:42"
+  },
+  {
    "rule_id": "924891e0f0",
    "market_nome": "Florianopolis: Joaquin Aguilar vs Genaro Alberto Olivieri",
    "side": "Y",
@@ -133,14 +149,6 @@
    "opened": "2026-11-26T17:14:06"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "FC Viktoria Plzeň vs. Sport Lisboa e Benfica: O/U 1.5",
-   "side": "Y",
-   "entry_price": 0.83,
-   "importo": 20.0,
-   "opened": "2026-11-26T17:14:06"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "Will the average Ornn B200 rental price in March 2027 be above $8.00?",
    "side": "Y",
@@ -177,14 +185,6 @@
    "market_nome": "Bears vs. Lions",
    "side": "N",
    "entry_price": 0.5,
-   "importo": 20.0,
-   "opened": "2026-11-26T15:49:23"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Brighton & Hove Albion FC win on 2026-11-26?",
-   "side": "Y",
-   "entry_price": 0.88,
    "importo": 20.0,
    "opened": "2026-11-26T15:49:23"
   },
@@ -567,6 +567,26 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Brighton & Hove Albion FC win on 2026-11-26?",
+   "side": "Y",
+   "entry_price": 0.88,
+   "exit_price": 0.998,
+   "pnl": 2.6818,
+   "closed": "2026-11-26T18:40:42",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "FC Viktoria Plzeň vs. Sport Lisboa e Benfica: O/U 1.5",
+   "side": "Y",
+   "entry_price": 0.83,
+   "exit_price": 0.999,
+   "pnl": 4.0723,
+   "closed": "2026-11-26T18:40:42",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "924891e0f0",
    "market_nome": "International League T20: Abu Dhabi Knight Riders vs Mi Emirates",
    "side": "N",
@@ -943,26 +963,6 @@
    "entry_price": 0.54,
    "exit_price": 0.999,
    "pnl": 17.0,
-   "closed": "2026-11-26T05:33:11",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Spread: Warriors (-7.5)",
-   "side": "N",
-   "entry_price": 0.46,
-   "exit_price": 0.01,
-   "pnl": -19.5652,
-   "closed": "2026-11-26T05:33:11",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Spread: Warriors (-6.5)",
-   "side": "Y",
-   "entry_price": 0.59,
-   "exit_price": 0.999,
-   "pnl": 13.8644,
    "closed": "2026-11-26T05:33:11",
    "motivo": "prezzo a fine corsa"
   }
