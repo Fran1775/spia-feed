@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T22:07:01",
+ "generated_at": "2026-11-26T22:37:02",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -74,16 +74,24 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 219,
+   "chiusi": 220,
    "aperti": 15,
-   "pnl": -91.8,
-   "rend_medio_pct": -2.1,
-   "t": -0.27,
-   "rend40_pct": -13.66,
-   "t40": -1.14
+   "pnl": -85.36,
+   "rend_medio_pct": -1.94,
+   "t": -0.25,
+   "rend40_pct": -10.39,
+   "t40": -0.88
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "San Salvador: Lucas Da Silva vs Diego Duran",
+   "side": "Y",
+   "entry_price": 0.289,
+   "importo": 20.0,
+   "opened": "2026-11-26T22:23:00"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Israel x Iran ceasefire continues through November 30?",
@@ -437,14 +445,6 @@
    "opened": "2026-11-26T02:42:31"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Netanyahu out by end of 2026?",
-   "side": "Y",
-   "entry_price": 0.59,
-   "importo": 20.0,
-   "opened": "2026-11-25T22:13:52"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Chang San-cheng win the next Taoyuan Mayor election?",
    "side": "Y",
@@ -550,6 +550,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Netanyahu out by end of 2026?",
+   "side": "Y",
+   "entry_price": 0.59,
+   "exit_price": 0.78,
+   "pnl": 6.4407,
+   "closed": "2026-11-26T22:22:59",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Olympique Lyonnais win on 2026-11-26?",
@@ -938,16 +948,6 @@
    "exit_price": 0.006,
    "pnl": -19.7015,
    "closed": "2026-11-26T13:34:22",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 26?",
-   "side": "Y",
-   "entry_price": 0.905,
-   "exit_price": 0.991,
-   "pnl": 1.9005,
-   "closed": "2026-11-26T13:34:21",
    "motivo": "prezzo a fine corsa"
   }
  ]
