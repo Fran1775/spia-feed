@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T05:07:01",
+ "generated_at": "2026-11-26T05:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 178,
-   "aperti": 12,
-   "pnl": -59.24,
-   "rend_medio_pct": -1.66,
+   "chiusi": 179,
+   "aperti": 13,
+   "pnl": -58.68,
+   "rend_medio_pct": -1.64,
    "t": -0.56,
-   "rend40_pct": 0.25,
-   "t40": 0.04
+   "rend40_pct": -0.28,
+   "t40": -0.05
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 159,
+   "chiusi": 161,
    "aperti": 15,
-   "pnl": -96.12,
-   "rend_medio_pct": -3.02,
-   "t": -0.51,
-   "rend40_pct": -20.77,
-   "t40": -1.97
+   "pnl": -65.25,
+   "rend_medio_pct": -2.03,
+   "t": -0.34,
+   "rend40_pct": -16.13,
+   "t40": -1.51
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,56 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 207,
+   "chiusi": 208,
    "aperti": 15,
-   "pnl": -25.65,
-   "rend_medio_pct": -0.62,
-   "t": -0.08,
-   "rend40_pct": -15.92,
-   "t40": -1.28
+   "pnl": -45.22,
+   "rend_medio_pct": -1.09,
+   "t": -0.14,
+   "rend40_pct": -20.4,
+   "t40": -1.65
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Alberto Núñez Feijóo be the next Prime Minister of Spain?",
+   "side": "N",
+   "entry_price": 0.12,
+   "importo": 20.0,
+   "opened": "2026-11-26T05:33:12"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Su Chiao-hui win the next New Taipei Mayor election?",
+   "side": "Y",
+   "entry_price": 0.72,
+   "importo": 20.0,
+   "opened": "2026-11-26T05:33:12"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $11.00?",
+   "side": "N",
+   "entry_price": 0.77,
+   "importo": 20.0,
+   "opened": "2026-11-26T05:33:12"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the highest temperature in Seoul (Incheon) be 15°C on November 26?",
+   "side": "Y",
+   "entry_price": 0.91,
+   "importo": 20.0,
+   "opened": "2026-11-26T05:33:12"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Alberto Núñez Feijóo be the next Prime Minister of Spain?",
+   "side": "Y",
+   "entry_price": 0.89,
+   "importo": 20.0,
+   "opened": "2026-11-26T05:16:00"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Bitcoin reach $62,500 in November?",
@@ -206,14 +246,6 @@
   },
   {
    "rule_id": "924891e0f0",
-   "market_nome": "Spread: Warriors (-6.5)",
-   "side": "Y",
-   "entry_price": 0.59,
-   "importo": 20.0,
-   "opened": "2026-11-26T02:59:48"
-  },
-  {
-   "rule_id": "924891e0f0",
    "market_nome": "Will Bitcoin reach $64,000 November 23-29?",
    "side": "Y",
    "entry_price": 0.29,
@@ -223,14 +255,6 @@
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will Chiang Wan-an win the next Taipei Mayor election?",
-   "side": "N",
-   "entry_price": 0.46,
-   "importo": 20.0,
-   "opened": "2026-11-26T02:59:47"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Spread: Warriors (-7.5)",
    "side": "N",
    "entry_price": 0.46,
    "importo": 20.0,
@@ -275,14 +299,6 @@
    "entry_price": 0.81,
    "importo": 20.0,
    "opened": "2026-11-26T01:51:09"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Spread: Warriors (-7.5)",
-   "side": "Y",
-   "entry_price": 0.54,
-   "importo": 20.0,
-   "opened": "2026-11-26T00:42:54"
   },
   {
    "rule_id": "924891e0f0",
@@ -526,14 +542,6 @@
   },
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $54,000 on November 27?",
-   "side": "Y",
-   "entry_price": 0.963,
-   "importo": 20.0,
-   "opened": "2026-11-23T21:14:32"
-  },
-  {
-   "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $58,000 on November 26?",
    "side": "Y",
    "entry_price": 0.905,
@@ -542,6 +550,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Spread: Warriors (-7.5)",
+   "side": "Y",
+   "entry_price": 0.54,
+   "exit_price": 0.999,
+   "pnl": 17.0,
+   "closed": "2026-11-26T05:33:11",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Spread: Warriors (-7.5)",
+   "side": "N",
+   "entry_price": 0.46,
+   "exit_price": 0.01,
+   "pnl": -19.5652,
+   "closed": "2026-11-26T05:33:11",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Spread: Warriors (-6.5)",
+   "side": "Y",
+   "entry_price": 0.59,
+   "exit_price": 0.999,
+   "pnl": 13.8644,
+   "closed": "2026-11-26T05:33:11",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $54,000 on November 27?",
+   "side": "Y",
+   "entry_price": 0.963,
+   "exit_price": 0.99,
+   "pnl": 0.5607,
+   "closed": "2026-11-26T05:15:57",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Packers vs. Rams: O/U 44.5",
@@ -900,46 +948,6 @@
    "exit_price": 0.992,
    "pnl": 2.8046,
    "closed": "2026-11-25T21:41:07",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 25, 3:00PM-4:00PM ET",
-   "side": "Y",
-   "entry_price": 0.87,
-   "exit_price": 1.0,
-   "pnl": 2.9885,
-   "closed": "2026-11-25T21:07:33",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
-   "side": "Y",
-   "entry_price": 0.763,
-   "exit_price": 0.734,
-   "pnl": -0.7602,
-   "closed": "2026-11-25T20:51:03",
-   "motivo": "uscita a tempo 72h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "San Salvador: Blaise Bicknell vs Theodore Dean",
-   "side": "N",
-   "entry_price": 0.44,
-   "exit_price": 0.01,
-   "pnl": -19.5455,
-   "closed": "2026-11-25T20:34:32",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "San Salvador: Blaise Bicknell vs Theodore Dean",
-   "side": "Y",
-   "entry_price": 0.43,
-   "exit_price": 0.999,
-   "pnl": 26.4651,
-   "closed": "2026-11-25T20:34:32",
    "motivo": "prezzo a fine corsa"
   }
  ]
