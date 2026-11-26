@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T09:07:01",
+ "generated_at": "2026-11-26T09:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 180,
-   "aperti": 15,
-   "pnl": -57.27,
-   "rend_medio_pct": -1.59,
-   "t": -0.54,
-   "rend40_pct": 0.3,
-   "t40": 0.05
+   "chiusi": 181,
+   "aperti": 14,
+   "pnl": -56.24,
+   "rend_medio_pct": -1.55,
+   "t": -0.53,
+   "rend40_pct": -0.97,
+   "t40": -0.16
   },
   {
    "id": "924891e0f0",
@@ -509,14 +509,6 @@
    "opened": "2026-11-24T21:03:53"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will TheBurntPeanut finish GTA VI by November 26?",
-   "side": "Y",
-   "entry_price": 0.95,
-   "importo": 20.0,
-   "opened": "2026-11-24T16:17:25"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "US-Iran Hormuz Agreement by December 31?",
    "side": "Y",
@@ -566,6 +558,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will TheBurntPeanut finish GTA VI by November 26?",
+   "side": "Y",
+   "entry_price": 0.95,
+   "exit_price": 0.999,
+   "pnl": 1.0315,
+   "closed": "2026-11-26T09:36:22",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will the average Ornn B300 rental price in December 2026 be above $12.00?",
@@ -953,16 +955,6 @@
    "entry_price": 0.37,
    "exit_price": 0.01,
    "pnl": -19.4595,
-   "closed": "2026-11-25T22:13:51",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Fenerbahçe SK win on 2026-11-25?",
-   "side": "N",
-   "entry_price": 0.64,
-   "exit_price": 0.01,
-   "pnl": -19.6875,
    "closed": "2026-11-25T22:13:51",
    "motivo": "prezzo a fine corsa"
   }
