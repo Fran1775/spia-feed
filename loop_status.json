@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T21:07:01",
+ "generated_at": "2026-11-26T21:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -74,16 +74,24 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 217,
+   "chiusi": 218,
    "aperti": 15,
-   "pnl": -76.93,
-   "rend_medio_pct": -1.77,
-   "t": -0.23,
-   "rend40_pct": -16.72,
+   "pnl": -96.77,
+   "rend_medio_pct": -2.22,
+   "t": -0.29,
+   "rend40_pct": -16.74,
    "t40": -1.38
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Buenos Aires: Sofia Costoulas vs Varvara Lepchenko",
+   "side": "N",
+   "entry_price": 0.8,
+   "importo": 20.0,
+   "opened": "2026-11-26T21:32:14"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will Bitcoin dip to $58,000 November 23-29?",
@@ -195,14 +203,6 @@
    "entry_price": 0.75,
    "importo": 20.0,
    "opened": "2026-11-26T16:06:09"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Bears vs. Lions",
-   "side": "N",
-   "entry_price": 0.5,
-   "importo": 20.0,
-   "opened": "2026-11-26T15:49:23"
   },
   {
    "rule_id": "2a906fe26e",
@@ -566,6 +566,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Bears vs. Lions",
+   "side": "N",
+   "entry_price": 0.5,
+   "exit_price": 0.004,
+   "pnl": -19.84,
+   "closed": "2026-11-26T21:32:13",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will Beşiktaş JK win on 2026-11-26?",
@@ -953,16 +963,6 @@
    "entry_price": 0.33,
    "exit_price": 0.32,
    "pnl": -0.606,
-   "closed": "2026-11-26T07:19:34",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin reach $62,500 in November?",
-   "side": "N",
-   "entry_price": 0.61,
-   "exit_price": 0.44,
-   "pnl": -5.5738,
    "closed": "2026-11-26T07:19:34",
    "motivo": "uscita a tempo 24h"
   }
