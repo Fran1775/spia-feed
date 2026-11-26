@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T02:37:01",
+ "generated_at": "2026-11-26T03:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 177,
+   "chiusi": 178,
    "aperti": 10,
-   "pnl": -62.23,
-   "rend_medio_pct": -1.76,
-   "t": -0.59,
-   "rend40_pct": 0.12,
-   "t40": 0.02
+   "pnl": -59.24,
+   "rend_medio_pct": -1.66,
+   "t": -0.56,
+   "rend40_pct": 0.25,
+   "t40": 0.04
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 154,
+   "chiusi": 157,
    "aperti": 15,
-   "pnl": -18.92,
-   "rend_medio_pct": -0.61,
-   "t": -0.1,
-   "rend40_pct": -13.38,
-   "t40": -1.18
+   "pnl": -78.09,
+   "rend_medio_pct": -2.49,
+   "t": -0.42,
+   "rend40_pct": -19.56,
+   "t40": -1.82
   },
   {
    "id": "84fb9952fb",
@@ -74,23 +74,71 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 198,
+   "chiusi": 201,
    "aperti": 15,
-   "pnl": -92.27,
-   "rend_medio_pct": -2.33,
-   "t": -0.28,
-   "rend40_pct": -28.47,
-   "t40": -2.31
+   "pnl": -51.29,
+   "rend_medio_pct": -1.28,
+   "t": -0.16,
+   "rend40_pct": -26.97,
+   "t40": -2.27
   }
  ],
  "aperte": [
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 25, 9:15PM-9:30PM ET",
+   "rule_id": "924891e0f0",
+   "market_nome": "Spread: Warriors (-6.5)",
    "side": "Y",
-   "entry_price": 0.87,
+   "entry_price": 0.59,
    "importo": 20.0,
-   "opened": "2026-11-26T02:25:25"
+   "opened": "2026-11-26T02:59:48"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin reach $64,000 November 23-29?",
+   "side": "Y",
+   "entry_price": 0.29,
+   "importo": 20.0,
+   "opened": "2026-11-26T02:59:48"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Chiang Wan-an win the next Taipei Mayor election?",
+   "side": "N",
+   "entry_price": 0.46,
+   "importo": 20.0,
+   "opened": "2026-11-26T02:59:47"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Spread: Warriors (-7.5)",
+   "side": "N",
+   "entry_price": 0.46,
+   "importo": 20.0,
+   "opened": "2026-11-26T02:59:47"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin reach $62,500 in November?",
+   "side": "Y",
+   "entry_price": 0.61,
+   "importo": 20.0,
+   "opened": "2026-11-26T02:59:47"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Real Madrid CF win on 2026-11-28?",
+   "side": "Y",
+   "entry_price": 0.88,
+   "importo": 20.0,
+   "opened": "2026-11-26T02:42:32"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Chiang Wan-an win the next Taipei Mayor election?",
+   "side": "N",
+   "entry_price": 0.46,
+   "importo": 20.0,
+   "opened": "2026-11-26T02:42:31"
   },
   {
    "rule_id": "2a906fe26e",
@@ -181,14 +229,6 @@
    "opened": "2026-11-25T21:41:09"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Bulls vs. Hornets: O/U 221.5",
-   "side": "Y",
-   "entry_price": 0.44,
-   "importo": 20.0,
-   "opened": "2026-11-25T21:41:09"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Bitcoin Up or Down on November 26?",
    "side": "Y",
@@ -245,30 +285,6 @@
    "opened": "2026-11-25T19:27:15"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Spread: Knicks (-3.5)",
-   "side": "Y",
-   "entry_price": 0.46,
-   "importo": 20.0,
-   "opened": "2026-11-25T19:10:25"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Spread: Knicks (-3.5)",
-   "side": "N",
-   "entry_price": 0.55,
-   "importo": 20.0,
-   "opened": "2026-11-25T18:20:32"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Cavaliers vs. Knicks",
-   "side": "N",
-   "entry_price": 0.55,
-   "importo": 20.0,
-   "opened": "2026-11-25T17:47:10"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "Will the average Ornn H100 rental price in December 2026 be above $3.10?",
    "side": "Y",
@@ -323,14 +339,6 @@
    "entry_price": 0.55,
    "importo": 20.0,
    "opened": "2026-11-25T16:23:20"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Cavaliers vs. Knicks",
-   "side": "Y",
-   "entry_price": 0.43,
-   "importo": 20.0,
-   "opened": "2026-11-25T15:50:32"
   },
   {
    "rule_id": "924891e0f0",
@@ -395,14 +403,6 @@
    "entry_price": 0.45,
    "importo": 20.0,
    "opened": "2026-11-25T03:23:05"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.40?",
-   "side": "Y",
-   "entry_price": 0.33,
-   "importo": 20.0,
-   "opened": "2026-11-25T02:33:48"
   },
   {
    "rule_id": "84fb9952fb",
@@ -526,6 +526,76 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Bulls vs. Hornets: O/U 221.5",
+   "side": "Y",
+   "entry_price": 0.44,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-26T02:59:47",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Cavaliers vs. Knicks",
+   "side": "N",
+   "entry_price": 0.55,
+   "exit_price": 0.999,
+   "pnl": 16.3272,
+   "closed": "2026-11-26T02:59:46",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Spread: Knicks (-3.5)",
+   "side": "N",
+   "entry_price": 0.55,
+   "exit_price": 0.01,
+   "pnl": -19.6364,
+   "closed": "2026-11-26T02:59:46",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Spread: Knicks (-3.5)",
+   "side": "Y",
+   "entry_price": 0.46,
+   "exit_price": 0.999,
+   "pnl": 23.4348,
+   "closed": "2026-11-26T02:59:46",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Cavaliers vs. Knicks",
+   "side": "Y",
+   "entry_price": 0.43,
+   "exit_price": 0.01,
+   "pnl": -19.5349,
+   "closed": "2026-11-26T02:59:45",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 25, 9:15PM-9:30PM ET",
+   "side": "Y",
+   "entry_price": 0.87,
+   "exit_price": 1.0,
+   "pnl": 2.9885,
+   "closed": "2026-11-26T02:42:31",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.40?",
+   "side": "Y",
+   "entry_price": 0.33,
+   "exit_price": 0.35,
+   "pnl": 1.2121,
+   "closed": "2026-11-26T02:42:29",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $56,000 on November 26?",
@@ -855,76 +925,6 @@
    "pnl": 3.2558,
    "closed": "2026-11-25T19:10:25",
    "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will FC Barcelona win on 2026-11-25?",
-   "side": "N",
-   "entry_price": 0.1,
-   "exit_price": 0.01,
-   "pnl": -18.0,
-   "closed": "2026-11-25T19:10:24",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Spread: FC Barcelona (-1.5)",
-   "side": "Y",
-   "entry_price": 0.8,
-   "exit_price": 0.98,
-   "pnl": 4.5,
-   "closed": "2026-11-25T19:10:24",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Sabah FK vs. FC Barcelona: O/U 2.5",
-   "side": "Y",
-   "entry_price": 0.87,
-   "exit_price": 0.99,
-   "pnl": 2.7586,
-   "closed": "2026-11-25T19:10:24",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Nordic Partners Gaming  vs Donstu Esports - Map 1 Winner",
-   "side": "Y",
-   "entry_price": 0.84,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-25T19:10:24",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will FC Barcelona win on 2026-11-25?",
-   "side": "Y",
-   "entry_price": 0.92,
-   "exit_price": 0.996,
-   "pnl": 1.6521,
-   "closed": "2026-11-25T19:10:23",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.80?",
-   "side": "Y",
-   "entry_price": 0.7,
-   "exit_price": 0.63,
-   "pnl": -2.0,
-   "closed": "2026-11-25T18:37:07",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Counter-Strike: Nordic Partners Gaming  vs Donstu Esports (BO3) - CCT Europe Closed Qualifier: Series #16 Group B",
-   "side": "N",
-   "entry_price": 0.55,
-   "exit_price": 0.999,
-   "pnl": 16.3272,
-   "closed": "2026-11-25T18:20:32",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
