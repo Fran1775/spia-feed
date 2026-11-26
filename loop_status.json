@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T01:37:02",
+ "generated_at": "2026-11-26T02:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 176,
-   "aperti": 8,
+   "aperti": 9,
    "pnl": -63.72,
    "rend_medio_pct": -1.81,
    "t": -0.61,
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the highest temperature in Paris be 5°C on November 26?",
+   "side": "Y",
+   "entry_price": 0.81,
+   "importo": 20.0,
+   "opened": "2026-11-26T01:51:09"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Packers vs. Rams: O/U 44.5",
