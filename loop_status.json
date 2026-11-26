@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T13:07:01",
+ "generated_at": "2026-11-26T13:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 184,
+   "chiusi": 185,
    "aperti": 15,
-   "pnl": -48.27,
-   "rend_medio_pct": -1.31,
-   "t": -0.46,
-   "rend40_pct": -0.81,
-   "t40": -0.14
+   "pnl": -46.37,
+   "rend_medio_pct": -1.25,
+   "t": -0.44,
+   "rend40_pct": -1.08,
+   "t40": -0.18
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 164,
+   "chiusi": 165,
    "aperti": 15,
-   "pnl": -97.1,
-   "rend_medio_pct": -2.96,
-   "t": -0.51,
-   "rend40_pct": -20.45,
-   "t40": -1.89
+   "pnl": -116.8,
+   "rend_medio_pct": -3.54,
+   "t": -0.61,
+   "rend40_pct": -23.84,
+   "t40": -2.19
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,40 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 211,
+   "chiusi": 212,
    "aperti": 15,
-   "pnl": -68.05,
-   "rend_medio_pct": -1.61,
+   "pnl": -67.01,
+   "rend_medio_pct": -1.58,
    "t": -0.2,
-   "rend40_pct": -21.88,
-   "t40": -1.79
+   "rend40_pct": -21.98,
+   "t40": -1.8
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Counter-Strike: Imperial vs Liquid - Map 2 Winner",
+   "side": "N",
+   "entry_price": 0.72,
+   "importo": 20.0,
+   "opened": "2026-11-26T13:34:23"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Counter-Strike: Imperial vs Liquid - Map 2 Winner",
+   "side": "N",
+   "entry_price": 0.72,
+   "importo": 20.0,
+   "opened": "2026-11-26T13:34:23"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: 1win vs Team Liquid - Game 1 Winner",
+   "side": "Y",
+   "entry_price": 0.84,
+   "importo": 20.0,
+   "opened": "2026-11-26T13:34:23"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Counter-Strike: Wildcard vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
@@ -269,14 +293,6 @@
    "opened": "2026-11-26T04:08:05"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 26?",
-   "side": "Y",
-   "entry_price": 0.942,
-   "importo": 20.0,
-   "opened": "2026-11-26T03:33:58"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the Fear & Greed Index be 24 or below on November 27?",
    "side": "Y",
@@ -446,14 +462,6 @@
   },
   {
    "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 26?",
-   "side": "N",
-   "entry_price": 0.402,
-   "importo": 20.0,
-   "opened": "2026-11-25T16:57:11"
-  },
-  {
-   "rule_id": "924891e0f0",
    "market_nome": "Will Elon Musk post 280-299 tweets from November 20 to November 27, 2026?",
    "side": "Y",
    "entry_price": 0.33,
@@ -555,17 +563,39 @@
    "entry_price": 0.194,
    "importo": 20.0,
    "opened": "2026-11-24T04:41:50"
+  }
+ ],
+ "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 26?",
+   "side": "Y",
+   "entry_price": 0.942,
+   "exit_price": 0.991,
+   "pnl": 1.0403,
+   "closed": "2026-11-26T13:34:23",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 26?",
+   "side": "N",
+   "entry_price": 0.402,
+   "exit_price": 0.006,
+   "pnl": -19.7015,
+   "closed": "2026-11-26T13:34:22",
+   "motivo": "prezzo a fine corsa"
   },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $58,000 on November 26?",
    "side": "Y",
    "entry_price": 0.905,
-   "importo": 20.0,
-   "opened": "2026-11-23T17:03:39"
-  }
- ],
- "ultime_chiuse": [
+   "exit_price": 0.991,
+   "pnl": 1.9005,
+   "closed": "2026-11-26T13:34:21",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Dota 2: GamerLegion vs Aurora (BO3) - BLAST Slam Playoffs",
@@ -934,36 +964,6 @@
    "exit_price": 0.99,
    "pnl": 1.0638,
    "closed": "2026-11-26T01:00:19",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Spread: 76ers (-2.5)",
-   "side": "N",
-   "entry_price": 0.59,
-   "exit_price": 0.01,
-   "pnl": -19.661,
-   "closed": "2026-11-26T00:42:53",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Heat vs. 76ers",
-   "side": "Y",
-   "entry_price": 0.52,
-   "exit_price": 0.01,
-   "pnl": -19.6154,
-   "closed": "2026-11-26T00:42:53",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Heat vs. 76ers",
-   "side": "Y",
-   "entry_price": 0.47,
-   "exit_price": 0.01,
-   "pnl": -19.5745,
-   "closed": "2026-11-26T00:42:52",
    "motivo": "prezzo a fine corsa"
   }
  ]
