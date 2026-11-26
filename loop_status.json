@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T13:37:01",
+ "generated_at": "2026-11-26T14:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 165,
+   "chiusi": 166,
    "aperti": 15,
-   "pnl": -116.8,
-   "rend_medio_pct": -3.54,
-   "t": -0.61,
-   "rend40_pct": -23.84,
-   "t40": -2.19
+   "pnl": -109.05,
+   "rend_medio_pct": -3.28,
+   "t": -0.57,
+   "rend40_pct": -23.11,
+   "t40": -2.11
   },
   {
    "id": "84fb9952fb",
@@ -74,31 +74,31 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 212,
+   "chiusi": 213,
    "aperti": 15,
-   "pnl": -67.01,
-   "rend_medio_pct": -1.58,
-   "t": -0.2,
-   "rend40_pct": -21.98,
-   "t40": -1.8
+   "pnl": -59.26,
+   "rend_medio_pct": -1.39,
+   "t": -0.18,
+   "rend40_pct": -19.44,
+   "t40": -1.58
   }
  ],
  "aperte": [
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Counter-Strike: Imperial vs Liquid - Map 2 Winner",
+   "rule_id": "a042d572b3",
+   "market_nome": "Counter-Strike: Wildcard vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
    "side": "N",
-   "entry_price": 0.72,
+   "entry_price": 0.069,
    "importo": 20.0,
-   "opened": "2026-11-26T13:34:23"
+   "opened": "2026-11-26T13:51:16"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: Imperial vs Liquid - Map 2 Winner",
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $7.00?",
    "side": "N",
-   "entry_price": 0.72,
+   "entry_price": 0.39,
    "importo": 20.0,
-   "opened": "2026-11-26T13:34:23"
+   "opened": "2026-11-26T13:51:16"
   },
   {
    "rule_id": "2a906fe26e",
@@ -567,6 +567,26 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "924891e0f0",
+   "market_nome": "Counter-Strike: Imperial vs Liquid - Map 2 Winner",
+   "side": "N",
+   "entry_price": 0.72,
+   "exit_price": 0.999,
+   "pnl": 7.75,
+   "closed": "2026-11-26T13:51:16",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Counter-Strike: Imperial vs Liquid - Map 2 Winner",
+   "side": "N",
+   "entry_price": 0.72,
+   "exit_price": 0.999,
+   "pnl": 7.75,
+   "closed": "2026-11-26T13:51:16",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "a042d572b3",
    "market_nome": "Will the price of Bitcoin be above $58,000 on November 26?",
    "side": "Y",
@@ -945,26 +965,6 @@
    "pnl": 1.2121,
    "closed": "2026-11-26T02:42:29",
    "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $56,000 on November 26?",
-   "side": "Y",
-   "entry_price": 0.922,
-   "exit_price": 0.991,
-   "pnl": 1.4968,
-   "closed": "2026-11-26T02:25:22",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 25, 7:00PM-8:00PM ET",
-   "side": "Y",
-   "entry_price": 0.94,
-   "exit_price": 0.99,
-   "pnl": 1.0638,
-   "closed": "2026-11-26T01:00:19",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
