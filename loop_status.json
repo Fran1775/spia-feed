@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T16:07:01",
+ "generated_at": "2026-11-26T16:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 190,
+   "chiusi": 191,
    "aperti": 15,
-   "pnl": -54.43,
-   "rend_medio_pct": -1.43,
-   "t": -0.51,
-   "rend40_pct": -0.75,
-   "t40": -0.13
+   "pnl": -49.46,
+   "rend_medio_pct": -1.29,
+   "t": -0.46,
+   "rend40_pct": -0.42,
+   "t40": -0.07
   },
   {
    "id": "924891e0f0",
@@ -86,6 +86,14 @@
  "aperte": [
   {
    "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: NAVI Junior vs STATE (BO3) - United21 Group D",
+   "side": "Y",
+   "entry_price": 0.9,
+   "importo": 20.0,
+   "opened": "2026-11-26T16:22:46"
+  },
+  {
+   "rule_id": "2a906fe26e",
    "market_nome": "Dota 2: Team Yandex vs GamerLegion (BO3) - BLAST Slam Playoffs",
    "side": "Y",
    "entry_price": 0.83,
@@ -131,14 +139,6 @@
    "entry_price": 0.86,
    "importo": 20.0,
    "opened": "2026-11-26T14:25:12"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Valorant: Eternal Fire vs Trigon Titans (BO3) - VCT EMEA Kickoff: Türkiye - Qualifier Group A",
-   "side": "Y",
-   "entry_price": 0.8,
-   "importo": 20.0,
-   "opened": "2026-11-26T14:08:19"
   },
   {
    "rule_id": "924891e0f0",
@@ -568,6 +568,16 @@
  "ultime_chiuse": [
   {
    "rule_id": "2a906fe26e",
+   "market_nome": "Valorant: Eternal Fire vs Trigon Titans (BO3) - VCT EMEA Kickoff: Türkiye - Qualifier Group A",
+   "side": "Y",
+   "entry_price": 0.8,
+   "exit_price": 0.999,
+   "pnl": 4.975,
+   "closed": "2026-11-26T16:22:46",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
    "market_nome": "Bitcoin Up or Down on November 26?",
    "side": "Y",
    "entry_price": 0.84,
@@ -954,16 +964,6 @@
    "exit_price": 0.999,
    "pnl": 23.4348,
    "closed": "2026-11-26T03:16:36",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Spread: Knicks (-2.5)",
-   "side": "N",
-   "entry_price": 0.53,
-   "exit_price": 0.01,
-   "pnl": -19.6226,
-   "closed": "2026-11-26T03:16:35",
    "motivo": "prezzo a fine corsa"
   }
  ]
