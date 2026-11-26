@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T16:37:01",
+ "generated_at": "2026-11-26T17:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 191,
+   "chiusi": 194,
    "aperti": 15,
-   "pnl": -49.46,
-   "rend_medio_pct": -1.29,
-   "t": -0.46,
-   "rend40_pct": -0.42,
-   "t40": -0.07
+   "pnl": -61.75,
+   "rend_medio_pct": -1.59,
+   "t": -0.56,
+   "rend40_pct": 2.44,
+   "t40": 0.45
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 166,
+   "chiusi": 169,
    "aperti": 15,
-   "pnl": -109.05,
-   "rend_medio_pct": -3.28,
-   "t": -0.57,
-   "rend40_pct": -23.11,
-   "t40": -2.11
+   "pnl": -124.75,
+   "rend_medio_pct": -3.69,
+   "t": -0.65,
+   "rend40_pct": -25.93,
+   "t40": -2.42
   },
   {
    "id": "84fb9952fb",
@@ -86,11 +86,51 @@
  "aperte": [
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: NAVI Junior vs STATE (BO3) - United21 Group D",
+   "market_nome": "Dota 2: Team Yandex vs GamerLegion - Game 2 Winner",
    "side": "Y",
-   "entry_price": 0.9,
+   "entry_price": 0.81,
    "importo": 20.0,
-   "opened": "2026-11-26T16:22:46"
+   "opened": "2026-11-26T16:56:36"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "International League T20: Abu Dhabi Knight Riders vs Mi Emirates",
+   "side": "N",
+   "entry_price": 0.82,
+   "importo": 20.0,
+   "opened": "2026-11-26T16:56:36"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: BakS eSports vs Nordic Partners Gaming  (BO3) - CCT Europe Series #15 Group Stage",
+   "side": "Y",
+   "entry_price": 0.943,
+   "importo": 20.0,
+   "opened": "2026-11-26T16:56:36"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B200 rental price in March 2027 be above $8.00?",
+   "side": "Y",
+   "entry_price": 0.74,
+   "importo": 20.0,
+   "opened": "2026-11-26T16:39:45"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B200 rental price in January 2027 be above $8.50?",
+   "side": "Y",
+   "entry_price": 0.74,
+   "importo": 20.0,
+   "opened": "2026-11-26T16:39:45"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will AFC Ajax win on 2026-11-26?",
+   "side": "Y",
+   "entry_price": 0.8,
+   "importo": 20.0,
+   "opened": "2026-11-26T16:39:45"
   },
   {
    "rule_id": "2a906fe26e",
@@ -131,14 +171,6 @@
    "entry_price": 0.923,
    "importo": 20.0,
    "opened": "2026-11-26T14:42:07"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be between $60,000 and $62,000 on November 26?",
-   "side": "Y",
-   "entry_price": 0.86,
-   "importo": 20.0,
-   "opened": "2026-11-26T14:25:12"
   },
   {
    "rule_id": "924891e0f0",
@@ -293,14 +325,6 @@
    "opened": "2026-11-26T04:24:52"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 26?",
-   "side": "Y",
-   "entry_price": 0.82,
-   "importo": 20.0,
-   "opened": "2026-11-26T04:24:52"
-  },
-  {
    "rule_id": "a042d572b3",
    "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $8.00?",
    "side": "N",
@@ -437,14 +461,6 @@
    "opened": "2026-11-25T17:30:39"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 26?",
-   "side": "N",
-   "entry_price": 0.67,
-   "importo": 20.0,
-   "opened": "2026-11-25T17:30:39"
-  },
-  {
    "rule_id": "a042d572b3",
    "market_nome": "Marco Rubio out as Secretary of State by March 31, 2027?",
    "side": "N",
@@ -459,22 +475,6 @@
    "entry_price": 0.8,
    "importo": 20.0,
    "opened": "2026-11-25T16:57:11"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Elon Musk post 280-299 tweets from November 20 to November 27, 2026?",
-   "side": "Y",
-   "entry_price": 0.33,
-   "importo": 20.0,
-   "opened": "2026-11-25T16:23:20"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will no listed leader be out before 2027?",
-   "side": "N",
-   "entry_price": 0.55,
-   "importo": 20.0,
-   "opened": "2026-11-25T16:23:20"
   },
   {
    "rule_id": "2a906fe26e",
@@ -566,6 +566,66 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be between $60,000 and $62,000 on November 26?",
+   "side": "Y",
+   "entry_price": 0.86,
+   "exit_price": 0.994,
+   "pnl": 3.1163,
+   "closed": "2026-11-26T16:56:36",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 26?",
+   "side": "N",
+   "entry_price": 0.67,
+   "exit_price": 0.01,
+   "pnl": -19.7015,
+   "closed": "2026-11-26T16:56:35",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 26?",
+   "side": "Y",
+   "entry_price": 0.82,
+   "exit_price": 0.999,
+   "pnl": 4.3658,
+   "closed": "2026-11-26T16:56:35",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: NAVI Junior vs STATE (BO3) - United21 Group D",
+   "side": "Y",
+   "entry_price": 0.9,
+   "exit_price": 0.01,
+   "pnl": -19.7778,
+   "closed": "2026-11-26T16:39:45",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post 280-299 tweets from November 20 to November 27, 2026?",
+   "side": "Y",
+   "entry_price": 0.33,
+   "exit_price": 0.3,
+   "pnl": -1.8182,
+   "closed": "2026-11-26T16:39:44",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will no listed leader be out before 2027?",
+   "side": "N",
+   "entry_price": 0.55,
+   "exit_price": 0.71,
+   "pnl": 5.8182,
+   "closed": "2026-11-26T16:39:44",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Valorant: Eternal Fire vs Trigon Titans (BO3) - VCT EMEA Kickoff: Türkiye - Qualifier Group A",
@@ -904,66 +964,6 @@
    "exit_price": 0.001,
    "pnl": -19.9592,
    "closed": "2026-11-26T04:24:51",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Jon Ossoff Democratic nomination odds leader on December 31?",
-   "side": "N",
-   "entry_price": 0.25,
-   "exit_price": 0.27,
-   "pnl": 1.6,
-   "closed": "2026-11-26T04:24:50",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Marco Rubio out as Secretary of State by December 31, 2026?",
-   "side": "N",
-   "entry_price": 0.91,
-   "exit_price": 0.9,
-   "pnl": -0.2198,
-   "closed": "2026-11-26T04:08:03",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Packers vs. Rams",
-   "side": "Y",
-   "entry_price": 0.45,
-   "exit_price": 0.17,
-   "pnl": -12.4445,
-   "closed": "2026-11-26T03:33:56",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Senators vs. Panthers",
-   "side": "N",
-   "entry_price": 0.52,
-   "exit_price": 1.0,
-   "pnl": 18.4615,
-   "closed": "2026-11-26T03:16:36",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Timberwolves vs. Thunder",
-   "side": "Y",
-   "entry_price": 0.46,
-   "exit_price": 0.999,
-   "pnl": 23.4348,
-   "closed": "2026-11-26T03:16:36",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Timberwolves vs. Thunder",
-   "side": "Y",
-   "entry_price": 0.46,
-   "exit_price": 0.999,
-   "pnl": 23.4348,
-   "closed": "2026-11-26T03:16:36",
    "motivo": "prezzo a fine corsa"
   }
  ]
