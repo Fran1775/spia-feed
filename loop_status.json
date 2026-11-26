@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T10:37:01",
+ "generated_at": "2026-11-26T11:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 181,
-   "aperti": 14,
+   "aperti": 15,
    "pnl": -56.24,
    "rend_medio_pct": -1.55,
    "t": -0.53,
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: GamerLegion vs Aurora - Game 1 Winner",
+   "side": "Y",
+   "entry_price": 0.93,
+   "importo": 20.0,
+   "opened": "2026-11-26T11:01:39"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Ethereum Up or Down on November 26?",
