@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T07:07:01",
+ "generated_at": "2026-11-26T07:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 163,
+   "chiusi": 164,
    "aperti": 15,
-   "pnl": -91.52,
-   "rend_medio_pct": -2.81,
-   "t": -0.48,
-   "rend40_pct": -19.94,
-   "t40": -1.84
+   "pnl": -97.1,
+   "rend_medio_pct": -2.96,
+   "t": -0.51,
+   "rend40_pct": -20.45,
+   "t40": -1.89
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 210,
+   "chiusi": 211,
    "aperti": 15,
-   "pnl": -67.44,
+   "pnl": -68.05,
    "rend_medio_pct": -1.61,
    "t": -0.2,
-   "rend40_pct": -20.56,
-   "t40": -1.66
+   "rend40_pct": -21.88,
+   "t40": -1.79
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Bitcoin Up or Down on November 26?",
+   "side": "Y",
+   "entry_price": 0.93,
+   "importo": 20.0,
+   "opened": "2026-11-26T07:19:35"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "76ers vs. Pacers",
+   "side": "Y",
+   "entry_price": 0.65,
+   "importo": 20.0,
+   "opened": "2026-11-26T07:19:35"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
@@ -429,22 +445,6 @@
    "opened": "2026-11-25T16:23:20"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin reach $62,500 in November?",
-   "side": "N",
-   "entry_price": 0.61,
-   "importo": 20.0,
-   "opened": "2026-11-25T07:15:00"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the average Ornn B300 rental price in December 2026 be above $12.00?",
-   "side": "Y",
-   "entry_price": 0.33,
-   "importo": 20.0,
-   "opened": "2026-11-25T07:14:59"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Johnny Chiang win the next Taichung Mayor election?",
    "side": "Y",
@@ -550,6 +550,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn B300 rental price in December 2026 be above $12.00?",
+   "side": "Y",
+   "entry_price": 0.33,
+   "exit_price": 0.32,
+   "pnl": -0.606,
+   "closed": "2026-11-26T07:19:34",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin reach $62,500 in November?",
+   "side": "N",
+   "entry_price": 0.61,
+   "exit_price": 0.44,
+   "pnl": -5.5738,
+   "closed": "2026-11-26T07:19:34",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the highest temperature in Seoul (Incheon) be 15°C on November 26?",
@@ -929,26 +949,6 @@
    "pnl": -19.6875,
    "closed": "2026-11-25T22:13:51",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Buenos Aires: Ipek Oz vs Julia Riera",
-   "side": "Y",
-   "entry_price": 0.51,
-   "exit_price": 0.01,
-   "pnl": -19.6078,
-   "closed": "2026-11-25T21:57:24",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Jensen Huang announced resignation or removal again by March 31, 2027?",
-   "side": "N",
-   "entry_price": 0.87,
-   "exit_price": 0.85,
-   "pnl": -0.4598,
-   "closed": "2026-11-25T21:57:23",
-   "motivo": "uscita a tempo 24h"
   }
  ]
 }
