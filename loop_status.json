@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T08:07:01",
+ "generated_at": "2026-11-26T08:37:02",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 180,
-   "aperti": 13,
+   "aperti": 15,
    "pnl": -57.27,
    "rend_medio_pct": -1.59,
    "t": -0.54,
@@ -84,6 +84,22 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Ethereum Up or Down on November 26?",
+   "side": "Y",
+   "entry_price": 0.93,
+   "importo": 20.0,
+   "opened": "2026-11-26T08:27:56"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will FC Barcelona win on 2026-11-29?",
+   "side": "Y",
+   "entry_price": 0.81,
+   "importo": 20.0,
+   "opened": "2026-11-26T08:10:56"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Bitcoin Up or Down on November 26?",
