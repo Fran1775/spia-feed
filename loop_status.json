@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T06:07:01",
+ "generated_at": "2026-11-26T06:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 162,
+   "chiusi": 163,
    "aperti": 15,
-   "pnl": -71.52,
-   "rend_medio_pct": -2.21,
-   "t": -0.38,
-   "rend40_pct": -16.57,
-   "t40": -1.55
+   "pnl": -91.52,
+   "rend_medio_pct": -2.81,
+   "t": -0.48,
+   "rend40_pct": -19.94,
+   "t40": -1.84
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,40 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 208,
+   "chiusi": 210,
    "aperti": 15,
-   "pnl": -45.22,
-   "rend_medio_pct": -1.09,
-   "t": -0.14,
-   "rend40_pct": -20.4,
-   "t40": -1.65
+   "pnl": -67.44,
+   "rend_medio_pct": -1.61,
+   "t": -0.2,
+   "rend40_pct": -20.56,
+   "t40": -1.66
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
+   "side": "Y",
+   "entry_price": 0.3,
+   "importo": 20.0,
+   "opened": "2026-11-26T06:23:54"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn H100 rental price in December 2026 be above $3.10?",
+   "side": "N",
+   "entry_price": 0.56,
+   "importo": 20.0,
+   "opened": "2026-11-26T06:07:08"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $9.00?",
+   "side": "N",
+   "entry_price": 0.64,
+   "importo": 20.0,
+   "opened": "2026-11-26T06:07:08"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
@@ -317,22 +341,6 @@
    "opened": "2026-11-26T01:51:09"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Spread: Spurs (-2.5)",
-   "side": "Y",
-   "entry_price": 0.55,
-   "importo": 20.0,
-   "opened": "2026-11-25T22:30:27"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Spread: Spurs (-2.5)",
-   "side": "Y",
-   "entry_price": 0.55,
-   "importo": 20.0,
-   "opened": "2026-11-25T22:13:52"
-  },
-  {
    "rule_id": "a042d572b3",
    "market_nome": "Netanyahu out by end of 2026?",
    "side": "Y",
@@ -445,14 +453,6 @@
    "opened": "2026-11-25T07:14:59"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Javokhir Sindarov win the 2026 World Chess Championship?",
-   "side": "N",
-   "entry_price": 0.27,
-   "importo": 20.0,
-   "opened": "2026-11-25T06:09:33"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Johnny Chiang win the next Taichung Mayor election?",
    "side": "Y",
@@ -558,6 +558,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Javokhir Sindarov win the 2026 World Chess Championship?",
+   "side": "N",
+   "entry_price": 0.27,
+   "exit_price": 0.24,
+   "pnl": -2.2222,
+   "closed": "2026-11-26T06:23:53",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Spread: Spurs (-2.5)",
+   "side": "Y",
+   "entry_price": 0.55,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-26T06:07:08",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Spread: Spurs (-2.5)",
+   "side": "Y",
+   "entry_price": 0.55,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-26T06:07:08",
+   "motivo": "risoluzione"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will Variational launch a token by December 31, 2026?",
@@ -927,36 +957,6 @@
    "pnl": 5.0,
    "closed": "2026-11-25T21:57:22",
    "motivo": "uscita a tempo 72h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Florianopolis: Nicolas Kicker vs Elmer Moeller",
-   "side": "Y",
-   "entry_price": 0.6,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-25T21:41:09",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Valorant: Joblife vs WIP Esports (BO3) - VCT EMEA Kickoff: Europe - Qualifier Swiss Stage",
-   "side": "Y",
-   "entry_price": 0.79,
-   "exit_price": 0.999,
-   "pnl": 5.2912,
-   "closed": "2026-11-25T21:41:08",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Florianopolis: Nicolas Kicker vs Elmer Moeller",
-   "side": "Y",
-   "entry_price": 0.6,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-25T21:41:08",
-   "motivo": "risoluzione"
   }
  ]
 }
