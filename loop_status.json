@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T02:07:01",
+ "generated_at": "2026-11-26T02:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 176,
-   "aperti": 9,
-   "pnl": -63.72,
-   "rend_medio_pct": -1.81,
-   "t": -0.61,
-   "rend40_pct": 0.41,
-   "t40": 0.07
+   "chiusi": 177,
+   "aperti": 10,
+   "pnl": -62.23,
+   "rend_medio_pct": -1.76,
+   "t": -0.59,
+   "rend40_pct": 0.12,
+   "t40": 0.02
   },
   {
    "id": "924891e0f0",
@@ -84,6 +84,22 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 25, 9:15PM-9:30PM ET",
+   "side": "Y",
+   "entry_price": 0.87,
+   "importo": 20.0,
+   "opened": "2026-11-26T02:25:25"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will FC Red Bull Salzburg win on 2026-11-26?",
+   "side": "Y",
+   "entry_price": 0.86,
+   "importo": 20.0,
+   "opened": "2026-11-26T02:25:25"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the highest temperature in Paris be 5°C on November 26?",
@@ -430,14 +446,6 @@
   },
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $56,000 on November 26?",
-   "side": "Y",
-   "entry_price": 0.922,
-   "importo": 20.0,
-   "opened": "2026-11-24T20:47:25"
-  },
-  {
-   "rule_id": "2a906fe26e",
    "market_nome": "Will TheBurntPeanut finish GTA VI by November 26?",
    "side": "Y",
    "entry_price": 0.95,
@@ -518,6 +526,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $56,000 on November 26?",
+   "side": "Y",
+   "entry_price": 0.922,
+   "exit_price": 0.991,
+   "pnl": 1.4968,
+   "closed": "2026-11-26T02:25:22",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Bitcoin Up or Down - November 25, 7:00PM-8:00PM ET",
@@ -906,16 +924,6 @@
    "exit_price": 0.999,
    "pnl": 16.3272,
    "closed": "2026-11-25T18:20:32",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 25, 12:00PM-1:00PM ET",
-   "side": "Y",
-   "entry_price": 0.9,
-   "exit_price": 0.999,
-   "pnl": 2.2,
-   "closed": "2026-11-25T18:04:05",
    "motivo": "prezzo a fine corsa"
   }
  ]
