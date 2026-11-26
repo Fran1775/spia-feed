@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T21:37:01",
+ "generated_at": "2026-11-26T22:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 202,
-   "aperti": 15,
-   "pnl": -34.92,
-   "rend_medio_pct": -0.86,
-   "t": -0.32,
-   "rend40_pct": 3.11,
-   "t40": 0.57
+   "chiusi": 206,
+   "aperti": 13,
+   "pnl": -45.17,
+   "rend_medio_pct": -1.1,
+   "t": -0.4,
+   "rend40_pct": 0.43,
+   "t40": 0.07
   },
   {
    "id": "924891e0f0",
@@ -74,23 +74,31 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 218,
+   "chiusi": 219,
    "aperti": 15,
-   "pnl": -96.77,
-   "rend_medio_pct": -2.22,
-   "t": -0.29,
-   "rend40_pct": -16.74,
-   "t40": -1.38
+   "pnl": -91.8,
+   "rend_medio_pct": -2.1,
+   "t": -0.27,
+   "rend40_pct": -13.66,
+   "t40": -1.14
   }
  ],
  "aperte": [
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Buenos Aires: Sofia Costoulas vs Varvara Lepchenko",
-   "side": "N",
-   "entry_price": 0.8,
+   "rule_id": "2a906fe26e",
+   "market_nome": "Israel x Iran ceasefire continues through November 30?",
+   "side": "Y",
+   "entry_price": 0.95,
    "importo": 20.0,
-   "opened": "2026-11-26T21:32:14"
+   "opened": "2026-11-26T21:49:14"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Israel x Iran ceasefire continues through November 30?",
+   "side": "N",
+   "entry_price": 0.06,
+   "importo": 20.0,
+   "opened": "2026-11-26T21:49:14"
   },
   {
    "rule_id": "924891e0f0",
@@ -134,35 +142,11 @@
   },
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Will Juventus FC win on 2026-11-26?",
-   "side": "Y",
-   "entry_price": 0.83,
-   "importo": 20.0,
-   "opened": "2026-11-26T18:40:43"
-  },
-  {
-   "rule_id": "2a906fe26e",
    "market_nome": "Will Lai Jui-lung win the next Kaohsiung Mayor election?",
    "side": "Y",
    "entry_price": 0.81,
    "importo": 20.0,
    "opened": "2026-11-26T18:40:42"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Team Synapse vs Team Allied (BO3) - Esports Pro Circuit  Group A",
-   "side": "Y",
-   "entry_price": 0.86,
-   "importo": 20.0,
-   "opened": "2026-11-26T17:48:31"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Olympique Lyonnais win on 2026-11-26?",
-   "side": "Y",
-   "entry_price": 0.82,
-   "importo": 20.0,
-   "opened": "2026-11-26T17:48:31"
   },
   {
    "rule_id": "a042d572b3",
@@ -567,6 +551,56 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Olympique Lyonnais win on 2026-11-26?",
+   "side": "Y",
+   "entry_price": 0.82,
+   "exit_price": 0.01,
+   "pnl": -19.7561,
+   "closed": "2026-11-26T22:06:07",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Donstu Esports vs Sökerorg (BO3) - CCT Europe Closed Qualifier: Series #16 Group B",
+   "side": "Y",
+   "entry_price": 0.9,
+   "exit_price": 0.999,
+   "pnl": 2.2,
+   "closed": "2026-11-26T22:06:07",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Juventus FC win on 2026-11-26?",
+   "side": "Y",
+   "entry_price": 0.83,
+   "exit_price": 0.999,
+   "pnl": 4.0723,
+   "closed": "2026-11-26T21:49:14",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Buenos Aires: Sofia Costoulas vs Varvara Lepchenko",
+   "side": "N",
+   "entry_price": 0.8,
+   "exit_price": 0.999,
+   "pnl": 4.975,
+   "closed": "2026-11-26T21:49:14",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Team Synapse vs Team Allied (BO3) - Esports Pro Circuit  Group A",
+   "side": "Y",
+   "entry_price": 0.86,
+   "exit_price": 0.999,
+   "pnl": 3.2325,
+   "closed": "2026-11-26T21:49:13",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "a042d572b3",
    "market_nome": "Bears vs. Lions",
    "side": "N",
@@ -915,56 +949,6 @@
    "pnl": 1.9005,
    "closed": "2026-11-26T13:34:21",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: GamerLegion vs Aurora (BO3) - BLAST Slam Playoffs",
-   "side": "Y",
-   "entry_price": 0.84,
-   "exit_price": 0.999,
-   "pnl": 3.7857,
-   "closed": "2026-11-26T12:26:48",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Team Synapse vs PuckChamp - Game 1 Winner",
-   "side": "Y",
-   "entry_price": 0.88,
-   "exit_price": 0.999,
-   "pnl": 2.7046,
-   "closed": "2026-11-26T11:35:29",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: GamerLegion vs Aurora - Game 1 Winner",
-   "side": "Y",
-   "entry_price": 0.93,
-   "exit_price": 0.999,
-   "pnl": 1.4839,
-   "closed": "2026-11-26T11:18:42",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will TheBurntPeanut finish GTA VI by November 26?",
-   "side": "Y",
-   "entry_price": 0.95,
-   "exit_price": 0.999,
-   "pnl": 1.0315,
-   "closed": "2026-11-26T09:36:22",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the average Ornn B300 rental price in December 2026 be above $12.00?",
-   "side": "Y",
-   "entry_price": 0.33,
-   "exit_price": 0.32,
-   "pnl": -0.606,
-   "closed": "2026-11-26T07:19:34",
-   "motivo": "uscita a tempo 24h"
   }
  ]
 }
