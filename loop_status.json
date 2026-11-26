@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T19:37:01",
+ "generated_at": "2026-11-26T20:07:02",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 201,
+   "chiusi": 202,
    "aperti": 15,
-   "pnl": -37.12,
-   "rend_medio_pct": -0.92,
-   "t": -0.34,
-   "rend40_pct": 2.94,
-   "t40": 0.54
+   "pnl": -34.92,
+   "rend_medio_pct": -0.86,
+   "t": -0.32,
+   "rend40_pct": 3.11,
+   "t40": 0.57
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 172,
+   "chiusi": 173,
    "aperti": 15,
-   "pnl": -119.68,
-   "rend_medio_pct": -3.48,
-   "t": -0.62,
-   "rend40_pct": -17.9,
-   "t40": -1.74
+   "pnl": -139.68,
+   "rend_medio_pct": -4.04,
+   "t": -0.72,
+   "rend40_pct": -20.4,
+   "t40": -1.95
   },
   {
    "id": "84fb9952fb",
@@ -85,18 +85,26 @@
  ],
  "aperte": [
   {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be between $60,000 and $62,000 on November 27?",
+   "side": "Y",
+   "entry_price": 0.56,
+   "importo": 20.0,
+   "opened": "2026-11-26T20:06:53"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Valorant: Aurora Gaming vs WIP Esports (BO3) - VCT EMEA Kickoff: Europe - Qualifier Swiss Stage",
+   "side": "Y",
+   "entry_price": 0.92,
+   "importo": 20.0,
+   "opened": "2026-11-26T19:50:06"
+  },
+  {
    "rule_id": "a042d572b3",
    "market_nome": "Will the price of Bitcoin be between $60,000 and $62,000 on November 27?",
    "side": "N",
    "entry_price": 0.47,
-   "importo": 20.0,
-   "opened": "2026-11-26T19:32:42"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Lir vs Spirit Academy - Map 1 Winner",
-   "side": "Y",
-   "entry_price": 0.9,
    "importo": 20.0,
    "opened": "2026-11-26T19:32:42"
   },
@@ -123,14 +131,6 @@
    "entry_price": 0.81,
    "importo": 20.0,
    "opened": "2026-11-26T18:40:42"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Florianopolis: Joaquin Aguilar vs Genaro Alberto Olivieri",
-   "side": "Y",
-   "entry_price": 0.7,
-   "importo": 20.0,
-   "opened": "2026-11-26T18:05:46"
   },
   {
    "rule_id": "2a906fe26e",
@@ -567,6 +567,26 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "924891e0f0",
+   "market_nome": "Florianopolis: Joaquin Aguilar vs Genaro Alberto Olivieri",
+   "side": "Y",
+   "entry_price": 0.7,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-26T20:06:53",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Lir vs Spirit Academy - Map 1 Winner",
+   "side": "Y",
+   "entry_price": 0.9,
+   "exit_price": 0.999,
+   "pnl": 2.2,
+   "closed": "2026-11-26T19:50:05",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will AFC Ajax win on 2026-11-26?",
    "side": "Y",
@@ -945,26 +965,6 @@
    "pnl": 1.4066,
    "closed": "2026-11-26T07:00:38",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Javokhir Sindarov win the 2026 World Chess Championship?",
-   "side": "N",
-   "entry_price": 0.27,
-   "exit_price": 0.24,
-   "pnl": -2.2222,
-   "closed": "2026-11-26T06:23:53",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Spread: Spurs (-2.5)",
-   "side": "Y",
-   "entry_price": 0.55,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-26T06:07:08",
-   "motivo": "risoluzione"
   }
  ]
 }
