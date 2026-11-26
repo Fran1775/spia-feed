@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T00:37:01",
+ "generated_at": "2026-11-26T01:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 175,
-   "aperti": 9,
-   "pnl": -64.79,
-   "rend_medio_pct": -1.85,
-   "t": -0.62,
-   "rend40_pct": 0.52,
-   "t40": 0.08
+   "chiusi": 176,
+   "aperti": 8,
+   "pnl": -63.72,
+   "rend_medio_pct": -1.81,
+   "t": -0.61,
+   "rend40_pct": 0.41,
+   "t40": 0.07
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 153,
+   "chiusi": 154,
    "aperti": 15,
-   "pnl": 0.74,
-   "rend_medio_pct": 0.02,
-   "t": 0.0,
-   "rend40_pct": -8.45,
-   "t40": -0.74
+   "pnl": -18.92,
+   "rend_medio_pct": -0.61,
+   "t": -0.1,
+   "rend40_pct": -13.38,
+   "t40": -1.18
   },
   {
    "id": "84fb9952fb",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 46,
+   "chiusi": 47,
    "aperti": 15,
-   "pnl": -3.85,
-   "rend_medio_pct": -0.42,
-   "t": -0.03,
-   "rend40_pct": -1.84,
-   "t40": -0.13
+   "pnl": -23.46,
+   "rend_medio_pct": -2.5,
+   "t": -0.19,
+   "rend40_pct": -1.86,
+   "t40": -0.14
   },
   {
    "id": "a042d572b3",
@@ -74,23 +74,39 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 197,
+   "chiusi": 198,
    "aperti": 15,
-   "pnl": -72.69,
-   "rend_medio_pct": -1.84,
-   "t": -0.22,
-   "rend40_pct": -21.75,
-   "t40": -1.66
+   "pnl": -92.27,
+   "rend_medio_pct": -2.33,
+   "t": -0.28,
+   "rend40_pct": -28.47,
+   "t40": -2.31
   }
  ],
  "aperte": [
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 25, 7:00PM-8:00PM ET",
+   "rule_id": "84fb9952fb",
+   "market_nome": "Packers vs. Rams: O/U 44.5",
    "side": "Y",
-   "entry_price": 0.94,
+   "entry_price": 0.46,
    "importo": 20.0,
-   "opened": "2026-11-26T00:26:06"
+   "opened": "2026-11-26T00:42:54"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Packers vs. Rams: O/U 44.5",
+   "side": "N",
+   "entry_price": 0.55,
+   "importo": 20.0,
+   "opened": "2026-11-26T00:42:54"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Spread: Warriors (-7.5)",
+   "side": "Y",
+   "entry_price": 0.54,
+   "importo": 20.0,
+   "opened": "2026-11-26T00:42:54"
   },
   {
    "rule_id": "924891e0f0",
@@ -157,26 +173,10 @@
    "opened": "2026-11-25T21:24:14"
   },
   {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Heat vs. 76ers",
-   "side": "Y",
-   "entry_price": 0.52,
-   "importo": 20.0,
-   "opened": "2026-11-25T20:51:04"
-  },
-  {
    "rule_id": "a042d572b3",
    "market_nome": "Spread: Rams (-2.5)",
    "side": "N",
    "entry_price": 0.49,
-   "importo": 20.0,
-   "opened": "2026-11-25T20:34:32"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Spread: 76ers (-2.5)",
-   "side": "N",
-   "entry_price": 0.59,
    "importo": 20.0,
    "opened": "2026-11-25T20:34:32"
   },
@@ -307,14 +307,6 @@
    "entry_price": 0.43,
    "importo": 20.0,
    "opened": "2026-11-25T15:50:32"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Heat vs. 76ers",
-   "side": "Y",
-   "entry_price": 0.47,
-   "importo": 20.0,
-   "opened": "2026-11-25T15:01:00"
   },
   {
    "rule_id": "924891e0f0",
@@ -518,6 +510,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 25, 7:00PM-8:00PM ET",
+   "side": "Y",
+   "entry_price": 0.94,
+   "exit_price": 0.99,
+   "pnl": 1.0638,
+   "closed": "2026-11-26T01:00:19",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Spread: 76ers (-2.5)",
+   "side": "N",
+   "entry_price": 0.59,
+   "exit_price": 0.01,
+   "pnl": -19.661,
+   "closed": "2026-11-26T00:42:53",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Heat vs. 76ers",
+   "side": "Y",
+   "entry_price": 0.52,
+   "exit_price": 0.01,
+   "pnl": -19.6154,
+   "closed": "2026-11-26T00:42:53",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Heat vs. 76ers",
+   "side": "Y",
+   "entry_price": 0.47,
+   "exit_price": 0.01,
+   "pnl": -19.5745,
+   "closed": "2026-11-26T00:42:52",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Counter-Strike: Grêmio Esports vs Rush (BO3) - Gamers Club Liga Série A Playoffs",
@@ -877,46 +909,6 @@
    "pnl": 2.2,
    "closed": "2026-11-25T18:04:05",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $54,000 on November 26?",
-   "side": "Y",
-   "entry_price": 0.947,
-   "exit_price": 0.99,
-   "pnl": 0.9081,
-   "closed": "2026-11-25T18:04:04",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Florianopolis: Matheus Pucinelli de Almeida vs Carlos Maria Zarate",
-   "side": "N",
-   "entry_price": 0.41,
-   "exit_price": 0.999,
-   "pnl": 28.7317,
-   "closed": "2026-11-25T17:47:10",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Florianopolis: Matheus Pucinelli de Almeida vs Carlos Maria Zarate",
-   "side": "Y",
-   "entry_price": 0.59,
-   "exit_price": 0.01,
-   "pnl": -19.661,
-   "closed": "2026-11-25T17:47:10",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 25?",
-   "side": "Y",
-   "entry_price": 0.883,
-   "exit_price": 1.0,
-   "pnl": 2.6501,
-   "closed": "2026-11-25T17:30:38",
-   "motivo": "risoluzione"
   }
  ]
 }
