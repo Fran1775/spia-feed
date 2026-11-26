@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T00:07:01",
+ "generated_at": "2026-11-26T00:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 175,
-   "aperti": 8,
+   "aperti": 9,
    "pnl": -64.79,
    "rend_medio_pct": -1.85,
    "t": -0.62,
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 25, 7:00PM-8:00PM ET",
+   "side": "Y",
+   "entry_price": 0.94,
+   "importo": 20.0,
+   "opened": "2026-11-26T00:26:06"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Spread: Spurs (-2.5)",
