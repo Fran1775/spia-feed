@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T17:07:01",
+ "generated_at": "2026-11-26T17:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,11 +14,11 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 194,
+   "chiusi": 195,
    "aperti": 15,
-   "pnl": -61.75,
-   "rend_medio_pct": -1.59,
-   "t": -0.56,
+   "pnl": -60.57,
+   "rend_medio_pct": -1.55,
+   "t": -0.55,
    "rend40_pct": 2.44,
    "t40": 0.45
   },
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 169,
+   "chiusi": 171,
    "aperti": 15,
-   "pnl": -124.75,
-   "rend_medio_pct": -3.69,
-   "t": -0.65,
-   "rend40_pct": -25.93,
-   "t40": -2.42
+   "pnl": -124.05,
+   "rend_medio_pct": -3.63,
+   "t": -0.64,
+   "rend40_pct": -20.93,
+   "t40": -2.01
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,48 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 215,
+   "chiusi": 216,
    "aperti": 15,
-   "pnl": -74.98,
+   "pnl": -75.23,
    "rend_medio_pct": -1.74,
    "t": -0.22,
-   "rend40_pct": -19.04,
-   "t40": -1.56
+   "rend40_pct": -16.66,
+   "t40": -1.38
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Spread: Bills (-2.5)",
+   "side": "N",
+   "entry_price": 0.46,
+   "importo": 20.0,
+   "opened": "2026-11-26T17:31:51"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Beşiktaş JK win on 2026-11-26?",
+   "side": "N",
+   "entry_price": 0.3,
+   "importo": 20.0,
+   "opened": "2026-11-26T17:31:51"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $8.80?",
+   "side": "Y",
+   "entry_price": 0.69,
+   "importo": 20.0,
+   "opened": "2026-11-26T17:14:06"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "FC Viktoria Plzeň vs. Sport Lisboa e Benfica: O/U 1.5",
+   "side": "Y",
+   "entry_price": 0.83,
+   "importo": 20.0,
+   "opened": "2026-11-26T17:14:06"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Dota 2: Team Yandex vs GamerLegion - Game 2 Winner",
@@ -97,14 +129,6 @@
    "market_nome": "International League T20: Abu Dhabi Knight Riders vs Mi Emirates",
    "side": "N",
    "entry_price": 0.82,
-   "importo": 20.0,
-   "opened": "2026-11-26T16:56:36"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: BakS eSports vs Nordic Partners Gaming  (BO3) - CCT Europe Series #15 Group Stage",
-   "side": "Y",
-   "entry_price": 0.943,
    "importo": 20.0,
    "opened": "2026-11-26T16:56:36"
   },
@@ -453,30 +477,6 @@
    "opened": "2026-11-25T19:27:15"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn H100 rental price in December 2026 be above $3.10?",
-   "side": "Y",
-   "entry_price": 0.42,
-   "importo": 20.0,
-   "opened": "2026-11-25T17:30:39"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Marco Rubio out as Secretary of State by March 31, 2027?",
-   "side": "N",
-   "entry_price": 0.8,
-   "importo": 20.0,
-   "opened": "2026-11-25T17:30:38"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Marco Rubio out as Secretary of State by March 31, 2027?",
-   "side": "N",
-   "entry_price": 0.8,
-   "importo": 20.0,
-   "opened": "2026-11-25T16:57:11"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Johnny Chiang win the next Taichung Mayor election?",
    "side": "Y",
@@ -566,6 +566,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Marco Rubio out as Secretary of State by March 31, 2027?",
+   "side": "N",
+   "entry_price": 0.8,
+   "exit_price": 0.79,
+   "pnl": -0.25,
+   "closed": "2026-11-26T17:31:51",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn H100 rental price in December 2026 be above $3.10?",
+   "side": "Y",
+   "entry_price": 0.42,
+   "exit_price": 0.44,
+   "pnl": 0.9524,
+   "closed": "2026-11-26T17:31:51",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: BakS eSports vs Nordic Partners Gaming  (BO3) - CCT Europe Series #15 Group Stage",
+   "side": "Y",
+   "entry_price": 0.943,
+   "exit_price": 0.999,
+   "pnl": 1.1877,
+   "closed": "2026-11-26T17:14:06",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Marco Rubio out as Secretary of State by March 31, 2027?",
+   "side": "N",
+   "entry_price": 0.8,
+   "exit_price": 0.79,
+   "pnl": -0.25,
+   "closed": "2026-11-26T17:14:05",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be between $60,000 and $62,000 on November 26?",
@@ -925,46 +965,6 @@
    "pnl": 16.3636,
    "closed": "2026-11-26T04:58:58",
    "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will PP win the most seats in Santa Cruz de Tenerife in the 2026 Spanish general election?",
-   "side": "Y",
-   "entry_price": 0.3,
-   "exit_price": 0.31,
-   "pnl": 0.6667,
-   "closed": "2026-11-26T04:42:02",
-   "motivo": "uscita a tempo 72h"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Next White House Press Secretary announced by December 31, 2026?",
-   "side": "Y",
-   "entry_price": 0.59,
-   "exit_price": 0.54,
-   "pnl": -1.6949,
-   "closed": "2026-11-26T04:42:02",
-   "motivo": "uscita a tempo 72h"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Packers vs. Rams",
-   "side": "Y",
-   "entry_price": 0.44,
-   "exit_price": 0.001,
-   "pnl": -19.9545,
-   "closed": "2026-11-26T04:24:51",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Spread: Rams (-2.5)",
-   "side": "N",
-   "entry_price": 0.49,
-   "exit_price": 0.001,
-   "pnl": -19.9592,
-   "closed": "2026-11-26T04:24:51",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
