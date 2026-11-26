@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T23:07:01",
+ "generated_at": "2026-11-26T23:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 208,
-   "aperti": 11,
-   "pnl": -85.17,
-   "rend_medio_pct": -2.05,
-   "t": -0.74,
-   "rend40_pct": -2.47,
-   "t40": -0.38
+   "chiusi": 209,
+   "aperti": 12,
+   "pnl": -83.46,
+   "rend_medio_pct": -2.0,
+   "t": -0.72,
+   "rend40_pct": -2.78,
+   "t40": -0.43
   },
   {
    "id": "924891e0f0",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: ENCELADE vs AXE (BO3) - CCT Europe Contenders #11 Playoffs",
+   "side": "Y",
+   "entry_price": 0.81,
+   "importo": 20.0,
+   "opened": "2026-11-26T23:32:21"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "San Salvador: Lucas Da Silva vs Diego Duran",
@@ -536,6 +544,16 @@
  "ultime_chiuse": [
   {
    "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Grêmio Esports vs RED Canids Academy - Map 2 Winner",
+   "side": "Y",
+   "entry_price": 0.92,
+   "exit_price": 0.999,
+   "pnl": 1.7174,
+   "closed": "2026-11-26T23:32:21",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
    "market_nome": "Valorant: Mandatory vs MIR (BO3) - VCT EMEA Kickoff: Europe - Qualifier Swiss Stage",
    "side": "Y",
    "entry_price": 0.81,
@@ -916,16 +934,6 @@
   },
   {
    "rule_id": "924891e0f0",
-   "market_nome": "Counter-Strike: Imperial vs Liquid - Map 2 Winner",
-   "side": "N",
-   "entry_price": 0.72,
-   "exit_price": 0.999,
-   "pnl": 7.75,
-   "closed": "2026-11-26T13:51:16",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
    "market_nome": "Counter-Strike: Imperial vs Liquid - Map 2 Winner",
    "side": "N",
    "entry_price": 0.72,
