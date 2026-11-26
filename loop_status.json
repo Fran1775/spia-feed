@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T20:07:02",
+ "generated_at": "2026-11-26T20:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 173,
+   "chiusi": 174,
    "aperti": 15,
-   "pnl": -139.68,
-   "rend_medio_pct": -4.04,
-   "t": -0.72,
-   "rend40_pct": -20.4,
-   "t40": -1.95
+   "pnl": -159.02,
+   "rend_medio_pct": -4.57,
+   "t": -0.81,
+   "rend40_pct": -22.74,
+   "t40": -2.14
   },
   {
    "id": "84fb9952fb",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin dip to $58,000 November 23-29?",
+   "side": "N",
+   "entry_price": 0.76,
+   "importo": 20.0,
+   "opened": "2026-11-26T20:24:09"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will the price of Bitcoin be between $60,000 and $62,000 on November 27?",
@@ -153,14 +161,6 @@
    "market_nome": "Spread: Bills (-2.5)",
    "side": "N",
    "entry_price": 0.46,
-   "importo": 20.0,
-   "opened": "2026-11-26T17:31:51"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Beşiktaş JK win on 2026-11-26?",
-   "side": "N",
-   "entry_price": 0.3,
    "importo": 20.0,
    "opened": "2026-11-26T17:31:51"
   },
@@ -568,6 +568,16 @@
  "ultime_chiuse": [
   {
    "rule_id": "924891e0f0",
+   "market_nome": "Will Beşiktaş JK win on 2026-11-26?",
+   "side": "N",
+   "entry_price": 0.3,
+   "exit_price": 0.01,
+   "pnl": -19.3333,
+   "closed": "2026-11-26T20:24:08",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
    "market_nome": "Florianopolis: Joaquin Aguilar vs Genaro Alberto Olivieri",
    "side": "Y",
    "entry_price": 0.7,
@@ -955,16 +965,6 @@
    "pnl": -5.5738,
    "closed": "2026-11-26T07:19:34",
    "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the highest temperature in Seoul (Incheon) be 15°C on November 26?",
-   "side": "Y",
-   "entry_price": 0.91,
-   "exit_price": 0.974,
-   "pnl": 1.4066,
-   "closed": "2026-11-26T07:00:38",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
