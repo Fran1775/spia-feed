@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T22:37:02",
+ "generated_at": "2026-11-26T23:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 206,
-   "aperti": 13,
-   "pnl": -45.17,
-   "rend_medio_pct": -1.1,
-   "t": -0.4,
-   "rend40_pct": 0.43,
-   "t40": 0.07
+   "chiusi": 208,
+   "aperti": 11,
+   "pnl": -85.17,
+   "rend_medio_pct": -2.05,
+   "t": -0.74,
+   "rend40_pct": -2.47,
+   "t40": -0.38
   },
   {
    "id": "924891e0f0",
@@ -125,28 +125,12 @@
    "opened": "2026-11-26T20:06:53"
   },
   {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Valorant: Aurora Gaming vs WIP Esports (BO3) - VCT EMEA Kickoff: Europe - Qualifier Swiss Stage",
-   "side": "Y",
-   "entry_price": 0.92,
-   "importo": 20.0,
-   "opened": "2026-11-26T19:50:06"
-  },
-  {
    "rule_id": "a042d572b3",
    "market_nome": "Will the price of Bitcoin be between $60,000 and $62,000 on November 27?",
    "side": "N",
    "entry_price": 0.47,
    "importo": 20.0,
    "opened": "2026-11-26T19:32:42"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Valorant: Mandatory vs MIR (BO3) - VCT EMEA Kickoff: Europe - Qualifier Swiss Stage",
-   "side": "Y",
-   "entry_price": 0.81,
-   "importo": 20.0,
-   "opened": "2026-11-26T19:15:15"
   },
   {
    "rule_id": "2a906fe26e",
@@ -551,6 +535,26 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Valorant: Mandatory vs MIR (BO3) - VCT EMEA Kickoff: Europe - Qualifier Swiss Stage",
+   "side": "Y",
+   "entry_price": 0.81,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-26T22:40:32",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Valorant: Aurora Gaming vs WIP Esports (BO3) - VCT EMEA Kickoff: Europe - Qualifier Swiss Stage",
+   "side": "Y",
+   "entry_price": 0.92,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-26T22:40:32",
+   "motivo": "risoluzione"
+  },
+  {
    "rule_id": "a042d572b3",
    "market_nome": "Netanyahu out by end of 2026?",
    "side": "Y",
@@ -928,26 +932,6 @@
    "exit_price": 0.999,
    "pnl": 7.75,
    "closed": "2026-11-26T13:51:16",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 26?",
-   "side": "Y",
-   "entry_price": 0.942,
-   "exit_price": 0.991,
-   "pnl": 1.0403,
-   "closed": "2026-11-26T13:34:23",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 26?",
-   "side": "N",
-   "entry_price": 0.402,
-   "exit_price": 0.006,
-   "pnl": -19.7015,
-   "closed": "2026-11-26T13:34:22",
    "motivo": "prezzo a fine corsa"
   }
  ]
