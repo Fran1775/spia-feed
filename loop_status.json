@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T15:37:01",
+ "generated_at": "2026-11-26T16:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,12 +14,12 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 188,
+   "chiusi": 190,
    "aperti": 15,
-   "pnl": -60.8,
-   "rend_medio_pct": -1.62,
-   "t": -0.57,
-   "rend40_pct": -0.79,
+   "pnl": -54.43,
+   "rend_medio_pct": -1.43,
+   "t": -0.51,
+   "rend40_pct": -0.75,
    "t40": -0.13
   },
   {
@@ -74,16 +74,48 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 213,
+   "chiusi": 215,
    "aperti": 15,
-   "pnl": -59.26,
-   "rend_medio_pct": -1.39,
-   "t": -0.18,
-   "rend40_pct": -19.44,
-   "t40": -1.58
+   "pnl": -74.98,
+   "rend_medio_pct": -1.74,
+   "t": -0.22,
+   "rend40_pct": -19.04,
+   "t40": -1.56
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Dota 2: Team Yandex vs GamerLegion (BO3) - BLAST Slam Playoffs",
+   "side": "Y",
+   "entry_price": 0.83,
+   "importo": 20.0,
+   "opened": "2026-11-26T16:06:10"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn B200 rental price in March 2027 be above $8.00?",
+   "side": "Y",
+   "entry_price": 0.75,
+   "importo": 20.0,
+   "opened": "2026-11-26T16:06:09"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Bears vs. Lions",
+   "side": "N",
+   "entry_price": 0.5,
+   "importo": 20.0,
+   "opened": "2026-11-26T15:49:23"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Brighton & Hove Albion FC win on 2026-11-26?",
+   "side": "Y",
+   "entry_price": 0.88,
+   "importo": 20.0,
+   "opened": "2026-11-26T15:49:23"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Chen Ting-fei win the next Tainan Mayor election?",
@@ -109,14 +141,6 @@
    "opened": "2026-11-26T14:08:19"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Counter-Strike: Wildcard vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
-   "side": "N",
-   "entry_price": 0.069,
-   "importo": 20.0,
-   "opened": "2026-11-26T13:51:16"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $7.00?",
    "side": "N",
@@ -126,27 +150,11 @@
   },
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Wildcard vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.88,
-   "importo": 20.0,
-   "opened": "2026-11-26T12:26:48"
-  },
-  {
-   "rule_id": "2a906fe26e",
    "market_nome": "Will FC Barcelona win on 2026-11-29?",
    "side": "Y",
    "entry_price": 0.81,
    "importo": 20.0,
    "opened": "2026-11-26T08:10:56"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Bitcoin Up or Down on November 26?",
-   "side": "Y",
-   "entry_price": 0.93,
-   "importo": 20.0,
-   "opened": "2026-11-26T07:19:35"
   },
   {
    "rule_id": "924891e0f0",
@@ -398,14 +406,6 @@
   },
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down on November 26?",
-   "side": "Y",
-   "entry_price": 0.84,
-   "importo": 20.0,
-   "opened": "2026-11-25T21:24:14"
-  },
-  {
-   "rule_id": "2a906fe26e",
    "market_nome": "Will Chang San-cheng win the next Taoyuan Mayor election?",
    "side": "Y",
    "entry_price": 0.93,
@@ -566,6 +566,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down on November 26?",
+   "side": "Y",
+   "entry_price": 0.84,
+   "exit_price": 0.994,
+   "pnl": 3.6666,
+   "closed": "2026-11-26T16:06:09",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Bitcoin Up or Down on November 26?",
+   "side": "Y",
+   "entry_price": 0.93,
+   "exit_price": 0.994,
+   "pnl": 1.3764,
+   "closed": "2026-11-26T16:06:09",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: Wildcard vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
+   "side": "Y",
+   "entry_price": 0.88,
+   "exit_price": 0.999,
+   "pnl": 2.7046,
+   "closed": "2026-11-26T15:49:23",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Counter-Strike: Wildcard vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
+   "side": "N",
+   "entry_price": 0.069,
+   "exit_price": 0.01,
+   "pnl": -17.1014,
+   "closed": "2026-11-26T15:49:23",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the highest temperature in Paris be 5°C on November 26?",
@@ -924,46 +964,6 @@
    "exit_price": 0.01,
    "pnl": -19.6226,
    "closed": "2026-11-26T03:16:35",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Bulls vs. Hornets: O/U 221.5",
-   "side": "Y",
-   "entry_price": 0.44,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-26T02:59:47",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Cavaliers vs. Knicks",
-   "side": "N",
-   "entry_price": 0.55,
-   "exit_price": 0.999,
-   "pnl": 16.3272,
-   "closed": "2026-11-26T02:59:46",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Spread: Knicks (-3.5)",
-   "side": "N",
-   "entry_price": 0.55,
-   "exit_price": 0.01,
-   "pnl": -19.6364,
-   "closed": "2026-11-26T02:59:46",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Spread: Knicks (-3.5)",
-   "side": "Y",
-   "entry_price": 0.46,
-   "exit_price": 0.999,
-   "pnl": 23.4348,
-   "closed": "2026-11-26T02:59:46",
    "motivo": "prezzo a fine corsa"
   }
  ]
