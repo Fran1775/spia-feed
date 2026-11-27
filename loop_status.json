@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T16:07:01",
+ "generated_at": "2026-11-27T16:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 187,
+   "chiusi": 188,
    "aperti": 15,
-   "pnl": -241.29,
-   "rend_medio_pct": -6.45,
-   "t": -1.22,
-   "rend40_pct": -34.23,
-   "t40": -3.73
+   "pnl": -261.09,
+   "rend_medio_pct": -6.94,
+   "t": -1.31,
+   "rend40_pct": -37.27,
+   "t40": -4.05
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,40 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 235,
+   "chiusi": 237,
    "aperti": 15,
-   "pnl": -23.08,
-   "rend_medio_pct": -0.49,
-   "t": -0.07,
-   "rend40_pct": 1.31,
-   "t40": 0.1
+   "pnl": -11.02,
+   "rend_medio_pct": -0.23,
+   "t": -0.03,
+   "rend40_pct": 7.71,
+   "t40": 0.6
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 27?",
+   "side": "N",
+   "entry_price": 0.52,
+   "importo": 20.0,
+   "opened": "2026-11-27T16:08:19"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 27?",
+   "side": "Y",
+   "entry_price": 0.51,
+   "importo": 20.0,
+   "opened": "2026-11-27T16:08:19"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Heat vs. Knicks",
+   "side": "N",
+   "entry_price": 0.62,
+   "importo": 20.0,
+   "opened": "2026-11-27T16:08:19"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.00?",
@@ -195,22 +219,6 @@
    "entry_price": 0.5,
    "importo": 20.0,
    "opened": "2026-11-27T05:30:07"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $62,000 on November 27?",
-   "side": "Y",
-   "entry_price": 0.41,
-   "importo": 20.0,
-   "opened": "2026-11-27T05:30:07"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $62,000 on November 27?",
-   "side": "N",
-   "entry_price": 0.6,
-   "importo": 20.0,
-   "opened": "2026-11-27T05:12:57"
   },
   {
    "rule_id": "84fb9952fb",
@@ -405,14 +413,6 @@
    "opened": "2026-11-26T16:39:45"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the average Ornn B200 rental price in March 2027 be above $8.00?",
-   "side": "Y",
-   "entry_price": 0.75,
-   "importo": 20.0,
-   "opened": "2026-11-26T16:06:09"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Chen Ting-fei win the next Tainan Mayor election?",
    "side": "Y",
@@ -542,6 +542,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn B200 rental price in March 2027 be above $8.00?",
+   "side": "Y",
+   "entry_price": 0.75,
+   "exit_price": 0.71,
+   "pnl": -1.0666,
+   "closed": "2026-11-27T16:08:19",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be above $62,000 on November 27?",
+   "side": "N",
+   "entry_price": 0.6,
+   "exit_price": 0.994,
+   "pnl": 13.1333,
+   "closed": "2026-11-27T16:08:19",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be above $62,000 on November 27?",
+   "side": "Y",
+   "entry_price": 0.41,
+   "exit_price": 0.004,
+   "pnl": -19.8049,
+   "closed": "2026-11-27T16:08:19",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Hersonissos 4: Gilles Arnaud Bailly vs Benjamin Pietri",
@@ -910,36 +940,6 @@
    "exit_price": 0.997,
    "pnl": 0.9894,
    "closed": "2026-11-27T02:39:17",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: ENCELADE vs AXE (BO3) - CCT Europe Contenders #11 Playoffs",
-   "side": "Y",
-   "entry_price": 0.81,
-   "exit_price": 0.999,
-   "pnl": 4.6667,
-   "closed": "2026-11-27T00:56:47",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 26, 7:30PM-7:45PM ET",
-   "side": "Y",
-   "entry_price": 0.93,
-   "exit_price": 1.0,
-   "pnl": 1.5054,
-   "closed": "2026-11-27T00:56:47",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "San Salvador: Lucas Da Silva vs Diego Duran",
-   "side": "Y",
-   "entry_price": 0.289,
-   "exit_price": 0.999,
-   "pnl": 49.135,
-   "closed": "2026-11-27T00:06:35",
    "motivo": "prezzo a fine corsa"
   }
  ]
