@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T04:37:01",
+ "generated_at": "2026-11-27T05:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 177,
+   "chiusi": 178,
    "aperti": 15,
-   "pnl": -166.94,
-   "rend_medio_pct": -4.72,
-   "t": -0.85,
-   "rend40_pct": -22.99,
-   "t40": -2.17
+   "pnl": -170.8,
+   "rend_medio_pct": -4.8,
+   "t": -0.87,
+   "rend40_pct": -23.29,
+   "t40": -2.2
   },
   {
    "id": "84fb9952fb",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 52,
+   "chiusi": 55,
    "aperti": 15,
-   "pnl": -41.01,
-   "rend_medio_pct": -3.94,
-   "t": -0.31,
-   "rend40_pct": -4.71,
-   "t40": -0.35
+   "pnl": -40.46,
+   "rend_medio_pct": -3.68,
+   "t": -0.3,
+   "rend40_pct": -9.03,
+   "t40": -0.71
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,72 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 226,
+   "chiusi": 229,
    "aperti": 15,
-   "pnl": -45.76,
-   "rend_medio_pct": -1.01,
-   "t": -0.13,
-   "rend40_pct": -7.72,
-   "t40": -0.62
+   "pnl": -55.86,
+   "rend_medio_pct": -1.22,
+   "t": -0.16,
+   "rend40_pct": -1.97,
+   "t40": -0.16
   }
  ],
  "aperte": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
+   "side": "Y",
+   "entry_price": 0.4,
+   "importo": 20.0,
+   "opened": "2026-11-27T04:56:01"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Broncos vs. Steelers",
+   "side": "Y",
+   "entry_price": 0.69,
+   "importo": 20.0,
+   "opened": "2026-11-27T04:39:18"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Playford: Moerani Bouzige vs Tristan Schoolkate",
+   "side": "Y",
+   "entry_price": 0.8,
+   "importo": 20.0,
+   "opened": "2026-11-27T04:39:18"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Playford: Moerani Bouzige vs Tristan Schoolkate",
+   "side": "Y",
+   "entry_price": 0.8,
+   "importo": 20.0,
+   "opened": "2026-11-27T04:39:18"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Bitcoin dip to $45,000 by December 31, 2026?",
+   "side": "Y",
+   "entry_price": 0.116,
+   "importo": 20.0,
+   "opened": "2026-11-27T04:39:18"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Elon Musk post 240-259 tweets from November 20 to November 27, 2026?",
+   "side": "N",
+   "entry_price": 0.615,
+   "importo": 20.0,
+   "opened": "2026-11-27T04:39:18"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Jon Ossoff Democratic nomination odds leader on December 31?",
+   "side": "N",
+   "entry_price": 0.21,
+   "importo": 20.0,
+   "opened": "2026-11-27T04:39:18"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "76ers vs. Pacers",
@@ -165,14 +221,6 @@
    "opened": "2026-11-27T02:22:11"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Chiefs vs. Bills",
-   "side": "N",
-   "entry_price": 0.61,
-   "importo": 20.0,
-   "opened": "2026-11-27T00:06:35"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $56,000 on November 30?",
    "side": "Y",
@@ -227,14 +275,6 @@
    "entry_price": 0.81,
    "importo": 20.0,
    "opened": "2026-11-26T18:40:42"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Spread: Bills (-2.5)",
-   "side": "N",
-   "entry_price": 0.46,
-   "importo": 20.0,
-   "opened": "2026-11-26T17:31:51"
   },
   {
    "rule_id": "924891e0f0",
@@ -390,43 +430,11 @@
   },
   {
    "rule_id": "84fb9952fb",
-   "market_nome": "Spread: Bills (-2.5)",
-   "side": "Y",
-   "entry_price": 0.53,
-   "importo": 20.0,
-   "opened": "2026-11-26T04:42:05"
-  },
-  {
-   "rule_id": "84fb9952fb",
    "market_nome": "Will Google have the best AI model at the end of December 2026?",
    "side": "Y",
    "entry_price": 0.79,
    "importo": 20.0,
    "opened": "2026-11-26T04:42:05"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $8.00?",
-   "side": "N",
-   "entry_price": 0.57,
-   "importo": 20.0,
-   "opened": "2026-11-26T04:24:52"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Su Chiao-hui win the next New Taipei Mayor election?",
-   "side": "Y",
-   "entry_price": 0.73,
-   "importo": 20.0,
-   "opened": "2026-11-26T04:24:52"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Chiefs vs. Bills",
-   "side": "Y",
-   "entry_price": 0.42,
-   "importo": 20.0,
-   "opened": "2026-11-26T04:24:52"
   },
   {
    "rule_id": "2a906fe26e",
@@ -547,17 +555,79 @@
    "entry_price": 0.26,
    "importo": 20.0,
    "opened": "2026-11-24T05:14:25"
-  },
+  }
+ ],
+ "ultime_chiuse": [
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will the San Francisco 49ers win the 2027 NFL league championship?",
    "side": "Y",
    "entry_price": 0.194,
-   "importo": 20.0,
-   "opened": "2026-11-24T04:41:50"
-  }
- ],
- "ultime_chiuse": [
+   "exit_price": 0.217,
+   "pnl": 2.3711,
+   "closed": "2026-11-27T04:55:59",
+   "motivo": "uscita a tempo 72h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Spread: Bills (-2.5)",
+   "side": "N",
+   "entry_price": 0.46,
+   "exit_price": 0.01,
+   "pnl": -19.5652,
+   "closed": "2026-11-27T04:39:18",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Chiefs vs. Bills",
+   "side": "N",
+   "entry_price": 0.61,
+   "exit_price": 0.999,
+   "pnl": 12.7541,
+   "closed": "2026-11-27T04:39:18",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $8.00?",
+   "side": "N",
+   "entry_price": 0.57,
+   "exit_price": 0.46,
+   "pnl": -3.8597,
+   "closed": "2026-11-27T04:39:17",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Su Chiao-hui win the next New Taipei Mayor election?",
+   "side": "Y",
+   "entry_price": 0.73,
+   "exit_price": 0.61,
+   "pnl": -3.2876,
+   "closed": "2026-11-27T04:39:17",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Chiefs vs. Bills",
+   "side": "Y",
+   "entry_price": 0.42,
+   "exit_price": 0.01,
+   "pnl": -19.5238,
+   "closed": "2026-11-27T04:39:17",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Spread: Bills (-2.5)",
+   "side": "Y",
+   "entry_price": 0.53,
+   "exit_price": 0.999,
+   "pnl": 17.6981,
+   "closed": "2026-11-27T04:39:17",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $8.00?",
@@ -886,76 +956,6 @@
    "exit_price": 0.999,
    "pnl": 4.6667,
    "closed": "2026-11-26T17:48:31",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Marco Rubio out as Secretary of State by March 31, 2027?",
-   "side": "N",
-   "entry_price": 0.8,
-   "exit_price": 0.79,
-   "pnl": -0.25,
-   "closed": "2026-11-26T17:31:51",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn H100 rental price in December 2026 be above $3.10?",
-   "side": "Y",
-   "entry_price": 0.42,
-   "exit_price": 0.44,
-   "pnl": 0.9524,
-   "closed": "2026-11-26T17:31:51",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: BakS eSports vs Nordic Partners Gaming  (BO3) - CCT Europe Series #15 Group Stage",
-   "side": "Y",
-   "entry_price": 0.943,
-   "exit_price": 0.999,
-   "pnl": 1.1877,
-   "closed": "2026-11-26T17:14:06",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Marco Rubio out as Secretary of State by March 31, 2027?",
-   "side": "N",
-   "entry_price": 0.8,
-   "exit_price": 0.79,
-   "pnl": -0.25,
-   "closed": "2026-11-26T17:14:05",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be between $60,000 and $62,000 on November 26?",
-   "side": "Y",
-   "entry_price": 0.86,
-   "exit_price": 0.994,
-   "pnl": 3.1163,
-   "closed": "2026-11-26T16:56:36",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 26?",
-   "side": "N",
-   "entry_price": 0.67,
-   "exit_price": 0.01,
-   "pnl": -19.7015,
-   "closed": "2026-11-26T16:56:35",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 26?",
-   "side": "Y",
-   "entry_price": 0.82,
-   "exit_price": 0.999,
-   "pnl": 4.3658,
-   "closed": "2026-11-26T16:56:35",
    "motivo": "prezzo a fine corsa"
   }
  ]
