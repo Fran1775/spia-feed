@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T05:37:01",
+ "generated_at": "2026-11-27T06:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,12 +14,12 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 212,
-   "aperti": 14,
-   "pnl": -76.29,
-   "rend_medio_pct": -1.8,
-   "t": -0.66,
-   "rend40_pct": 0.08,
+   "chiusi": 214,
+   "aperti": 12,
+   "pnl": -68.47,
+   "rend_medio_pct": -1.6,
+   "t": -0.59,
+   "rend40_pct": 0.05,
    "t40": 0.01
   },
   {
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 179,
+   "chiusi": 182,
    "aperti": 15,
-   "pnl": -190.55,
-   "rend_medio_pct": -5.32,
-   "t": -0.97,
-   "rend40_pct": -23.27,
-   "t40": -2.2
+   "pnl": -196.96,
+   "rend_medio_pct": -5.41,
+   "t": -1.0,
+   "rend40_pct": -22.28,
+   "t40": -2.16
   },
   {
    "id": "84fb9952fb",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 56,
+   "chiusi": 57,
    "aperti": 15,
-   "pnl": -49.7,
-   "rend_medio_pct": -4.44,
-   "t": -0.37,
-   "rend40_pct": -7.68,
-   "t40": -0.61
+   "pnl": -51.8,
+   "rend_medio_pct": -4.54,
+   "t": -0.39,
+   "rend40_pct": -5.51,
+   "t40": -0.45
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,56 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 231,
+   "chiusi": 232,
    "aperti": 15,
-   "pnl": -76.44,
-   "rend_medio_pct": -1.65,
-   "t": -0.22,
-   "rend40_pct": -4.9,
-   "t40": -0.4
+   "pnl": -79.77,
+   "rend_medio_pct": -1.72,
+   "t": -0.23,
+   "rend40_pct": -5.03,
+   "t40": -0.41
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Benjamin Netanyahu be the next leader out before 2027?",
+   "side": "Y",
+   "entry_price": 0.63,
+   "importo": 20.0,
+   "opened": "2026-11-27T06:04:19"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Spread: Broncos (-4.5)",
+   "side": "Y",
+   "entry_price": 0.51,
+   "importo": 20.0,
+   "opened": "2026-11-27T05:47:14"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Playford: Omar Jasika vs Alex Bolt",
+   "side": "N",
+   "entry_price": 0.73,
+   "importo": 20.0,
+   "opened": "2026-11-27T05:47:14"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Playford: Omar Jasika vs Alex Bolt",
+   "side": "Y",
+   "entry_price": 0.28,
+   "importo": 20.0,
+   "opened": "2026-11-27T05:47:14"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B200 rental price in February 2027 be above $8.00?",
+   "side": "Y",
+   "entry_price": 0.76,
+   "importo": 20.0,
+   "opened": "2026-11-27T05:47:14"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Chiang Wan-an win the next Taipei Mayor election?",
@@ -219,14 +259,6 @@
    "entry_price": 0.272,
    "importo": 20.0,
    "opened": "2026-11-27T02:56:52"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the highest temperature in Seoul (Incheon) be 16°C on November 27?",
-   "side": "Y",
-   "entry_price": 0.81,
-   "importo": 20.0,
-   "opened": "2026-11-27T02:22:12"
   },
   {
    "rule_id": "2a906fe26e",
@@ -381,44 +413,12 @@
    "opened": "2026-11-26T06:07:08"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
-   "side": "N",
-   "entry_price": 0.71,
-   "importo": 20.0,
-   "opened": "2026-11-26T05:50:12"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Democratic 2028 presidential odds 66-68% on November 27?",
    "side": "Y",
    "entry_price": 0.83,
    "importo": 20.0,
    "opened": "2026-11-26T05:50:12"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Alberto Núñez Feijóo be the next Prime Minister of Spain?",
-   "side": "N",
-   "entry_price": 0.12,
-   "importo": 20.0,
-   "opened": "2026-11-26T05:33:12"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Su Chiao-hui win the next New Taipei Mayor election?",
-   "side": "Y",
-   "entry_price": 0.72,
-   "importo": 20.0,
-   "opened": "2026-11-26T05:33:12"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $11.00?",
-   "side": "N",
-   "entry_price": 0.77,
-   "importo": 20.0,
-   "opened": "2026-11-26T05:33:12"
   },
   {
    "rule_id": "2a906fe26e",
@@ -475,14 +475,6 @@
    "entry_price": 0.93,
    "importo": 20.0,
    "opened": "2026-11-25T20:17:29"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 27?",
-   "side": "Y",
-   "entry_price": 0.84,
-   "importo": 20.0,
-   "opened": "2026-11-25T19:27:16"
   },
   {
    "rule_id": "2a906fe26e",
@@ -547,17 +539,79 @@
    "entry_price": 0.843,
    "importo": 20.0,
    "opened": "2026-11-24T06:21:06"
+  }
+ ],
+ "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
+   "side": "N",
+   "entry_price": 0.71,
+   "exit_price": 0.6,
+   "pnl": -3.0986,
+   "closed": "2026-11-27T06:04:19",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the highest temperature in Seoul (Incheon) be 16°C on November 27?",
+   "side": "Y",
+   "entry_price": 0.81,
+   "exit_price": 0.983,
+   "pnl": 4.2716,
+   "closed": "2026-11-27T05:47:14",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Alberto Núñez Feijóo be the next Prime Minister of Spain?",
+   "side": "N",
+   "entry_price": 0.12,
+   "exit_price": 0.1,
+   "pnl": -3.3333,
+   "closed": "2026-11-27T05:47:13",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Su Chiao-hui win the next New Taipei Mayor election?",
+   "side": "Y",
+   "entry_price": 0.72,
+   "exit_price": 0.61,
+   "pnl": -3.0555,
+   "closed": "2026-11-27T05:47:13",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $11.00?",
+   "side": "N",
+   "entry_price": 0.77,
+   "exit_price": 0.76,
+   "pnl": -0.2598,
+   "closed": "2026-11-27T05:47:13",
+   "motivo": "uscita a tempo 24h"
   },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Russia x Ukraine ceasefire agreement by January 31, 2027?",
    "side": "Y",
    "entry_price": 0.19,
-   "importo": 20.0,
-   "opened": "2026-11-24T05:31:25"
-  }
- ],
- "ultime_chiuse": [
+   "exit_price": 0.17,
+   "pnl": -2.1053,
+   "closed": "2026-11-27T05:47:12",
+   "motivo": "uscita a tempo 72h"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $58,000 on November 27?",
+   "side": "Y",
+   "entry_price": 0.84,
+   "exit_price": 0.989,
+   "pnl": 3.5476,
+   "closed": "2026-11-27T05:47:12",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Playford: Moerani Bouzige vs Tristan Schoolkate",
@@ -886,76 +940,6 @@
    "exit_price": 0.004,
    "pnl": -19.84,
    "closed": "2026-11-26T21:32:13",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Beşiktaş JK win on 2026-11-26?",
-   "side": "N",
-   "entry_price": 0.3,
-   "exit_price": 0.01,
-   "pnl": -19.3333,
-   "closed": "2026-11-26T20:24:08",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Florianopolis: Joaquin Aguilar vs Genaro Alberto Olivieri",
-   "side": "Y",
-   "entry_price": 0.7,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-26T20:06:53",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Lir vs Spirit Academy - Map 1 Winner",
-   "side": "Y",
-   "entry_price": 0.9,
-   "exit_price": 0.999,
-   "pnl": 2.2,
-   "closed": "2026-11-26T19:50:05",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will AFC Ajax win on 2026-11-26?",
-   "side": "Y",
-   "entry_price": 0.8,
-   "exit_price": 0.999,
-   "pnl": 4.975,
-   "closed": "2026-11-26T19:32:42",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.90?",
-   "side": "N",
-   "entry_price": 0.47,
-   "exit_price": 0.43,
-   "pnl": -1.7021,
-   "closed": "2026-11-26T19:32:41",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will FC Red Bull Salzburg win on 2026-11-26?",
-   "side": "Y",
-   "entry_price": 0.86,
-   "exit_price": 0.988,
-   "pnl": 2.9767,
-   "closed": "2026-11-26T19:15:13",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Brighton & Hove Albion FC win on 2026-11-26?",
-   "side": "Y",
-   "entry_price": 0.88,
-   "exit_price": 0.998,
-   "pnl": 2.6818,
-   "closed": "2026-11-26T18:40:42",
    "motivo": "prezzo a fine corsa"
   }
  ]
