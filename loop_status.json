@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T13:37:01",
+ "generated_at": "2026-11-27T14:07:02",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 185,
+   "chiusi": 186,
    "aperti": 15,
-   "pnl": -220.72,
-   "rend_medio_pct": -5.97,
-   "t": -1.12,
-   "rend40_pct": -30.64,
-   "t40": -3.33
+   "pnl": -221.74,
+   "rend_medio_pct": -5.96,
+   "t": -1.13,
+   "rend40_pct": -31.69,
+   "t40": -3.49
   },
   {
    "id": "84fb9952fb",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Hersonissos 4: Gilles Arnaud Bailly vs Benjamin Pietri",
+   "side": "N",
+   "entry_price": 0.44,
+   "importo": 20.0,
+   "opened": "2026-11-27T13:56:03"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will PP win the most seats in the 2026 Spanish general election?",
@@ -413,14 +421,6 @@
    "opened": "2026-11-26T14:42:07"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $7.00?",
-   "side": "N",
-   "entry_price": 0.39,
-   "importo": 20.0,
-   "opened": "2026-11-26T13:51:16"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will FC Barcelona win on 2026-11-29?",
    "side": "Y",
@@ -542,6 +542,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $7.00?",
+   "side": "N",
+   "entry_price": 0.39,
+   "exit_price": 0.37,
+   "pnl": -1.0256,
+   "closed": "2026-11-27T13:56:02",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "US-Iran Hormuz Agreement by December 31?",
@@ -931,16 +941,6 @@
    "pnl": 1.7174,
    "closed": "2026-11-26T23:32:21",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Valorant: Mandatory vs MIR (BO3) - VCT EMEA Kickoff: Europe - Qualifier Swiss Stage",
-   "side": "Y",
-   "entry_price": 0.81,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-26T22:40:32",
-   "motivo": "risoluzione"
   }
  ]
 }
