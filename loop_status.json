@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T14:07:02",
+ "generated_at": "2026-11-27T14:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 186,
+   "chiusi": 187,
    "aperti": 15,
-   "pnl": -221.74,
-   "rend_medio_pct": -5.96,
-   "t": -1.13,
-   "rend40_pct": -31.69,
-   "t40": -3.49
+   "pnl": -241.29,
+   "rend_medio_pct": -6.45,
+   "t": -1.22,
+   "rend40_pct": -34.23,
+   "t40": -3.73
   },
   {
    "id": "84fb9952fb",
@@ -86,11 +86,11 @@
  "aperte": [
   {
    "rule_id": "924891e0f0",
-   "market_nome": "Hersonissos 4: Gilles Arnaud Bailly vs Benjamin Pietri",
-   "side": "N",
-   "entry_price": 0.44,
+   "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.00?",
+   "side": "Y",
+   "entry_price": 0.67,
    "importo": 20.0,
-   "opened": "2026-11-27T13:56:03"
+   "opened": "2026-11-27T14:12:54"
   },
   {
    "rule_id": "84fb9952fb",
@@ -544,6 +544,16 @@
  "ultime_chiuse": [
   {
    "rule_id": "924891e0f0",
+   "market_nome": "Hersonissos 4: Gilles Arnaud Bailly vs Benjamin Pietri",
+   "side": "N",
+   "entry_price": 0.44,
+   "exit_price": 0.01,
+   "pnl": -19.5455,
+   "closed": "2026-11-27T14:12:54",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
    "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $7.00?",
    "side": "N",
    "entry_price": 0.39,
@@ -930,16 +940,6 @@
    "exit_price": 0.999,
    "pnl": 49.135,
    "closed": "2026-11-27T00:06:35",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Grêmio Esports vs RED Canids Academy - Map 2 Winner",
-   "side": "Y",
-   "entry_price": 0.92,
-   "exit_price": 0.999,
-   "pnl": 1.7174,
-   "closed": "2026-11-26T23:32:21",
    "motivo": "prezzo a fine corsa"
   }
  ]
