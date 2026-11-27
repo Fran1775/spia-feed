@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T03:07:01",
+ "generated_at": "2026-11-27T03:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 174,
+   "chiusi": 177,
    "aperti": 15,
-   "pnl": -159.02,
-   "rend_medio_pct": -4.57,
-   "t": -0.81,
-   "rend40_pct": -22.74,
-   "t40": -2.14
+   "pnl": -166.94,
+   "rend_medio_pct": -4.72,
+   "t": -0.85,
+   "rend40_pct": -22.99,
+   "t40": -2.17
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,64 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 222,
+   "chiusi": 225,
    "aperti": 15,
-   "pnl": -39.7,
-   "rend_medio_pct": -0.89,
-   "t": -0.12,
-   "rend40_pct": -2.22,
-   "t40": -0.17
+   "pnl": -42.49,
+   "rend_medio_pct": -0.94,
+   "t": -0.13,
+   "rend40_pct": -6.98,
+   "t40": -0.56
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will AI solve P versus NP in 2026?",
+   "side": "N",
+   "entry_price": 0.849,
+   "importo": 20.0,
+   "opened": "2026-11-27T03:31:09"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn B200 rental price in January 2027 be above $9.00?",
+   "side": "Y",
+   "entry_price": 0.6,
+   "importo": 20.0,
+   "opened": "2026-11-27T03:31:09"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post 240-259 tweets from November 20 to November 27, 2026?",
+   "side": "Y",
+   "entry_price": 0.384,
+   "importo": 20.0,
+   "opened": "2026-11-27T03:31:09"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will it be confirmed that a software or configuration error caused the FAA's nationwide ground stop on November 13?",
+   "side": "N",
+   "entry_price": 0.754,
+   "importo": 20.0,
+   "opened": "2026-11-27T03:14:05"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Broncos vs. Steelers",
+   "side": "N",
+   "entry_price": 0.32,
+   "importo": 20.0,
+   "opened": "2026-11-27T03:14:05"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B200 rental price in January 2027 be above $9.00?",
+   "side": "Y",
+   "entry_price": 0.6,
+   "importo": 20.0,
+   "opened": "2026-11-27T03:14:05"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will it be confirmed that a software or configuration error caused the FAA's nationwide ground stop on November 13?",
@@ -389,60 +437,12 @@
    "opened": "2026-11-26T03:16:38"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Puma Shen win the next Taipei Mayor election?",
-   "side": "Y",
-   "entry_price": 0.474,
-   "importo": 20.0,
-   "opened": "2026-11-26T03:16:37"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Puma Shen win the next Taipei Mayor election?",
-   "side": "Y",
-   "entry_price": 0.474,
-   "importo": 20.0,
-   "opened": "2026-11-26T03:16:37"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $7.00?",
-   "side": "N",
-   "entry_price": 0.42,
-   "importo": 20.0,
-   "opened": "2026-11-26T03:16:37"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Trump pardon Jensen Huang before 2027?",
    "side": "Y",
    "entry_price": 0.134,
    "importo": 20.0,
    "opened": "2026-11-26T03:16:37"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin reach $64,000 November 23-29?",
-   "side": "Y",
-   "entry_price": 0.29,
-   "importo": 20.0,
-   "opened": "2026-11-26T02:59:48"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Chiang Wan-an win the next Taipei Mayor election?",
-   "side": "N",
-   "entry_price": 0.46,
-   "importo": 20.0,
-   "opened": "2026-11-26T02:59:47"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin reach $62,500 in November?",
-   "side": "Y",
-   "entry_price": 0.61,
-   "importo": 20.0,
-   "opened": "2026-11-26T02:59:47"
   },
   {
    "rule_id": "2a906fe26e",
@@ -558,6 +558,66 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Puma Shen win the next Taipei Mayor election?",
+   "side": "Y",
+   "entry_price": 0.474,
+   "exit_price": 0.379,
+   "pnl": -4.0084,
+   "closed": "2026-11-27T03:31:08",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Puma Shen win the next Taipei Mayor election?",
+   "side": "Y",
+   "entry_price": 0.474,
+   "exit_price": 0.379,
+   "pnl": -4.0084,
+   "closed": "2026-11-27T03:31:08",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $7.00?",
+   "side": "N",
+   "entry_price": 0.42,
+   "exit_price": 0.37,
+   "pnl": -2.381,
+   "closed": "2026-11-27T03:31:08",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Chiang Wan-an win the next Taipei Mayor election?",
+   "side": "N",
+   "entry_price": 0.46,
+   "exit_price": 0.37,
+   "pnl": -3.913,
+   "closed": "2026-11-27T03:14:04",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin reach $62,500 in November?",
+   "side": "Y",
+   "entry_price": 0.61,
+   "exit_price": 0.72,
+   "pnl": 3.6066,
+   "closed": "2026-11-27T03:14:04",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Bitcoin reach $64,000 November 23-29?",
+   "side": "Y",
+   "entry_price": 0.29,
+   "exit_price": 0.29,
+   "pnl": 0.0,
+   "closed": "2026-11-27T03:14:04",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Chiang Wan-an win the next Taipei Mayor election?",
@@ -896,66 +956,6 @@
    "exit_price": 0.01,
    "pnl": -19.7778,
    "closed": "2026-11-26T16:39:45",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Elon Musk post 280-299 tweets from November 20 to November 27, 2026?",
-   "side": "Y",
-   "entry_price": 0.33,
-   "exit_price": 0.3,
-   "pnl": -1.8182,
-   "closed": "2026-11-26T16:39:44",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will no listed leader be out before 2027?",
-   "side": "N",
-   "entry_price": 0.55,
-   "exit_price": 0.71,
-   "pnl": 5.8182,
-   "closed": "2026-11-26T16:39:44",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Valorant: Eternal Fire vs Trigon Titans (BO3) - VCT EMEA Kickoff: Türkiye - Qualifier Group A",
-   "side": "Y",
-   "entry_price": 0.8,
-   "exit_price": 0.999,
-   "pnl": 4.975,
-   "closed": "2026-11-26T16:22:46",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down on November 26?",
-   "side": "Y",
-   "entry_price": 0.84,
-   "exit_price": 0.994,
-   "pnl": 3.6666,
-   "closed": "2026-11-26T16:06:09",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Bitcoin Up or Down on November 26?",
-   "side": "Y",
-   "entry_price": 0.93,
-   "exit_price": 0.994,
-   "pnl": 1.3764,
-   "closed": "2026-11-26T16:06:09",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Wildcard vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
-   "side": "Y",
-   "entry_price": 0.88,
-   "exit_price": 0.999,
-   "pnl": 2.7046,
-   "closed": "2026-11-26T15:49:23",
    "motivo": "prezzo a fine corsa"
   }
  ]
