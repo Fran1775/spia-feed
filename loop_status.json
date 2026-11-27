@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T23:37:01",
+ "generated_at": "2026-11-27T00:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 209,
-   "aperti": 12,
+   "aperti": 13,
    "pnl": -83.46,
    "rend_medio_pct": -2.0,
    "t": -0.72,
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 220,
+   "chiusi": 221,
    "aperti": 15,
-   "pnl": -85.36,
-   "rend_medio_pct": -1.94,
-   "t": -0.25,
-   "rend40_pct": -10.39,
-   "t40": -0.88
+   "pnl": -36.22,
+   "rend_medio_pct": -0.82,
+   "t": -0.11,
+   "rend40_pct": -1.78,
+   "t40": -0.14
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Chiefs vs. Bills",
+   "side": "N",
+   "entry_price": 0.61,
+   "importo": 20.0,
+   "opened": "2026-11-27T00:06:35"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $56,000 on November 30?",
+   "side": "Y",
+   "entry_price": 0.95,
+   "importo": 20.0,
+   "opened": "2026-11-27T00:06:35"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Counter-Strike: ENCELADE vs AXE (BO3) - CCT Europe Contenders #11 Playoffs",
@@ -91,14 +107,6 @@
    "entry_price": 0.81,
    "importo": 20.0,
    "opened": "2026-11-26T23:32:21"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "San Salvador: Lucas Da Silva vs Diego Duran",
-   "side": "Y",
-   "entry_price": 0.289,
-   "importo": 20.0,
-   "opened": "2026-11-26T22:23:00"
   },
   {
    "rule_id": "2a906fe26e",
@@ -543,6 +551,16 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "a042d572b3",
+   "market_nome": "San Salvador: Lucas Da Silva vs Diego Duran",
+   "side": "Y",
+   "entry_price": 0.289,
+   "exit_price": 0.999,
+   "pnl": 49.135,
+   "closed": "2026-11-27T00:06:35",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
    "rule_id": "2a906fe26e",
    "market_nome": "Counter-Strike: Grêmio Esports vs RED Canids Academy - Map 2 Winner",
    "side": "Y",
@@ -930,16 +948,6 @@
    "exit_price": 0.01,
    "pnl": -19.7619,
    "closed": "2026-11-26T14:08:19",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Counter-Strike: Imperial vs Liquid - Map 2 Winner",
-   "side": "N",
-   "entry_price": 0.72,
-   "exit_price": 0.999,
-   "pnl": 7.75,
-   "closed": "2026-11-26T13:51:16",
    "motivo": "prezzo a fine corsa"
   }
  ]
