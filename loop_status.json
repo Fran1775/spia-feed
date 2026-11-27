@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T07:07:01",
+ "generated_at": "2026-11-27T07:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 184,
+   "chiusi": 185,
    "aperti": 15,
-   "pnl": -218.56,
-   "rend_medio_pct": -5.94,
-   "t": -1.11,
-   "rend40_pct": -30.62,
-   "t40": -3.32
+   "pnl": -220.72,
+   "rend_medio_pct": -5.97,
+   "t": -1.12,
+   "rend40_pct": -30.64,
+   "t40": -3.33
   },
   {
    "id": "84fb9952fb",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn H200 rental price in February 2027 be above $7.00?",
+   "side": "Y",
+   "entry_price": 0.44,
+   "importo": 20.0,
+   "opened": "2026-11-27T07:29:27"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will PSOE win the most seats in the 2026 Spanish general election?",
@@ -413,14 +421,6 @@
    "opened": "2026-11-26T08:10:56"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "76ers vs. Pacers",
-   "side": "Y",
-   "entry_price": 0.65,
-   "importo": 20.0,
-   "opened": "2026-11-26T07:19:35"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Democratic 2028 presidential odds 66-68% on November 27?",
    "side": "Y",
@@ -542,6 +542,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "76ers vs. Pacers",
+   "side": "Y",
+   "entry_price": 0.65,
+   "exit_price": 0.58,
+   "pnl": -2.1539,
+   "closed": "2026-11-27T07:29:27",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Playford: Omar Jasika vs Alex Bolt",
@@ -931,16 +941,6 @@
    "pnl": -20.0,
    "closed": "2026-11-26T22:40:32",
    "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Netanyahu out by end of 2026?",
-   "side": "Y",
-   "entry_price": 0.59,
-   "exit_price": 0.78,
-   "pnl": 6.4407,
-   "closed": "2026-11-26T22:22:59",
-   "motivo": "uscita a tempo 24h"
   }
  ]
 }
