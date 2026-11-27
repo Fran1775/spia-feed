@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T07:37:01",
+ "generated_at": "2026-11-27T08:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 58,
+   "chiusi": 59,
    "aperti": 15,
-   "pnl": -49.93,
-   "rend_medio_pct": -4.3,
-   "t": -0.37,
-   "rend40_pct": -5.54,
-   "t40": -0.45
+   "pnl": -53.0,
+   "rend_medio_pct": -4.49,
+   "t": -0.39,
+   "rend40_pct": -3.48,
+   "t40": -0.29
   },
   {
    "id": "a042d572b3",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will PP win the most seats in the 2026 Spanish general election?",
+   "side": "Y",
+   "entry_price": 0.75,
+   "importo": 20.0,
+   "opened": "2026-11-27T08:03:15"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will the average Ornn H200 rental price in February 2027 be above $7.00?",
@@ -531,17 +539,19 @@
    "entry_price": 0.29,
    "importo": 20.0,
    "opened": "2026-11-24T21:03:53"
-  },
+  }
+ ],
+ "ultime_chiuse": [
   {
    "rule_id": "84fb9952fb",
    "market_nome": "US-Iran Hormuz Agreement by December 31?",
    "side": "Y",
    "entry_price": 0.13,
-   "importo": 20.0,
-   "opened": "2026-11-24T07:59:52"
-  }
- ],
- "ultime_chiuse": [
+   "exit_price": 0.11,
+   "pnl": -3.0769,
+   "closed": "2026-11-27T08:03:13",
+   "motivo": "uscita a tempo 72h"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "76ers vs. Pacers",
@@ -927,16 +937,6 @@
    "market_nome": "Valorant: Mandatory vs MIR (BO3) - VCT EMEA Kickoff: Europe - Qualifier Swiss Stage",
    "side": "Y",
    "entry_price": 0.81,
-   "exit_price": 0.0,
-   "pnl": -20.0,
-   "closed": "2026-11-26T22:40:32",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Valorant: Aurora Gaming vs WIP Esports (BO3) - VCT EMEA Kickoff: Europe - Qualifier Swiss Stage",
-   "side": "Y",
-   "entry_price": 0.92,
    "exit_price": 0.0,
    "pnl": -20.0,
    "closed": "2026-11-26T22:40:32",
