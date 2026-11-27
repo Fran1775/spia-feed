@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-27T02:07:01",
+ "generated_at": "2026-11-27T02:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
    "nome": "Favorito a scadenza breve",
-   "stato": "prova",
+   "stato": "sospesa",
    "importo": 20.0,
    "origine": "iniziale",
    "params": {
@@ -15,7 +15,7 @@
     "pmin": 0.8
    },
    "chiusi": 211,
-   "aperti": 12,
+   "aperti": 15,
    "pnl": -77.28,
    "rend_medio_pct": -1.83,
    "t": -0.67,
@@ -84,6 +84,30 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the highest temperature in Seoul (Incheon) be 16°C on November 27?",
+   "side": "Y",
+   "entry_price": 0.81,
+   "importo": 20.0,
+   "opened": "2026-11-27T02:22:12"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 27?",
+   "side": "Y",
+   "entry_price": 0.85,
+   "importo": 20.0,
+   "opened": "2026-11-27T02:22:11"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 26, 9:00PM-10:00PM ET",
+   "side": "Y",
+   "entry_price": 0.95,
+   "importo": 20.0,
+   "opened": "2026-11-27T02:22:11"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Chiefs vs. Bills",
