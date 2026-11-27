@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T23:07:01",
+ "generated_at": "2026-11-27T23:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 64,
+   "chiusi": 65,
    "aperti": 15,
-   "pnl": -50.51,
-   "rend_medio_pct": -3.95,
-   "t": -0.37,
-   "rend40_pct": -6.91,
-   "t40": -0.65
+   "pnl": -70.51,
+   "rend_medio_pct": -5.42,
+   "t": -0.51,
+   "rend40_pct": -8.65,
+   "t40": -0.79
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 244,
+   "chiusi": 245,
    "aperti": 15,
-   "pnl": -4.49,
-   "rend_medio_pct": -0.09,
-   "t": -0.01,
-   "rend40_pct": 2.17,
-   "t40": 0.16
+   "pnl": 15.51,
+   "rend_medio_pct": 0.32,
+   "t": 0.04,
+   "rend40_pct": 4.7,
+   "t40": 0.34
   }
  ],
  "aperte": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.60?",
+   "side": "Y",
+   "entry_price": 0.51,
+   "importo": 20.0,
+   "opened": "2026-11-27T23:21:55"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Bucks vs. Pistons",
+   "side": "Y",
+   "entry_price": 0.22,
+   "importo": 20.0,
+   "opened": "2026-11-27T23:21:55"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Hawks vs. Celtics",
@@ -309,14 +325,6 @@
    "opened": "2026-11-27T06:04:19"
   },
   {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Spread: Broncos (-4.5)",
-   "side": "Y",
-   "entry_price": 0.51,
-   "importo": 20.0,
-   "opened": "2026-11-27T05:47:14"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "Will the average Ornn B200 rental price in February 2027 be above $8.00?",
    "side": "Y",
@@ -329,14 +337,6 @@
    "market_nome": "Will Chiang Wan-an win the next Taipei Mayor election?",
    "side": "Y",
    "entry_price": 0.61,
-   "importo": 20.0,
-   "opened": "2026-11-27T05:30:07"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Spread: Broncos (-4.5)",
-   "side": "N",
-   "entry_price": 0.5,
    "importo": 20.0,
    "opened": "2026-11-27T05:30:07"
   },
@@ -526,6 +526,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Spread: Broncos (-4.5)",
+   "side": "N",
+   "entry_price": 0.5,
+   "exit_price": 1.0,
+   "pnl": 20.0,
+   "closed": "2026-11-27T23:21:55",
+   "motivo": "risoluzione"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Spread: Broncos (-4.5)",
+   "side": "Y",
+   "entry_price": 0.51,
+   "exit_price": 0.0,
+   "pnl": -20.0,
+   "closed": "2026-11-27T23:21:55",
+   "motivo": "risoluzione"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Broncos vs. Steelers",
@@ -904,26 +924,6 @@
    "exit_price": 0.6,
    "pnl": -3.0986,
    "closed": "2026-11-27T06:04:19",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the highest temperature in Seoul (Incheon) be 16°C on November 27?",
-   "side": "Y",
-   "entry_price": 0.81,
-   "exit_price": 0.983,
-   "pnl": 4.2716,
-   "closed": "2026-11-27T05:47:14",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Alberto Núñez Feijóo be the next Prime Minister of Spain?",
-   "side": "N",
-   "entry_price": 0.12,
-   "exit_price": 0.1,
-   "pnl": -3.3333,
-   "closed": "2026-11-27T05:47:13",
    "motivo": "uscita a tempo 24h"
   }
  ]
