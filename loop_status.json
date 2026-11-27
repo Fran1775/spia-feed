@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T06:07:01",
+ "generated_at": "2026-11-27T06:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 182,
+   "chiusi": 183,
    "aperti": 15,
-   "pnl": -196.96,
-   "rend_medio_pct": -5.41,
-   "t": -1.0,
-   "rend40_pct": -22.28,
-   "t40": -2.16
+   "pnl": -198.84,
+   "rend_medio_pct": -5.43,
+   "t": -1.01,
+   "rend40_pct": -26.11,
+   "t40": -2.76
   },
   {
    "id": "84fb9952fb",
@@ -56,12 +56,12 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 57,
+   "chiusi": 58,
    "aperti": 15,
-   "pnl": -51.8,
-   "rend_medio_pct": -4.54,
-   "t": -0.39,
-   "rend40_pct": -5.51,
+   "pnl": -49.93,
+   "rend_medio_pct": -4.3,
+   "t": -0.37,
+   "rend40_pct": -5.54,
    "t40": -0.45
   },
   {
@@ -74,16 +74,40 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 232,
+   "chiusi": 233,
    "aperti": 15,
    "pnl": -79.77,
-   "rend_medio_pct": -1.72,
+   "rend_medio_pct": -1.71,
    "t": -0.23,
-   "rend40_pct": -5.03,
-   "t40": -0.41
+   "rend40_pct": -8.34,
+   "t40": -0.7
   }
  ],
  "aperte": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will AI solve P versus NP in 2026?",
+   "side": "Y",
+   "entry_price": 0.151,
+   "importo": 20.0,
+   "opened": "2026-11-27T06:21:35"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will PP win the most seats in the 2026 Spanish general election?",
+   "side": "N",
+   "entry_price": 0.26,
+   "importo": 20.0,
+   "opened": "2026-11-27T06:21:35"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Ethereum reach $1,800 November 23-29?",
+   "side": "Y",
+   "entry_price": 0.47,
+   "importo": 20.0,
+   "opened": "2026-11-27T06:21:35"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will Benjamin Netanyahu be the next leader out before 2027?",
@@ -397,22 +421,6 @@
    "opened": "2026-11-26T06:23:54"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the average Ornn H100 rental price in December 2026 be above $3.10?",
-   "side": "N",
-   "entry_price": 0.56,
-   "importo": 20.0,
-   "opened": "2026-11-26T06:07:08"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $9.00?",
-   "side": "N",
-   "entry_price": 0.64,
-   "importo": 20.0,
-   "opened": "2026-11-26T06:07:08"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Democratic 2028 presidential odds 66-68% on November 27?",
    "side": "Y",
@@ -531,17 +539,39 @@
    "entry_price": 0.13,
    "importo": 20.0,
    "opened": "2026-11-24T07:59:52"
+  }
+ ],
+ "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn H100 rental price in December 2026 be above $3.10?",
+   "side": "N",
+   "entry_price": 0.56,
+   "exit_price": 0.56,
+   "pnl": 0.0,
+   "closed": "2026-11-27T06:21:34",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $9.00?",
+   "side": "N",
+   "entry_price": 0.64,
+   "exit_price": 0.58,
+   "pnl": -1.875,
+   "closed": "2026-11-27T06:21:34",
+   "motivo": "uscita a tempo 24h"
   },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Apple be the largest company in the world by market cap on December 31?",
    "side": "Y",
    "entry_price": 0.843,
-   "importo": 20.0,
-   "opened": "2026-11-24T06:21:06"
-  }
- ],
- "ultime_chiuse": [
+   "exit_price": 0.922,
+   "pnl": 1.8743,
+   "closed": "2026-11-27T06:21:33",
+   "motivo": "uscita a tempo 72h"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
@@ -910,36 +940,6 @@
    "exit_price": 0.999,
    "pnl": 4.0723,
    "closed": "2026-11-26T21:49:14",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Buenos Aires: Sofia Costoulas vs Varvara Lepchenko",
-   "side": "N",
-   "entry_price": 0.8,
-   "exit_price": 0.999,
-   "pnl": 4.975,
-   "closed": "2026-11-26T21:49:14",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: Team Synapse vs Team Allied (BO3) - Esports Pro Circuit  Group A",
-   "side": "Y",
-   "entry_price": 0.86,
-   "exit_price": 0.999,
-   "pnl": 3.2325,
-   "closed": "2026-11-26T21:49:13",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Bears vs. Lions",
-   "side": "N",
-   "entry_price": 0.5,
-   "exit_price": 0.004,
-   "pnl": -19.84,
-   "closed": "2026-11-26T21:32:13",
    "motivo": "prezzo a fine corsa"
   }
  ]
