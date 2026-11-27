@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T21:37:01",
+ "generated_at": "2026-11-27T22:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 197,
+   "chiusi": 198,
    "aperti": 15,
-   "pnl": -244.11,
-   "rend_medio_pct": -6.2,
-   "t": -1.19,
-   "rend40_pct": -20.75,
-   "t40": -2.12
+   "pnl": -236.36,
+   "rend_medio_pct": -5.97,
+   "t": -1.16,
+   "rend40_pct": -17.33,
+   "t40": -1.79
   },
   {
    "id": "84fb9952fb",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 60,
+   "chiusi": 63,
    "aperti": 15,
-   "pnl": -48.87,
-   "rend_medio_pct": -4.07,
-   "t": -0.36,
-   "rend40_pct": -0.46,
-   "t40": -0.04
+   "pnl": -30.65,
+   "rend_medio_pct": -2.43,
+   "t": -0.23,
+   "rend40_pct": -4.25,
+   "t40": -0.41
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,56 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 242,
+   "chiusi": 243,
    "aperti": 15,
-   "pnl": -41.89,
-   "rend_medio_pct": -0.87,
-   "t": -0.12,
-   "rend40_pct": -1.13,
-   "t40": -0.09
+   "pnl": -46.55,
+   "rend_medio_pct": -0.96,
+   "t": -0.13,
+   "rend40_pct": -4.64,
+   "t40": -0.36
   }
  ],
  "aperte": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Heat vs. Knicks",
+   "side": "Y",
+   "entry_price": 0.42,
+   "importo": 20.0,
+   "opened": "2026-11-27T21:59:23"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "76ers vs. Pacers",
+   "side": "Y",
+   "entry_price": 0.62,
+   "importo": 20.0,
+   "opened": "2026-11-27T21:59:23"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Mavericks vs. Suns",
+   "side": "Y",
+   "entry_price": 0.43,
+   "importo": 20.0,
+   "opened": "2026-11-27T21:59:23"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Grizzlies vs. Timberwolves",
+   "side": "Y",
+   "entry_price": 0.42,
+   "importo": 20.0,
+   "opened": "2026-11-27T21:59:23"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn H200 rental price in December 2026 be above $6.00?",
+   "side": "Y",
+   "entry_price": 0.79,
+   "importo": 20.0,
+   "opened": "2026-11-27T21:59:23"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Lakers vs. Spurs",
@@ -97,14 +137,6 @@
    "market_nome": "Mavericks vs. Suns",
    "side": "N",
    "entry_price": 0.58,
-   "importo": 20.0,
-   "opened": "2026-11-27T21:10:30"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Florianopolis: Juan Manuel La Serna vs Genaro Alberto Olivieri",
-   "side": "Y",
-   "entry_price": 0.72,
    "importo": 20.0,
    "opened": "2026-11-27T21:10:30"
   },
@@ -397,14 +429,6 @@
    "opened": "2026-11-26T21:49:14"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Israel x Iran ceasefire continues through November 30?",
-   "side": "N",
-   "entry_price": 0.06,
-   "importo": 20.0,
-   "opened": "2026-11-26T21:49:14"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Lai Jui-lung win the next Kaohsiung Mayor election?",
    "side": "Y",
@@ -499,33 +523,59 @@
    "entry_price": 0.74,
    "importo": 20.0,
    "opened": "2026-11-25T02:17:30"
+  }
+ ],
+ "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Florianopolis: Juan Manuel La Serna vs Genaro Alberto Olivieri",
+   "side": "Y",
+   "entry_price": 0.72,
+   "exit_price": 0.999,
+   "pnl": 7.75,
+   "closed": "2026-11-27T21:59:23",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Israel x Iran ceasefire continues through November 30?",
+   "side": "N",
+   "entry_price": 0.06,
+   "exit_price": 0.046,
+   "pnl": -4.6667,
+   "closed": "2026-11-27T21:59:22",
+   "motivo": "uscita a tempo 24h"
   },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Jensen Huang announced resignation or removal again by March 31, 2027?",
    "side": "Y",
    "entry_price": 0.14,
-   "importo": 20.0,
-   "opened": "2026-11-24T21:53:52"
+   "exit_price": 0.23,
+   "pnl": 12.8571,
+   "closed": "2026-11-27T21:59:21",
+   "motivo": "uscita a tempo 72h"
   },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.20?",
    "side": "Y",
    "entry_price": 0.42,
-   "importo": 20.0,
-   "opened": "2026-11-24T21:53:52"
+   "exit_price": 0.56,
+   "pnl": 6.6666,
+   "closed": "2026-11-27T21:59:21",
+   "motivo": "uscita a tempo 72h"
   },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will the average Ornn B300 rental price in January 2027 be above $11.00?",
    "side": "Y",
    "entry_price": 0.61,
-   "importo": 20.0,
-   "opened": "2026-11-24T21:53:52"
-  }
- ],
- "ultime_chiuse": [
+   "exit_price": 0.57,
+   "pnl": -1.3115,
+   "closed": "2026-11-27T21:59:21",
+   "motivo": "uscita a tempo 72h"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Elon Musk post <40 tweets from November 26 to November 28, 2026?",
@@ -875,56 +925,6 @@
    "pnl": -0.2598,
    "closed": "2026-11-27T05:47:13",
    "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Russia x Ukraine ceasefire agreement by January 31, 2027?",
-   "side": "Y",
-   "entry_price": 0.19,
-   "exit_price": 0.17,
-   "pnl": -2.1053,
-   "closed": "2026-11-27T05:47:12",
-   "motivo": "uscita a tempo 72h"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will the price of Bitcoin be above $58,000 on November 27?",
-   "side": "Y",
-   "entry_price": 0.84,
-   "exit_price": 0.989,
-   "pnl": 3.5476,
-   "closed": "2026-11-27T05:47:12",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Playford: Moerani Bouzige vs Tristan Schoolkate",
-   "side": "Y",
-   "entry_price": 0.8,
-   "exit_price": 0.01,
-   "pnl": -19.75,
-   "closed": "2026-11-27T05:30:07",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Playford: Moerani Bouzige vs Tristan Schoolkate",
-   "side": "Y",
-   "entry_price": 0.8,
-   "exit_price": 0.01,
-   "pnl": -19.75,
-   "closed": "2026-11-27T05:30:07",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Kimberly Powell announced resignation or removal by December 31, 2026?",
-   "side": "Y",
-   "entry_price": 0.26,
-   "exit_price": 0.14,
-   "pnl": -9.2308,
-   "closed": "2026-11-27T05:30:05",
-   "motivo": "uscita a tempo 72h"
   }
  ]
 }
