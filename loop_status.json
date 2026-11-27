@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T06:37:01",
+ "generated_at": "2026-11-27T07:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 183,
+   "chiusi": 184,
    "aperti": 15,
-   "pnl": -198.84,
-   "rend_medio_pct": -5.43,
-   "t": -1.01,
-   "rend40_pct": -26.11,
-   "t40": -2.76
+   "pnl": -218.56,
+   "rend_medio_pct": -5.94,
+   "t": -1.11,
+   "rend40_pct": -30.62,
+   "t40": -3.32
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,40 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 233,
+   "chiusi": 235,
    "aperti": 15,
-   "pnl": -79.77,
-   "rend_medio_pct": -1.71,
-   "t": -0.23,
-   "rend40_pct": -8.34,
-   "t40": -0.7
+   "pnl": -23.08,
+   "rend_medio_pct": -0.49,
+   "t": -0.07,
+   "rend40_pct": 1.31,
+   "t40": 0.1
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will PSOE win the most seats in the 2026 Spanish general election?",
+   "side": "N",
+   "entry_price": 0.75,
+   "importo": 20.0,
+   "opened": "2026-11-27T06:55:39"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the US Section 232 tariff rate on Canadian primary aluminum be >40-50% on December 31, 2027?",
+   "side": "N",
+   "entry_price": 0.64,
+   "importo": 20.0,
+   "opened": "2026-11-27T06:55:39"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Lakers vs. Spurs",
+   "side": "Y",
+   "entry_price": 0.34,
+   "importo": 20.0,
+   "opened": "2026-11-27T06:38:23"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will AI solve P versus NP in 2026?",
@@ -121,22 +145,6 @@
    "market_nome": "Spread: Broncos (-4.5)",
    "side": "Y",
    "entry_price": 0.51,
-   "importo": 20.0,
-   "opened": "2026-11-27T05:47:14"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Playford: Omar Jasika vs Alex Bolt",
-   "side": "N",
-   "entry_price": 0.73,
-   "importo": 20.0,
-   "opened": "2026-11-27T05:47:14"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Playford: Omar Jasika vs Alex Bolt",
-   "side": "Y",
-   "entry_price": 0.28,
    "importo": 20.0,
    "opened": "2026-11-27T05:47:14"
   },
@@ -413,14 +421,6 @@
    "opened": "2026-11-26T07:19:35"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
-   "side": "Y",
-   "entry_price": 0.3,
-   "importo": 20.0,
-   "opened": "2026-11-26T06:23:54"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Democratic 2028 presidential odds 66-68% on November 27?",
    "side": "Y",
@@ -542,6 +542,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Playford: Omar Jasika vs Alex Bolt",
+   "side": "N",
+   "entry_price": 0.73,
+   "exit_price": 0.01,
+   "pnl": -19.726,
+   "closed": "2026-11-27T06:55:39",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Playford: Omar Jasika vs Alex Bolt",
+   "side": "Y",
+   "entry_price": 0.28,
+   "exit_price": 0.999,
+   "pnl": 51.3572,
+   "closed": "2026-11-27T06:55:39",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
+   "side": "Y",
+   "entry_price": 0.3,
+   "exit_price": 0.38,
+   "pnl": 5.3333,
+   "closed": "2026-11-27T06:38:23",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will the average Ornn H100 rental price in December 2026 be above $3.10?",
@@ -911,36 +941,6 @@
    "pnl": 6.4407,
    "closed": "2026-11-26T22:22:59",
    "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Olympique Lyonnais win on 2026-11-26?",
-   "side": "Y",
-   "entry_price": 0.82,
-   "exit_price": 0.01,
-   "pnl": -19.7561,
-   "closed": "2026-11-26T22:06:07",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: Donstu Esports vs Sökerorg (BO3) - CCT Europe Closed Qualifier: Series #16 Group B",
-   "side": "Y",
-   "entry_price": 0.9,
-   "exit_price": 0.999,
-   "pnl": 2.2,
-   "closed": "2026-11-26T22:06:07",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Will Juventus FC win on 2026-11-26?",
-   "side": "Y",
-   "entry_price": 0.83,
-   "exit_price": 0.999,
-   "pnl": 4.0723,
-   "closed": "2026-11-26T21:49:14",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
