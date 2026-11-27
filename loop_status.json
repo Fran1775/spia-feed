@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T16:37:01",
+ "generated_at": "2026-11-27T17:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 214,
-   "aperti": 12,
-   "pnl": -68.47,
-   "rend_medio_pct": -1.6,
-   "t": -0.59,
-   "rend40_pct": 0.05,
-   "t40": 0.01
+   "chiusi": 215,
+   "aperti": 11,
+   "pnl": -65.54,
+   "rend_medio_pct": -1.52,
+   "t": -0.57,
+   "rend40_pct": -0.09,
+   "t40": -0.02
   },
   {
    "id": "924891e0f0",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 188,
+   "chiusi": 191,
    "aperti": 15,
-   "pnl": -261.09,
-   "rend_medio_pct": -6.94,
-   "t": -1.31,
-   "rend40_pct": -37.27,
-   "t40": -4.05
+   "pnl": -231.16,
+   "rend_medio_pct": -6.05,
+   "t": -1.15,
+   "rend40_pct": -30.32,
+   "t40": -3.08
   },
   {
    "id": "84fb9952fb",
@@ -74,16 +74,48 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 237,
+   "chiusi": 238,
    "aperti": 15,
-   "pnl": -11.02,
-   "rend_medio_pct": -0.23,
-   "t": -0.03,
-   "rend40_pct": 7.71,
-   "t40": 0.6
+   "pnl": -30.98,
+   "rend_medio_pct": -0.65,
+   "t": -0.09,
+   "rend40_pct": 7.66,
+   "t40": 0.59
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Bitcoin Up or Down on November 27?",
+   "side": "N",
+   "entry_price": 0.71,
+   "importo": 20.0,
+   "opened": "2026-11-27T16:41:36"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Bitcoin Up or Down on November 27?",
+   "side": "Y",
+   "entry_price": 0.32,
+   "importo": 20.0,
+   "opened": "2026-11-27T16:41:36"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post <40 tweets from November 26 to November 28, 2026?",
+   "side": "Y",
+   "entry_price": 0.25,
+   "importo": 20.0,
+   "opened": "2026-11-27T16:41:36"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Counter-Strike: 9INE vs Revise (BO3) - Exort Fiesta Playoffs",
+   "side": "N",
+   "entry_price": 0.5,
+   "importo": 20.0,
+   "opened": "2026-11-27T16:41:36"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will the price of Bitcoin be above $60,000 on November 27?",
@@ -246,14 +278,6 @@
   },
   {
    "rule_id": "a042d572b3",
-   "market_nome": "Will Elon Musk post 240-259 tweets from November 20 to November 27, 2026?",
-   "side": "N",
-   "entry_price": 0.615,
-   "importo": 20.0,
-   "opened": "2026-11-27T04:39:18"
-  },
-  {
-   "rule_id": "a042d572b3",
    "market_nome": "Jon Ossoff Democratic nomination odds leader on December 31?",
    "side": "N",
    "entry_price": 0.21,
@@ -281,14 +305,6 @@
    "market_nome": "Will the average Ornn B200 rental price in January 2027 be above $9.00?",
    "side": "Y",
    "entry_price": 0.6,
-   "importo": 20.0,
-   "opened": "2026-11-27T03:31:09"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Elon Musk post 240-259 tweets from November 20 to November 27, 2026?",
-   "side": "Y",
-   "entry_price": 0.384,
    "importo": 20.0,
    "opened": "2026-11-27T03:31:09"
   },
@@ -397,22 +413,6 @@
    "opened": "2026-11-26T17:14:06"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn B200 rental price in March 2027 be above $8.00?",
-   "side": "Y",
-   "entry_price": 0.74,
-   "importo": 20.0,
-   "opened": "2026-11-26T16:39:45"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn B200 rental price in January 2027 be above $8.50?",
-   "side": "Y",
-   "entry_price": 0.74,
-   "importo": 20.0,
-   "opened": "2026-11-26T16:39:45"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Chen Ting-fei win the next Tainan Mayor election?",
    "side": "Y",
@@ -427,14 +427,6 @@
    "entry_price": 0.81,
    "importo": 20.0,
    "opened": "2026-11-26T08:10:56"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Democratic 2028 presidential odds 66-68% on November 27?",
-   "side": "Y",
-   "entry_price": 0.83,
-   "importo": 20.0,
-   "opened": "2026-11-26T05:50:12"
   },
   {
    "rule_id": "2a906fe26e",
@@ -542,6 +534,56 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Democratic 2028 presidential odds 66-68% on November 27?",
+   "side": "Y",
+   "entry_price": 0.83,
+   "exit_price": 0.952,
+   "pnl": 2.9398,
+   "closed": "2026-11-27T16:58:14",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B200 rental price in March 2027 be above $8.00?",
+   "side": "Y",
+   "entry_price": 0.74,
+   "exit_price": 0.71,
+   "pnl": -0.8108,
+   "closed": "2026-11-27T16:41:36",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B200 rental price in January 2027 be above $8.50?",
+   "side": "Y",
+   "entry_price": 0.74,
+   "exit_price": 0.7,
+   "pnl": -1.0811,
+   "closed": "2026-11-27T16:41:36",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post 240-259 tweets from November 20 to November 27, 2026?",
+   "side": "Y",
+   "entry_price": 0.384,
+   "exit_price": 0.995,
+   "pnl": 31.8229,
+   "closed": "2026-11-27T16:41:36",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Elon Musk post 240-259 tweets from November 20 to November 27, 2026?",
+   "side": "N",
+   "entry_price": 0.615,
+   "exit_price": 0.001,
+   "pnl": -19.9675,
+   "closed": "2026-11-27T16:41:36",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will the average Ornn B200 rental price in March 2027 be above $8.00?",
@@ -891,56 +933,6 @@
    "pnl": -2.381,
    "closed": "2026-11-27T03:31:08",
    "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Chiang Wan-an win the next Taipei Mayor election?",
-   "side": "N",
-   "entry_price": 0.46,
-   "exit_price": 0.37,
-   "pnl": -3.913,
-   "closed": "2026-11-27T03:14:04",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Bitcoin reach $62,500 in November?",
-   "side": "Y",
-   "entry_price": 0.61,
-   "exit_price": 0.72,
-   "pnl": 3.6066,
-   "closed": "2026-11-27T03:14:04",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Bitcoin reach $64,000 November 23-29?",
-   "side": "Y",
-   "entry_price": 0.29,
-   "exit_price": 0.29,
-   "pnl": 0.0,
-   "closed": "2026-11-27T03:14:04",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Chiang Wan-an win the next Taipei Mayor election?",
-   "side": "N",
-   "entry_price": 0.46,
-   "exit_price": 0.38,
-   "pnl": -3.4782,
-   "closed": "2026-11-27T02:56:51",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Bitcoin Up or Down - November 26, 9:00PM-10:00PM ET",
-   "side": "Y",
-   "entry_price": 0.95,
-   "exit_price": 0.997,
-   "pnl": 0.9894,
-   "closed": "2026-11-27T02:39:17",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
