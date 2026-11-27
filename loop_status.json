@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T00:37:01",
+ "generated_at": "2026-11-27T01:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 209,
-   "aperti": 13,
-   "pnl": -83.46,
-   "rend_medio_pct": -2.0,
-   "t": -0.72,
-   "rend40_pct": -2.78,
-   "t40": -0.43
+   "chiusi": 211,
+   "aperti": 12,
+   "pnl": -77.28,
+   "rend_medio_pct": -1.83,
+   "t": -0.67,
+   "rend40_pct": 0.33,
+   "t40": 0.06
   },
   {
    "id": "924891e0f0",
@@ -99,14 +99,6 @@
    "entry_price": 0.95,
    "importo": 20.0,
    "opened": "2026-11-27T00:06:35"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: ENCELADE vs AXE (BO3) - CCT Europe Contenders #11 Playoffs",
-   "side": "Y",
-   "entry_price": 0.81,
-   "importo": 20.0,
-   "opened": "2026-11-26T23:32:21"
   },
   {
    "rule_id": "2a906fe26e",
@@ -551,6 +543,26 @@
  ],
  "ultime_chiuse": [
   {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Counter-Strike: ENCELADE vs AXE (BO3) - CCT Europe Contenders #11 Playoffs",
+   "side": "Y",
+   "entry_price": 0.81,
+   "exit_price": 0.999,
+   "pnl": 4.6667,
+   "closed": "2026-11-27T00:56:47",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Bitcoin Up or Down - November 26, 7:30PM-7:45PM ET",
+   "side": "Y",
+   "entry_price": 0.93,
+   "exit_price": 1.0,
+   "pnl": 1.5054,
+   "closed": "2026-11-27T00:56:47",
+   "motivo": "risoluzione"
+  },
+  {
    "rule_id": "a042d572b3",
    "market_nome": "San Salvador: Lucas Da Silva vs Diego Duran",
    "side": "Y",
@@ -928,26 +940,6 @@
    "exit_price": 0.982,
    "pnl": 4.247,
    "closed": "2026-11-26T14:42:06",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Ethereum Up or Down on November 26?",
-   "side": "Y",
-   "entry_price": 0.93,
-   "exit_price": 0.98,
-   "pnl": 1.0753,
-   "closed": "2026-11-26T14:25:11",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Dota 2: 1win vs Team Liquid - Game 1 Winner",
-   "side": "Y",
-   "entry_price": 0.84,
-   "exit_price": 0.01,
-   "pnl": -19.7619,
-   "closed": "2026-11-26T14:08:19",
    "motivo": "prezzo a fine corsa"
   }
  ]
