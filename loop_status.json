@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T22:07:01",
+ "generated_at": "2026-11-27T22:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 63,
+   "chiusi": 64,
    "aperti": 15,
-   "pnl": -30.65,
-   "rend_medio_pct": -2.43,
-   "t": -0.23,
-   "rend40_pct": -4.25,
-   "t40": -0.41
+   "pnl": -50.51,
+   "rend_medio_pct": -3.95,
+   "t": -0.37,
+   "rend40_pct": -6.91,
+   "t40": -0.65
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 243,
+   "chiusi": 244,
    "aperti": 15,
-   "pnl": -46.55,
-   "rend_medio_pct": -0.96,
-   "t": -0.13,
-   "rend40_pct": -4.64,
-   "t40": -0.36
+   "pnl": -4.49,
+   "rend_medio_pct": -0.09,
+   "t": -0.01,
+   "rend40_pct": 2.17,
+   "t40": 0.16
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Hawks vs. Celtics",
+   "side": "Y",
+   "entry_price": 0.24,
+   "importo": 20.0,
+   "opened": "2026-11-27T22:32:10"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Grizzlies vs. Timberwolves",
+   "side": "Y",
+   "entry_price": 0.42,
+   "importo": 20.0,
+   "opened": "2026-11-27T22:32:09"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Heat vs. Knicks",
@@ -334,14 +350,6 @@
   },
   {
    "rule_id": "84fb9952fb",
-   "market_nome": "Broncos vs. Steelers",
-   "side": "Y",
-   "entry_price": 0.69,
-   "importo": 20.0,
-   "opened": "2026-11-27T04:39:18"
-  },
-  {
-   "rule_id": "84fb9952fb",
    "market_nome": "Will Bitcoin dip to $45,000 by December 31, 2026?",
    "side": "Y",
    "entry_price": 0.116,
@@ -385,14 +393,6 @@
    "market_nome": "Will it be confirmed that a software or configuration error caused the FAA's nationwide ground stop on November 13?",
    "side": "N",
    "entry_price": 0.754,
-   "importo": 20.0,
-   "opened": "2026-11-27T03:14:05"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Broncos vs. Steelers",
-   "side": "N",
-   "entry_price": 0.32,
    "importo": 20.0,
    "opened": "2026-11-27T03:14:05"
   },
@@ -526,6 +526,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Broncos vs. Steelers",
+   "side": "Y",
+   "entry_price": 0.69,
+   "exit_price": 0.005,
+   "pnl": -19.8551,
+   "closed": "2026-11-27T22:32:09",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Broncos vs. Steelers",
+   "side": "N",
+   "entry_price": 0.32,
+   "exit_price": 0.993,
+   "pnl": 42.0625,
+   "closed": "2026-11-27T22:32:08",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Florianopolis: Juan Manuel La Serna vs Genaro Alberto Olivieri",
@@ -903,26 +923,6 @@
    "entry_price": 0.12,
    "exit_price": 0.1,
    "pnl": -3.3333,
-   "closed": "2026-11-27T05:47:13",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Su Chiao-hui win the next New Taipei Mayor election?",
-   "side": "Y",
-   "entry_price": 0.72,
-   "exit_price": 0.61,
-   "pnl": -3.0555,
-   "closed": "2026-11-27T05:47:13",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $11.00?",
-   "side": "N",
-   "entry_price": 0.77,
-   "exit_price": 0.76,
-   "pnl": -0.2598,
    "closed": "2026-11-27T05:47:13",
    "motivo": "uscita a tempo 24h"
   }
