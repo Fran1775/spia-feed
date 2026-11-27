@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T04:07:01",
+ "generated_at": "2026-11-27T04:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -74,16 +74,24 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 225,
+   "chiusi": 226,
    "aperti": 15,
-   "pnl": -42.49,
-   "rend_medio_pct": -0.94,
+   "pnl": -45.76,
+   "rend_medio_pct": -1.01,
    "t": -0.13,
-   "rend40_pct": -6.98,
-   "t40": -0.56
+   "rend40_pct": -7.72,
+   "t40": -0.62
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "76ers vs. Pacers",
+   "side": "Y",
+   "entry_price": 0.6,
+   "importo": 20.0,
+   "opened": "2026-11-27T04:22:10"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will AI solve P versus NP in 2026?",
@@ -421,14 +429,6 @@
    "opened": "2026-11-26T04:24:52"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $8.00?",
-   "side": "N",
-   "entry_price": 0.55,
-   "importo": 20.0,
-   "opened": "2026-11-26T04:08:05"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the Fear & Greed Index be 24 or below on November 27?",
    "side": "Y",
@@ -558,6 +558,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $8.00?",
+   "side": "N",
+   "entry_price": 0.55,
+   "exit_price": 0.46,
+   "pnl": -3.2727,
+   "closed": "2026-11-27T04:22:09",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will Puma Shen win the next Taipei Mayor election?",
@@ -946,16 +956,6 @@
    "exit_price": 0.999,
    "pnl": 4.3658,
    "closed": "2026-11-26T16:56:35",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Counter-Strike: NAVI Junior vs STATE (BO3) - United21 Group D",
-   "side": "Y",
-   "entry_price": 0.9,
-   "exit_price": 0.01,
-   "pnl": -19.7778,
-   "closed": "2026-11-26T16:39:45",
    "motivo": "prezzo a fine corsa"
   }
  ]
