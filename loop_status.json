@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T03:07:01",
+ "generated_at": "2026-11-28T03:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 198,
+   "chiusi": 200,
    "aperti": 15,
-   "pnl": -236.36,
-   "rend_medio_pct": -5.97,
+   "pnl": -237.5,
+   "rend_medio_pct": -5.94,
    "t": -1.16,
-   "rend40_pct": -17.33,
-   "t40": -1.79
+   "rend40_pct": -19.8,
+   "t40": -2.12
   },
   {
    "id": "84fb9952fb",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 68,
+   "chiusi": 69,
    "aperti": 15,
-   "pnl": -30.44,
-   "rend_medio_pct": -2.24,
-   "t": -0.21,
-   "rend40_pct": -2.16,
-   "t40": -0.2
+   "pnl": -3.25,
+   "rend_medio_pct": -0.24,
+   "t": -0.02,
+   "rend40_pct": 3.71,
+   "t40": 0.33
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,72 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 250,
+   "chiusi": 254,
    "aperti": 15,
-   "pnl": -35.3,
-   "rend_medio_pct": -0.71,
-   "t": -0.1,
-   "rend40_pct": 4.02,
-   "t40": 0.29
+   "pnl": 54.58,
+   "rend_medio_pct": 1.07,
+   "t": 0.15,
+   "rend40_pct": 16.37,
+   "t40": 1.02
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Bitcoin dip to $57,500 in November?",
+   "side": "N",
+   "entry_price": 0.72,
+   "importo": 20.0,
+   "opened": "2026-11-28T03:34:37"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Spread: 49ers (-2.5)",
+   "side": "Y",
+   "entry_price": 0.43,
+   "importo": 20.0,
+   "opened": "2026-11-28T03:34:37"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Seahawks vs. 49ers",
+   "side": "N",
+   "entry_price": 0.48,
+   "importo": 20.0,
+   "opened": "2026-11-28T03:34:37"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will an open-source model be ranked #1 on Arena by June 30, 2027?",
+   "side": "N",
+   "entry_price": 0.82,
+   "importo": 20.0,
+   "opened": "2026-11-28T03:34:37"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 28?",
+   "side": "N",
+   "entry_price": 0.53,
+   "importo": 20.0,
+   "opened": "2026-11-28T03:34:37"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post 90-114 tweets from November 26 to November 28, 2026?",
+   "side": "Y",
+   "entry_price": 0.322,
+   "importo": 20.0,
+   "opened": "2026-11-28T03:17:33"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post 65-89 tweets from November 26 to November 28, 2026?",
+   "side": "Y",
+   "entry_price": 0.67,
+   "importo": 20.0,
+   "opened": "2026-11-28T03:17:33"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Elon Musk post 65-89 tweets from November 26 to November 28, 2026?",
@@ -157,34 +213,10 @@
    "opened": "2026-11-27T23:21:55"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Hawks vs. Celtics",
-   "side": "Y",
-   "entry_price": 0.24,
-   "importo": 20.0,
-   "opened": "2026-11-27T22:32:10"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Grizzlies vs. Timberwolves",
-   "side": "Y",
-   "entry_price": 0.42,
-   "importo": 20.0,
-   "opened": "2026-11-27T22:32:09"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Mavericks vs. Suns",
    "side": "Y",
    "entry_price": 0.43,
-   "importo": 20.0,
-   "opened": "2026-11-27T21:59:23"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Grizzlies vs. Timberwolves",
-   "side": "Y",
-   "entry_price": 0.42,
    "importo": 20.0,
    "opened": "2026-11-27T21:59:23"
   },
@@ -389,38 +421,6 @@
    "opened": "2026-11-27T04:39:18"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will AI solve P versus NP in 2026?",
-   "side": "N",
-   "entry_price": 0.849,
-   "importo": 20.0,
-   "opened": "2026-11-27T03:31:09"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the average Ornn B200 rental price in January 2027 be above $9.00?",
-   "side": "Y",
-   "entry_price": 0.6,
-   "importo": 20.0,
-   "opened": "2026-11-27T03:31:09"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will it be confirmed that a software or configuration error caused the FAA's nationwide ground stop on November 13?",
-   "side": "N",
-   "entry_price": 0.754,
-   "importo": 20.0,
-   "opened": "2026-11-27T03:14:05"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn B200 rental price in January 2027 be above $9.00?",
-   "side": "Y",
-   "entry_price": 0.6,
-   "importo": 20.0,
-   "opened": "2026-11-27T03:14:05"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $56,000 on November 30?",
    "side": "Y",
@@ -526,6 +526,76 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Grizzlies vs. Timberwolves",
+   "side": "Y",
+   "entry_price": 0.42,
+   "exit_price": 0.991,
+   "pnl": 27.1904,
+   "closed": "2026-11-28T03:34:37",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Grizzlies vs. Timberwolves",
+   "side": "Y",
+   "entry_price": 0.42,
+   "exit_price": 0.991,
+   "pnl": 27.1904,
+   "closed": "2026-11-28T03:34:37",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Hawks vs. Celtics",
+   "side": "Y",
+   "entry_price": 0.24,
+   "exit_price": 0.999,
+   "pnl": 63.25,
+   "closed": "2026-11-28T03:34:37",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will AI solve P versus NP in 2026?",
+   "side": "N",
+   "entry_price": 0.849,
+   "exit_price": 0.896,
+   "pnl": 1.1072,
+   "closed": "2026-11-28T03:34:35",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn B200 rental price in January 2027 be above $9.00?",
+   "side": "Y",
+   "entry_price": 0.6,
+   "exit_price": 0.55,
+   "pnl": -1.6667,
+   "closed": "2026-11-28T03:34:35",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will it be confirmed that a software or configuration error caused the FAA's nationwide ground stop on November 13?",
+   "side": "N",
+   "entry_price": 0.754,
+   "exit_price": 0.774,
+   "pnl": 0.5305,
+   "closed": "2026-11-28T03:17:31",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B200 rental price in January 2027 be above $9.00?",
+   "side": "Y",
+   "entry_price": 0.6,
+   "exit_price": 0.55,
+   "pnl": -1.6667,
+   "closed": "2026-11-28T03:17:31",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Heat vs. Knicks",
@@ -855,76 +925,6 @@
    "pnl": 31.8229,
    "closed": "2026-11-27T16:41:36",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Elon Musk post 240-259 tweets from November 20 to November 27, 2026?",
-   "side": "N",
-   "entry_price": 0.615,
-   "exit_price": 0.001,
-   "pnl": -19.9675,
-   "closed": "2026-11-27T16:41:36",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the average Ornn B200 rental price in March 2027 be above $8.00?",
-   "side": "Y",
-   "entry_price": 0.75,
-   "exit_price": 0.71,
-   "pnl": -1.0666,
-   "closed": "2026-11-27T16:08:19",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $62,000 on November 27?",
-   "side": "N",
-   "entry_price": 0.6,
-   "exit_price": 0.994,
-   "pnl": 13.1333,
-   "closed": "2026-11-27T16:08:19",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $62,000 on November 27?",
-   "side": "Y",
-   "entry_price": 0.41,
-   "exit_price": 0.004,
-   "pnl": -19.8049,
-   "closed": "2026-11-27T16:08:19",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Hersonissos 4: Gilles Arnaud Bailly vs Benjamin Pietri",
-   "side": "N",
-   "entry_price": 0.44,
-   "exit_price": 0.01,
-   "pnl": -19.5455,
-   "closed": "2026-11-27T14:12:54",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $7.00?",
-   "side": "N",
-   "entry_price": 0.39,
-   "exit_price": 0.37,
-   "pnl": -1.0256,
-   "closed": "2026-11-27T13:56:02",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "US-Iran Hormuz Agreement by December 31?",
-   "side": "Y",
-   "entry_price": 0.13,
-   "exit_price": 0.11,
-   "pnl": -3.0769,
-   "closed": "2026-11-27T08:03:13",
-   "motivo": "uscita a tempo 72h"
   }
  ]
 }
