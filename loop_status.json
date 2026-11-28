@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T10:37:01",
+ "generated_at": "2026-11-28T11:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 218,
-   "aperti": 8,
-   "pnl": -80.07,
-   "rend_medio_pct": -1.84,
-   "t": -0.68,
-   "rend40_pct": -2.6,
-   "t40": -0.4
+   "chiusi": 219,
+   "aperti": 7,
+   "pnl": -100.0,
+   "rend_medio_pct": -2.28,
+   "t": -0.84,
+   "rend40_pct": -5.17,
+   "t40": -0.75
   },
   {
    "id": "924891e0f0",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 72,
+   "chiusi": 73,
    "aperti": 15,
-   "pnl": 25.41,
-   "rend_medio_pct": 1.76,
-   "t": 0.17,
-   "rend40_pct": 2.75,
-   "t40": 0.23
+   "pnl": 37.87,
+   "rend_medio_pct": 2.59,
+   "t": 0.25,
+   "rend40_pct": 6.77,
+   "t40": 0.57
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,32 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 260,
+   "chiusi": 261,
    "aperti": 15,
-   "pnl": -6.52,
-   "rend_medio_pct": -0.13,
-   "t": -0.02,
-   "rend40_pct": 9.86,
-   "t40": 0.6
+   "pnl": -26.44,
+   "rend_medio_pct": -0.51,
+   "t": -0.07,
+   "rend40_pct": 1.22,
+   "t40": 0.08
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will FK Zemun vs. FK Radnicki 1923 Kragujevac end in a draw?",
+   "side": "N",
+   "entry_price": 0.63,
+   "importo": 20.0,
+   "opened": "2026-11-28T10:40:41"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will the average Ornn B300 rental price in January 2027 be above $12.50?",
+   "side": "Y",
+   "entry_price": 0.28,
+   "importo": 20.0,
+   "opened": "2026-11-28T10:40:41"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will the average Ornn H200 rental price in December 2026 be above $6.50?",
@@ -185,14 +201,6 @@
    "market_nome": "Will the average Ornn B200 rental price in January 2027 be above $8.50?",
    "side": "Y",
    "entry_price": 0.69,
-   "importo": 20.0,
-   "opened": "2026-11-28T04:43:24"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Johnny Chiang win the next Taichung Mayor election?",
-   "side": "Y",
-   "entry_price": 0.77,
    "importo": 20.0,
    "opened": "2026-11-28T04:43:24"
   },
@@ -398,14 +406,6 @@
   },
   {
    "rule_id": "84fb9952fb",
-   "market_nome": "Will Chiang Wan-an win the next Taipei Mayor election?",
-   "side": "Y",
-   "entry_price": 0.61,
-   "importo": 20.0,
-   "opened": "2026-11-27T05:30:07"
-  },
-  {
-   "rule_id": "84fb9952fb",
    "market_nome": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
    "side": "Y",
    "entry_price": 0.4,
@@ -499,17 +499,39 @@
    "entry_price": 0.88,
    "importo": 20.0,
    "opened": "2026-11-26T02:42:32"
+  }
+ ],
+ "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Johnny Chiang win the next Taichung Mayor election?",
+   "side": "Y",
+   "entry_price": 0.77,
+   "exit_price": 0.003,
+   "pnl": -19.9221,
+   "closed": "2026-11-28T10:40:41",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Chiang Wan-an win the next Taipei Mayor election?",
+   "side": "Y",
+   "entry_price": 0.61,
+   "exit_price": 0.99,
+   "pnl": 12.459,
+   "closed": "2026-11-28T10:40:40",
+   "motivo": "prezzo a fine corsa"
   },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Johnny Chiang win the next Taichung Mayor election?",
    "side": "Y",
    "entry_price": 0.83,
-   "importo": 20.0,
-   "opened": "2026-11-25T05:02:40"
-  }
- ],
- "ultime_chiuse": [
+   "exit_price": 0.003,
+   "pnl": -19.9277,
+   "closed": "2026-11-28T10:40:39",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Lai Jui-lung win the next Kaohsiung Mayor election?",
@@ -879,36 +901,6 @@
    "pnl": 42.0625,
    "closed": "2026-11-27T22:32:08",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Florianopolis: Juan Manuel La Serna vs Genaro Alberto Olivieri",
-   "side": "Y",
-   "entry_price": 0.72,
-   "exit_price": 0.999,
-   "pnl": 7.75,
-   "closed": "2026-11-27T21:59:23",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Israel x Iran ceasefire continues through November 30?",
-   "side": "N",
-   "entry_price": 0.06,
-   "exit_price": 0.046,
-   "pnl": -4.6667,
-   "closed": "2026-11-27T21:59:22",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Jensen Huang announced resignation or removal again by March 31, 2027?",
-   "side": "Y",
-   "entry_price": 0.14,
-   "exit_price": 0.23,
-   "pnl": 12.8571,
-   "closed": "2026-11-27T21:59:21",
-   "motivo": "uscita a tempo 72h"
   }
  ]
 }
