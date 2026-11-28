@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T02:37:01",
+ "generated_at": "2026-11-28T03:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 66,
+   "chiusi": 68,
    "aperti": 15,
-   "pnl": -70.24,
-   "rend_medio_pct": -5.32,
-   "t": -0.51,
-   "rend40_pct": -11.01,
-   "t40": -1.04
+   "pnl": -30.44,
+   "rend_medio_pct": -2.24,
+   "t": -0.21,
+   "rend40_pct": -2.16,
+   "t40": -0.2
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,72 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 245,
+   "chiusi": 250,
    "aperti": 15,
-   "pnl": 15.51,
-   "rend_medio_pct": 0.32,
-   "t": 0.04,
-   "rend40_pct": 4.7,
-   "t40": 0.34
+   "pnl": -35.3,
+   "rend_medio_pct": -0.71,
+   "t": -0.1,
+   "rend40_pct": 4.02,
+   "t40": 0.29
   }
  ],
  "aperte": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Elon Musk post 65-89 tweets from November 26 to November 28, 2026?",
+   "side": "Y",
+   "entry_price": 0.65,
+   "importo": 20.0,
+   "opened": "2026-11-28T03:00:28"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will the average Ornn H200 rental price in January 2027 be above $6.50?",
+   "side": "Y",
+   "entry_price": 0.51,
+   "importo": 20.0,
+   "opened": "2026-11-28T03:00:28"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Spread: 49ers (-2.5)",
+   "side": "N",
+   "entry_price": 0.58,
+   "importo": 20.0,
+   "opened": "2026-11-28T03:00:28"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Elon Musk post 90-114 tweets from November 26 to November 28, 2026?",
+   "side": "N",
+   "entry_price": 0.634,
+   "importo": 20.0,
+   "opened": "2026-11-28T02:42:55"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn H200 rental price in January 2027 be above $6.50?",
+   "side": "N",
+   "entry_price": 0.5,
+   "importo": 20.0,
+   "opened": "2026-11-28T02:42:55"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will the average Ornn H200 rental price in January 2027 be above $6.00?",
+   "side": "Y",
+   "entry_price": 0.62,
+   "importo": 20.0,
+   "opened": "2026-11-28T02:42:54"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn H200 rental price in January 2027 be above $6.00?",
+   "side": "N",
+   "entry_price": 0.39,
+   "importo": 20.0,
+   "opened": "2026-11-28T02:42:54"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Pelicans vs. Clippers",
@@ -102,14 +158,6 @@
   },
   {
    "rule_id": "a042d572b3",
-   "market_nome": "Bucks vs. Pistons",
-   "side": "Y",
-   "entry_price": 0.22,
-   "importo": 20.0,
-   "opened": "2026-11-27T23:21:55"
-  },
-  {
-   "rule_id": "a042d572b3",
    "market_nome": "Hawks vs. Celtics",
    "side": "Y",
    "entry_price": 0.24,
@@ -123,22 +171,6 @@
    "entry_price": 0.42,
    "importo": 20.0,
    "opened": "2026-11-27T22:32:09"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Heat vs. Knicks",
-   "side": "Y",
-   "entry_price": 0.42,
-   "importo": 20.0,
-   "opened": "2026-11-27T21:59:23"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "76ers vs. Pacers",
-   "side": "Y",
-   "entry_price": 0.62,
-   "importo": 20.0,
-   "opened": "2026-11-27T21:59:23"
   },
   {
    "rule_id": "84fb9952fb",
@@ -205,14 +237,6 @@
    "opened": "2026-11-27T17:32:14"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Nets vs. Raptors",
-   "side": "Y",
-   "entry_price": 0.25,
-   "importo": 20.0,
-   "opened": "2026-11-27T17:15:06"
-  },
-  {
    "rule_id": "924891e0f0",
    "market_nome": "Will the US federal government take a stake in NVIDIA Corporation?",
    "side": "N",
@@ -243,14 +267,6 @@
    "entry_price": 0.5,
    "importo": 20.0,
    "opened": "2026-11-27T16:41:36"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Heat vs. Knicks",
-   "side": "N",
-   "entry_price": 0.62,
-   "importo": 20.0,
-   "opened": "2026-11-27T16:08:19"
   },
   {
    "rule_id": "924891e0f0",
@@ -374,14 +390,6 @@
   },
   {
    "rule_id": "a042d572b3",
-   "market_nome": "76ers vs. Pacers",
-   "side": "Y",
-   "entry_price": 0.6,
-   "importo": 20.0,
-   "opened": "2026-11-27T04:22:10"
-  },
-  {
-   "rule_id": "a042d572b3",
    "market_nome": "Will AI solve P versus NP in 2026?",
    "side": "N",
    "entry_price": 0.849,
@@ -411,14 +419,6 @@
    "entry_price": 0.6,
    "importo": 20.0,
    "opened": "2026-11-27T03:14:05"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will it be confirmed that a software or configuration error caused the FAA's nationwide ground stop on November 13?",
-   "side": "Y",
-   "entry_price": 0.272,
-   "importo": 20.0,
-   "opened": "2026-11-27T02:56:52"
   },
   {
    "rule_id": "2a906fe26e",
@@ -526,6 +526,76 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Heat vs. Knicks",
+   "side": "Y",
+   "entry_price": 0.42,
+   "exit_price": 0.999,
+   "pnl": 27.5714,
+   "closed": "2026-11-28T03:00:27",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will it be confirmed that a software or configuration error caused the FAA's nationwide ground stop on November 13?",
+   "side": "Y",
+   "entry_price": 0.272,
+   "exit_price": 0.206,
+   "pnl": -4.8529,
+   "closed": "2026-11-28T03:00:26",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Heat vs. Knicks",
+   "side": "N",
+   "entry_price": 0.62,
+   "exit_price": 0.01,
+   "pnl": -19.6774,
+   "closed": "2026-11-28T03:00:26",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Bucks vs. Pistons",
+   "side": "Y",
+   "entry_price": 0.22,
+   "exit_price": 0.002,
+   "pnl": -19.8182,
+   "closed": "2026-11-28T02:42:54",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "76ers vs. Pacers",
+   "side": "Y",
+   "entry_price": 0.62,
+   "exit_price": 0.999,
+   "pnl": 12.2258,
+   "closed": "2026-11-28T02:42:53",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "76ers vs. Pacers",
+   "side": "Y",
+   "entry_price": 0.6,
+   "exit_price": 0.999,
+   "pnl": 13.3,
+   "closed": "2026-11-28T02:42:52",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Nets vs. Raptors",
+   "side": "Y",
+   "entry_price": 0.25,
+   "exit_price": 0.003,
+   "pnl": -19.76,
+   "closed": "2026-11-28T02:42:52",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.70?",
@@ -854,76 +924,6 @@
    "exit_price": 0.11,
    "pnl": -3.0769,
    "closed": "2026-11-27T08:03:13",
-   "motivo": "uscita a tempo 72h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "76ers vs. Pacers",
-   "side": "Y",
-   "entry_price": 0.65,
-   "exit_price": 0.58,
-   "pnl": -2.1539,
-   "closed": "2026-11-27T07:29:27",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Playford: Omar Jasika vs Alex Bolt",
-   "side": "N",
-   "entry_price": 0.73,
-   "exit_price": 0.01,
-   "pnl": -19.726,
-   "closed": "2026-11-27T06:55:39",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Playford: Omar Jasika vs Alex Bolt",
-   "side": "Y",
-   "entry_price": 0.28,
-   "exit_price": 0.999,
-   "pnl": 51.3572,
-   "closed": "2026-11-27T06:55:39",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
-   "side": "Y",
-   "entry_price": 0.3,
-   "exit_price": 0.38,
-   "pnl": 5.3333,
-   "closed": "2026-11-27T06:38:23",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the average Ornn H100 rental price in December 2026 be above $3.10?",
-   "side": "N",
-   "entry_price": 0.56,
-   "exit_price": 0.56,
-   "pnl": 0.0,
-   "closed": "2026-11-27T06:21:34",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn B200 rental price in June 2027 be above $9.00?",
-   "side": "N",
-   "entry_price": 0.64,
-   "exit_price": 0.58,
-   "pnl": -1.875,
-   "closed": "2026-11-27T06:21:34",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will Apple be the largest company in the world by market cap on December 31?",
-   "side": "Y",
-   "entry_price": 0.843,
-   "exit_price": 0.922,
-   "pnl": 1.8743,
-   "closed": "2026-11-27T06:21:33",
    "motivo": "uscita a tempo 72h"
   }
  ]
