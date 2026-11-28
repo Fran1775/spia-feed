@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T17:07:01",
+ "generated_at": "2026-11-28T17:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 212,
+   "chiusi": 216,
    "aperti": 15,
-   "pnl": -258.96,
-   "rend_medio_pct": -6.11,
-   "t": -1.24,
-   "rend40_pct": -17.41,
-   "t40": -1.81
+   "pnl": -262.78,
+   "rend_medio_pct": -6.08,
+   "t": -1.26,
+   "rend40_pct": -12.48,
+   "t40": -1.35
   },
   {
    "id": "84fb9952fb",
@@ -84,6 +84,38 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Counter-Strike: Hype Tech vs BakS eSports (BO3) - CCT Europe Series #15 Group Stage",
+   "side": "Y",
+   "entry_price": 0.75,
+   "importo": 20.0,
+   "opened": "2026-11-28T17:24:27"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Illinois vs. Northwestern: O/U 47.5",
+   "side": "N",
+   "entry_price": 0.52,
+   "importo": 20.0,
+   "opened": "2026-11-28T17:24:27"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Illinois vs. Northwestern: O/U 49.5",
+   "side": "N",
+   "entry_price": 0.58,
+   "importo": 20.0,
+   "opened": "2026-11-28T17:24:27"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Astralis qualify to Stage 3 at PGL Major Singapore 2026?",
+   "side": "Y",
+   "entry_price": 0.81,
+   "importo": 20.0,
+   "opened": "2026-11-28T17:24:27"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will Anthropic announce a Millennium Prize solution by December 31, 2026?",
@@ -185,14 +217,6 @@
    "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.20?",
    "side": "N",
    "entry_price": 0.39,
-   "importo": 20.0,
-   "opened": "2026-11-28T07:18:30"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Kuomintang (KMT) win the most head of local government elections in the 2026 Taiwan local elections?",
-   "side": "Y",
-   "entry_price": 0.82,
    "importo": 20.0,
    "opened": "2026-11-28T07:18:30"
   },
@@ -373,30 +397,6 @@
    "opened": "2026-11-27T17:32:14"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the US federal government take a stake in NVIDIA Corporation?",
-   "side": "N",
-   "entry_price": 0.786,
-   "importo": 20.0,
-   "opened": "2026-11-27T17:15:06"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "FC Dordrecht vs. Vitesse Arnhem: O/U 0.5",
-   "side": "N",
-   "entry_price": 0.48,
-   "importo": 20.0,
-   "opened": "2026-11-27T17:15:06"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will New Zealand win?",
-   "side": "N",
-   "entry_price": 0.76,
-   "importo": 20.0,
-   "opened": "2026-11-27T17:15:06"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will PP win the most seats in the 2026 Spanish general election?",
    "side": "Y",
@@ -494,6 +494,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Kuomintang (KMT) win the most head of local government elections in the 2026 Taiwan local elections?",
+   "side": "Y",
+   "entry_price": 0.82,
+   "exit_price": 0.985,
+   "pnl": 4.0243,
+   "closed": "2026-11-28T17:24:27",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the US federal government take a stake in NVIDIA Corporation?",
+   "side": "N",
+   "entry_price": 0.786,
+   "exit_price": 0.794,
+   "pnl": 0.2036,
+   "closed": "2026-11-28T17:24:26",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "FC Dordrecht vs. Vitesse Arnhem: O/U 0.5",
+   "side": "N",
+   "entry_price": 0.48,
+   "exit_price": 0.47,
+   "pnl": -0.4167,
+   "closed": "2026-11-28T17:24:26",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will New Zealand win?",
+   "side": "N",
+   "entry_price": 0.76,
+   "exit_price": 0.47,
+   "pnl": -7.6316,
+   "closed": "2026-11-28T17:24:26",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Elon Musk post 65-89 tweets from November 26 to November 28, 2026?",
@@ -853,46 +893,6 @@
    "pnl": 1.1072,
    "closed": "2026-11-28T03:34:35",
    "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the average Ornn B200 rental price in January 2027 be above $9.00?",
-   "side": "Y",
-   "entry_price": 0.6,
-   "exit_price": 0.55,
-   "pnl": -1.6667,
-   "closed": "2026-11-28T03:34:35",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will it be confirmed that a software or configuration error caused the FAA's nationwide ground stop on November 13?",
-   "side": "N",
-   "entry_price": 0.754,
-   "exit_price": 0.774,
-   "pnl": 0.5305,
-   "closed": "2026-11-28T03:17:31",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn B200 rental price in January 2027 be above $9.00?",
-   "side": "Y",
-   "entry_price": 0.6,
-   "exit_price": 0.55,
-   "pnl": -1.6667,
-   "closed": "2026-11-28T03:17:31",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Heat vs. Knicks",
-   "side": "Y",
-   "entry_price": 0.42,
-   "exit_price": 0.999,
-   "pnl": 27.5714,
-   "closed": "2026-11-28T03:00:27",
-   "motivo": "prezzo a fine corsa"
   }
  ]
 }
