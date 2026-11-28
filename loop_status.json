@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T04:37:01",
+ "generated_at": "2026-11-28T05:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 69,
+   "chiusi": 71,
    "aperti": 15,
-   "pnl": -3.25,
-   "rend_medio_pct": -0.24,
-   "t": -0.02,
-   "rend40_pct": 3.71,
-   "t40": 0.33
+   "pnl": 44.84,
+   "rend_medio_pct": 3.16,
+   "t": 0.3,
+   "rend40_pct": 6.91,
+   "t40": 0.58
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,48 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 254,
+   "chiusi": 256,
    "aperti": 15,
-   "pnl": 54.58,
-   "rend_medio_pct": 1.07,
-   "t": 0.15,
-   "rend40_pct": 16.37,
-   "t40": 1.02
+   "pnl": 33.02,
+   "rend_medio_pct": 0.64,
+   "t": 0.09,
+   "rend40_pct": 13.53,
+   "t40": 0.83
   }
  ],
  "aperte": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Seahawks vs. 49ers",
+   "side": "Y",
+   "entry_price": 0.53,
+   "importo": 20.0,
+   "opened": "2026-11-28T05:00:45"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will the average Ornn B200 rental price in January 2027 be above $8.50?",
+   "side": "Y",
+   "entry_price": 0.69,
+   "importo": 20.0,
+   "opened": "2026-11-28T04:43:24"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn B200 rental price in January 2027 be above $8.50?",
+   "side": "Y",
+   "entry_price": 0.69,
+   "importo": 20.0,
+   "opened": "2026-11-28T04:43:24"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Johnny Chiang win the next Taichung Mayor election?",
+   "side": "Y",
+   "entry_price": 0.77,
+   "importo": 20.0,
+   "opened": "2026-11-28T04:43:24"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will Bitcoin dip to $57,500 in November?",
@@ -198,27 +230,11 @@
   },
   {
    "rule_id": "84fb9952fb",
-   "market_nome": "Pelicans vs. Clippers",
-   "side": "Y",
-   "entry_price": 0.48,
-   "importo": 20.0,
-   "opened": "2026-11-28T02:26:02"
-  },
-  {
-   "rule_id": "84fb9952fb",
    "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.60?",
    "side": "Y",
    "entry_price": 0.51,
    "importo": 20.0,
    "opened": "2026-11-27T23:21:55"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Mavericks vs. Suns",
-   "side": "Y",
-   "entry_price": 0.43,
-   "importo": 20.0,
-   "opened": "2026-11-27T21:59:23"
   },
   {
    "rule_id": "924891e0f0",
@@ -233,14 +249,6 @@
    "market_nome": "Lakers vs. Spurs",
    "side": "Y",
    "entry_price": 0.35,
-   "importo": 20.0,
-   "opened": "2026-11-27T21:10:30"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Mavericks vs. Suns",
-   "side": "N",
-   "entry_price": 0.58,
    "importo": 20.0,
    "opened": "2026-11-27T21:10:30"
   },
@@ -413,14 +421,6 @@
    "opened": "2026-11-27T04:39:18"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Jon Ossoff Democratic nomination odds leader on December 31?",
-   "side": "N",
-   "entry_price": 0.21,
-   "importo": 20.0,
-   "opened": "2026-11-27T04:39:18"
-  },
-  {
    "rule_id": "2a906fe26e",
    "market_nome": "Will the price of Bitcoin be above $56,000 on November 30?",
    "side": "Y",
@@ -526,6 +526,46 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Pelicans vs. Clippers",
+   "side": "Y",
+   "entry_price": 0.48,
+   "exit_price": 0.999,
+   "pnl": 21.625,
+   "closed": "2026-11-28T05:00:45",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Mavericks vs. Suns",
+   "side": "Y",
+   "entry_price": 0.43,
+   "exit_price": 0.999,
+   "pnl": 26.4651,
+   "closed": "2026-11-28T04:43:24",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Mavericks vs. Suns",
+   "side": "N",
+   "entry_price": 0.58,
+   "exit_price": 0.01,
+   "pnl": -19.6552,
+   "closed": "2026-11-28T04:43:23",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Jon Ossoff Democratic nomination odds leader on December 31?",
+   "side": "N",
+   "entry_price": 0.21,
+   "exit_price": 0.19,
+   "pnl": -1.9048,
+   "closed": "2026-11-28T04:43:22",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Grizzlies vs. Timberwolves",
@@ -884,46 +924,6 @@
    "exit_price": 0.01,
    "pnl": -19.6429,
    "closed": "2026-11-27T17:15:03",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "2a906fe26e",
-   "market_nome": "Democratic 2028 presidential odds 66-68% on November 27?",
-   "side": "Y",
-   "entry_price": 0.83,
-   "exit_price": 0.952,
-   "pnl": 2.9398,
-   "closed": "2026-11-27T16:58:14",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn B200 rental price in March 2027 be above $8.00?",
-   "side": "Y",
-   "entry_price": 0.74,
-   "exit_price": 0.71,
-   "pnl": -0.8108,
-   "closed": "2026-11-27T16:41:36",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn B200 rental price in January 2027 be above $8.50?",
-   "side": "Y",
-   "entry_price": 0.74,
-   "exit_price": 0.7,
-   "pnl": -1.0811,
-   "closed": "2026-11-27T16:41:36",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Elon Musk post 240-259 tweets from November 20 to November 27, 2026?",
-   "side": "Y",
-   "entry_price": 0.384,
-   "exit_price": 0.995,
-   "pnl": 31.8229,
-   "closed": "2026-11-27T16:41:36",
    "motivo": "prezzo a fine corsa"
   }
  ]
