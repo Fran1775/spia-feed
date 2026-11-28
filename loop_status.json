@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T14:07:01",
+ "generated_at": "2026-11-28T14:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 207,
+   "chiusi": 208,
    "aperti": 15,
    "pnl": -262.87,
-   "rend_medio_pct": -6.35,
+   "rend_medio_pct": -6.32,
    "t": -1.27,
-   "rend40_pct": -19.0,
-   "t40": -2.03
+   "rend40_pct": -19.73,
+   "t40": -2.12
   },
   {
    "id": "84fb9952fb",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will FK Zemun vs. FK Radnicki 1923 Kragujevac end in a draw?",
+   "side": "Y",
+   "entry_price": 0.37,
+   "importo": 20.0,
+   "opened": "2026-11-28T14:18:04"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Manchester United FC win on 2026-11-28?",
@@ -389,14 +397,6 @@
    "opened": "2026-11-27T16:41:36"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.00?",
-   "side": "Y",
-   "entry_price": 0.67,
-   "importo": 20.0,
-   "opened": "2026-11-27T14:12:54"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will PP win the most seats in the 2026 Spanish general election?",
    "side": "Y",
@@ -494,6 +494,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.00?",
+   "side": "Y",
+   "entry_price": 0.67,
+   "exit_price": 0.67,
+   "pnl": 0.0,
+   "closed": "2026-11-28T14:18:03",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
@@ -881,16 +891,6 @@
    "entry_price": 0.5,
    "exit_price": 1.0,
    "pnl": 20.0,
-   "closed": "2026-11-27T23:21:55",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Spread: Broncos (-4.5)",
-   "side": "Y",
-   "entry_price": 0.51,
-   "exit_price": 0.0,
-   "pnl": -20.0,
    "closed": "2026-11-27T23:21:55",
    "motivo": "risoluzione"
   }
