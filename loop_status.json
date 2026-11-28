@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T16:37:01",
+ "generated_at": "2026-11-28T17:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 208,
+   "chiusi": 212,
    "aperti": 15,
-   "pnl": -262.87,
-   "rend_medio_pct": -6.32,
-   "t": -1.27,
-   "rend40_pct": -19.73,
-   "t40": -2.12
+   "pnl": -258.96,
+   "rend_medio_pct": -6.11,
+   "t": -1.24,
+   "rend40_pct": -17.41,
+   "t40": -1.81
   },
   {
    "id": "84fb9952fb",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 74,
+   "chiusi": 75,
    "aperti": 15,
-   "pnl": 67.37,
-   "rend_medio_pct": 4.55,
-   "t": 0.44,
-   "rend40_pct": 12.92,
-   "t40": 1.08
+   "pnl": 47.85,
+   "rend_medio_pct": 3.19,
+   "t": 0.31,
+   "rend40_pct": 7.44,
+   "t40": 0.62
   },
   {
    "id": "a042d572b3",
@@ -74,16 +74,80 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 261,
+   "chiusi": 264,
    "aperti": 15,
-   "pnl": -26.44,
-   "rend_medio_pct": -0.51,
-   "t": -0.07,
-   "rend40_pct": 1.22,
-   "t40": 0.08
+   "pnl": 13.51,
+   "rend_medio_pct": 0.26,
+   "t": 0.04,
+   "rend40_pct": 6.7,
+   "t40": 0.43
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Anthropic announce a Millennium Prize solution by December 31, 2026?",
+   "side": "Y",
+   "entry_price": 0.749,
+   "importo": 20.0,
+   "opened": "2026-11-28T17:06:55"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post 280-299 tweets from November 24 to December 1, 2026?",
+   "side": "Y",
+   "entry_price": 0.22,
+   "importo": 20.0,
+   "opened": "2026-11-28T17:06:55"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.00?",
+   "side": "Y",
+   "entry_price": 0.69,
+   "importo": 20.0,
+   "opened": "2026-11-28T17:06:54"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Real Madrid CF win on 2026-11-28?",
+   "side": "N",
+   "entry_price": 0.15,
+   "importo": 20.0,
+   "opened": "2026-11-28T17:06:54"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Russia military action against an EU country by December 31, 2026?",
+   "side": "Y",
+   "entry_price": 0.275,
+   "importo": 20.0,
+   "opened": "2026-11-28T17:06:54"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Russia military action against an EU country by December 31, 2026?",
+   "side": "N",
+   "entry_price": 0.744,
+   "importo": 20.0,
+   "opened": "2026-11-28T17:06:54"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Club Atlético de Madrid win on 2026-11-28?",
+   "side": "Y",
+   "entry_price": 0.67,
+   "importo": 20.0,
+   "opened": "2026-11-28T16:50:23"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "International League T20: Desert Vipers vs Mi Emirates",
+   "side": "N",
+   "entry_price": 0.257,
+   "importo": 20.0,
+   "opened": "2026-11-28T16:50:23"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will FK Zemun vs. FK Radnicki 1923 Kragujevac end in a draw?",
@@ -91,14 +155,6 @@
    "entry_price": 0.37,
    "importo": 20.0,
    "opened": "2026-11-28T14:18:04"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will Manchester United FC win on 2026-11-28?",
-   "side": "Y",
-   "entry_price": 0.42,
-   "importo": 20.0,
-   "opened": "2026-11-28T11:30:55"
   },
   {
    "rule_id": "a042d572b3",
@@ -253,38 +309,6 @@
    "opened": "2026-11-28T03:34:37"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 28?",
-   "side": "N",
-   "entry_price": 0.53,
-   "importo": 20.0,
-   "opened": "2026-11-28T03:34:37"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Elon Musk post 90-114 tweets from November 26 to November 28, 2026?",
-   "side": "Y",
-   "entry_price": 0.322,
-   "importo": 20.0,
-   "opened": "2026-11-28T03:17:33"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Elon Musk post 65-89 tweets from November 26 to November 28, 2026?",
-   "side": "Y",
-   "entry_price": 0.67,
-   "importo": 20.0,
-   "opened": "2026-11-28T03:17:33"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Elon Musk post 65-89 tweets from November 26 to November 28, 2026?",
-   "side": "Y",
-   "entry_price": 0.65,
-   "importo": 20.0,
-   "opened": "2026-11-28T03:00:28"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will the average Ornn H200 rental price in January 2027 be above $6.50?",
    "side": "Y",
@@ -299,14 +323,6 @@
    "entry_price": 0.58,
    "importo": 20.0,
    "opened": "2026-11-28T03:00:28"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Elon Musk post 90-114 tweets from November 26 to November 28, 2026?",
-   "side": "N",
-   "entry_price": 0.634,
-   "importo": 20.0,
-   "opened": "2026-11-28T02:42:55"
   },
   {
    "rule_id": "a042d572b3",
@@ -358,14 +374,6 @@
   },
   {
    "rule_id": "924891e0f0",
-   "market_nome": "Will the price of Bitcoin be above $60,000 on November 28?",
-   "side": "N",
-   "entry_price": 0.59,
-   "importo": 20.0,
-   "opened": "2026-11-27T17:32:14"
-  },
-  {
-   "rule_id": "924891e0f0",
    "market_nome": "Will the US federal government take a stake in NVIDIA Corporation?",
    "side": "N",
    "entry_price": 0.786,
@@ -387,14 +395,6 @@
    "entry_price": 0.76,
    "importo": 20.0,
    "opened": "2026-11-27T17:15:06"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Counter-Strike: 9INE vs Revise (BO3) - Exort Fiesta Playoffs",
-   "side": "N",
-   "entry_price": 0.5,
-   "importo": 20.0,
-   "opened": "2026-11-27T16:41:36"
   },
   {
    "rule_id": "84fb9952fb",
@@ -494,6 +494,86 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Elon Musk post 65-89 tweets from November 26 to November 28, 2026?",
+   "side": "Y",
+   "entry_price": 0.65,
+   "exit_price": 0.999,
+   "pnl": 10.7384,
+   "closed": "2026-11-28T17:06:54",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post 90-114 tweets from November 26 to November 28, 2026?",
+   "side": "Y",
+   "entry_price": 0.322,
+   "exit_price": 0.01,
+   "pnl": -19.3789,
+   "closed": "2026-11-28T17:06:54",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Elon Musk post 65-89 tweets from November 26 to November 28, 2026?",
+   "side": "Y",
+   "entry_price": 0.67,
+   "exit_price": 0.999,
+   "pnl": 9.8208,
+   "closed": "2026-11-28T17:06:54",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 28?",
+   "side": "N",
+   "entry_price": 0.53,
+   "exit_price": 0.999,
+   "pnl": 17.6981,
+   "closed": "2026-11-28T17:06:54",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the price of Bitcoin be above $60,000 on November 28?",
+   "side": "N",
+   "entry_price": 0.59,
+   "exit_price": 0.999,
+   "pnl": 13.8644,
+   "closed": "2026-11-28T17:06:53",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Elon Musk post 90-114 tweets from November 26 to November 28, 2026?",
+   "side": "N",
+   "entry_price": 0.634,
+   "exit_price": 0.999,
+   "pnl": 11.5142,
+   "closed": "2026-11-28T17:06:53",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Will Manchester United FC win on 2026-11-28?",
+   "side": "Y",
+   "entry_price": 0.42,
+   "exit_price": 0.01,
+   "pnl": -19.5238,
+   "closed": "2026-11-28T16:50:23",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Counter-Strike: 9INE vs Revise (BO3) - Exort Fiesta Playoffs",
+   "side": "N",
+   "entry_price": 0.5,
+   "exit_price": 0.49,
+   "pnl": -0.4,
+   "closed": "2026-11-28T16:50:22",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.00?",
@@ -813,86 +893,6 @@
    "pnl": 27.5714,
    "closed": "2026-11-28T03:00:27",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will it be confirmed that a software or configuration error caused the FAA's nationwide ground stop on November 13?",
-   "side": "Y",
-   "entry_price": 0.272,
-   "exit_price": 0.206,
-   "pnl": -4.8529,
-   "closed": "2026-11-28T03:00:26",
-   "motivo": "uscita a tempo 24h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Heat vs. Knicks",
-   "side": "N",
-   "entry_price": 0.62,
-   "exit_price": 0.01,
-   "pnl": -19.6774,
-   "closed": "2026-11-28T03:00:26",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Bucks vs. Pistons",
-   "side": "Y",
-   "entry_price": 0.22,
-   "exit_price": 0.002,
-   "pnl": -19.8182,
-   "closed": "2026-11-28T02:42:54",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "76ers vs. Pacers",
-   "side": "Y",
-   "entry_price": 0.62,
-   "exit_price": 0.999,
-   "pnl": 12.2258,
-   "closed": "2026-11-28T02:42:53",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "76ers vs. Pacers",
-   "side": "Y",
-   "entry_price": 0.6,
-   "exit_price": 0.999,
-   "pnl": 13.3,
-   "closed": "2026-11-28T02:42:52",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Nets vs. Raptors",
-   "side": "Y",
-   "entry_price": 0.25,
-   "exit_price": 0.003,
-   "pnl": -19.76,
-   "closed": "2026-11-28T02:42:52",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.70?",
-   "side": "Y",
-   "entry_price": 0.74,
-   "exit_price": 0.75,
-   "pnl": 0.2703,
-   "closed": "2026-11-28T02:25:59",
-   "motivo": "uscita a tempo 72h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Spread: Broncos (-4.5)",
-   "side": "N",
-   "entry_price": 0.5,
-   "exit_price": 1.0,
-   "pnl": 20.0,
-   "closed": "2026-11-27T23:21:55",
-   "motivo": "risoluzione"
   }
  ]
 }
