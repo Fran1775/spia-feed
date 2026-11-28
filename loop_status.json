@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T10:07:01",
+ "generated_at": "2026-11-28T10:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 217,
-   "aperti": 9,
-   "pnl": -84.42,
-   "rend_medio_pct": -1.95,
-   "t": -0.72,
-   "rend40_pct": -2.77,
-   "t40": -0.43
+   "chiusi": 218,
+   "aperti": 8,
+   "pnl": -80.07,
+   "rend_medio_pct": -1.84,
+   "t": -0.68,
+   "rend40_pct": -2.6,
+   "t40": -0.4
   },
   {
    "id": "924891e0f0",
@@ -438,14 +438,6 @@
   },
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Will Lai Jui-lung win the next Kaohsiung Mayor election?",
-   "side": "Y",
-   "entry_price": 0.81,
-   "importo": 20.0,
-   "opened": "2026-11-26T18:40:42"
-  },
-  {
-   "rule_id": "2a906fe26e",
    "market_nome": "Will Chen Ting-fei win the next Tainan Mayor election?",
    "side": "Y",
    "entry_price": 0.923,
@@ -518,6 +510,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Lai Jui-lung win the next Kaohsiung Mayor election?",
+   "side": "Y",
+   "entry_price": 0.81,
+   "exit_price": 0.986,
+   "pnl": 4.3457,
+   "closed": "2026-11-28T10:22:54",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "2a906fe26e",
    "market_nome": "Will Chang San-cheng win the next Taoyuan Mayor election?",
@@ -905,16 +907,6 @@
    "entry_price": 0.14,
    "exit_price": 0.23,
    "pnl": 12.8571,
-   "closed": "2026-11-27T21:59:21",
-   "motivo": "uscita a tempo 72h"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.20?",
-   "side": "Y",
-   "entry_price": 0.42,
-   "exit_price": 0.56,
-   "pnl": 6.6666,
    "closed": "2026-11-27T21:59:21",
    "motivo": "uscita a tempo 72h"
   }
