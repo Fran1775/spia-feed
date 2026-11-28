@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T02:07:01",
+ "generated_at": "2026-11-28T02:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -56,13 +56,13 @@
     "pmax": 0.9,
     "pmin": 0.1
    },
-   "chiusi": 65,
+   "chiusi": 66,
    "aperti": 15,
-   "pnl": -70.51,
-   "rend_medio_pct": -5.42,
+   "pnl": -70.24,
+   "rend_medio_pct": -5.32,
    "t": -0.51,
-   "rend40_pct": -8.65,
-   "t40": -0.79
+   "rend40_pct": -11.01,
+   "t40": -1.04
   },
   {
    "id": "a042d572b3",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "84fb9952fb",
+   "market_nome": "Pelicans vs. Clippers",
+   "side": "Y",
+   "entry_price": 0.48,
+   "importo": 20.0,
+   "opened": "2026-11-28T02:26:02"
+  },
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.60?",
@@ -515,17 +523,19 @@
    "entry_price": 0.83,
    "importo": 20.0,
    "opened": "2026-11-25T05:02:40"
-  },
+  }
+ ],
+ "ultime_chiuse": [
   {
    "rule_id": "84fb9952fb",
    "market_nome": "Will the average Ornn H100 rental price in January 2027 be above $2.70?",
    "side": "Y",
    "entry_price": 0.74,
-   "importo": 20.0,
-   "opened": "2026-11-25T02:17:30"
-  }
- ],
- "ultime_chiuse": [
+   "exit_price": 0.75,
+   "pnl": 0.2703,
+   "closed": "2026-11-28T02:25:59",
+   "motivo": "uscita a tempo 72h"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Spread: Broncos (-4.5)",
@@ -915,16 +925,6 @@
    "pnl": 1.8743,
    "closed": "2026-11-27T06:21:33",
    "motivo": "uscita a tempo 72h"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
-   "side": "N",
-   "entry_price": 0.71,
-   "exit_price": 0.6,
-   "pnl": -3.0986,
-   "closed": "2026-11-27T06:04:19",
-   "motivo": "uscita a tempo 24h"
   }
  ]
 }
