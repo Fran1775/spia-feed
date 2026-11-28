@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T05:37:01",
+ "generated_at": "2026-11-28T06:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 201,
+   "chiusi": 202,
    "aperti": 15,
-   "pnl": -218.28,
+   "pnl": -219.33,
    "rend_medio_pct": -5.43,
-   "t": -1.06,
-   "rend40_pct": -19.13,
-   "t40": -2.01
+   "t": -1.07,
+   "rend40_pct": -18.48,
+   "t40": -1.94
   },
   {
    "id": "84fb9952fb",
@@ -84,6 +84,14 @@
   }
  ],
  "aperte": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Seahawks vs. 49ers",
+   "side": "Y",
+   "entry_price": 0.53,
+   "importo": 20.0,
+   "opened": "2026-11-28T05:53:23"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.20?",
@@ -389,14 +397,6 @@
    "opened": "2026-11-27T06:04:19"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn B200 rental price in February 2027 be above $8.00?",
-   "side": "Y",
-   "entry_price": 0.76,
-   "importo": 20.0,
-   "opened": "2026-11-27T05:47:14"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will Chiang Wan-an win the next Taipei Mayor election?",
    "side": "Y",
@@ -526,6 +526,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn B200 rental price in February 2027 be above $8.00?",
+   "side": "Y",
+   "entry_price": 0.76,
+   "exit_price": 0.72,
+   "pnl": -1.0526,
+   "closed": "2026-11-28T05:53:22",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Warriors vs. Trail Blazers: O/U 217.5",
@@ -913,16 +923,6 @@
    "entry_price": 0.71,
    "exit_price": 1.0,
    "pnl": 8.169,
-   "closed": "2026-11-27T17:15:05",
-   "motivo": "risoluzione"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Bitcoin Up or Down on November 27?",
-   "side": "Y",
-   "entry_price": 0.32,
-   "exit_price": 0.0,
-   "pnl": -20.0,
    "closed": "2026-11-27T17:15:05",
    "motivo": "risoluzione"
   }
