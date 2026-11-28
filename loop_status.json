@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T08:37:01",
+ "generated_at": "2026-11-28T09:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -14,13 +14,13 @@
     "pmax": 0.95,
     "pmin": 0.8
    },
-   "chiusi": 216,
-   "aperti": 10,
-   "pnl": -85.54,
-   "rend_medio_pct": -1.98,
-   "t": -0.73,
-   "rend40_pct": -2.73,
-   "t40": -0.42
+   "chiusi": 217,
+   "aperti": 9,
+   "pnl": -84.42,
+   "rend_medio_pct": -1.95,
+   "t": -0.72,
+   "rend40_pct": -2.77,
+   "t40": -0.43
   },
   {
    "id": "924891e0f0",
@@ -510,14 +510,6 @@
   },
   {
    "rule_id": "2a906fe26e",
-   "market_nome": "Will Chang San-cheng win the next Taoyuan Mayor election?",
-   "side": "Y",
-   "entry_price": 0.93,
-   "importo": 20.0,
-   "opened": "2026-11-25T20:17:29"
-  },
-  {
-   "rule_id": "2a906fe26e",
    "market_nome": "Will Johnny Chiang win the next Taichung Mayor election?",
    "side": "Y",
    "entry_price": 0.83,
@@ -526,6 +518,16 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "2a906fe26e",
+   "market_nome": "Will Chang San-cheng win the next Taoyuan Mayor election?",
+   "side": "Y",
+   "entry_price": 0.93,
+   "exit_price": 0.982,
+   "pnl": 1.1183,
+   "closed": "2026-11-28T08:59:31",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will the average Ornn H200 rental price in February 2027 be above $7.00?",
@@ -913,16 +915,6 @@
    "entry_price": 0.42,
    "exit_price": 0.56,
    "pnl": 6.6666,
-   "closed": "2026-11-27T21:59:21",
-   "motivo": "uscita a tempo 72h"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Will the average Ornn B300 rental price in January 2027 be above $11.00?",
-   "side": "Y",
-   "entry_price": 0.61,
-   "exit_price": 0.57,
-   "pnl": -1.3115,
    "closed": "2026-11-27T21:59:21",
    "motivo": "uscita a tempo 72h"
   }
