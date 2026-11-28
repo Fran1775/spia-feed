@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T07:07:01",
+ "generated_at": "2026-11-28T07:37:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 205,
+   "chiusi": 207,
    "aperti": 15,
-   "pnl": -239.18,
-   "rend_medio_pct": -5.83,
-   "t": -1.16,
-   "rend40_pct": -15.3,
-   "t40": -1.65
+   "pnl": -262.87,
+   "rend_medio_pct": -6.35,
+   "t": -1.27,
+   "rend40_pct": -19.0,
+   "t40": -2.03
   },
   {
    "id": "84fb9952fb",
@@ -74,31 +74,39 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 259,
+   "chiusi": 260,
    "aperti": 15,
-   "pnl": 13.08,
-   "rend_medio_pct": 0.25,
-   "t": 0.04,
-   "rend40_pct": 13.11,
-   "t40": 0.81
+   "pnl": -6.52,
+   "rend_medio_pct": -0.13,
+   "t": -0.02,
+   "rend40_pct": 9.86,
+   "t40": 0.6
   }
  ],
  "aperte": [
   {
    "rule_id": "924891e0f0",
-   "market_nome": "Yokohama: Naoya Honda vs Hayato Matsuoka",
+   "market_nome": "Will the average Ornn H200 rental price in December 2026 be above $6.50?",
    "side": "Y",
-   "entry_price": 0.49,
+   "entry_price": 0.61,
    "importo": 20.0,
-   "opened": "2026-11-28T07:01:36"
+   "opened": "2026-11-28T07:35:18"
   },
   {
    "rule_id": "a042d572b3",
-   "market_nome": "Yokohama: Naoya Honda vs Hayato Matsuoka",
-   "side": "Y",
-   "entry_price": 0.49,
+   "market_nome": "Will the average Ornn B200 rental price in December 2026 be above $9.20?",
+   "side": "N",
+   "entry_price": 0.39,
    "importo": 20.0,
-   "opened": "2026-11-28T07:01:36"
+   "opened": "2026-11-28T07:18:30"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Kuomintang (KMT) win the most head of local government elections in the 2026 Taiwan local elections?",
+   "side": "Y",
+   "entry_price": 0.82,
+   "importo": 20.0,
+   "opened": "2026-11-28T07:18:30"
   },
   {
    "rule_id": "a042d572b3",
@@ -381,14 +389,6 @@
    "opened": "2026-11-27T08:03:15"
   },
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will the average Ornn H200 rental price in February 2027 be above $7.00?",
-   "side": "Y",
-   "entry_price": 0.44,
-   "importo": 20.0,
-   "opened": "2026-11-27T07:29:27"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will AI solve P versus NP in 2026?",
    "side": "Y",
@@ -526,6 +526,36 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will the average Ornn H200 rental price in February 2027 be above $7.00?",
+   "side": "Y",
+   "entry_price": 0.44,
+   "exit_price": 0.35,
+   "pnl": -4.0909,
+   "closed": "2026-11-28T07:35:17",
+   "motivo": "uscita a tempo 24h"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Yokohama: Naoya Honda vs Hayato Matsuoka",
+   "side": "Y",
+   "entry_price": 0.49,
+   "exit_price": 0.01,
+   "pnl": -19.5918,
+   "closed": "2026-11-28T07:18:30",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Yokohama: Naoya Honda vs Hayato Matsuoka",
+   "side": "Y",
+   "entry_price": 0.49,
+   "exit_price": 0.01,
+   "pnl": -19.5918,
+   "closed": "2026-11-28T07:18:30",
+   "motivo": "prezzo a fine corsa"
+  },
   {
    "rule_id": "a042d572b3",
    "market_nome": "Will PSOE win the most seats in the 2026 Spanish general election?",
@@ -894,36 +924,6 @@
    "exit_price": 0.57,
    "pnl": -1.3115,
    "closed": "2026-11-27T21:59:21",
-   "motivo": "uscita a tempo 72h"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Elon Musk post <40 tweets from November 26 to November 28, 2026?",
-   "side": "N",
-   "entry_price": 0.741,
-   "exit_price": 0.985,
-   "pnl": 6.5857,
-   "closed": "2026-11-27T21:10:30",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "924891e0f0",
-   "market_nome": "Will Elon Musk post <40 tweets from November 26 to November 28, 2026?",
-   "side": "Y",
-   "entry_price": 0.25,
-   "exit_price": 0.01,
-   "pnl": -19.2,
-   "closed": "2026-11-27T21:10:29",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "84fb9952fb",
-   "market_nome": "Jensen Huang announced resignation or removal again by December 31, 2027?",
-   "side": "Y",
-   "entry_price": 0.29,
-   "exit_price": 0.35,
-   "pnl": 4.1379,
-   "closed": "2026-11-27T21:10:28",
    "motivo": "uscita a tempo 72h"
   }
  ]
