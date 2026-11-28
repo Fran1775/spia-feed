@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T17:37:01",
+ "generated_at": "2026-11-28T18:07:01",
  "regole": [
   {
    "id": "2a906fe26e",
@@ -35,13 +35,13 @@
     "pmax": 0.8,
     "pmin": 0.2
    },
-   "chiusi": 216,
+   "chiusi": 217,
    "aperti": 15,
-   "pnl": -262.78,
-   "rend_medio_pct": -6.08,
-   "t": -1.26,
-   "rend40_pct": -12.48,
-   "t40": -1.35
+   "pnl": -257.98,
+   "rend_medio_pct": -5.94,
+   "t": -1.23,
+   "rend40_pct": -11.38,
+   "t40": -1.23
   },
   {
    "id": "84fb9952fb",
@@ -74,23 +74,31 @@
     "dir": "RANDOM",
     "exit_h": 24
    },
-   "chiusi": 264,
+   "chiusi": 265,
    "aperti": 15,
-   "pnl": 13.51,
-   "rend_medio_pct": 0.26,
-   "t": 0.04,
-   "rend40_pct": 6.7,
-   "t40": 0.43
+   "pnl": 10.6,
+   "rend_medio_pct": 0.2,
+   "t": 0.03,
+   "rend40_pct": 6.64,
+   "t40": 0.42
   }
  ],
  "aperte": [
   {
-   "rule_id": "924891e0f0",
-   "market_nome": "Counter-Strike: Hype Tech vs BakS eSports (BO3) - CCT Europe Series #15 Group Stage",
+   "rule_id": "a042d572b3",
+   "market_nome": "Will the average Ornn H200 rental price in December 2026 be above $6.25?",
    "side": "Y",
-   "entry_price": 0.75,
+   "entry_price": 0.68,
    "importo": 20.0,
-   "opened": "2026-11-28T17:24:27"
+   "opened": "2026-11-28T17:42:16"
+  },
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Will Labor win the second-most seats in the next Victorian state election?",
+   "side": "N",
+   "entry_price": 0.22,
+   "importo": 20.0,
+   "opened": "2026-11-28T17:42:16"
   },
   {
    "rule_id": "924891e0f0",
@@ -389,14 +397,6 @@
    "opened": "2026-11-27T21:59:23"
   },
   {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will Anthropic's valuation hit (LOW) $800B by December 31?",
-   "side": "Y",
-   "entry_price": 0.199,
-   "importo": 20.0,
-   "opened": "2026-11-27T17:32:14"
-  },
-  {
    "rule_id": "84fb9952fb",
    "market_nome": "Will PP win the most seats in the 2026 Spanish general election?",
    "side": "Y",
@@ -494,6 +494,26 @@
   }
  ],
  "ultime_chiuse": [
+  {
+   "rule_id": "924891e0f0",
+   "market_nome": "Counter-Strike: Hype Tech vs BakS eSports (BO3) - CCT Europe Series #15 Group Stage",
+   "side": "Y",
+   "entry_price": 0.75,
+   "exit_price": 0.93,
+   "pnl": 4.8,
+   "closed": "2026-11-28T17:42:16",
+   "motivo": "prezzo a fine corsa"
+  },
+  {
+   "rule_id": "a042d572b3",
+   "market_nome": "Will Anthropic's valuation hit (LOW) $800B by December 31?",
+   "side": "Y",
+   "entry_price": 0.199,
+   "exit_price": 0.17,
+   "pnl": -2.9146,
+   "closed": "2026-11-28T17:42:15",
+   "motivo": "uscita a tempo 24h"
+  },
   {
    "rule_id": "924891e0f0",
    "market_nome": "Will Kuomintang (KMT) win the most head of local government elections in the 2026 Taiwan local elections?",
@@ -873,26 +893,6 @@
    "pnl": 27.1904,
    "closed": "2026-11-28T03:34:37",
    "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Hawks vs. Celtics",
-   "side": "Y",
-   "entry_price": 0.24,
-   "exit_price": 0.999,
-   "pnl": 63.25,
-   "closed": "2026-11-28T03:34:37",
-   "motivo": "prezzo a fine corsa"
-  },
-  {
-   "rule_id": "a042d572b3",
-   "market_nome": "Will AI solve P versus NP in 2026?",
-   "side": "N",
-   "entry_price": 0.849,
-   "exit_price": 0.896,
-   "pnl": 1.1072,
-   "closed": "2026-11-28T03:34:35",
-   "motivo": "uscita a tempo 24h"
   }
  ]
 }
